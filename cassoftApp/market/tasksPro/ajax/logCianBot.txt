@@ -1,0 +1,82 @@
+---------------------09.02.2025MSK08:59:36
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [event_handler_id] => 478
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [42] => Array
+                        (
+                            [access_token] => 5752a86700579b0e0074c1240000002a00000666333f7b0d8183f80e7ff1b327e103e0
+                            [expires] => 1739084375
+                            [expires_in] => 3600
+                            [scope] => crm,im,entity,user,user_basic,user_brief,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement
+                            [domain] => app-cassoft.bitrix24.ru
+                            [server_endpoint] => https://oauth.bitrix.info/rest/
+                            [status] => S
+                            [client_endpoint] => https://app-cassoft.bitrix24.ru/rest/
+                            [member_id] => b52a9e034640cdbe192eb721d7288263
+                            [refresh_token] => 47d1cf6700579b0e0074c1240000002a000006716cc7984b1a7266650341e811ee3c39
+                            [user_id] => 42
+                            [client_id] => app.616595d1cff610.42982307
+                            [application_token] => dc2c967827f08ef08cacb34dd3a610d6
+                            [AUTH] => Array
+                                (
+                                    [access_token] => 5752a86700579b0e0074c1240000002a00000666333f7b0d8183f80e7ff1b327e103e0
+                                    [expires] => 1739084375
+                                    [expires_in] => 3600
+                                    [scope] => crm,im,entity,user,user_basic,user_brief,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement
+                                    [domain] => app-cassoft.bitrix24.ru
+                                    [server_endpoint] => https://oauth.bitrix.info/rest/
+                                    [status] => S
+                                    [client_endpoint] => https://app-cassoft.bitrix24.ru/rest/
+                                    [member_id] => b52a9e034640cdbe192eb721d7288263
+                                    [refresh_token] => 47d1cf6700579b0e0074c1240000002a000006716cc7984b1a7266650341e811ee3c39
+                                    [user_id] => 42
+                                    [client_id] => app.616595d1cff610.42982307
+                                    [application_token] => dc2c967827f08ef08cacb34dd3a610d6
+                                )
+
+                            [BOT_ID] => 42
+                            [BOT_CODE] => cs_mcm_bot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => L
+                    [MESSAGE_TYPE] => L
+                    [BOT_ID] => 42
+                    [USER_ID] => 0
+                    [CHAT_ID] => 178
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => cs_mcm_whatsapp|2|120363174774587792@g.us|172
+                    [ACCESS_HISTORY] => 1
+                    [DIALOG_ID] => chat178
+                    [LANGUAGE] => ru
+                )
+
+        )
+
+    [ts] => 1739080775
+    [auth] => Array
+        (
+            [access_token] => 5852a86700579b0e0074c1240000000c0000067e419d4e2786a361cfb0d311ed9d92c5
+            [expires] => 1739084376
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,user_brief,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement
+            [domain] => app-cassoft.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => S
+            [client_endpoint] => https://app-cassoft.bitrix24.ru/rest/
+            [member_id] => b52a9e034640cdbe192eb721d7288263
+            [user_id] => 12
+            [application_token] => dc2c967827f08ef08cacb34dd3a610d6
+        )
+
+)
+

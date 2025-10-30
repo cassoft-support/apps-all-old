@@ -1,0 +1,22 @@
+---------------------26.05.2025MSK12:50:25
+Array
+(
+    [DOMAIN] => kvartiry-24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a6fa27961791b57f8747a088dfa760c6
+    [AUTH_ID] => 7047346800543a2800634af000000001100e070e4380a9bcc0426207e5048c3ed1a32e
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 60c65b6800543a2800634af000000001100e0766d5a47a94d174b920e6dd0bfeb7c639
+    [member_id] => 505af064a2fd8db93ec9ceaaef1b6844
+    [status] => S
+    [PLACEMENT] => SETTING_CONNECTOR
+    [PLACEMENT_OPTIONS] => {"CONNECTOR":"cs_domclick_connector","LINE":"28","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+)
+
+rest
+Array
+(
+    [ID] => 63
+)
+

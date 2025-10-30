@@ -1,0 +1,56 @@
+---------------------04.02.2025MSK18:32:03
+Array
+(
+    [ID] => 106
+    [POST] => 
+    [COMMENTS] => 
+    [HONORIFIC] => 
+    [NAME] => АННА
+    [SECOND_NAME] => 
+    [LAST_NAME] => 
+    [PHOTO] => 
+    [LEAD_ID] => 
+    [TYPE_ID] => 
+    [SOURCE_ID] => 
+    [SOURCE_DESCRIPTION] => 
+    [COMPANY_ID] => 4
+    [BIRTHDATE] => 
+    [EXPORT] => N
+    [HAS_PHONE] => Y
+    [HAS_EMAIL] => N
+    [HAS_IMOL] => N
+    [DATE_CREATE] => 2024-06-05T15:31:53+03:00
+    [DATE_MODIFY] => 2025-02-04T18:30:38+03:00
+    [ASSIGNED_BY_ID] => 1
+    [CREATED_BY_ID] => 102
+    [MODIFY_BY_ID] => 8
+    [OPENED] => Y
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [ORIGIN_VERSION] => 
+    [FACE_ID] => 
+    [LAST_ACTIVITY_TIME] => 2024-06-05T15:31:53+03:00
+    [ADDRESS] => 
+    [ADDRESS_2] => 
+    [ADDRESS_CITY] => 
+    [ADDRESS_POSTAL_CODE] => 
+    [ADDRESS_REGION] => 
+    [ADDRESS_PROVINCE] => 
+    [ADDRESS_COUNTRY] => 
+    [ADDRESS_LOC_ADDR_ID] => 
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [PARENT_ID_148] => 
+    [PARENT_ID_156] => 
+    [PARENT_ID_161] => 
+    [PARENT_ID_162] => 
+    [PARENT_ID_163] => 
+    [PARENT_ID_164] => 
+    [PARENT_ID_165] => 
+    [PARENT_ID_188] => 
+    [LAST_ACTIVITY_BY] => 102
+)
+

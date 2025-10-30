@@ -1,0 +1,1003 @@
+params
+Array
+(
+    [ID] => 4551
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Just4fun4ik
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 4551
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 349582373
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 4549
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Ilfat_Gilmiev
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 4191
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 1371689211
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 4643
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => sibgrom
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 4549
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 439018417
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 4545
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => akos269
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 4643
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 117759057
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 4545
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 491153661
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 4539
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 373055708
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 4921
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Sakharov_Denis
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 4923
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Sakharov_Denis
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 4919
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Sakharov_Denis
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 4645
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => sibgrom
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 4921
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 279878330
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 4919
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 279878330
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 4923
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 279878330
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 4645
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 117759057
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 4939
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 7630620505
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 4925
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Sakharov_Denis
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 4925
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 279878330
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5183
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 5240953221
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5023
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 1705014173
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5141
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => obect_rielts
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5141
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 8481136670
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5191
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => aleksandr78ru
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5191
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 5077452864
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5375
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Aendorian
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5375
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 291703842
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5253
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 851166085
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5257
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => ADev82
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5205
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 1016039060
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5321
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Denis007pdm
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5239
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 1079665274
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5257
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 1337797358
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5321
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 956526194
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5213
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => georgiygp
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5373
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Aendorian
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5399
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 470615189
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5233
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => JETMOTO
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5213
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 131911939
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5373
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 291703842
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5233
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 1857331130
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5411
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => ivan28078
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5441
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Alex_Kobets
+        )
+
+)
+
+params
+Array
+(
+    [ID] => 5413
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => ivan28078
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5411
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 1965064735
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5441
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 981625760
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5413
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 1965064735
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 2079
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => den_hey
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5801
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => pavelmir79
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5801
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 417406092
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5813
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 1825488897
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5833
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Valentin_9K
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5833
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 937109718
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5835
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Valentin_9K
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 5835
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 937109718
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 6115
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => Konstantinassenizator
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+
+params
+Array
+(
+    [ID] => 6115
+    [fields] => Array
+        (
+            [UF_CRM_CS_TG_ID_USER] => 1212681422
+        )
+
+)
+
+arLeadUp
+Array
+(
+    [0] => 1
+)
+

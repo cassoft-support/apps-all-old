@@ -1,0 +1,18 @@
+---------------------30.10.2025MSK10:32:00
+start
+REQUEST
+Array
+(
+    [DOMAIN] => ecoferma56.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e7f1e1acfcc843c3ef05247b72faee98
+    [AUTH_ID] => 7f2203690052d240002bb6900000014c201c078fea5cfd0d0358725f130abcaee59b78
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6fa12a690052d240002bb6900000014c201c079be8df0bf95217e108e5b4c09029d8ec
+    [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [status] => S
+    [PLACEMENT] => TASK_VIEW_TAB
+    [PLACEMENT_OPTIONS] => {"taskId":"13798"}
+)
+

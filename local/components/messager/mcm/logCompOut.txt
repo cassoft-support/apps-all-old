@@ -1,0 +1,121 @@
+---------------------30.10.2025MSK10:44:31
+Array
+(
+    [event] => ONIMCONNECTORMESSAGEADD
+    [event_handler_id] => 423
+    [data] => Array
+        (
+            [CONNECTOR] => cs_mcm_telegram
+            [LINE] => 7
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 6441
+                                    [message_id] => 310681
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 0
+                                    [text] => Здравствуйте!
+Напишите, пожалуйста, ваш номер телефона — наш специалист свяжется с вами, и расскажет по этапам как проходит заказ авто и поможет подобрать варианты, которые подойдут именно вам.
+                                    [params] => Array
+                                        (
+                                            [CLASS] => bx-messenger-content-item-ol-output
+                                        )
+
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 514194013
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [ts] => 1761810269
+    [auth] => Array
+        (
+            [access_token] => 6f25036900579b0e0073d9ee0000000b000006944e7ef6804a8eed192c60bf630272e9
+            [expires] => 1761813871
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement,rpa,mobile,disk,userfieldconfig,contact_center,bizproc
+            [domain] => alexstar.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://alexstar.bitrix24.ru/rest/
+            [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+            [user_id] => 11
+            [application_token] => 75ca58874364553808e2cf1c55d86a27
+        )
+
+    [app] => mcm
+    [tempList] => sendOut
+    [CACHE_TYPE] => A
+    [~event] => ONIMCONNECTORMESSAGEADD
+    [~event_handler_id] => 423
+    [~data] => Array
+        (
+            [CONNECTOR] => cs_mcm_telegram
+            [LINE] => 7
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 6441
+                                    [message_id] => 310681
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 0
+                                    [text] => Здравствуйте!
+Напишите, пожалуйста, ваш номер телефона — наш специалист свяжется с вами, и расскажет по этапам как проходит заказ авто и поможет подобрать варианты, которые подойдут именно вам.
+                                    [params] => Array
+                                        (
+                                            [CLASS] => bx-messenger-content-item-ol-output
+                                        )
+
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 514194013
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [~ts] => 1761810269
+    [~auth] => Array
+        (
+            [access_token] => 6f25036900579b0e0073d9ee0000000b000006944e7ef6804a8eed192c60bf630272e9
+            [expires] => 1761813871
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement,rpa,mobile,disk,userfieldconfig,contact_center,bizproc
+            [domain] => alexstar.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://alexstar.bitrix24.ru/rest/
+            [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+            [user_id] => 11
+            [application_token] => 75ca58874364553808e2cf1c55d86a27
+        )
+
+    [~app] => mcm
+    [~tempList] => sendOut
+    [~CACHE_TYPE] => A
+)
+

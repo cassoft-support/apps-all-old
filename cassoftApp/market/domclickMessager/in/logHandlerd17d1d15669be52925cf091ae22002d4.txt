@@ -1,0 +1,84 @@
+---------------------30.10.2025MSK05:10:16
+Array
+(
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chat_id] => 6902bc6210f5ef00017fefb1
+                    [agent_id] => 3886668
+                    [offer_id] => 2068365609
+                )
+
+        )
+
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6902c9082081cb00019d52dd
+                    [message] => Окончательная цена объекта 6.550.000 согласована
+                    [time] => 1761790216641
+                    [user_id] => 3886668
+                    [chat_id] => 6902bc6210f5ef00017fefb1
+                    [message_type] => message
+                    [system_message_action] => 
+                    [read_by] => 
+                    [source] => ui
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 3886668
+                    [display_name] => Анна Михайловская
+                    [roles] => Array
+                        (
+                            [0] => SELLER
+                        )
+
+                    [role_description] => Продавец
+                )
+
+            [1] => Array
+                (
+                    [user_id] => 23361476
+                    [display_name] => Евпак Евгений Андреевич
+                    [roles] => Array
+                        (
+                            [0] => BUYER
+                        )
+
+                    [role_description] => Покупатель
+                )
+
+        )
+
+    [offers] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2068365609
+                    [external_id] => 2206
+                    [title] => 1-комн. кв., 39.6 м², 4/9 этаж
+                    [address] => Россия, Южно-Сахалинск, 14-й м-н, улица Емельянова, 1/1
+                    [url] => https://domclick.ru/card/sale__flat__2068365609
+                    [img_url] => https://img.dmclk.ru/c100x100/vitrina/5e/19/5e1909104334f3e0113ae07f85b8090cc3b2e992.jpg
+                    [price] => 6900000
+                )
+
+        )
+
+)
+
+memberId
+d17d1d15669be52925cf091ae22002d4
+rest
+Array
+(
+    [ID] => 33
+)
+

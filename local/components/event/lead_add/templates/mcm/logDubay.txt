@@ -1,0 +1,2418 @@
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 898
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760623125
+            [text] => Создан новый лид - Заявка Ömer Samurcu
+ Имя: Ömer Samurcu
+ тел: 905323800065
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Комментарий: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 38
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146550/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 45
+                            [length] => 12
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 899
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760649431
+            [text] => Создан новый лид - Заявка TB
+ Имя: TB
+ тел: 381628769025
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Комментарий: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 28
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146566/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 35
+                            [length] => 2
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 900
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760688078
+            [text] => Создан новый лид - Заявка Nikolay
+ Имя: Nikolay
+ тел: 79773374725
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | RU | Дубай | Beach Walk | Banner
+Комментарий: Потребности - DS | RU | Дубай | Beach Walk | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Русский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 33
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146574/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 40
+                            [length] => 7
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 901
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760741400
+            [text] => Создан новый лид - Заявка NUMAN GÜLENAY
+ Имя: NUMAN GÜLENAY
+ тел: 905056977385
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Комментарий: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 40
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146620/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 47
+                            [length] => 14
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 902
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760768884
+            [text] => Создан новый лид - Заявка Halime Berisha
+ Имя: Halime Berisha
+ тел: 37745209957
+Мессенджер: Viber
+Пожелания: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Комментарий: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 40
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146626/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 47
+                            [length] => 14
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 903
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760779098
+            [text] => Создан новый лид - Заявка Domy Domy
+ Имя: Domy Domy
+ тел: 393926572260
+Мессенджер: Telegram
+Пожелания: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Комментарий: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 35
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146638/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 42
+                            [length] => 9
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 904
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760781558
+            [text] => Создан новый лид - Заявка Abdul Razaq Abdul Razaq
+ Имя: Abdul Razaq Abdul Razaq
+ тел: 966582637940
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Dubai | Frank Muller | Banner
+Комментарий: Потребности - DS | AR | Dubai | Frank Muller | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 49
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146644/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 56
+                            [length] => 23
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 905
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760818830
+            [text] => Создан новый лид - Заявка Ekrem Doğan
+ Имя: Ekrem Doğan
+ тел: 905303433521
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | RU | Дубай | Каталог | Banner
+Комментарий: Потребности - DS | RU | Дубай | Каталог | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Русский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 37
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146674/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 44
+                            [length] => 11
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 906
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760851457
+            [text] => Создан новый лид - Заявка Mile Donov
+ Имя: Mile Donov
+ тел: 38975488048
+Мессенджер: Viber
+Пожелания: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Комментарий: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 36
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146684/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 43
+                            [length] => 10
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 907
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760851458
+            [text] => Создан новый лид - Заявка Hüseyin Batı
+ Имя: Hüseyin Batı
+ тел: 905555506725
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Комментарий: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 38
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146686/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 45
+                            [length] => 12
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 908
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760861676
+            [text] => Создан новый лид - Заявка Begüm Turunç Ürün
+ Имя: Begüm Turunç Ürün
+ тел: 905496099609
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Комментарий: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 47
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146693/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 54
+                            [length] => 21
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 909
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760867994
+            [text] => Создан новый лид - Заявка Yusuf Emrah Akça
+ Имя: Yusuf Emrah Akça
+ тел: 905413464311
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Комментарий: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 42
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146701/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 49
+                            [length] => 16
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 910
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760869453
+            [text] => Создан новый лид - Заявка HABİBE ÖZEN
+ Имя: HABİBE ÖZEN
+ тел: 905058015021
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Комментарий: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 37
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146703/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 44
+                            [length] => 11
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 911
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760877239
+            [text] => Создан новый лид - Заявка Sana Sollom
+ Имя: Sana Sollom
+ тел: 249117829911
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Dubai | Mansory | Banner
+Комментарий: Потребности - DS | TR | Dubai | Mansory | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 37
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146706/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 44
+                            [length] => 11
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 912
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760889662
+            [text] => Создан новый лид - Заявка Tigran
+ Имя: Tigran
+ тел: 381628329324
+Мессенджер: Viber
+Пожелания: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Комментарий: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 32
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146714/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 39
+                            [length] => 6
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 913
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760901626
+            [text] => Создан новый лид - Заявка Fikret
+ Имя: Fikret
+ тел: 905352622279
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Комментарий: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 32
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146722/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 39
+                            [length] => 6
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 914
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760922306
+            [text] => Создан новый лид - Заявка Istiklal Atamer
+ Имя: Istiklal Atamer
+ тел: 905015382703
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Ayamore | Banner
+Комментарий: Потребности - DS | TR | Дубай | Ayamore | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 41
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146728/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 48
+                            [length] => 15
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 915
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1760983687
+            [text] => Создан новый лид - Заявка Aleksandar Georgiev ()
+ Имя: Aleksandar Georgiev
+ тел: 359877262034
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Комментарий: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 48
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146762/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 55
+                            [length] => 19
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 916
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761022130
+            [text] => Создан новый лид - Заявка أسامة جابر ()
+ Имя: أسامة جابر
+ тел: 905528932653
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Dubai | Mansory | Banner
+Комментарий: Потребности - DS | TR | Dubai | Mansory | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 39
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146776/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 46
+                            [length] => 10
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 917
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761023351
+            [text] => Создан новый лид - Заявка Tatjana ()
+ Имя: Tatjana
+ тел: 38668638493
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Комментарий: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 36
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146778/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 43
+                            [length] => 7
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 918
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761025550
+            [text] => Создан новый лид - Заявка Özlem cowdurka ()
+ Имя: Özlem cowdurka
+ тел: 905363116027
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Ayamore | Banner
+Комментарий: Потребности - DS | TR | Дубай | Ayamore | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 43
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146782/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 50
+                            [length] => 14
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 919
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761037264
+            [text] => Создан новый лид - Заявка Zdenko Misik Dubai
+ Имя: Zdenko Misik
+ тел: 421915347562
+Мессенджер: Viber
+Пожелания: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Комментарий: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 44
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146788/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 51
+                            [length] => 12
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 920
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761047963
+            [text] => Создан новый лид - Заявка Viki Pajtinkova Dubai
+ Имя: Viki Pajtinkova
+ тел: 0903404930
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Комментарий: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 47
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146806/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 54
+                            [length] => 15
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 921
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761048210
+            [text] => Создан новый лид - Заявка Hernan Dubai
+ Имя: Hernan
+ тел: 34722615455
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Комментарий: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 38
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146808/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 45
+                            [length] => 6
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 922
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761062130
+            [text] => Создан новый лид - Заявка Ayşegül Akçelik Дубай
+ Имя: Ayşegül Akçelik
+ тел: 5375479644
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Комментарий: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 47
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146820/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 54
+                            [length] => 15
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 923
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761083343
+            [text] => Создан новый лид - Заявка Emir Pepic Dubai
+ Имя: Emir Pepic
+ тел: 38268111149
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Комментарий: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 42
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146842/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 49
+                            [length] => 10
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 924
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761125931
+            [text] => Создан новый лид - Заявка Mmdoh Asoadممددح ا اسود سوريا Dubai
+ Имя: Mmdoh Asoadممددح ا اسود سوريا
+ тел: 905384453774
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Dubai | Frank Muller | Banner
+Комментарий: Потребности - DS | TR | Dubai | Frank Muller | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 61
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146856/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 68
+                            [length] => 29
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 925
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761236731
+            [text] => Создан новый лид - Заявка Aryna Hlushakova Дубай
+ Имя: Aryna Hlushakova
+ тел: 375291098540
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | RU | Дубай | Ayamore | Banner
+Комментарий: Потребности - DS | RU | Дубай | Ayamore | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Русский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 48
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146920/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 55
+                            [length] => 16
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 926
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761242118
+            [text] => Создан новый лид - Заявка Емил Ангелов Dubai
+ Имя: Емил Ангелов
+ тел: 359893836255
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Комментарий: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 44
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146924/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 51
+                            [length] => 12
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 927
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761246520
+            [text] => Создан новый лид - Заявка Karolina Sztajerwald Dubai
+ Имя: Karolina Sztajerwald
+ тел: 48501748844
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Комментарий: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 52
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146926/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 59
+                            [length] => 20
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 928
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761268988
+            [text] => Создан новый лид - Заявка Arif yücel Дубай
+ Имя: Arif yücel
+ тел: 905325421100
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Комментарий: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 42
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146936/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 49
+                            [length] => 10
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 929
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761294284
+            [text] => Создан новый лид - Заявка František Šarišský Dubai
+ Имя: František Šarišský
+ тел: 420721895195
+Мессенджер: Telegram
+Пожелания: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Комментарий: Потребности - DS | EN | Dubai | Layla Residence | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 50
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146954/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 57
+                            [length] => 18
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 930
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761297695
+            [text] => Создан новый лид - Заявка Sevcan Karadag Дубай
+ Имя: Sevcan Karadag
+ тел: 905374397276
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Комментарий: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 46
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146960/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 53
+                            [length] => 14
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 931
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761400469
+            [text] => Создан новый лид - Заявка Aurelia Dubai
+ Имя: Aurelia
+ тел: 40762174245
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Комментарий: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 39
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147009/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 46
+                            [length] => 7
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 932
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761415071
+            [text] => Создан новый лид - Заявка Remzi caglayan Дубай
+ Имя: Remzi caglayan
+ тел: 905304603816
+Мессенджер: 
+Пожелания: Потребности - DS | TR | Дубай | Ayamore | Banner
+Комментарий: Потребности - DS | TR | Дубай | Ayamore | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 46
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147016/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 53
+                            [length] => 14
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 945
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761753402
+            [text] => Создан новый лид - Заявка ХИДЖАМА | ГРОЗНЫЙ | СТАМБУЛ Дубай
+ Имя: ХИДЖАМА | ГРОЗНЫЙ | СТАМБУЛ
+ тел: 89289496768
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | RU | Дубай | Каталог | Banner
+Комментарий: Потребности - DS | RU | Дубай | Каталог | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Русский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 59
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147216/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 66
+                            [length] => 27
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 946
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761753890
+            [text] => Создан новый лид - Заявка Carl Emery Dubai
+ Имя: Carl Emery
+ тел: 68989771369
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Комментарий: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 42
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147218/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 49
+                            [length] => 10
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 947
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761762422
+            [text] => Создан новый лид - Заявка Arda Kocabıyık Дубай
+ Имя: Arda Kocabıyık
+ тел: 905345012977
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Комментарий: Потребности - DS | TR | Дубай | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Турецкий
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 46
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147238/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 53
+                            [length] => 14
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 948
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1761762667
+            [text] => Создан новый лид - Заявка Byron Saliba Dubai
+ Имя: Byron Saliba
+ тел: 35679227167
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Комментарий: Потребности - DS | EN | Dubai | Beverly Grande | Banner
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 44
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147240/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 51
+                            [length] => 12
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+

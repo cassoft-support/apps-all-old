@@ -1,0 +1,60 @@
+---------------------17.01.2025MSK07:56:23
+Array
+(
+    [event] => ONIMCONNECTORMESSAGEADD
+    [event_handler_id] => 344
+    [data] => Array
+        (
+            [CONNECTOR] => cs_cian_connector
+            [LINE] => 24
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 3566
+                                    [message_id] => 169534
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 410
+                                    [text] => [b]Богдан Викторович:[/b] [br]прием
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 109049053
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [ts] => 1737089783
+    [auth] => Array
+        (
+            [access_token] => 07f1896700580e62005d376e0000019a00000781b0925b5a880d748e21a265b3b795ee
+            [expires] => 1737093383
+            [expires_in] => 3600
+            [scope] => crm,messageservice,entity,user_basic,imopenlines,im,imbot
+            [domain] => cbn.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => S
+            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+            [user_id] => 410
+            [application_token] => 0a8a29776c00931a03af397bf0917a23
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 3
+)
+

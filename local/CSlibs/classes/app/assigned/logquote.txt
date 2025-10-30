@@ -1,0 +1,51 @@
+---------------------30.10.2025MSK10:50:01
+quote
+filter
+Array
+(
+    [contactId] => 3820
+    [closed] => N
+)
+
+typeId
+7
+name
+[B]контакта[/B] ID3820: [URL=/crm/contact/details/3820/] Екатерина МАРУСЯ Мастерская домашнего текст.[/URL], пользователем Артем Оганесян
+commentAdd
+1
+resElement
+Array
+(
+    [items] => Array
+        (
+        )
+
+)
+
+resElement
+Array
+(
+    [items] => Array
+        (
+        )
+
+)
+
+resElement
+Array
+(
+    [items] => Array
+        (
+        )
+
+)
+
+resElement
+Array
+(
+    [items] => Array
+        (
+        )
+
+)
+

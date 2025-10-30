@@ -1,0 +1,16 @@
+---------------------04.04.2025MSK15:51:30
+Array
+(
+    [auth] => Array
+        (
+            [access_token] => d4e3ef67005567d60036d58400000001000007939a08d63e2273c5f25d58874c8ad5d4
+            [refresh_token] => c4621768005567d60036d584000000010000075a8c1daf2a4d78b41e9b2e82f5274b6e
+            [expires_in] => 1743774680957
+            [domain] => cassoft.bitrix24.ru
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+        )
+
+    [app] => hr_pro
+    [user_id] => 1
+)
+

@@ -1,0 +1,31 @@
+22.05.2025MSK16:13
+Array
+(
+    [event] => ONCRMLEADUPDATE
+    [event_handler_id] => 34
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 9890
+                )
+
+        )
+
+    [ts] => 1747919629
+    [auth] => Array
+        (
+            [access_token] => 1d312f68005d64e60073f43000000024000007b254959fc1525ad7c48fcea00341b65c
+            [expires] => 1747923229
+            [expires_in] => 3600
+            [scope] => user_brief,crm,entity
+            [domain] => tubrains.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => S
+            [client_endpoint] => https://tubrains.bitrix24.ru/rest/
+            [member_id] => 8f714bdde4f1d4c2bf4fb3071cbac5ed
+            [user_id] => 36
+            [application_token] => c470c95ab94d98a88b173ea889850509
+        )
+
+)

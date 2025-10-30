@@ -1,0 +1,153 @@
+.cassoft-fieldset-legends {
+    position: relative;
+    display: block;
+    margin-left: 20px;
+    margin-top: -25px;
+    width: auto;
+    padding: 3px 15px 3px 170px;
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: inherit;
+    /*color: #333;*/
+    /*background-color: #f9fafb;*/
+    border: 0;
+}
+
+.cassoft-fieldset-legends::before {
+    content: '';
+    display: block;
+    position: absolute;
+    background: url('https://city.brokci.ru/pub/images/cassoft_logo_gor.png') 0 0 no-repeat;
+    width: 150px;
+    height: 38px;
+    top: 0;
+    left: 70px;
+}
+
+.cassoft-fieldset {
+    min-width: 0;
+    padding: 0.35em 0.625em 0.75em;
+    margin-top: 10px;
+    border: 1px solid rgb(112, 111, 114);
+    display: block;
+    min-inline-size: min-content;
+    border-radius: 5px;
+}
+
+.cassoft-field-input {
+    display: block;
+    box-sizing: border-box;
+    padding: 1px 9px;
+    min-height: 30px;
+    max-width: 100%;
+    width: 100%;
+    outline: 0;
+    border: 1px solid #c4c7cc;
+    background-color: #fff;
+    color: #424956;
+    font: 15px/17px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    transition: 0.2s all ease;
+}
+
+.small-input-left {
+    border-radius: 5px 0 0 5px;
+}
+
+.small-input-right {
+    border-radius: 0 5px 5px 0;
+}
+
+.cassoft-label {
+    display: block;
+    font-weight: 200;
+    font-size: 13px;
+    color: #a9adb2;
+    margin-top: 10px;
+}
+
+.cassoft-select {
+    border: 1px solid #c4c7cc;
+    border-radius: 2px;
+    padding: 10px 10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: #424956;
+}
+
+.cassoft-install-header {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0px 10px 20px;
+    border-radius: 5px;
+    border-left: 5px solid #29c3f7;
+    background-color: #3bc8f5;
+    margin-bottom: 15px;
+    /*#eef2f4*/
+}
+.cassoft-install-header-logo{
+  height: 45px;
+  width:  45px;
+  border-radius: 50%; 
+}
+
+.cassoft-install-header-logo img{
+  object-fit: cover;
+        width: 100%;
+        height: 100%;
+}
+.cassoft-install-image {
+    height: 45px;
+    border-radius: 90px;
+    border: 0;
+}
+
+.cassoft-install-text {
+    margin: 10px;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    /*color: inherit;*/
+}
+
+.form-small-button-blue {
+    background: #3bc8f5;
+    box-shadow: none;
+    color: #fff;
+    box-sizing: border-box;
+    margin: 0 12px 0 0;
+    display: inline-block;
+    padding: 0 18px;
+    font-size: 12px;
+    font-weight: 700;
+    height: 39px;
+    outline: none;
+    border: 0;
+    border-radius: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.2s linear, color 0.2s linear;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.cassoft-subtitle-block {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.cassoft-subtitle-block::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 75%;
+    height: 2px;
+    background: linear-gradient(to right, #2abffc, white);
+    left: 0;
+    bottom: 0;
+}

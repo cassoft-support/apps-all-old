@@ -1,0 +1,114 @@
+/* ------ Детальная карточка объекта--------*/
+
+.popup_object_card {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: none;
+    z-index: 3000;
+    /* width: 500px; */
+    position: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    /* top: 25%; 
+    top: 30px;*/
+    left: 0;
+    right: 0;
+    text-align: center;
+    background: rgba(10, 218, 236, 0.25);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / 10%);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border: 1px solid rgba(10, 218, 236, 0.23);
+}
+
+.assigned {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.user-photo-big {
+    width: 150px;
+    height: 150px;
+}
+
+.user-photo-big-img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.container-slider-card-site{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+  .slider-row-cards{
+    display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+  }
+  .slider-row-cards-item{
+    margin-top: 5px;
+    display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      width: 100%;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .slider-row-cards-item-label {
+    font-size: 0.8rem;
+    width: auto;
+  }
+  .slider-row-cards-item-dot {
+    height: 25px;
+    border-bottom:1px dotted #999;
+    flex-grow: 3;
+      flex-shrink: 3;
+  }
+  .slider-row-cards-item-value {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-size: 1.0rem;
+      color: #222;
+      font-weight: 600;
+    width: auto;
+  }
+  .acor-container>label {
+  padding: 0;
+  }
+  .acor-btn {
+    margin-top: 10px;
+    margin-right: 0;
+  }
+  .card-grid-price-now {
+    font-size: 1.7rem;
+  }
+  .slider-card-properties-block__parameter-title {
+    font-size: 1.7rem;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 5px;
+  }
+  .slider-card-properties-main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-bottom: 25px;
+}
+.slider-card-button {
+  width: unset;
+  height: auto;
+  padding: 14px 28px;
+  border-radius: 1000px;
+  background: var(--primary-gradient);
+  transition: background .2s ease,transform .2s ease;
+  position: relative;
+  overflow-x: hidden;
+}

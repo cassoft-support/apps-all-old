@@ -1,0 +1,100 @@
+{
+  "accept_handicapped": true,
+  "accept_incomplete_resumes": false,
+  "accept_kids": false,
+  "accept_temporary": false,
+  "address": {
+    "id": "1",
+    "show_metro_only": true
+  },
+  "allow_messages": true,
+  "areas": [
+    {
+      "id": "1"
+    }
+  ],
+  "billing_type": {
+    "id": "standard"
+  },
+  "branded_template": {
+    "id": "marketing"
+  },
+  "code": "код-1234",
+  "contacts": {
+    "email": "i.ivanov@example.com",
+    "name": "Иванов Иван",
+    "phones": [
+      {
+        "comment": "с 10 до 20",
+        "formatted": "79198883344"
+      }
+    ]
+  },
+  "department": {
+    "id": "1",
+    "name": "Спецотдел"
+  },
+  "description": "Приветствуется опыт работы менеджером по продажам, Приветствуется опыт работы менеджером по продажам, Приветствуется опыт работы менеджером по продажам, Приветствуется опыт работы менеджером по продажам",
+  "driver_license_types": [
+    {
+      "id": "A"
+    },
+    {
+      "id": "B"
+    }
+  ],
+  "employment": {
+    "id": "full"
+  },
+  "experience": {
+    "id": "moreThan6"
+  },
+  "key_skills": [
+    {
+      "name": "Холодные продажи"
+    },
+    {
+      "name": "Проведение промо акций"
+    }
+  ],
+  "name": "Менеджер по продажам",
+  "professional_roles": [
+    {
+      "id": "59"
+    }
+  ],
+  "response_letter_required": true,
+  "response_notifications": true,
+  "salary": {
+    "currency": "RUR",
+    "from": 10000,
+    "gross": true,
+    "to": 50000
+  },
+  "schedule": {
+    "id": "flyInFlyOut"
+  },
+  "test": {
+    "id": "",
+    "required": false
+  },
+  "type": {
+    "id": "open"
+  },
+  "with_zp": true,
+  "working_days": [
+    {
+      "id": "only_saturday_and_sunday"
+    }
+  ],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day"
+    }
+  ],
+  "working_time_modes": [
+    {
+      "id": "start_after_sixteen"
+    }
+  ]
+}

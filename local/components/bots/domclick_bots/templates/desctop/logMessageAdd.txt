@@ -1,0 +1,706 @@
+---------------------23.10.2025MSK21:43:09
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [event_handler_id] => 322
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [1816] => Array
+                        (
+                            [access_token] => 4d85fa6800543a28005d376e000007180000061494e22193fd0ccf875daa8427ca7a4a
+                            [expires] => 1761248589
+                            [expires_in] => 3600
+                            [scope] => crm,imopenlines,im,user_brief,imbot,entity
+                            [domain] => cbn.bitrix24.ru
+                            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                            [status] => S
+                            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                            [member_id] => d17d1d15669be52925cf091ae22002d4
+                            [refresh_token] => 3d04226900543a28005d376e00000718000006c3b64fd25cb8690f0843ed4c0af15a7d
+                            [user_id] => 1816
+                            [client_id] => app.608a76c6dfdc68.60170467
+                            [application_token] => d7997a29333557dec947ae584c10ead4
+                            [AUTH] => Array
+                                (
+                                    [access_token] => 4d85fa6800543a28005d376e000007180000061494e22193fd0ccf875daa8427ca7a4a
+                                    [expires] => 1761248589
+                                    [expires_in] => 3600
+                                    [scope] => crm,imopenlines,im,user_brief,imbot,entity
+                                    [domain] => cbn.bitrix24.ru
+                                    [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                                    [status] => S
+                                    [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                                    [member_id] => d17d1d15669be52925cf091ae22002d4
+                                    [refresh_token] => 3d04226900543a28005d376e00000718000006c3b64fd25cb8690f0843ed4c0af15a7d
+                                    [user_id] => 1816
+                                    [client_id] => app.608a76c6dfdc68.60170467
+                                    [application_token] => d7997a29333557dec947ae584c10ead4
+                                )
+
+                            [BOT_ID] => 1816
+                            [BOT_CODE] => cs_domclick_bot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [MESSAGE] => Добрый день! Хочу записаться на просмотр. Когда вам будет удобно?
+                    [MESSAGE_TYPE] => L
+                    [FROM_USER_ID] => 1860
+                    [DIALOG_ID] => chat4452
+                    [TO_CHAT_ID] => 4452
+                    [AUTHOR_ID] => 1860
+                    [SYSTEM] => N
+                    [PUSH] => Y
+                    [PUSH_IMPORTANT] => N
+                    [RECENT_SKIP_AUTHOR] => N
+                    [CONVERT] => N
+                    [SKIP_COMMAND] => N
+                    [SKIP_COUNTER_INCREMENTS] => N
+                    [SILENT_CONNECTOR] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [NO_SESSION_OL] => N
+                    [FAKE_RELATION] => 0
+                    [SKIP_URL_INDEX] => N
+                    [CHAT_ID] => 4452
+                    [CHAT_TITLE] => Вячеслав Ким Продавец - ДомКлик
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_TYPE] => L
+                    [CHAT_AVATAR] => 0
+                    [CHAT_COLOR] => BROWN
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => cs_domclick_connector|26|68fa773aaa0af30001d01726|1860
+                    [CHAT_ENTITY_DATA_1] => Y|LEAD|17054|N|N|3364|1761244988|0|0|0
+                    [CHAT_ENTITY_DATA_2] => LEAD|17054|COMPANY|0|CONTACT|0|DEAL|0
+                    [CHAT_ENTITY_DATA_3] => 
+                    [CHAT_EXTRANET] => N
+                    [CHAT_PREV_MESSAGE_ID] => 0
+                    [CHAT_CAN_POST] => MEMBER
+                    [RID] => 1860
+                    [IS_MANAGER] => N
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [CHAT_USER_COUNT] => 2
+                    [PLATFORM_CONTEXT] => web
+                    [MESSAGE_ORIGINAL] => Добрый день! Хочу записаться на просмотр. Когда вам будет удобно?
+                    [TO_USER_ID] => 0
+                    [MESSAGE_ID] => 222610
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1860
+                    [NAME] => Вячеслав Ким Продавец
+                    [FIRST_NAME] => Вячеслав Ким
+                    [LAST_NAME] => Продавец
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1761244989
+    [auth] => Array
+        (
+            [access_token] => 4d85fa6800543a28005d376e000001f40000068694ff279dd940a74a1d695ef24a18a3
+            [expires] => 1761248589
+            [expires_in] => 3600
+            [scope] => crm,imopenlines,im,user_brief,imbot,entity
+            [domain] => cbn.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+            [user_id] => 500
+            [refresh_token] => 3d04226900543a28005d376e000001f4000006bf5fc31a4d1d1357a5262b7b52b7fd92
+            [application_token] => d7997a29333557dec947ae584c10ead4
+        )
+
+    [app] => domclick_messager
+    [tempList] => messageAdd
+    [CACHE_TYPE] => A
+    [~event] => ONIMBOTMESSAGEADD
+    [~event_handler_id] => 322
+    [~data] => Array
+        (
+            [BOT] => Array
+                (
+                    [1816] => Array
+                        (
+                            [access_token] => 4d85fa6800543a28005d376e000007180000061494e22193fd0ccf875daa8427ca7a4a
+                            [expires] => 1761248589
+                            [expires_in] => 3600
+                            [scope] => crm,imopenlines,im,user_brief,imbot,entity
+                            [domain] => cbn.bitrix24.ru
+                            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                            [status] => S
+                            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                            [member_id] => d17d1d15669be52925cf091ae22002d4
+                            [refresh_token] => 3d04226900543a28005d376e00000718000006c3b64fd25cb8690f0843ed4c0af15a7d
+                            [user_id] => 1816
+                            [client_id] => app.608a76c6dfdc68.60170467
+                            [application_token] => d7997a29333557dec947ae584c10ead4
+                            [AUTH] => Array
+                                (
+                                    [access_token] => 4d85fa6800543a28005d376e000007180000061494e22193fd0ccf875daa8427ca7a4a
+                                    [expires] => 1761248589
+                                    [expires_in] => 3600
+                                    [scope] => crm,imopenlines,im,user_brief,imbot,entity
+                                    [domain] => cbn.bitrix24.ru
+                                    [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                                    [status] => S
+                                    [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                                    [member_id] => d17d1d15669be52925cf091ae22002d4
+                                    [refresh_token] => 3d04226900543a28005d376e00000718000006c3b64fd25cb8690f0843ed4c0af15a7d
+                                    [user_id] => 1816
+                                    [client_id] => app.608a76c6dfdc68.60170467
+                                    [application_token] => d7997a29333557dec947ae584c10ead4
+                                )
+
+                            [BOT_ID] => 1816
+                            [BOT_CODE] => cs_domclick_bot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [MESSAGE] => Добрый день! Хочу записаться на просмотр. Когда вам будет удобно?
+                    [MESSAGE_TYPE] => L
+                    [FROM_USER_ID] => 1860
+                    [DIALOG_ID] => chat4452
+                    [TO_CHAT_ID] => 4452
+                    [AUTHOR_ID] => 1860
+                    [SYSTEM] => N
+                    [PUSH] => Y
+                    [PUSH_IMPORTANT] => N
+                    [RECENT_SKIP_AUTHOR] => N
+                    [CONVERT] => N
+                    [SKIP_COMMAND] => N
+                    [SKIP_COUNTER_INCREMENTS] => N
+                    [SILENT_CONNECTOR] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [NO_SESSION_OL] => N
+                    [FAKE_RELATION] => 0
+                    [SKIP_URL_INDEX] => N
+                    [CHAT_ID] => 4452
+                    [CHAT_TITLE] => Вячеслав Ким Продавец - ДомКлик
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_TYPE] => L
+                    [CHAT_AVATAR] => 0
+                    [CHAT_COLOR] => BROWN
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => cs_domclick_connector|26|68fa773aaa0af30001d01726|1860
+                    [CHAT_ENTITY_DATA_1] => Y|LEAD|17054|N|N|3364|1761244988|0|0|0
+                    [CHAT_ENTITY_DATA_2] => LEAD|17054|COMPANY|0|CONTACT|0|DEAL|0
+                    [CHAT_ENTITY_DATA_3] => 
+                    [CHAT_EXTRANET] => N
+                    [CHAT_PREV_MESSAGE_ID] => 0
+                    [CHAT_CAN_POST] => MEMBER
+                    [RID] => 1860
+                    [IS_MANAGER] => N
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [CHAT_USER_COUNT] => 2
+                    [PLATFORM_CONTEXT] => web
+                    [MESSAGE_ORIGINAL] => Добрый день! Хочу записаться на просмотр. Когда вам будет удобно?
+                    [TO_USER_ID] => 0
+                    [MESSAGE_ID] => 222610
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1860
+                    [NAME] => Вячеслав Ким Продавец
+                    [FIRST_NAME] => Вячеслав Ким
+                    [LAST_NAME] => Продавец
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [~ts] => 1761244989
+    [~auth] => Array
+        (
+            [access_token] => 4d85fa6800543a28005d376e000001f40000068694ff279dd940a74a1d695ef24a18a3
+            [expires] => 1761248589
+            [expires_in] => 3600
+            [scope] => crm,imopenlines,im,user_brief,imbot,entity
+            [domain] => cbn.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+            [user_id] => 500
+            [refresh_token] => 3d04226900543a28005d376e000001f4000006bf5fc31a4d1d1357a5262b7b52b7fd92
+            [application_token] => d7997a29333557dec947ae584c10ead4
+        )
+
+    [~app] => domclick_messager
+    [~tempList] => messageAdd
+    [~CACHE_TYPE] => A
+)
+
+result
+Array
+(
+    [success] => 1
+    [result] => Array
+        (
+            [chat_id] => 68fa773aaa0af30001d01726
+            [agent_id] => 2885
+            [last_message] => Array
+                (
+                    [author] => Семён
+                    [message] => Добрый день! Хочу записаться на просмотр. Когда ва…
+                    [time] => 1761244986595
+                )
+
+            [offer] => Array
+                (
+                    [id] => 2067888233
+                    [external_id] => 2450
+                    [title] => 4-комн. кв., 82.8 м², 4/10 этаж
+                    [address] => Россия, Южно-Сахалинск, улица Дзержинского, 38
+                    [url] => https://domclick.ru/card/sale__flat__2067888233
+                    [img_url] => https://img.dmclk.ru/c100x100/vitrina/84/72/8472aafb35c768973da3b9262e3146a9f3162267.jpg
+                    [price] => 12980000
+                )
+
+            [users] => Array
+                (
+                    [0] => Array
+                        (
+                            [user_id] => 2885
+                            [display_name] => Вячеслав Ким
+                            [roles] => Array
+                                (
+                                    [0] => SELLER
+                                )
+
+                            [role_description] => Продавец
+                        )
+
+                    [1] => Array
+                        (
+                            [user_id] => 46058387
+                            [display_name] => Семён
+                            [roles] => Array
+                                (
+                                    [0] => BUYER
+                                )
+
+                            [role_description] => Покупатель
+                        )
+
+                )
+
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+resExternalId
+Array
+(
+    [0] => 2450
+)
+
+deal
+Array
+(
+    [ID] => 2450
+    [TITLE] => 4-к. квартира, Общ. 82.8м2 г. Южно-Сахалинск, ул. имени Ф.Э.Дзержинского, д.38, эт.4/10 Цена-12 980 000
+    [TYPE_ID] => SALE
+    [STAGE_ID] => C4:PREPARATION
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => Y
+    [TAX_VALUE] => 0.00
+    [LEAD_ID] => 
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1142
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-06-25T03:00:00+03:00
+    [CLOSEDATE] => 2025-07-02T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 1
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 446
+    [DATE_CREATE] => 2025-06-25T01:28:52+03:00
+    [DATE_MODIFY] => 2025-10-20T03:08:44+03:00
+    [OPENED] => Y
+    [CLOSED] => N
+    [COMMENTS] => 
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 4
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => PARTNER
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 1
+    [MOVED_TIME] => 2025-06-25T09:14:26+03:00
+    [LAST_ACTIVITY_TIME] => 2025-06-25T01:28:52+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [PARENT_ID_175] => 
+    [LAST_COMMUNICATION_TIME] => 
+    [REPEAT_SALE_SEGMENT_ID] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1661235696947] => 
+    [UF_CRM_1661315760917] => 
+    [UF_CRM_631A84DCCE410] => 
+    [UF_CRM_631A84DCD6ED7] => 
+    [UF_CRM_1663723104576] => 
+    [UF_CRM_1663723135062] => 
+    [UF_CRM_1663723185182] => 
+    [UF_CRM_1663723214158] => 
+    [UF_CRM_1664509144131] => 
+    [UF_CRM_1666581516830] => 
+    [UF_CRM_1667795972774] => 
+    [UF_CRM_1667796878710] => 
+    [UF_CRM_1667797207] => 
+    [UF_CRM_1667797289] => 
+    [UF_CRM_1667797458795] => Array
+        (
+        )
+
+    [UF_CRM_1667797603342] => 
+    [UF_CRM_1667797652556] => 
+    [UF_CRM_1667797726467] => 
+    [UF_CRM_1667797999285] => 
+    [UF_CRM_1667798231670] => 
+    [UF_CRM_1667798311527] => Array
+        (
+        )
+
+    [UF_CRM_1667798393541] => Array
+        (
+        )
+
+    [UF_CRM_1667798432172] => Array
+        (
+        )
+
+    [UF_CRM_1667798548477] => 
+    [UF_CRM_1667798605797] => 
+    [UF_CRM_1667798682570] => 
+    [UF_CRM_1667798724422] => 
+    [UF_CRM_1667798762867] => Array
+        (
+        )
+
+    [UF_CRM_1667798859972] => 
+    [UF_CRM_1667798903157] => 
+    [UF_CRM_1667798942322] => 
+    [UF_CRM_1667802307873] => 
+    [UF_CRM_1667802329393] => 
+    [UF_CRM_1667970813493] => 
+    [UF_CRM_1670992494] => Array
+        (
+        )
+
+    [UF_CRM_1675364708767] => 
+    [UF_CRM_63EC25AF32CAB] => 
+    [UF_CRM_63EC25AF3AA01] => 
+    [UF_CRM_63EC25AF40FE1] => 
+    [UF_CRM_63EC25AF47FBF] => 
+    [UF_CRM_1677466849631] => 
+    [UF_CRM_1677563860988] => 
+    [UF_CRM_1677563878832] => 
+    [UF_CRM_1677773653] => Array
+        (
+        )
+
+    [UF_CRM_1678012073811] => 
+    [UF_CRM_1678012161096] => 
+    [UF_CRM_1681719281122] => 12500000
+    [UF_CRM_1681719553681] => 
+    [UF_CRM_1681913338] => 
+    [UF_CRM_1681916095474] => 
+    [UF_CRM_6440D11817429] => 
+    [UF_CRM_6440D12073894] => 
+    [UF_CRM_6440D1207B954] => 
+    [UF_CRM_1682327335510] => 
+    [UF_CRM_1682327372] => 
+    [UF_CRM_1682327478] => 
+    [UF_CRM_1682328865005] => 
+    [UF_CRM_1682333063609] => 
+    [UF_CRM_1682410057391] => 
+    [UF_CRM_1682418805628] => 
+    [UF_CRM_1682493150328] => 
+    [UF_CRM_1683094954966] => 724
+    [UF_CRM_1685084103231] => Array
+        (
+        )
+
+    [UF_CRM_1685927381996] => 
+    [UF_CRM_647D5FE12BA9D] => Array
+        (
+        )
+
+    [UF_CRM_1691642122840] => Array
+        (
+        )
+
+    [UF_CRM_1691647710765] => Array
+        (
+        )
+
+    [UF_CRM_1691647753670] => Array
+        (
+        )
+
+    [UF_CRM_PRICE] => 12980000|RUB
+    [UF_CRM_CS_DEAL_PREMISE_TYPE] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_TOTAL_FLOORS] => 
+    [UF_CRM_CS_DEAL_PLAYBACK_PERIOD] => 
+    [UF_CRM_CS_DEAL_PERCENT_FILLING] => 
+    [UF_CRM_CS_DEAL_TURNOVER] => 
+    [UF_CRM_CS_DEAL_PROFIT] => 
+    [UF_CRM_CS_DEAL_WAGES] => 
+    [UF_CRM_CS_DEAL_RENT] => 
+    [UF_CRM_CS_DEAL_OTHER_COSTS] => 
+    [UF_CRM_CS_DEAL_PHOTOS] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_PLANS] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_PHOTOS_IN] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_MATERIAL_WALL] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_DEPOSIT] => 
+    [UF_CRM_CS_TYPE_PRICE] => 
+    [UF_CRM_CS_DEAL_CONTRACT_RENT] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_OBJECT_TITLE] => 4-к. квартира, Общ. 82.8м2 г. Южно-Сахалинск, ул. имени Ф.Э.Дзержинского, д.38, эт.4/10
+    [UF_CRM_CS_DEAL_ADDRESS_SUBSTITUTE] => 
+    [UF_CRM_CS_DEAL_PRODUCT_ID] => 24804
+    [UF_CRM_CS_DEAL_LINK_SITE] => 
+    [UF_CRM_CS_DEAL_LINK_VIDEO] => 
+    [UF_CRM_CS_DEAL_NUMBER_AGENT_DOG] => 
+    [UF_CRM_CS_DEAL_DATE_CLOS_AGENT_DOG] => 
+    [UF_CRM_CS_DEAL_DATE_OPEN_AGENT_DOG] => 
+    [UF_CRM_CS_DEAL_DATE_DOG] => 
+    [UF_CRM_CS_DEAL_NEGATIVE_CLOS] => 
+    [UF_CRM_CS_DEAL_TITLE_POST] => 
+    [UF_CRM_CS_DEAL_TEXT_POST] => 
+    [UF_CRM_CS_DEAL_ADD_CONDITION] => 
+    [UF_CRM_CS_DEAL_NUMBER_OWNERS] => 
+    [UF_CRM_CS_DEAL_NUMBER_PIOPLE] => 
+    [UF_CRM_CS_DEAL_MINORS_OWNERS] => 0
+    [UF_CRM_CS_DEAL_REG_MINORS] => 0
+    [UF_CRM_CS_DEAL_VIEW_TIME] => 
+    [UF_CRM_CS_DEAL_EXCHANGE] => 0
+    [UF_CRM_CS_DEAL_ADVANCE] => 
+    [UF_CRM_CS_DEAL_BUDGET] => 
+    [UF_CRM_CS_DEAL_MAT_CAPITAL] => 
+    [UF_CRM_CS_DEAL_WAR_IPOTEKA] => 
+    [UF_CRM_CS_DEAL_OWN_FUNDS] => 
+    [UF_CRM_CS_DEAL_PRICE_DOG] => 
+    [UF_CRM_CS_DEAL_KREDIT] => 
+    [UF_CRM_CS_DEAL_ADVANCE_PAY_SERV] => 
+    [UF_CRM_CS_DEAL_PARTNER_COMMISSION] => 
+    [UF_CRM_CS_DEAL_MAGNET] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_CONTACT] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_MARKET] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_APPOINTMENT] => 
+    [UF_CRM_CS_DEAL_SITE_SOURCE] => 
+    [UF_CRM_CS_DEAL_PARSING_NUMB] => 
+    [UF_CRM_CS_DEAL_PARSING_SITE] => 
+    [UF_CRM_CS_DEAL_SHARE_SIZE] => 
+    [UF_CRM_CS_DEAL_STUDIO] => 0
+    [UF_CRM_CS_DEAL_MAX_PRICE] => 
+    [UF_CRM_CS_DEAL_NEED_BALCONY] => 0
+    [UF_CRM_CS_DEAL_NOT_LAST_FLOOR] => 0
+    [UF_CRM_CS_DEAL_SEARCH_AREA] => 
+    [UF_CRM_CS_DEAL_SELECTED_NEW] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_SELECTED_MINUS] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_SELECTED_PLUS] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_FLOOR_TO] => 
+    [UF_CRM_CS_DEAL_FLOOR_FROM] => 
+    [UF_CRM_CS_DEAL_ROOMS] => 
+    [UF_CRM_CS_DEAL_TOTAL_AREA] => 
+    [UF_CRM_CS_DEAL_TOTAL_AREA_MAX] => 
+    [UF_CRM_CS_DEAL_KITCHEN_AREA] => 
+    [UF_CRM_CS_DEAL_PLOT_AREA] => 
+    [UF_CRM_CS_VALUE_ADDED_TAX] => 
+    [UF_CRM_CS_DEAL_TYPE_BUSINESS] => Array
+        (
+        )
+
+    [UF_CRM_CS_DEAL_OBJECT_BUT] => 
+    [UF_CRM_1696205035391] => 0
+    [UF_CRM_1696222640223] => 
+    [UF_CRM_1696222793654] => 
+    [UF_CRM_1696223934] => 
+    [UF_CRM_1696224120] => 
+    [UF_CRM_1696224476] => 0|RUB
+    [UF_CRM_1696225329756] => 
+    [UF_CRM_1696225798387] => 
+    [UF_CRM_1696403782023] => 
+    [UF_CRM_CRMSTAT_CONV] => 
+    [UF_CRM_CS_DEAL_WASHING_MASH] => 0
+    [UF_CRM_CS_OBJECT_NOT_SELECTION] => 0
+    [UF_CRM_CS_DEAL_HIDDEN_BASE] => 0
+    [UF_CRM_CS_DEAL_LONG_CONTRACT] => 0
+    [UF_CRM_CS_DEAL_ANCHOR] => 0
+    [UF_CRM_CS_DEAL_OBJECT_DATE] => 
+    [UF_CRM_1706501158514] => 
+    [UF_CRM_1706505540190] => 
+    [UF_CRM_A_W_GROUP_ID] => 
+    [UF_CRM_A_T_GROUP_ID] => 
+    [UF_CRM_1709602800682] => 
+    [UF_CRM_1709690020347] => 
+    [UF_CRM_1709690133235] => 
+    [UF_CRM_1709690241986] => 
+    [UF_CRM_1709690317307] => 
+    [UF_CRM_1709690357510] => 
+    [UF_CRM_1709690403884] => 
+    [UF_CRM_1714629359] => 
+    [UF_CRM_HHRESPONSEID] => 
+    [UF_CRM_HHVACANCYID] => 
+    [UF_CRM_HHVACANCYNAME] => 
+    [UF_CRM_HHREGION] => 
+    [UF_CRM_6698A243417F7] => 
+    [UF_CRM_6698A2434A644] => 
+    [UF_CRM_6698A243519FF] => 
+    [UF_CRM_6698A24358E70] => 
+    [UF_CRM_669C80E2BCCCE] => 
+    [UF_CRM_66A75025A8446] => 
+    [UF_CRM_66A75025BA5E8] => 
+    [UF_CRM_66A75025C6C0A] => 
+    [UF_CRM_66B064DEDCFE8] => 
+    [UF_CRM_CS_OBJECT] => 
+    [UF_CRM_1730008597254] => 
+    [UF_CRM_CS_OBJECT_DEAL] => 
+    [UF_CRM_1734411298933] => 
+    [UF_CRM_CS_SCAN_DOC] => 
+    [UF_CRM_1738072775123] => 
+    [UF_CRM_6799FC27226D7] => 
+    [UF_CRM_CS_MCM_FORM] => 
+    [UF_CRM_1681913446] => 
+    [UF_CRM_1681913469] => 
+    [UF_CRM_1681913499] => 
+    [UF_CRM_1681913528] => 
+    [UF_CRM_1681913552] => 
+    [UF_CRM_1681913580] => 
+    [UF_CRM_1681913605] => 
+    [UF_CRM_1681913630] => 
+    [UF_CRM_1681913646] => 
+    [UF_CRM_1681913664] => 
+    [UF_CRM_1681913822] => 2025-06-25T03:00:00+03:00
+    [UF_CRM_1681913841] => 
+    [UF_CRM_1681913869] => 
+    [UF_CRM_1681913893] => 
+    [UF_CRM_1681913915] => 
+    [UF_CRM_1681913932] => 
+)
+
+paramsMes
+Array
+(
+    [BOT_ID] => 1816
+    [DIALOG_ID] => chat4452
+    [MESSAGE] => Обращение по объекту
+    [ATTACH] => Array
+        (
+            [ID] => 1
+            [COLOR_TOKEN] => primary
+            [COLOR] => #d70b0b
+            [BLOCKS] => Array
+                (
+                    [0] => Array
+                        (
+                            [MESSAGE] => [B]4-к. квартира, Общ. 82.8м2 г. Южно-Сахалинск, ул. имени Ф.Э.Дзержинского, д.38, эт.4/10 Цена-12 980 000[/B]
+[URL=/crm/deal/details/2450/]Сделка №2450[/URL]
+[URL=https://domclick.ru/card/sale__flat__2067888233]ссылка на объявление[/URL]
+
+                            [IMAGE] => Array
+                                (
+                                    [NAME] => 4-комн. кв., 82.8 м², 4/10 этаж
+                                    [LINK] => https://img.dmclk.ru/c100x100/vitrina/84/72/8472aafb35c768973da3b9262e3146a9f3162267.jpg
+                                    [PREVIEW] => https://img.dmclk.ru/c100x100/vitrina/84/72/8472aafb35c768973da3b9262e3146a9f3162267.jpg
+                                    [WIDTH] => 1000
+                                    [HEIGHT] => 638
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [KEYBOARD] => 
+    [MENU] => 
+    [SYSTEM] => Y
+    [URL_PREVIEW] => Y
+)
+
+messBot
+Array
+(
+    [0] => 222612
+)
+
+userAddChat
+Array
+(
+    [0] => 1
+)
+

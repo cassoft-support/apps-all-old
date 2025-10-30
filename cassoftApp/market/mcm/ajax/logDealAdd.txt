@@ -1,0 +1,38 @@
+---------------------30.10.2025MSK10:37:11
+Array
+(
+    [event] => ONCRMDEALADD
+    [event_handler_id] => 374
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 6306
+                )
+
+        )
+
+    [ts] => 1761809830
+    [auth] => Array
+        (
+            [access_token] => b723036900579b0e0059a47a0000131c0000078ce47f9a577cdfc6e9805de85ce9fc6e
+            [expires] => 1761813431
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement,rpa,mobile,disk,userfieldconfig,contact_center,bizproc
+            [domain] => gorizont-ru.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://gorizont-ru.bitrix24.ru/rest/
+            [member_id] => 54f17a89344db2b08c183c4e688e9874
+            [user_id] => 4892
+            [application_token] => 037b4d0139f138fe0b44cfb588c51cdd
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 14
+)
+

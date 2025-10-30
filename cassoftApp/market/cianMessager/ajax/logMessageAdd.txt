@@ -1,0 +1,69 @@
+---------------------30.10.2025MSK10:48:41
+Array
+(
+    [event] => ONIMCONNECTORMESSAGEADD
+    [event_handler_id] => 16
+    [data] => Array
+        (
+            [CONNECTOR] => cs_cian_connector
+            [LINE] => 1
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 28411
+                                    [message_id] => 1942849
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 0
+                                    [text] => Пожалуйста, оцените качество обслуживания.
+
+Отправьте: 1 - хорошо, 0 - плохо
+                                    [params] => Array
+                                        (
+                                            [CLASS] => bx-messenger-content-item-ol-output bx-messenger-content-item-vote
+                                            [IMOL_DATE_CLOSE_VOTE] => 
+                                            [IMOL_FORM] => like
+                                            [IMOL_TIME_LIMIT_VOTE] => 0
+                                            [IMOL_VOTE] => 3890
+                                            [IMOL_VOTE_DISLIKE] => Очень жаль, что мы не смогли помочь вам, мы постараемся стать лучше.
+                                            [IMOL_VOTE_LIKE] => Спасибо за оценку!
+                                            [IMOL_VOTE_SID] => 3890
+                                            [IMOL_VOTE_TEXT] => Пожалуйста, оцените качество обслуживания.
+                                        )
+
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 175066730
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [ts] => 1761810521
+    [auth] => Array
+        (
+            [domain] => bitrix24-barnes.ru
+            [client_endpoint] => https://bitrix24-barnes.ru/rest/
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [member_id] => 6d41c1d8176624e1cce8dbe8281c96ff
+            [application_token] => 8bf3bce09658a08646a9247b2b043800
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 21
+)
+

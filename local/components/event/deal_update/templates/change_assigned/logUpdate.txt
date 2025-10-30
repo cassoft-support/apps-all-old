@@ -1,0 +1,1296 @@
+---------------------30.10.2025MSK10:53:40
+Array
+(
+    [CS_DEAL] => d
+    [CS_LEAD] => l
+    [CS_CONTACT] => c
+    [CS_COMPANY] => c
+    [CS_QUOTE] => q
+    [CS_SMART] => s
+    [CS_INVOICE] => i
+)
+
+resCompanySetup
+
+company
+Изменено company-0
+element
+Array
+(
+    [id] => 68869
+    [createdTime] => 2025-10-30T10:43:52+03:00
+    [dateCreateShort] => 
+    [updatedTime] => 2025-10-30T10:53:24+03:00
+    [dateModifyShort] => 
+    [createdBy] => 79
+    [updatedBy] => 79
+    [assignedById] => 79
+    [opened] => Y
+    [leadId] => 
+    [companyId] => 12585
+    [contactId] => 18753
+    [quoteId] => 
+    [title] => Заявка №68869 
+    [productId] => 
+    [categoryId] => 3
+    [stageId] => C3:PREPARATION
+    [stageSemanticId] => P
+    [isNew] => N
+    [isRecurring] => N
+    [isReturnCustomer] => Y
+    [isRepeatedApproach] => N
+    [closed] => N
+    [typeId] => SALE
+    [opportunity] => 430000
+    [isManualOpportunity] => Y
+    [taxValue] => 0
+    [currencyId] => RUB
+    [probability] => 
+    [comments] => [p]
+Авто 8
+[/p]
+    [begindate] => 2025-10-30T03:00:00+03:00
+    [begindateShort] => 
+    [closedate] => 2025-11-06T03:00:00+03:00
+    [closedateShort] => 
+    [eventDate] => 
+    [eventDateShort] => 
+    [eventId] => 
+    [eventDescription] => 
+    [locationId] => 
+    [webformId] => 0
+    [sourceId] => 
+    [sourceDescription] => 
+    [originatorId] => 
+    [originId] => 
+    [additionalInfo] => 
+    [searchContent] => 68869 Заявка №68869  430000.00 Российский рубль Евгения Банных Банных ООО "ИЗ-КАРТЭКС ИМЕНИ П.Г. КОРОБКОВА" Крылов Александр Васильевич ИЗ-КАРТЭКС 79111114206 89111114206 9111114206 111114206 11114206 1114206 114206 14206 4206 206 Nyrxfnaqe Xelybi vm xnegrk pbz Продажа Передана логисту 30.10.2025 06.11.2025 [c]
+Авто 8
+[/c] НДС 0% не выбрано Тентованный 20 82 Верхняя 68871 Колпино ул. Финляндская 21К тер. Ижорский завод / 09.11.2025 09:00 - 18:00 Алмалык (промзона центральные склады АГМК) / 18.11.2025 Ходовая телега ЭКГ-15 (0011 012 035) 3 сканов календарных 60 ООО ТИТАН ТИТ/К-2025 от 07.05.2025 Нет Да Санкт-Петербург Северо-Западный Узбекистан Валентин Коляденко Отдельной машиной Заявка №68869 09.11.2025 18.11.2025 ООО &dhbg;ИЗ-КАРТЭКС ИМЕНИ П.Г. КОРОБКОВА&dhbg; 0 Прочее 965177 12585
+    [orderStage] => 
+    [movedBy] => 79
+    [movedTime] => 2025-10-30T10:53:02+03:00
+    [lastActivityBy] => 79
+    [lastActivityTime] => 2025-10-30T10:43:52+03:00
+    [isWork] => 
+    [isWon] => 
+    [isLose] => 
+    [receivedAmount] => 
+    [lostAmount] => 
+    [hasProducts] => 
+    [lastCommunicationTime] => 
+    [lastCommunicationCallTime] => 
+    [lastCommunicationEmailTime] => 
+    [lastCommunicationImolTime] => 
+    [lastCommunicationWebformTime] => 
+    [ufCrm_68495C24D8CC7] => 
+    [ufCrm_1710929061] => 18753
+    [ufCrm_1685448418279] => 633
+    [ufCrm_1685448569843] => 
+    [ufCrm_1685448955135] => 
+    [ufCrm_1685448994534] => 
+    [ufCrm_1685449155866] => 
+    [ufCrm_1685449181837] => 
+    [ufCrm_1685449285997] => 
+    [ufCrm_1685449365644] => 
+    [ufCrm_1685449392956] => 
+    [ufCrm_1685449419264] => 
+    [ufCrm_1685449442772] => 
+    [ufCrm_1685449464543] => 
+    [ufCrm_1685607183] => Array
+        (
+            [0] => 9
+        )
+
+    [ufCrm_1685607279] => Array
+        (
+        )
+
+    [ufCrm_1685607616333] => 20
+    [ufCrm_1685607632335] => 82
+    [ufCrm_1685610857] => Array
+        (
+            [0] => 5
+        )
+
+    [ufCrm_1685610869] => Array
+        (
+            [0] => 5
+        )
+
+    [ufCrm_1685946818771] => 68871
+    [ufCrm_1685947596619] => 
+    [ufCrm_1685947790] => 
+    [ufCrm_1685947801] => 
+    [ufCrm_1685947898269] => 
+    [ufCrm_1686643041340] => 
+    [ufCrm_1686643609612] => Array
+        (
+        )
+
+    [ufCrm_1686643626309] => Array
+        (
+        )
+
+    [ufCrm_1686643637433] => Array
+        (
+        )
+
+    [ufCrm_1686643646726] => 
+    [ufCrm_1687107859] => Array
+        (
+            [0] => 11619
+        )
+
+    [ufCrm_1687107890] => Array
+        (
+            [0] => 12379
+        )
+
+    [ufCrm_1687108914] => 
+    [ufCrm_1687109389917] => Ходовая телега ЭКГ-15 (0011, 012, 035)
+    [ufCrm_1687109404464] => 3
+    [ufCrm_1687109543355] => 
+    [ufCrm_1687109854073] => 
+    [ufCrm_1687115293918] => 
+    [ufCrm_1687115562729] => 
+    [ufCrm_1687176385460] => 117
+    [ufCrm_1687177493980] => 123
+    [ufCrm_1687177526908] => 60
+    [ufCrm_1687178110510] => Array
+        (
+        )
+
+    [ufCrm_1687182766] => Array
+        (
+            [0] => 1563
+        )
+
+    [ufCrm_1687182809] => Array
+        (
+            [0] => 3437
+        )
+
+    [ufCrm_1687184218178] => 125
+    [ufCrm_1687186533943] => ТИТ/К-2025 от 07.05.2025
+    [ufCrm_1687186792] => 
+    [ufCrm_1687186968668] => 0|RUB
+    [ufCrm_1687194036908] => 
+    [ufCrm_1687194051540] => 
+    [ufCrm_1687195163264] => 
+    [ufCrm_1687852738670] => 
+    [ufCrm_1687955784869] => 179
+    [ufCrm_1687955825300] => 181
+    [ufCrm_1687962811] => 115
+    [ufCrm_1687962822] => 
+    [ufCrm_1687962839] => 7
+    [ufCrm_1687962857] => 23
+    [ufCrm_1688128191] => 
+    [ufCrm_1688642681] => 29
+    [ufCrm_1689069120046] => 
+    [ufCrm_1689777985784] => 193
+    [ufCrm_1690443091] => 
+    [ufCrm_1690443106] => 68871
+    [ufCrm_1691747413] => 
+    [ufCrm_1702628890342] => 
+    [ufCrm_1702909711802] => 
+    [ufCrm_1702909719775] => 
+    [ufCrm_659FE12F7EF2A] => 
+    [ufCrm_659FE12F90AB2] => 
+    [ufCrm_659FE12F9D913] => 
+    [ufCrm_659FE12FA9AE3] => 
+    [ufCrm_1707831352715] => Array
+        (
+        )
+
+    [ufCrm_1707831483870] => Array
+        (
+        )
+
+    [ufCrm_1707831528750] => Array
+        (
+        )
+
+    [ufCrm_1708065922853] => 
+    [ufCrm_1708067866988] => 
+    [ufCrm_1708086020771] => Array
+        (
+        )
+
+    [ufCrm_1708086081746] => Array
+        (
+        )
+
+    [ufCrm_1708087800773] => Array
+        (
+        )
+
+    [ufCrm_1708089874281] => 
+    [ufCrm_1708609902536] => 
+    [ufCrm_1709046130652] => 
+    [ufCrm_1709046160362] => 
+    [ufCrm_1709104927] => Array
+        (
+        )
+
+    [ufCrm_1709304243391] => Array
+        (
+        )
+
+    [ufCrm_1709304277447] => Array
+        (
+        )
+
+    [ufCrm_1709305557021] => Array
+        (
+        )
+
+    [ufCrm_1710413258857] => 
+    [ufCrm_1710424187942] => 
+    [ufCrm_1710486502240] => Array
+        (
+        )
+
+    [ufCrm_1710503827310] => 
+    [ufCrm_1710918090356] => 
+    [ufCrm_1710923632] => 
+    [ufCrm_1711008688919] => 2025-11-09T03:00:00+03:00
+    [ufCrm_1711008706573] => 2025-11-18T03:00:00+03:00
+    [ufCrm_1711026029160] => 
+    [ufCrm_1711026062311] => 
+    [ufCrm_1711030761] => 12585
+    [ufCrm_1711030787] => 
+    [ufCrm_1711104265517] => 
+    [ufCrm_1711119784167] => 
+    [ufCrm_1711119810890] => 
+    [ufCrm_1711120122755] => 
+    [ufCrm_1711120264471] => 
+    [ufCrm_1712845927750] => Array
+        (
+        )
+
+    [ufCrm_1713344609091] => 
+    [ufCrm_1713344700731] => 
+    [ufCrm_1713344992512] => 
+    [ufCrm_1713345019977] => 
+    [ufCrm_1713787279951] => 
+    [ufCrm_1713949601794] => Array
+        (
+        )
+
+    [ufCrm_1713951931] => 
+    [ufCrm_1713954103] => 
+    [ufCrm_1714735163955] => Array
+        (
+        )
+
+    [ufCrm_1714736289232] => Array
+        (
+        )
+
+    [ufCrm_1714736386265] => Array
+        (
+        )
+
+    [ufCrm_1714736433005] => Array
+        (
+        )
+
+    [ufCrm_1714736557243] => 
+    [ufCrm_1714737242297] => Array
+        (
+        )
+
+    [ufCrm_1714737336869] => Array
+        (
+        )
+
+    [ufCrm_1714737481914] => Array
+        (
+        )
+
+    [ufCrm_1714737502969] => 
+    [ufCrm_1714980095] => 
+    [ufCrm_1715459773745] => 
+    [ufCrm_1715842716976] => 
+    [ufCrm_1715848210165] => Array
+        (
+        )
+
+    [ufCrm_1715858629391] => 
+    [ufCrm_1716793174205] => 
+    [ufCrm_1717242703] => 
+    [ufCrm_1717252958] => 0
+    [ufCrm_1717253360] => 
+    [ufCrm_1717254137] => 537
+    [ufCrm_1717422174197] => 
+    [ufCrm_1717422241506] => Array
+        (
+            [0] => 09:00 - 18:00
+        )
+
+    [ufCrm_1720088018603] => 
+    [ufCrm_1720088085835] => 
+    [ufCrm_1720524538] => 
+    [ufCrm_1720525519739] => 965177
+    [ufCrm_1721302233095] => 
+    [ufCrm_1721596593] => Array
+        (
+        )
+
+    [ufCrm_1721596725] => Array
+        (
+        )
+
+    [ufCrm_1726150574159] => 
+    [ufCrm_1726150606543] => 
+    [ufCrm_1726150642970] => Array
+        (
+        )
+
+    [ufCrm_1726150675837] => 
+    [ufCrm_1726150700381] => 
+    [ufCrm_1728985685293] => 
+    [ufCrm_1730803737671] => 
+    [ufCrm_1730803767480] => 
+    [ufCrm_1731575329999] => 12585
+    [ufCrm_1731912170676] => 
+    [ufCrm_1732628203053] => 68869
+    [ufCrm_1733222686442] => 68869
+    [ufCrm_675047C3F23C9] => 
+    [ufCrm_675047C42719A] => Array
+        (
+        )
+
+    [ufCrm_675047C43923A] => 
+    [ufCrm_675047C44B00B] => 
+    [ufCrm_675047C45C660] => 
+    [ufCrm_1733921113743] => 
+    [ufCrm_1734417406169] => 
+    [ufCrm_1734426785419] => Array
+        (
+        )
+
+    [ufCrm_1734429181439] => Array
+        (
+        )
+
+    [ufCrm_1739402109658] => 
+    [ufCrm_1740058023331] => 
+    [ufCrm_1741757989597] => 
+    [ufCrm_67DA9E91F0D1C] => 
+    [ufCrm_67DA9E9211381] => 
+    [ufCrm_67DA9E9222E11] => 
+    [ufCrm_67DA9E937B17F] => 
+    [ufCrm_67DA9E938BDDF] => 
+    [ufCrm_67E54EDD2ACCC] => 
+    [ufCrm_67E54EDD3F483] => 
+    [ufCrm_67E54EDD535DC] => 
+    [ufCrm_67E54EDD66D48] => 
+    [ufCrm_67E54EDD7ADA7] => 
+    [ufCrm_67E54EDD8E692] => 
+    [ufCrm_1743671069] => N
+    [ufCrm_1743672497566] => 
+    [ufCrm_1744888615954] => 
+    [ufCrm_1744954846442] => N
+    [ufCrm_1744955504628] => 
+    [ufCrm_1745233521241] => 
+    [ufCrm_68495C24F1A21] => 
+    [ufCrm_68495C2511F35] => N
+    [ufCrm_1752661131702] => 
+    [ufCrm_1753079367] => 
+    [ufCrm_687DDF0D50088] => 
+    [ufCrm_687DDFCE1B8D4] => 
+    [ufCrm_1755172235453] => 
+    [ufCrm_1755500334950] => 
+    [ufCrm_1755810152406] => 
+    [ufCrm_1756200419592] => 
+    [ufCrm_1756390566] => Array
+        (
+        )
+
+    [ufCrm_1756979001618] => 
+    [ufCrm_68B97C28B32E1] => 
+    [ufCrm_68B99025D71BA] => 
+    [ufCrm_1760105367899] => 
+    [ufCrmIdDealSales] => 
+    [ufCrmScanDate] => 
+    [ufCrmOrigDate] => 
+    [ufCrmOverdueLoading] => 
+    [ufCrmOverdueUnloading] => 
+    [ufCrmTaskIdZayavka] => 
+    [ufCrm_68495C2524188] => 
+    [parentId137] => 
+    [parentId141] => 
+    [parentId159] => 
+    [parentId162] => 
+    [utmSource] => 
+    [utmMedium] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [observers] => Array
+        (
+        )
+
+    [contactIds] => Array
+        (
+            [0] => 18753
+        )
+
+    [entityTypeId] => 2
+)
+
+element
+Array
+(
+    [id] => 68873
+    [createdTime] => 2025-10-30T10:53:24+03:00
+    [dateCreateShort] => 
+    [updatedTime] => 2025-10-30T10:53:39+03:00
+    [dateModifyShort] => 
+    [createdBy] => 79
+    [updatedBy] => 79
+    [assignedById] => 79
+    [opened] => Y
+    [leadId] => 
+    [companyId] => 12585
+    [contactId] => 18753
+    [quoteId] => 
+    [title] => Заявка №68873 
+    [productId] => 
+    [categoryId] => 3
+    [stageId] => C3:UC_Z3XF4V
+    [stageSemanticId] => P
+    [isNew] => N
+    [isRecurring] => N
+    [isReturnCustomer] => Y
+    [isRepeatedApproach] => N
+    [closed] => N
+    [typeId] => SALE
+    [opportunity] => 430000
+    [isManualOpportunity] => N
+    [taxValue] => 0
+    [currencyId] => RUB
+    [probability] => 
+    [comments] => [p]
+Авто 8
+[/p]
+    [begindate] => 2025-10-30T03:00:00+03:00
+    [begindateShort] => 
+    [closedate] => 2025-11-06T03:00:00+03:00
+    [closedateShort] => 
+    [eventDate] => 
+    [eventDateShort] => 
+    [eventId] => 
+    [eventDescription] => 
+    [locationId] => 
+    [webformId] => 0
+    [sourceId] => 
+    [sourceDescription] => 
+    [originatorId] => 
+    [originId] => 
+    [additionalInfo] => 
+    [searchContent] => 68873 Заявка №68873  430000.00 Российский рубль Евгения Банных Банных ООО "ИЗ-КАРТЭКС ИМЕНИ П.Г. КОРОБКОВА" Крылов Александр Васильевич ИЗ-КАРТЭКС 79111114206 89111114206 9111114206 111114206 11114206 1114206 114206 14206 4206 206 Nyrxfnaqe Xelybi vm xnegrk pbz Продажа Принята в работу 30.10.2025 06.11.2025 [c]
+Авто 8
+[/c] НДС 0% не выбрано Тентованный 20 82 Верхняя Колпино ул. Финляндская 21К тер. Ижорский завод / 09:00 - 18:00 Алмалык (промзона центральные склады АГМК) / Ходовая телега ЭКГ-15 (0011 012 035) 3 сканов календарных 60 ООО ТИТАН ТИТ/К-2025 от 07.05.2025 Нет Да Санкт-Петербург Северо-Западный Узбекистан 0 Прочее 965191 12585
+    [orderStage] => 
+    [movedBy] => 79
+    [movedTime] => 2025-10-30T10:53:24+03:00
+    [lastActivityBy] => 79
+    [lastActivityTime] => 2025-10-30T10:53:24+03:00
+    [isWork] => 
+    [isWon] => 
+    [isLose] => 
+    [receivedAmount] => 
+    [lostAmount] => 
+    [hasProducts] => 
+    [lastCommunicationTime] => 
+    [lastCommunicationCallTime] => 
+    [lastCommunicationEmailTime] => 
+    [lastCommunicationImolTime] => 
+    [lastCommunicationWebformTime] => 
+    [ufCrm_68495C24D8CC7] => 
+    [ufCrm_1710929061] => 18753
+    [ufCrm_1685448418279] => 633
+    [ufCrm_1685448569843] => 
+    [ufCrm_1685448955135] => 
+    [ufCrm_1685448994534] => 
+    [ufCrm_1685449155866] => 
+    [ufCrm_1685449181837] => 
+    [ufCrm_1685449285997] => 
+    [ufCrm_1685449365644] => 
+    [ufCrm_1685449392956] => 
+    [ufCrm_1685449419264] => 
+    [ufCrm_1685449442772] => 
+    [ufCrm_1685449464543] => 
+    [ufCrm_1685607183] => Array
+        (
+            [0] => 9
+        )
+
+    [ufCrm_1685607279] => Array
+        (
+        )
+
+    [ufCrm_1685607616333] => 20
+    [ufCrm_1685607632335] => 82
+    [ufCrm_1685610857] => Array
+        (
+            [0] => 5
+        )
+
+    [ufCrm_1685610869] => Array
+        (
+            [0] => 5
+        )
+
+    [ufCrm_1685946818771] => 
+    [ufCrm_1685947596619] => 
+    [ufCrm_1685947790] => 
+    [ufCrm_1685947801] => 
+    [ufCrm_1685947898269] => 
+    [ufCrm_1686643041340] => 
+    [ufCrm_1686643609612] => Array
+        (
+        )
+
+    [ufCrm_1686643626309] => Array
+        (
+        )
+
+    [ufCrm_1686643637433] => Array
+        (
+        )
+
+    [ufCrm_1686643646726] => 
+    [ufCrm_1687107859] => Array
+        (
+            [0] => 11621
+        )
+
+    [ufCrm_1687107890] => Array
+        (
+            [0] => 12381
+        )
+
+    [ufCrm_1687108914] => 
+    [ufCrm_1687109389917] => Ходовая телега ЭКГ-15 (0011, 012, 035)
+    [ufCrm_1687109404464] => 3
+    [ufCrm_1687109543355] => 
+    [ufCrm_1687109854073] => 
+    [ufCrm_1687115293918] => 
+    [ufCrm_1687115562729] => 
+    [ufCrm_1687176385460] => 117
+    [ufCrm_1687177493980] => 123
+    [ufCrm_1687177526908] => 60
+    [ufCrm_1687178110510] => Array
+        (
+        )
+
+    [ufCrm_1687182766] => Array
+        (
+            [0] => 1563
+        )
+
+    [ufCrm_1687182809] => Array
+        (
+            [0] => 3437
+        )
+
+    [ufCrm_1687184218178] => 125
+    [ufCrm_1687186533943] => ТИТ/К-2025 от 07.05.2025
+    [ufCrm_1687186792] => 
+    [ufCrm_1687186968668] => 
+    [ufCrm_1687194036908] => 
+    [ufCrm_1687194051540] => 
+    [ufCrm_1687195163264] => 
+    [ufCrm_1687852738670] => 
+    [ufCrm_1687955784869] => 179
+    [ufCrm_1687955825300] => 181
+    [ufCrm_1687962811] => 115
+    [ufCrm_1687962822] => 
+    [ufCrm_1687962839] => 7
+    [ufCrm_1687962857] => 23
+    [ufCrm_1688128191] => 
+    [ufCrm_1688642681] => 
+    [ufCrm_1689069120046] => 
+    [ufCrm_1689777985784] => 
+    [ufCrm_1690443091] => 
+    [ufCrm_1690443106] => 
+    [ufCrm_1691747413] => 
+    [ufCrm_1702628890342] => 
+    [ufCrm_1702909711802] => 
+    [ufCrm_1702909719775] => 
+    [ufCrm_659FE12F7EF2A] => 
+    [ufCrm_659FE12F90AB2] => 
+    [ufCrm_659FE12F9D913] => 
+    [ufCrm_659FE12FA9AE3] => 
+    [ufCrm_1707831352715] => Array
+        (
+        )
+
+    [ufCrm_1707831483870] => Array
+        (
+        )
+
+    [ufCrm_1707831528750] => Array
+        (
+        )
+
+    [ufCrm_1708065922853] => 
+    [ufCrm_1708067866988] => 
+    [ufCrm_1708086020771] => Array
+        (
+        )
+
+    [ufCrm_1708086081746] => Array
+        (
+        )
+
+    [ufCrm_1708087800773] => Array
+        (
+        )
+
+    [ufCrm_1708089874281] => 
+    [ufCrm_1708609902536] => 
+    [ufCrm_1709046130652] => 
+    [ufCrm_1709046160362] => 
+    [ufCrm_1709104927] => Array
+        (
+        )
+
+    [ufCrm_1709304243391] => Array
+        (
+        )
+
+    [ufCrm_1709304277447] => Array
+        (
+        )
+
+    [ufCrm_1709305557021] => Array
+        (
+        )
+
+    [ufCrm_1710413258857] => 
+    [ufCrm_1710424187942] => 
+    [ufCrm_1710486502240] => Array
+        (
+        )
+
+    [ufCrm_1710503827310] => 
+    [ufCrm_1710918090356] => 
+    [ufCrm_1710923632] => 
+    [ufCrm_1711008688919] => 
+    [ufCrm_1711008706573] => 
+    [ufCrm_1711026029160] => 
+    [ufCrm_1711026062311] => 
+    [ufCrm_1711030761] => 
+    [ufCrm_1711030787] => 
+    [ufCrm_1711104265517] => 
+    [ufCrm_1711119784167] => 
+    [ufCrm_1711119810890] => 
+    [ufCrm_1711120122755] => 
+    [ufCrm_1711120264471] => 
+    [ufCrm_1712845927750] => Array
+        (
+        )
+
+    [ufCrm_1713344609091] => 
+    [ufCrm_1713344700731] => 
+    [ufCrm_1713344992512] => 
+    [ufCrm_1713345019977] => 
+    [ufCrm_1713787279951] => 
+    [ufCrm_1713949601794] => Array
+        (
+        )
+
+    [ufCrm_1713951931] => 
+    [ufCrm_1713954103] => 
+    [ufCrm_1714735163955] => Array
+        (
+        )
+
+    [ufCrm_1714736289232] => Array
+        (
+        )
+
+    [ufCrm_1714736386265] => Array
+        (
+        )
+
+    [ufCrm_1714736433005] => Array
+        (
+        )
+
+    [ufCrm_1714736557243] => 
+    [ufCrm_1714737242297] => Array
+        (
+        )
+
+    [ufCrm_1714737336869] => Array
+        (
+        )
+
+    [ufCrm_1714737481914] => Array
+        (
+        )
+
+    [ufCrm_1714737502969] => 
+    [ufCrm_1714980095] => 
+    [ufCrm_1715459773745] => 
+    [ufCrm_1715842716976] => 
+    [ufCrm_1715848210165] => Array
+        (
+        )
+
+    [ufCrm_1715858629391] => 
+    [ufCrm_1716793174205] => 
+    [ufCrm_1717242703] => 
+    [ufCrm_1717252958] => 0
+    [ufCrm_1717253360] => 
+    [ufCrm_1717254137] => 537
+    [ufCrm_1717422174197] => 
+    [ufCrm_1717422241506] => Array
+        (
+            [0] => 09:00 - 18:00
+        )
+
+    [ufCrm_1720088018603] => 
+    [ufCrm_1720088085835] => 
+    [ufCrm_1720524538] => 
+    [ufCrm_1720525519739] => 965191
+    [ufCrm_1721302233095] => 
+    [ufCrm_1721596593] => Array
+        (
+        )
+
+    [ufCrm_1721596725] => Array
+        (
+        )
+
+    [ufCrm_1726150574159] => 
+    [ufCrm_1726150606543] => 
+    [ufCrm_1726150642970] => Array
+        (
+        )
+
+    [ufCrm_1726150675837] => 
+    [ufCrm_1726150700381] => 
+    [ufCrm_1728985685293] => 
+    [ufCrm_1730803737671] => 
+    [ufCrm_1730803767480] => 
+    [ufCrm_1731575329999] => 12585
+    [ufCrm_1731912170676] => 
+    [ufCrm_1732628203053] => 68873
+    [ufCrm_1733222686442] => 68873
+    [ufCrm_675047C3F23C9] => 
+    [ufCrm_675047C42719A] => Array
+        (
+        )
+
+    [ufCrm_675047C43923A] => 
+    [ufCrm_675047C44B00B] => 
+    [ufCrm_675047C45C660] => 
+    [ufCrm_1733921113743] => 
+    [ufCrm_1734417406169] => 
+    [ufCrm_1734426785419] => Array
+        (
+        )
+
+    [ufCrm_1734429181439] => Array
+        (
+        )
+
+    [ufCrm_1739402109658] => 
+    [ufCrm_1740058023331] => 
+    [ufCrm_1741757989597] => 
+    [ufCrm_67DA9E91F0D1C] => 
+    [ufCrm_67DA9E9211381] => 
+    [ufCrm_67DA9E9222E11] => 
+    [ufCrm_67DA9E937B17F] => 
+    [ufCrm_67DA9E938BDDF] => 
+    [ufCrm_67E54EDD2ACCC] => 
+    [ufCrm_67E54EDD3F483] => 
+    [ufCrm_67E54EDD535DC] => 
+    [ufCrm_67E54EDD66D48] => 
+    [ufCrm_67E54EDD7ADA7] => 
+    [ufCrm_67E54EDD8E692] => 
+    [ufCrm_1743671069] => N
+    [ufCrm_1743672497566] => 
+    [ufCrm_1744888615954] => 
+    [ufCrm_1744954846442] => N
+    [ufCrm_1744955504628] => 
+    [ufCrm_1745233521241] => 
+    [ufCrm_68495C24F1A21] => 
+    [ufCrm_68495C2511F35] => N
+    [ufCrm_1752661131702] => 
+    [ufCrm_1753079367] => 
+    [ufCrm_687DDF0D50088] => 
+    [ufCrm_687DDFCE1B8D4] => 
+    [ufCrm_1755172235453] => 
+    [ufCrm_1755500334950] => 
+    [ufCrm_1755810152406] => 
+    [ufCrm_1756200419592] => 
+    [ufCrm_1756390566] => Array
+        (
+        )
+
+    [ufCrm_1756979001618] => 
+    [ufCrm_68B97C28B32E1] => 
+    [ufCrm_68B99025D71BA] => 
+    [ufCrm_1760105367899] => 
+    [ufCrmIdDealSales] => 
+    [ufCrmScanDate] => 
+    [ufCrmOrigDate] => 
+    [ufCrmOverdueLoading] => 
+    [ufCrmOverdueUnloading] => 
+    [ufCrmTaskIdZayavka] => 
+    [ufCrm_68495C2524188] => 
+    [parentId137] => 
+    [parentId141] => 
+    [parentId159] => 
+    [parentId162] => 
+    [utmSource] => 
+    [utmMedium] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [observers] => Array
+        (
+        )
+
+    [contactIds] => Array
+        (
+            [0] => 18753
+        )
+
+    [entityTypeId] => 2
+)
+
+element
+Array
+(
+    [id] => 68871
+    [createdTime] => 2025-10-30T10:53:07+03:00
+    [dateCreateShort] => 
+    [updatedTime] => 2025-10-30T10:53:24+03:00
+    [dateModifyShort] => 
+    [createdBy] => 79
+    [updatedBy] => 1
+    [assignedById] => 29
+    [opened] => Y
+    [leadId] => 
+    [companyId] => 0
+    [contactId] => 0
+    [quoteId] => 
+    [title] => Заявка №68869 
+    [productId] => 
+    [categoryId] => 5
+    [stageId] => C5:NEW
+    [stageSemanticId] => P
+    [isNew] => Y
+    [isRecurring] => N
+    [isReturnCustomer] => N
+    [isRepeatedApproach] => N
+    [closed] => N
+    [typeId] => SALE
+    [opportunity] => 430000
+    [isManualOpportunity] => Y
+    [taxValue] => 0
+    [currencyId] => RUB
+    [probability] => 
+    [comments] => [p]
+Авто 8
+[/p]
+    [begindate] => 2025-10-30T03:00:00+03:00
+    [begindateShort] => 
+    [closedate] => 2025-11-06T03:00:00+03:00
+    [closedateShort] => 
+    [eventDate] => 
+    [eventDateShort] => 
+    [eventId] => 
+    [eventDescription] => 
+    [locationId] => 
+    [webformId] => 0
+    [sourceId] => 
+    [sourceDescription] => 
+    [originatorId] => 
+    [originId] => 
+    [additionalInfo] => 
+    [searchContent] => 68871 Заявка №68869  430000.00 Российский рубль Валентин Коляденко Продажа Новая заявка 30.10.2025 06.11.2025 [c]
+Авто 8
+[/c] НДС 0% не выбрано Тентованный 20 82 Верхняя Колпино ул. Финляндская 21К тер. Ижорский завод / 09.11.2025 09:00 - 18:00 Алмалык (промзона центральные склады АГМК) / 18.11.2025 Ходовая телега ЭКГ-15 (0011 012 035) 3 ООО ТИТАН Нет Да Санкт-Петербург Северо-Западный Узбекистан Отдельной машиной Заявка №68869 Евгения Банных 09.11.2025 18.11.2025 ООО &dhbg;ИЗ-КАРТЭКС ИМЕНИ П.Г. КОРОБКОВА&dhbg; 0 Прочее 965177 68869
+    [orderStage] => 
+    [movedBy] => 79
+    [movedTime] => 2025-10-30T10:53:07+03:00
+    [lastActivityBy] => 79
+    [lastActivityTime] => 2025-10-30T10:53:07+03:00
+    [isWork] => 
+    [isWon] => 
+    [isLose] => 
+    [receivedAmount] => 
+    [lostAmount] => 
+    [hasProducts] => 
+    [lastCommunicationTime] => 
+    [lastCommunicationCallTime] => 
+    [lastCommunicationEmailTime] => 
+    [lastCommunicationImolTime] => 
+    [lastCommunicationWebformTime] => 
+    [ufCrm_68495C24D8CC7] => 
+    [ufCrm_1710929061] => 
+    [ufCrm_1685448418279] => 633
+    [ufCrm_1685448569843] => 
+    [ufCrm_1685448955135] => 
+    [ufCrm_1685448994534] => 
+    [ufCrm_1685449155866] => 
+    [ufCrm_1685449181837] => 
+    [ufCrm_1685449285997] => 
+    [ufCrm_1685449365644] => 
+    [ufCrm_1685449392956] => 
+    [ufCrm_1685449419264] => 
+    [ufCrm_1685449442772] => 
+    [ufCrm_1685449464543] => 
+    [ufCrm_1685607183] => Array
+        (
+            [0] => 9
+        )
+
+    [ufCrm_1685607279] => Array
+        (
+        )
+
+    [ufCrm_1685607616333] => 20
+    [ufCrm_1685607632335] => 82
+    [ufCrm_1685610857] => Array
+        (
+            [0] => 5
+        )
+
+    [ufCrm_1685610869] => Array
+        (
+            [0] => 5
+        )
+
+    [ufCrm_1685946818771] => 
+    [ufCrm_1685947596619] => 
+    [ufCrm_1685947790] => 
+    [ufCrm_1685947801] => 
+    [ufCrm_1685947898269] => 
+    [ufCrm_1686643041340] => 
+    [ufCrm_1686643609612] => Array
+        (
+        )
+
+    [ufCrm_1686643626309] => Array
+        (
+        )
+
+    [ufCrm_1686643637433] => Array
+        (
+        )
+
+    [ufCrm_1686643646726] => 
+    [ufCrm_1687107859] => Array
+        (
+            [0] => 11619
+        )
+
+    [ufCrm_1687107890] => Array
+        (
+            [0] => 12379
+        )
+
+    [ufCrm_1687108914] => 
+    [ufCrm_1687109389917] => Ходовая телега ЭКГ-15 (0011, 012, 035)
+    [ufCrm_1687109404464] => 3
+    [ufCrm_1687109543355] => 
+    [ufCrm_1687109854073] => 
+    [ufCrm_1687115293918] => 
+    [ufCrm_1687115562729] => 
+    [ufCrm_1687176385460] => 
+    [ufCrm_1687177493980] => 
+    [ufCrm_1687177526908] => 
+    [ufCrm_1687178110510] => Array
+        (
+        )
+
+    [ufCrm_1687182766] => Array
+        (
+            [0] => 1563
+        )
+
+    [ufCrm_1687182809] => Array
+        (
+            [0] => 3437
+        )
+
+    [ufCrm_1687184218178] => 125
+    [ufCrm_1687186533943] => 
+    [ufCrm_1687186792] => 
+    [ufCrm_1687186968668] => 
+    [ufCrm_1687194036908] => 
+    [ufCrm_1687194051540] => 
+    [ufCrm_1687195163264] => 
+    [ufCrm_1687852738670] => 
+    [ufCrm_1687955784869] => 179
+    [ufCrm_1687955825300] => 181
+    [ufCrm_1687962811] => 115
+    [ufCrm_1687962822] => 
+    [ufCrm_1687962839] => 7
+    [ufCrm_1687962857] => 23
+    [ufCrm_1688128191] => 
+    [ufCrm_1688642681] => 
+    [ufCrm_1689069120046] => 
+    [ufCrm_1689777985784] => 193
+    [ufCrm_1690443091] => 68869
+    [ufCrm_1690443106] => 
+    [ufCrm_1691747413] => 
+    [ufCrm_1702628890342] => 
+    [ufCrm_1702909711802] => 
+    [ufCrm_1702909719775] => 
+    [ufCrm_659FE12F7EF2A] => 
+    [ufCrm_659FE12F90AB2] => 
+    [ufCrm_659FE12F9D913] => 79
+    [ufCrm_659FE12FA9AE3] => 
+    [ufCrm_1707831352715] => Array
+        (
+        )
+
+    [ufCrm_1707831483870] => Array
+        (
+        )
+
+    [ufCrm_1707831528750] => Array
+        (
+        )
+
+    [ufCrm_1708065922853] => 
+    [ufCrm_1708067866988] => 
+    [ufCrm_1708086020771] => Array
+        (
+        )
+
+    [ufCrm_1708086081746] => Array
+        (
+        )
+
+    [ufCrm_1708087800773] => Array
+        (
+        )
+
+    [ufCrm_1708089874281] => 
+    [ufCrm_1708609902536] => 
+    [ufCrm_1709046130652] => 
+    [ufCrm_1709046160362] => 
+    [ufCrm_1709104927] => Array
+        (
+        )
+
+    [ufCrm_1709304243391] => Array
+        (
+        )
+
+    [ufCrm_1709304277447] => Array
+        (
+        )
+
+    [ufCrm_1709305557021] => Array
+        (
+        )
+
+    [ufCrm_1710413258857] => 
+    [ufCrm_1710424187942] => 
+    [ufCrm_1710486502240] => Array
+        (
+        )
+
+    [ufCrm_1710503827310] => 
+    [ufCrm_1710918090356] => 
+    [ufCrm_1710923632] => 
+    [ufCrm_1711008688919] => 2025-11-09T03:00:00+03:00
+    [ufCrm_1711008706573] => 2025-11-18T03:00:00+03:00
+    [ufCrm_1711026029160] => 
+    [ufCrm_1711026062311] => 
+    [ufCrm_1711030761] => 12585
+    [ufCrm_1711030787] => 
+    [ufCrm_1711104265517] => 
+    [ufCrm_1711119784167] => 
+    [ufCrm_1711119810890] => 
+    [ufCrm_1711120122755] => 
+    [ufCrm_1711120264471] => 
+    [ufCrm_1712845927750] => Array
+        (
+        )
+
+    [ufCrm_1713344609091] => 
+    [ufCrm_1713344700731] => 
+    [ufCrm_1713344992512] => 
+    [ufCrm_1713345019977] => 
+    [ufCrm_1713787279951] => 
+    [ufCrm_1713949601794] => Array
+        (
+        )
+
+    [ufCrm_1713951931] => 
+    [ufCrm_1713954103] => 
+    [ufCrm_1714735163955] => Array
+        (
+        )
+
+    [ufCrm_1714736289232] => Array
+        (
+        )
+
+    [ufCrm_1714736386265] => Array
+        (
+        )
+
+    [ufCrm_1714736433005] => Array
+        (
+        )
+
+    [ufCrm_1714736557243] => 
+    [ufCrm_1714737242297] => Array
+        (
+        )
+
+    [ufCrm_1714737336869] => Array
+        (
+        )
+
+    [ufCrm_1714737481914] => Array
+        (
+        )
+
+    [ufCrm_1714737502969] => 
+    [ufCrm_1714980095] => 
+    [ufCrm_1715459773745] => ООО "ИЗ-КАРТЭКС ИМЕНИ П.Г. КОРОБКОВА" (7817301375)
+    [ufCrm_1715842716976] => 
+    [ufCrm_1715848210165] => Array
+        (
+        )
+
+    [ufCrm_1715858629391] => 
+    [ufCrm_1716793174205] => 
+    [ufCrm_1717242703] => 
+    [ufCrm_1717252958] => 0
+    [ufCrm_1717253360] => 
+    [ufCrm_1717254137] => 537
+    [ufCrm_1717422174197] => 
+    [ufCrm_1717422241506] => Array
+        (
+            [0] => 09:00 - 18:00
+        )
+
+    [ufCrm_1720088018603] => 
+    [ufCrm_1720088085835] => 
+    [ufCrm_1720524538] => 
+    [ufCrm_1720525519739] => 965177
+    [ufCrm_1721302233095] => 
+    [ufCrm_1721596593] => Array
+        (
+        )
+
+    [ufCrm_1721596725] => Array
+        (
+        )
+
+    [ufCrm_1726150574159] => 
+    [ufCrm_1726150606543] => 
+    [ufCrm_1726150642970] => Array
+        (
+        )
+
+    [ufCrm_1726150675837] => 
+    [ufCrm_1726150700381] => 
+    [ufCrm_1728985685293] => 
+    [ufCrm_1730803737671] => 
+    [ufCrm_1730803767480] => 
+    [ufCrm_1731575329999] => 
+    [ufCrm_1731912170676] => 
+    [ufCrm_1732628203053] => 68871
+    [ufCrm_1733222686442] => 68871
+    [ufCrm_675047C3F23C9] => 
+    [ufCrm_675047C42719A] => Array
+        (
+        )
+
+    [ufCrm_675047C43923A] => 
+    [ufCrm_675047C44B00B] => 
+    [ufCrm_675047C45C660] => 
+    [ufCrm_1733921113743] => 
+    [ufCrm_1734417406169] => 
+    [ufCrm_1734426785419] => Array
+        (
+        )
+
+    [ufCrm_1734429181439] => Array
+        (
+        )
+
+    [ufCrm_1739402109658] => 
+    [ufCrm_1740058023331] => 
+    [ufCrm_1741757989597] => 
+    [ufCrm_67DA9E91F0D1C] => 
+    [ufCrm_67DA9E9211381] => 
+    [ufCrm_67DA9E9222E11] => 
+    [ufCrm_67DA9E937B17F] => 
+    [ufCrm_67DA9E938BDDF] => 
+    [ufCrm_67E54EDD2ACCC] => 
+    [ufCrm_67E54EDD3F483] => 
+    [ufCrm_67E54EDD535DC] => 
+    [ufCrm_67E54EDD66D48] => 
+    [ufCrm_67E54EDD7ADA7] => 
+    [ufCrm_67E54EDD8E692] => 
+    [ufCrm_1743671069] => N
+    [ufCrm_1743672497566] => 
+    [ufCrm_1744888615954] => 
+    [ufCrm_1744954846442] => N
+    [ufCrm_1744955504628] => 
+    [ufCrm_1745233521241] => 
+    [ufCrm_68495C24F1A21] => 
+    [ufCrm_68495C2511F35] => N
+    [ufCrm_1752661131702] => 
+    [ufCrm_1753079367] => 
+    [ufCrm_687DDF0D50088] => 
+    [ufCrm_687DDFCE1B8D4] => 
+    [ufCrm_1755172235453] => 
+    [ufCrm_1755500334950] => 
+    [ufCrm_1755810152406] => 
+    [ufCrm_1756200419592] => 
+    [ufCrm_1756390566] => Array
+        (
+        )
+
+    [ufCrm_1756979001618] => 
+    [ufCrm_68B97C28B32E1] => 
+    [ufCrm_68B99025D71BA] => 
+    [ufCrm_1760105367899] => 
+    [ufCrmIdDealSales] => 68869
+    [ufCrmScanDate] => 
+    [ufCrmOrigDate] => 
+    [ufCrmOverdueLoading] => 
+    [ufCrmOverdueUnloading] => 
+    [ufCrmTaskIdZayavka] => 
+    [ufCrm_68495C2524188] => 
+    [parentId137] => 
+    [parentId141] => 
+    [parentId159] => 
+    [parentId162] => 
+    [utmSource] => 
+    [utmMedium] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [observers] => Array
+        (
+        )
+
+    [contactIds] => Array
+        (
+        )
+
+    [entityTypeId] => 2
+)
+

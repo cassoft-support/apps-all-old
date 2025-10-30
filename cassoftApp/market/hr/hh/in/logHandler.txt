@@ -1,0 +1,26 @@
+---------------------23.06.2025MSK10:35:26
+Array
+(
+    [id] => notification278667topic4575836538
+    [payload] => Array
+        (
+            [topic_id] => 4575836538
+            [resume_id] => 311ae589000ea5cd74001f4d2c52664c645768
+            [vacancy_id] => 121131248
+            [employer_id] => 2051372
+            [negotiation_date] => 2025-06-23T09:23:47+0300
+        )
+
+    [subscription_id] => 278667
+    [action_type] => NEW_NEGOTIATION_VACANCY
+    [user_id] => 156209206
+)
+
+memberId
+177649d0d08d8bdd5106f15a0fb6ab8d
+rest
+Array
+(
+    [ID] => 2
+)
+

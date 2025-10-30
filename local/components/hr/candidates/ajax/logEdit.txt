@@ -1,0 +1,40 @@
+21.07.2024MSK18:07
+Array
+(
+    [AUTH_ID] => 4c329d66005567d6006edb080000000b000007a0313715b1602eb92cc9584108b647a9
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 3cb1c466005567d6006edb080000000b000007db88e5d72e539d5312d5a2557fbe4d42
+    [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+    [status] => F
+    [PLACEMENT] => REST_APP_URI
+    [PLACEMENT_OPTIONS] => "{\u0022SmartId\u0022:\u00223\u0022,\u0022AppId\u0022:\u0022hr_pro\u0022,\u0022AppType\u0022:\u0022candidates\u0022}"
+)
+Array
+(
+    [DOMAIN] => beregone.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 02f293cfd2bc465ba1b34a119040ab55
+    [AUTH_ID] => 4c329d66005567d6006edb080000000b000007a0313715b1602eb92cc9584108b647a9
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 3cb1c466005567d6006edb080000000b000007db88e5d72e539d5312d5a2557fbe4d42
+    [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+    [status] => F
+    [PLACEMENT] => REST_APP_URI
+    [PLACEMENT_OPTIONS] => &quot;{\u0022SmartId\u0022:\u00223\u0022,\u0022AppId\u0022:\u0022hr_pro\u0022,\u0022AppType\u0022:\u0022candidates\u0022}&quot;
+    [app] => hr_pro
+    [CACHE_TYPE] => A
+    [~DOMAIN] => beregone.bitrix24.ru
+    [~PROTOCOL] => 1
+    [~LANG] => ru
+    [~APP_SID] => 02f293cfd2bc465ba1b34a119040ab55
+    [~AUTH_ID] => 4c329d66005567d6006edb080000000b000007a0313715b1602eb92cc9584108b647a9
+    [~AUTH_EXPIRES] => 3600
+    [~REFRESH_ID] => 3cb1c466005567d6006edb080000000b000007db88e5d72e539d5312d5a2557fbe4d42
+    [~member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+    [~status] => F
+    [~PLACEMENT] => REST_APP_URI
+    [~PLACEMENT_OPTIONS] => "{\u0022SmartId\u0022:\u00223\u0022,\u0022AppId\u0022:\u0022hr_pro\u0022,\u0022AppType\u0022:\u0022candidates\u0022}"
+    [~app] => hr_pro
+    [~CACHE_TYPE] => A
+)

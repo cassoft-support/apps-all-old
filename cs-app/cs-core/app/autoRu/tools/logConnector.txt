@@ -1,0 +1,18 @@
+---------------------11.06.2025MSK16:05:25
+{"profile":"iuA7xaVoRc0kPeJI","app_code":"auto_ru","member_id":"b176cc28ddd836fa2c7d93e81fff15df"}
+SERVER_DOCUMENT_ROOT
+/var/www/www-root/data/www/app.cassoft.ru
+data
+Array
+(
+    [profile] => iuA7xaVoRc0kPeJI
+    [app_code] => auto_ru
+    [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+)
+
+fileAdd
+/var/www/www-root/data/www/app.cassoft.ru/cassoftApp/market/mcm/in/b176cc28ddd836fa2c7d93e81fff15df_iuA7xaVoRc0kPeJI.php
+add
+1
+res
+Файл /cassoftApp/market/mcm/in/b176cc28ddd836fa2c7d93e81fff15df_iuA7xaVoRc0kPeJI.php существует

@@ -1,0 +1,176 @@
+messages
+Array
+(
+    [id] => 3EB0D99B4B3180544C35FA
+    [profile_id] => c40b7054-9f50
+    [wh_type] => outgoing_message_api
+    [timestamp] => 2025-04-25T10:21:34+03:00
+    [time] => 1745565694
+    [body] => Пожалуйста, оцените качество обслуживания.
+
+Отправьте: 1 - хорошо, 0 - плохо
+    [type] => chat
+    [from] => 79877955613@c.us
+    [to] => 79955003579@c.us
+    [senderName] => CAS-soft
+    [senderLastName] => 
+    [chatId] => 79955003579@c.us
+    [caption] => 
+    [from_where] => api
+    [contact_name] => Андрей
+    [contact_phone] => 
+    [contact_username] => 
+    [is_forwarded] => 
+    [isReply] => 
+    [is_edited] => 
+    [stanza_id] => 
+    [is_me] => 1
+    [chat_type] => dialog
+    [task_id] => 9eb629c1-7fb6-45e6-b891-2cb57a0b9de0
+    [isGif] => 
+    [thumbnail] => 
+    [picture] => 
+    [wappi_bot_id] => 
+    [is_deleted] => 
+    [is_bot] => 
+)
+
+messages
+Array
+(
+    [id] => 3EB0FC1E1C008790FC1678
+    [profile_id] => c40b7054-9f50
+    [wh_type] => outgoing_message_api
+    [timestamp] => 2025-04-25T10:21:34+03:00
+    [time] => 1745565694
+    [body] => Спасибо, что обратились в нашу компанию.
+    [type] => chat
+    [from] => 79877955613@c.us
+    [to] => 79955003579@c.us
+    [senderName] => CAS-soft
+    [senderLastName] => 
+    [chatId] => 79955003579@c.us
+    [caption] => 
+    [from_where] => api
+    [contact_name] => Андрей
+    [contact_phone] => 
+    [contact_username] => 
+    [is_forwarded] => 
+    [isReply] => 
+    [is_edited] => 
+    [stanza_id] => 
+    [is_me] => 1
+    [chat_type] => dialog
+    [task_id] => e0df3e2a-168c-4b32-b5be-a136e7732054
+    [isGif] => 
+    [thumbnail] => 
+    [picture] => 
+    [wappi_bot_id] => 
+    [is_deleted] => 
+    [is_bot] => 
+)
+
+messages
+Array
+(
+    [id] => 3EB0FC894B81390581BD12
+    [profile_id] => c40b7054-9f50
+    [wh_type] => outgoing_message_api
+    [timestamp] => 2025-04-25T11:26:48+03:00
+    [time] => 1745569608
+    [body] => Андрей Черкасов: ghgjhs
+    [type] => chat
+    [from] => 79877955613@c.us
+    [to] => 79955003579@c.us
+    [senderName] => CAS-soft
+    [senderLastName] => 
+    [chatId] => 79955003579@c.us
+    [caption] => 
+    [from_where] => api
+    [contact_name] => Андрей
+    [contact_phone] => 
+    [contact_username] => 
+    [is_forwarded] => 
+    [isReply] => 
+    [is_edited] => 
+    [stanza_id] => 
+    [is_me] => 1
+    [chat_type] => dialog
+    [task_id] => aed57429-12c3-48c2-8a33-eacde8e0ff93
+    [isGif] => 
+    [thumbnail] => 
+    [picture] => 
+    [wappi_bot_id] => 
+    [is_deleted] => 
+    [is_bot] => 
+)
+
+messages
+Array
+(
+    [id] => 3EB0F6C300C07733A50953
+    [profile_id] => c40b7054-9f50
+    [wh_type] => outgoing_message_api
+    [timestamp] => 2025-04-25T11:27:39+03:00
+    [time] => 1745569659
+    [body] => Андрей Черкасов: yryry
+    [type] => chat
+    [from] => 79877955613@c.us
+    [to] => 79955003579@c.us
+    [senderName] => CAS-soft
+    [senderLastName] => 
+    [chatId] => 79955003579@c.us
+    [caption] => 
+    [from_where] => api
+    [contact_name] => Андрей
+    [contact_phone] => 
+    [contact_username] => 
+    [is_forwarded] => 
+    [isReply] => 
+    [is_edited] => 
+    [stanza_id] => 
+    [is_me] => 1
+    [chat_type] => dialog
+    [task_id] => b4cbb281-e803-4ef2-80c7-f1593845538d
+    [isGif] => 
+    [thumbnail] => 
+    [picture] => 
+    [wappi_bot_id] => 
+    [is_deleted] => 
+    [is_bot] => 
+)
+
+messages
+Array
+(
+    [id] => 3FC01601A1463A33F53D
+    [profile_id] => c40b7054-9f50
+    [wh_type] => outgoing_message_phone
+    [timestamp] => 2025-04-25T11:27:49+03:00
+    [time] => 1745569669
+    [body] => dewqd
+    [type] => chat
+    [from] => 79877955613@c.us
+    [to] => 79955003579@c.us
+    [senderName] => CAS-soft
+    [senderLastName] => 
+    [chatId] => 79955003579@c.us
+    [caption] => 
+    [from_where] => phone
+    [contact_name] => Андрей
+    [contact_phone] => 
+    [contact_username] => 
+    [is_forwarded] => 
+    [isReply] => 
+    [is_edited] => 
+    [stanza_id] => 
+    [is_me] => 1
+    [chat_type] => dialog
+    [isGif] => 
+    [thumbnail] => https://fs.wappi.pro/fs/downloadFile/c40b7054-9f50/avatars/tumb_79877955613.jpg
+    [picture] => 
+    [wappi_bot_id] => 
+    [is_deleted] => 
+    [is_bot] => 
+)
+

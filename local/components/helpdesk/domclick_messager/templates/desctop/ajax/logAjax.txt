@@ -1,0 +1,82 @@
+---------------------17.01.2025MSK08:58:51
+Array
+(
+    [key] => eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOjEwMTgsImNvbXBhbnlfaWQiOjM0ODIyNCwiaWF0IjoxNzMyNzgyNzUxfQ.fi8Y7hnKbllMNR-NCYsiy5a2ME_yvN2K2zUHauFi4mDCyQOS2AnEh8VYPJcH47CWexFCT_Wtdql0MZHt_8Jvu_lpYBFtVn7a-iqsXTyGMLsaXsU307KjXl-9xxU-c7mcyl-gEfGjpK6cQmcSZunjuROJ4fTYm3qczJvUxSZvca-sWOfH7PRz5pdGS13MFDi1oVZJ5sH1YBg4reivj-EphZ87UzMXKM9Ic6FV2AWWRaOIcBSDF1z8pgaMoHBwzj5r0CRMSLSg6iKZOONqjTgmsl6g2e7lJ3inIvmqRT0XPGdPP6niDXW4VX6OwlCC3mgwpRuifK3z3EJpu0DAr2OeSA
+    [options] => {"CONNECTOR":"cs_domclick_connector","LINE":"26","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+    [app] => domclick_messager
+    [id] => 21488
+    [auth] => Array
+        (
+            [access_token] => a8ff896700543a28005d376e000001f4000007a280574c846240c664c9d1b86f4b870e
+            [refresh_token] => 987eb16700543a28005d376e000001f4000007f8f770cf91c02b0100f98e2a312c6067
+            [expires_in] => 1737097129262
+            [domain] => cbn.bitrix24.ru
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+        )
+
+)
+
+res
+Файл /cassoftApp/market/domclickMessager/in/d17d1d15669be52925cf091ae22002d4.php существует
+keyAuth
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOjEwMTgsImNvbXBhbnlfaWQiOjM0ODIyNCwiaWF0IjoxNzMyNzgyNzUxfQ.fi8Y7hnKbllMNR-NCYsiy5a2ME_yvN2K2zUHauFi4mDCyQOS2AnEh8VYPJcH47CWexFCT_Wtdql0MZHt_8Jvu_lpYBFtVn7a-iqsXTyGMLsaXsU307KjXl-9xxU-c7mcyl-gEfGjpK6cQmcSZunjuROJ4fTYm3qczJvUxSZvca-sWOfH7PRz5pdGS13MFDi1oVZJ5sH1YBg4reivj-EphZ87UzMXKM9Ic6FV2AWWRaOIcBSDF1z8pgaMoHBwzj5r0CRMSLSg6iKZOONqjTgmsl6g2e7lJ3inIvmqRT0XPGdPP6niDXW4VX6OwlCC3mgwpRuifK3z3EJpu0DAr2OeSA
+data
+Array
+(
+    [url] => https://app.cassoft.ru/cassoftApp/market/domclickMessager/in/d17d1d15669be52925cf091ae22002d4.php
+    [types] => Array
+        (
+            [0] => new_messages
+        )
+
+    [description] => CS domclick
+)
+
+resAddWebhook
+Array
+(
+    [success] => 1
+    [result] => Array
+        (
+            [url] => https://app.cassoft.ru/cassoftApp/market/domclickMessager/in/d17d1d15669be52925cf091ae22002d4.php
+            [description] => CS domclick
+            [types] => Array
+                (
+                    [0] => new_messages
+                )
+
+            [is_disabled] => 
+            [created_at] => 2025-01-15T15:50:00.674943
+            [updated_at] => 2025-01-15T16:03:06.770341
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+options
+Array
+(
+    [CONNECTOR] => cs_domclick_connector
+    [LINE] => 26
+    [STATUS] => 
+    [ACTIVE_STATUS] => 1
+    [CONNECTION_STATUS] => 
+    [REGISTER_STATUS] => 
+    [ERROR_STATUS] => 
+)
+
+activate
+Array
+(
+    [0] => 1
+)
+
+resSetupUp
+Array
+(
+    [0] => 1
+)
+

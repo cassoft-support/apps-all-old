@@ -1,0 +1,20 @@
+index
+2025-05-31T18:20:45+03:00
+Array
+(
+    [DOMAIN] => cassoft.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 83640b96298e68150daef980a7089fcb
+    [AUTH_ID] => 5d2c3b68005567d60036d58400000001000007ce69676f37f8146d698f4a17660d335c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4dab6268005567d60036d584000000010000070d09eb76b7093947a743712198e09c6f
+    [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"181\/"}
+)
+clientsAppArray
+(
+    [ID] => 3
+)

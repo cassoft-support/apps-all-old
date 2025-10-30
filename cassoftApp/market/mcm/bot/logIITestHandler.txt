@@ -1,0 +1,201 @@
+2025-06-04T18:25:14+03:00
+событие
+message
+{"assistant_id":"asst_FV65HqhOKED0btlF2tJMGflY","chat_id":"79265652446","profile_id":"e6f7f357-2187","task_result":"\"strana\": \"Турция\"\n\"region\": \"Западная часть Алании\"\n\"proekt\": \"Аренда квартиры в Алании с хорошей меблировкой\"\n\"summa\": \"1000-1300€\"\n\"result\": \"получить страну, сумму инвестиций , тип недвижимости, проект если клиент выбрал\"","json_result":{"strana":"Турция","region":"Западная часть Алании","proekt":"Аренда квартиры в Алании с хорошей меблировкой","summa":"1000-1300€","result":"получить страну, сумму инвестиций , тип недвижимости, проект если клиент выбрал"}}
+headers
+Array
+(
+    [Host] => app.cassoft.ru
+    [X-Forwarded-Proto] => https
+    [X-Forwarded-Port] => 443
+    [Connection] => close
+    [Content-Length] => 870
+    [content-type] => application/json
+    [accept] => application/json
+    [user-agent] => WapiAssistant
+    [accept-encoding] => gzip
+)
+
+result
+Array
+(
+    [assistant_id] => asst_FV65HqhOKED0btlF2tJMGflY
+    [chat_id] => 79265652446
+    [profile_id] => e6f7f357-2187
+    [task_result] => "strana": "Турция"
+"region": "Западная часть Алании"
+"proekt": "Аренда квартиры в Алании с хорошей меблировкой"
+"summa": "1000-1300€"
+"result": "получить страну, сумму инвестиций , тип недвижимости, проект если клиент выбрал"
+    [json_result] => Array
+        (
+            [strana] => Турция
+            [region] => Западная часть Алании
+            [proekt] => Аренда квартиры в Алании с хорошей меблировкой
+            [summa] => 1000-1300€
+            [result] => получить страну, сумму инвестиций , тип недвижимости, проект если клиент выбрал
+        )
+
+)
+
+2025-06-10T13:17:00+03:00
+событие
+message
+{"assistant_id":"asst_FV65HqhOKED0btlF2tJMGflY","chat_id":"77474625274","profile_id":"8aa85aa0-fab7","task_result":"\"strana\": \"Türkiye\"\n\"region\": \"Alanya\"\n\"proekt\": \"Payallar 1+1 daireler\"\n\"summa\": \"50.000 - 100.000 Euro\"\n\"result\": \"Havuz ve spor salonu olan 1+1 daireler\"","json_result":{"strana":"Türkiye","region":"Alanya","proekt":"Payallar 1+1 daireler","summa":"50.000 - 100.000 Euro","result":"Havuz ve spor salonu olan 1+1 daireler"}}
+headers
+Array
+(
+    [Host] => app.cassoft.ru
+    [X-Forwarded-Proto] => https
+    [X-Forwarded-Port] => 443
+    [Connection] => close
+    [Content-Length] => 468
+    [content-type] => application/json
+    [accept] => application/json
+    [user-agent] => WapiAssistant
+    [accept-encoding] => gzip
+)
+
+result
+Array
+(
+    [assistant_id] => asst_FV65HqhOKED0btlF2tJMGflY
+    [chat_id] => 77474625274
+    [profile_id] => 8aa85aa0-fab7
+    [task_result] => "strana": "Türkiye"
+"region": "Alanya"
+"proekt": "Payallar 1+1 daireler"
+"summa": "50.000 - 100.000 Euro"
+"result": "Havuz ve spor salonu olan 1+1 daireler"
+    [json_result] => Array
+        (
+            [strana] => Türkiye
+            [region] => Alanya
+            [proekt] => Payallar 1+1 daireler
+            [summa] => 50.000 - 100.000 Euro
+            [result] => Havuz ve spor salonu olan 1+1 daireler
+        )
+
+)
+
+2025-06-19T16:50:06+03:00
+событие
+message
+{"assistant_id":"asst_FV65HqhOKED0btlF2tJMGflY","chat_id":"905317185320","profile_id":"e6f7f357-2187","task_result":"\"strana\": \"Кипр\"\n\"region\": \"Северный Кипр\"\n\"proekt\": \"вакансии в отделе продаж\"\n\"summa\": \"не указана\"\n\"result\": \"обучение и стажировка в отделе продаж\"","json_result":{"strana":"Кипр","region":"Северный Кипр","proekt":"вакансии в отделе продаж","summa":"не указана","result":"обучение и стажировка в отделе продаж"}}
+headers
+Array
+(
+    [Host] => app.cassoft.ru
+    [X-Forwarded-Proto] => https
+    [X-Forwarded-Port] => 443
+    [Connection] => close
+    [Content-Length] => 613
+    [user-agent] => WapiAssistant
+    [content-type] => application/json
+    [accept] => application/json
+    [accept-encoding] => gzip
+)
+
+result
+Array
+(
+    [assistant_id] => asst_FV65HqhOKED0btlF2tJMGflY
+    [chat_id] => 905317185320
+    [profile_id] => e6f7f357-2187
+    [task_result] => "strana": "Кипр"
+"region": "Северный Кипр"
+"proekt": "вакансии в отделе продаж"
+"summa": "не указана"
+"result": "обучение и стажировка в отделе продаж"
+    [json_result] => Array
+        (
+            [strana] => Кипр
+            [region] => Северный Кипр
+            [proekt] => вакансии в отделе продаж
+            [summa] => не указана
+            [result] => обучение и стажировка в отделе продаж
+        )
+
+)
+
+2025-06-24T09:46:54+03:00
+событие
+message
+{"assistant_id":"asst_FV65HqhOKED0btlF2tJMGflY","chat_id":"79207051051","profile_id":"8aa85aa0-fab7","task_result":"\"strana\": \"Турция\"\n\"region\": \"Алания\"\n\"proekt\": \"оценка квартиры\"\n\"summa\": \"не указана\"\n\"result\": \"получить страну, сумму инвестиций , тип недвижимости, проект если клиент выбрал\"","json_result":{"strana":"Турция","region":"Алания","proekt":"оценка квартиры","summa":"не указана","result":"получить страну, сумму инвестиций , тип недвижимости, проект если клиент выбрал"}}
+headers
+Array
+(
+    [Host] => app.cassoft.ru
+    [X-Forwarded-Proto] => https
+    [X-Forwarded-Port] => 443
+    [Connection] => close
+    [Content-Length] => 714
+    [content-type] => application/json
+    [accept] => application/json
+    [user-agent] => WapiAssistant
+    [accept-encoding] => gzip
+)
+
+result
+Array
+(
+    [assistant_id] => asst_FV65HqhOKED0btlF2tJMGflY
+    [chat_id] => 79207051051
+    [profile_id] => 8aa85aa0-fab7
+    [task_result] => "strana": "Турция"
+"region": "Алания"
+"proekt": "оценка квартиры"
+"summa": "не указана"
+"result": "получить страну, сумму инвестиций , тип недвижимости, проект если клиент выбрал"
+    [json_result] => Array
+        (
+            [strana] => Турция
+            [region] => Алания
+            [proekt] => оценка квартиры
+            [summa] => не указана
+            [result] => получить страну, сумму инвестиций , тип недвижимости, проект если клиент выбрал
+        )
+
+)
+
+2025-06-27T13:41:13+03:00
+событие
+message
+{"assistant_id":"asst_FV65HqhOKED0btlF2tJMGflY","chat_id":"639457455288","profile_id":"8aa85aa0-fab7","task_result":"\"strana\": \"土耳其\"\n\"region\": \"Mall of Istanbul\"\n\"proekt\": \"三房出租\"\n\"summa\": \"1500-2000美元\"\n\"result\": \"获取国家，投资金额，房地产类型，项目如果客户选择。\"","json_result":{"strana":"土耳其","region":"Mall of Istanbul","proekt":"三房出租","summa":"1500-2000美元","result":"获取国家，投资金额，房地产类型，项目如果客户选择。"}}
+headers
+Array
+(
+    [X-Forwarded-For] => 37.27.111.74
+    [Host] => app.cassoft.ru:443
+    [HTTPS] => YES
+    [X-Forwarded-Proto] => https
+    [Connection] => close
+    [Content-Length] => 535
+    [user-agent] => WapiAssistant
+    [content-type] => application/json
+    [accept] => application/json
+    [accept-encoding] => gzip
+)
+
+result
+Array
+(
+    [assistant_id] => asst_FV65HqhOKED0btlF2tJMGflY
+    [chat_id] => 639457455288
+    [profile_id] => 8aa85aa0-fab7
+    [task_result] => "strana": "土耳其"
+"region": "Mall of Istanbul"
+"proekt": "三房出租"
+"summa": "1500-2000美元"
+"result": "获取国家，投资金额，房地产类型，项目如果客户选择。"
+    [json_result] => Array
+        (
+            [strana] => 土耳其
+            [region] => Mall of Istanbul
+            [proekt] => 三房出租
+            [summa] => 1500-2000美元
+            [result] => 获取国家，投资金额，房地产类型，项目如果客户选择。
+        )
+
+)
+

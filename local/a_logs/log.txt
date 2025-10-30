@@ -1,0 +1,3215 @@
+---------------------09.10.2024MSK18:12:50
+Symfony\Component\HttpFoundation\Request Object
+(
+    [attributes] => Symfony\Component\HttpFoundation\ParameterBag Object
+        (
+            [parameters:protected] => Array
+                (
+                )
+
+        )
+
+    [request] => Symfony\Component\HttpFoundation\InputBag Object
+        (
+            [parameters:protected] => Array
+                (
+                    [AUTH_ID] => 7fab066700591408005a33fe000000080000073d9a075444c5bb270e978f8a10b047d8
+                    [AUTH_EXPIRES] => 3600
+                    [REFRESH_ID] => 6f2a2e6700591408005a33fe00000008000007f4a263ce74c8eea1ab6d8d49f2eb8199
+                    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+                    [status] => F
+                    [PLACEMENT] => DEFAULT
+                    [PLACEMENT_OPTIONS] => {"any":"20\/"}
+                )
+
+        )
+
+    [query] => Symfony\Component\HttpFoundation\InputBag Object
+        (
+            [parameters:protected] => Array
+                (
+                    [DOMAIN] => brokci.bitrix24.ru
+                    [PROTOCOL] => 1
+                    [LANG] => ru
+                    [APP_SID] => 96e35cf7574c1308d5cabc3ea5013e50
+                )
+
+        )
+
+    [server] => Symfony\Component\HttpFoundation\ServerBag Object
+        (
+            [parameters:protected] => Array
+                (
+                    [UNIQUE_ID] => ZwadcvUCXqfn1Wh9ve4mYwAAAAc
+                    [SCRIPT_URL] => /cassoftApp/market/brokci/index.php
+                    [SCRIPT_URI] => http://brokci.cassoft.ru:443/cassoftApp/market/brokci/index.php
+                    [HTTPS] => on
+                    [REMOTE_USER] => 
+                    [BITRIX_VA_VER] => 9.0.0
+                    [BITRIX_ENV_TYPE] => general
+                    [AUTHBIND_UNAVAILABLE] => yes
+                    [HTTP_X_FORWARDED_FOR] => 188.32.248.156
+                    [HTTP_HOST] => brokci.cassoft.ru:443
+                    [HTTP_HTTPS] => YES
+                    [HTTP_CONNECTION] => close
+                    [CONTENT_LENGTH] => 299
+                    [HTTP_PRAGMA] => no-cache
+                    [HTTP_CACHE_CONTROL] => no-cache
+                    [HTTP_SEC_CH_UA] => "Not/A)Brand";v="8", "Chromium";v="126", "YaBrowser";v="24"
+                    [HTTP_SEC_CH_UA_MOBILE] => ?0
+                    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+                    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+                    [HTTP_ORIGIN] => https://brokci.bitrix24.ru
+                    [CONTENT_TYPE] => application/x-www-form-urlencoded
+                    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.816 YaBrowser/24.7.6.816 (beta) Yowser/2.5 Safari/537.36
+                    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+                    [HTTP_SEC_FETCH_SITE] => cross-site
+                    [HTTP_SEC_FETCH_MODE] => navigate
+                    [HTTP_SEC_FETCH_DEST] => iframe
+                    [HTTP_REFERER] => https://brokci.bitrix24.ru/
+                    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+                    [HTTP_ACCEPT_LANGUAGE] => ru,en;q=0.9,bs;q=0.8
+                    [HTTP_PRIORITY] => u=0, i
+                    [HTTP_COOKIE] => _ym_uid=1728108386130073289; _ym_d=1728108386
+                    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
+                    [SERVER_SIGNATURE] => <address>Apache Server at brokci.cassoft.ru Port 443</address>
+
+                    [SERVER_SOFTWARE] => Apache
+                    [SERVER_NAME] => brokci.cassoft.ru
+                    [SERVER_ADDR] => 127.0.0.1
+                    [SERVER_PORT] => 443
+                    [REMOTE_ADDR] => 188.32.248.156
+                    [DOCUMENT_ROOT] => /var/www/www-root/data/www/brokci.cassoft.ru
+                    [REQUEST_SCHEME] => http
+                    [CONTEXT_PREFIX] => 
+                    [CONTEXT_DOCUMENT_ROOT] => /var/www/www-root/data/www/brokci.cassoft.ru
+                    [SERVER_ADMIN] => webmaster@localhost
+                    [SCRIPT_FILENAME] => /var/www/www-root/data/www/brokci.cassoft.ru/cassoftApp/market/brokci/index.php
+                    [REMOTE_PORT] => 37712
+                    [GATEWAY_INTERFACE] => CGI/1.1
+                    [SERVER_PROTOCOL] => HTTP/1.0
+                    [REQUEST_METHOD] => POST
+                    [QUERY_STRING] => DOMAIN=brokci.bitrix24.ru&PROTOCOL=1&LANG=ru&APP_SID=96e35cf7574c1308d5cabc3ea5013e50
+                    [REQUEST_URI] => /cassoftApp/market/brokci/index.php?DOMAIN=brokci.bitrix24.ru&PROTOCOL=1&LANG=ru&APP_SID=96e35cf7574c1308d5cabc3ea5013e50
+                    [SCRIPT_NAME] => /cassoftApp/market/brokci/index.php
+                    [PHP_SELF] => /cassoftApp/market/brokci/index.php
+                    [REQUEST_TIME_FLOAT] => 1728486770.6785
+                    [REQUEST_TIME] => 1728486770
+                )
+
+        )
+
+    [files] => Symfony\Component\HttpFoundation\FileBag Object
+        (
+            [parameters:protected] => Array
+                (
+                )
+
+        )
+
+    [cookies] => Symfony\Component\HttpFoundation\InputBag Object
+        (
+            [parameters:protected] => Array
+                (
+                    [_ym_uid] => 1728108386130073289
+                    [_ym_d] => 1728108386
+                )
+
+        )
+
+    [headers] => Symfony\Component\HttpFoundation\HeaderBag Object
+        (
+            [headers:protected] => Array
+                (
+                    [x-forwarded-for] => Array
+                        (
+                            [0] => 188.32.248.156
+                        )
+
+                    [host] => Array
+                        (
+                            [0] => brokci.cassoft.ru:443
+                        )
+
+                    [https] => Array
+                        (
+                            [0] => YES
+                        )
+
+                    [connection] => Array
+                        (
+                            [0] => close
+                        )
+
+                    [content-length] => Array
+                        (
+                            [0] => 299
+                        )
+
+                    [pragma] => Array
+                        (
+                            [0] => no-cache
+                        )
+
+                    [cache-control] => Array
+                        (
+                            [0] => no-cache
+                        )
+
+                    [sec-ch-ua] => Array
+                        (
+                            [0] => "Not/A)Brand";v="8", "Chromium";v="126", "YaBrowser";v="24"
+                        )
+
+                    [sec-ch-ua-mobile] => Array
+                        (
+                            [0] => ?0
+                        )
+
+                    [sec-ch-ua-platform] => Array
+                        (
+                            [0] => "Windows"
+                        )
+
+                    [upgrade-insecure-requests] => Array
+                        (
+                            [0] => 1
+                        )
+
+                    [origin] => Array
+                        (
+                            [0] => https://brokci.bitrix24.ru
+                        )
+
+                    [content-type] => Array
+                        (
+                            [0] => application/x-www-form-urlencoded
+                        )
+
+                    [user-agent] => Array
+                        (
+                            [0] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.816 YaBrowser/24.7.6.816 (beta) Yowser/2.5 Safari/537.36
+                        )
+
+                    [accept] => Array
+                        (
+                            [0] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+                        )
+
+                    [sec-fetch-site] => Array
+                        (
+                            [0] => cross-site
+                        )
+
+                    [sec-fetch-mode] => Array
+                        (
+                            [0] => navigate
+                        )
+
+                    [sec-fetch-dest] => Array
+                        (
+                            [0] => iframe
+                        )
+
+                    [referer] => Array
+                        (
+                            [0] => https://brokci.bitrix24.ru/
+                        )
+
+                    [accept-encoding] => Array
+                        (
+                            [0] => gzip, deflate, br, zstd
+                        )
+
+                    [accept-language] => Array
+                        (
+                            [0] => ru,en;q=0.9,bs;q=0.8
+                        )
+
+                    [priority] => Array
+                        (
+                            [0] => u=0, i
+                        )
+
+                    [cookie] => Array
+                        (
+                            [0] => _ym_uid=1728108386130073289; _ym_d=1728108386
+                        )
+
+                )
+
+            [cacheControl:protected] => Array
+                (
+                    [no-cache] => 1
+                )
+
+        )
+
+    [content:protected] => 
+    [languages:protected] => 
+    [charsets:protected] => 
+    [encodings:protected] => 
+    [acceptableContentTypes:protected] => 
+    [pathInfo:protected] => 
+    [requestUri:protected] => 
+    [baseUrl:protected] => 
+    [basePath:protected] => 
+    [method:protected] => 
+    [format:protected] => 
+    [session:protected] => 
+    [locale:protected] => 
+    [defaultLocale:protected] => en
+    [preferredFormat:Symfony\Component\HttpFoundation\Request:private] => 
+    [isHostValid:Symfony\Component\HttpFoundation\Request:private] => 1
+    [isForwardedValid:Symfony\Component\HttpFoundation\Request:private] => 1
+    [trustedValuesCache:Symfony\Component\HttpFoundation\Request:private] => Array
+        (
+        )
+
+    [isIisRewrite:Symfony\Component\HttpFoundation\Request:private] => 
+)
+
+2060
+100 - could not find value for parameter {id} 
+2064
+100 - could not find value for parameter {id} 
+2068
+100 - could not find value for parameter {id} 
+2072
+100 - could not find value for parameter {id} 
+2074
+100 - could not find value for parameter {id} 
+2080
+100 - could not find value for parameter {id} 
+2084
+100 - could not find value for parameter {id} 
+2086
+100 - could not find value for parameter {id} 
+2088
+100 - could not find value for parameter {id} 
+2090
+100 - could not find value for parameter {id} 
+2092
+100 - could not find value for parameter {id} 
+2094
+100 - could not find value for parameter {id} 
+2096
+100 - could not find value for parameter {id} 
+2100
+100 - could not find value for parameter {id} 
+2102
+100 - could not find value for parameter {id} 
+2104
+100 - could not find value for parameter {id} 
+2110
+100 - could not find value for parameter {id} 
+2112
+100 - could not find value for parameter {id} 
+2116
+100 - could not find value for parameter {id} 
+2118
+100 - could not find value for parameter {id} 
+2120
+100 - could not find value for parameter {id} 
+2124
+100 - could not find value for parameter {id} 
+2130
+100 - could not find value for parameter {id} 
+2132
+100 - could not find value for parameter {id} 
+2134
+100 - could not find value for parameter {id} 
+2136
+100 - could not find value for parameter {id} 
+2138
+100 - could not find value for parameter {id} 
+2140
+100 - could not find value for parameter {id} 
+2142
+100 - could not find value for parameter {id} 
+2144
+100 - could not find value for parameter {id} 
+2150
+100 - could not find value for parameter {id} 
+2152
+100 - could not find value for parameter {id} 
+2154
+100 - could not find value for parameter {id} 
+2156
+100 - could not find value for parameter {id} 
+2158
+100 - could not find value for parameter {id} 
+2160
+100 - could not find value for parameter {id} 
+2162
+100 - could not find value for parameter {id} 
+2164
+100 - could not find value for parameter {id} 
+2166
+100 - could not find value for parameter {id} 
+2168
+100 - could not find value for parameter {id} 
+2170
+100 - could not find value for parameter {id} 
+2172
+100 - could not find value for parameter {id} 
+2174
+100 - could not find value for parameter {id} 
+2176
+100 - could not find value for parameter {id} 
+2178
+100 - could not find value for parameter {id} 
+2180
+100 - could not find value for parameter {id} 
+2184
+100 - could not find value for parameter {id} 
+2186
+100 - could not find value for parameter {id} 
+2188
+100 - could not find value for parameter {id} 
+2190
+100 - could not find value for parameter {id} 
+2192
+100 - could not find value for parameter {id} 
+2194
+100 - could not find value for parameter {id} 
+2198
+100 - could not find value for parameter {id} 
+2200
+100 - could not find value for parameter {id} 
+2208
+100 - could not find value for parameter {id} 
+2210
+100 - could not find value for parameter {id} 
+2212
+100 - could not find value for parameter {id} 
+2214
+100 - could not find value for parameter {id} 
+2216
+100 - could not find value for parameter {id} 
+2218
+100 - could not find value for parameter {id} 
+2220
+100 - could not find value for parameter {id} 
+2224
+100 - could not find value for parameter {id} 
+2226
+100 - could not find value for parameter {id} 
+2228
+100 - could not find value for parameter {id} 
+2230
+100 - could not find value for parameter {id} 
+2240
+100 - could not find value for parameter {id} 
+2242
+100 - could not find value for parameter {id} 
+2244
+100 - could not find value for parameter {id} 
+2246
+100 - could not find value for parameter {id} 
+2250
+100 - could not find value for parameter {id} 
+2252
+100 - could not find value for parameter {id} 
+2260
+100 - could not find value for parameter {id} 
+2262
+100 - could not find value for parameter {id} 
+2266
+100 - could not find value for parameter {id} 
+2268
+100 - could not find value for parameter {id} 
+2270
+100 - could not find value for parameter {id} 
+2272
+100 - could not find value for parameter {id} 
+2274
+100 - could not find value for parameter {id} 
+2276
+100 - could not find value for parameter {id} 
+2278
+100 - could not find value for parameter {id} 
+2284
+100 - could not find value for parameter {id} 
+2288
+100 - could not find value for parameter {id} 
+2294
+100 - could not find value for parameter {id} 
+2298
+100 - could not find value for parameter {id} 
+2300
+100 - could not find value for parameter {id} 
+2302
+100 - could not find value for parameter {id} 
+2306
+100 - could not find value for parameter {id} 
+2310
+100 - could not find value for parameter {id} 
+2314
+100 - could not find value for parameter {id} 
+2316
+100 - could not find value for parameter {id} 
+2318
+100 - could not find value for parameter {id} 
+2322
+100 - could not find value for parameter {id} 
+2324
+100 - could not find value for parameter {id} 
+2328
+100 - could not find value for parameter {id} 
+2330
+100 - could not find value for parameter {id} 
+2332
+100 - could not find value for parameter {id} 
+2334
+100 - could not find value for parameter {id} 
+2336
+100 - could not find value for parameter {id} 
+2338
+100 - could not find value for parameter {id} 
+2340
+100 - could not find value for parameter {id} 
+2344
+100 - could not find value for parameter {id} 
+2350
+100 - could not find value for parameter {id} 
+2352
+100 - could not find value for parameter {id} 
+2356
+100 - could not find value for parameter {id} 
+2358
+100 - could not find value for parameter {id} 
+2366
+100 - could not find value for parameter {id} 
+2370
+100 - could not find value for parameter {id} 
+2374
+100 - could not find value for parameter {id} 
+2380
+100 - could not find value for parameter {id} 
+2382
+100 - could not find value for parameter {id} 
+2384
+100 - could not find value for parameter {id} 
+2386
+100 - could not find value for parameter {id} 
+2390
+100 - could not find value for parameter {id} 
+2394
+100 - could not find value for parameter {id} 
+2398
+100 - could not find value for parameter {id} 
+2400
+100 - could not find value for parameter {id} 
+2404
+100 - could not find value for parameter {id} 
+2406
+100 - could not find value for parameter {id} 
+2410
+100 - could not find value for parameter {id} 
+2414
+100 - could not find value for parameter {id} 
+2416
+100 - could not find value for parameter {id} 
+2418
+100 - could not find value for parameter {id} 
+2422
+100 - could not find value for parameter {id} 
+2424
+100 - could not find value for parameter {id} 
+2426
+100 - could not find value for parameter {id} 
+2428
+100 - could not find value for parameter {id} 
+2430
+100 - could not find value for parameter {id} 
+2432
+100 - could not find value for parameter {id} 
+2436
+100 - could not find value for parameter {id} 
+2444
+100 - could not find value for parameter {id} 
+2446
+100 - could not find value for parameter {id} 
+2448
+100 - could not find value for parameter {id} 
+2452
+100 - could not find value for parameter {id} 
+2456
+100 - could not find value for parameter {id} 
+2458
+100 - could not find value for parameter {id} 
+2464
+100 - could not find value for parameter {id} 
+2466
+100 - could not find value for parameter {id} 
+2472
+100 - could not find value for parameter {id} 
+2474
+100 - could not find value for parameter {id} 
+2480
+100 - could not find value for parameter {id} 
+2482
+100 - could not find value for parameter {id} 
+2484
+100 - could not find value for parameter {id} 
+2486
+100 - could not find value for parameter {id} 
+2490
+100 - could not find value for parameter {id} 
+2496
+100 - could not find value for parameter {id} 
+2498
+100 - could not find value for parameter {id} 
+2500
+100 - could not find value for parameter {id} 
+2502
+100 - could not find value for parameter {id} 
+2508
+100 - could not find value for parameter {id} 
+2512
+100 - could not find value for parameter {id} 
+2516
+100 - could not find value for parameter {id} 
+2518
+100 - could not find value for parameter {id} 
+2520
+100 - could not find value for parameter {id} 
+2524
+100 - could not find value for parameter {id} 
+2526
+100 - could not find value for parameter {id} 
+2530
+100 - could not find value for parameter {id} 
+2532
+100 - could not find value for parameter {id} 
+2534
+100 - could not find value for parameter {id} 
+2540
+100 - could not find value for parameter {id} 
+2542
+100 - could not find value for parameter {id} 
+2544
+100 - could not find value for parameter {id} 
+2548
+100 - could not find value for parameter {id} 
+2550
+100 - could not find value for parameter {id} 
+2554
+100 - could not find value for parameter {id} 
+2556
+100 - could not find value for parameter {id} 
+2558
+100 - could not find value for parameter {id} 
+2560
+100 - could not find value for parameter {id} 
+2564
+100 - could not find value for parameter {id} 
+2566
+100 - could not find value for parameter {id} 
+2570
+100 - could not find value for parameter {id} 
+2572
+100 - could not find value for parameter {id} 
+2574
+100 - could not find value for parameter {id} 
+2576
+100 - could not find value for parameter {id} 
+2580
+100 - could not find value for parameter {id} 
+2582
+100 - could not find value for parameter {id} 
+2586
+100 - could not find value for parameter {id} 
+2588
+100 - could not find value for parameter {id} 
+2590
+100 - could not find value for parameter {id} 
+2594
+100 - could not find value for parameter {id} 
+2596
+100 - could not find value for parameter {id} 
+2598
+100 - could not find value for parameter {id} 
+2602
+100 - could not find value for parameter {id} 
+2608
+100 - could not find value for parameter {id} 
+2610
+100 - could not find value for parameter {id} 
+2614
+100 - could not find value for parameter {id} 
+2618
+100 - could not find value for parameter {id} 
+2622
+100 - could not find value for parameter {id} 
+2624
+100 - could not find value for parameter {id} 
+2626
+100 - could not find value for parameter {id} 
+2628
+100 - could not find value for parameter {id} 
+2630
+100 - could not find value for parameter {id} 
+2634
+100 - could not find value for parameter {id} 
+2636
+100 - could not find value for parameter {id} 
+2638
+100 - could not find value for parameter {id} 
+2060
+Array
+(
+    [0] => 1
+)
+
+2640
+100 - could not find value for parameter {id} 
+2064
+Array
+(
+    [0] => 1
+)
+
+2644
+100 - could not find value for parameter {id} 
+2068
+Array
+(
+    [0] => 1
+)
+
+2648
+100 - could not find value for parameter {id} 
+2072
+Array
+(
+    [0] => 1
+)
+
+2650
+100 - could not find value for parameter {id} 
+2074
+Array
+(
+    [0] => 1
+)
+
+2652
+100 - could not find value for parameter {id} 
+2080
+Array
+(
+    [0] => 1
+)
+
+2654
+100 - could not find value for parameter {id} 
+2084
+Array
+(
+    [0] => 1
+)
+
+2656
+100 - could not find value for parameter {id} 
+2086
+Array
+(
+    [0] => 1
+)
+
+2660
+100 - could not find value for parameter {id} 
+2088
+Array
+(
+    [0] => 1
+)
+
+2662
+100 - could not find value for parameter {id} 
+2090
+Array
+(
+    [0] => 1
+)
+
+2664
+100 - could not find value for parameter {id} 
+2666
+100 - could not find value for parameter {id} 
+2092
+Array
+(
+    [0] => 1
+)
+
+2668
+100 - could not find value for parameter {id} 
+2094
+Array
+(
+    [0] => 1
+)
+
+2672
+100 - could not find value for parameter {id} 
+2096
+Array
+(
+    [0] => 1
+)
+
+2676
+100 - could not find value for parameter {id} 
+2100
+Array
+(
+    [0] => 1
+)
+
+2678
+100 - could not find value for parameter {id} 
+2102
+Array
+(
+    [0] => 1
+)
+
+2680
+100 - could not find value for parameter {id} 
+2104
+Array
+(
+    [0] => 1
+)
+
+2684
+100 - could not find value for parameter {id} 
+2110
+Array
+(
+    [0] => 1
+)
+
+2686
+100 - could not find value for parameter {id} 
+2112
+Array
+(
+    [0] => 1
+)
+
+2688
+100 - could not find value for parameter {id} 
+2116
+Array
+(
+    [0] => 1
+)
+
+2690
+100 - could not find value for parameter {id} 
+2118
+Array
+(
+    [0] => 1
+)
+
+2694
+100 - could not find value for parameter {id} 
+2120
+Array
+(
+    [0] => 1
+)
+
+2696
+100 - could not find value for parameter {id} 
+2124
+Array
+(
+    [0] => 1
+)
+
+2698
+100 - could not find value for parameter {id} 
+2130
+Array
+(
+    [0] => 1
+)
+
+2700
+100 - could not find value for parameter {id} 
+2132
+Array
+(
+    [0] => 1
+)
+
+2702
+100 - could not find value for parameter {id} 
+2704
+100 - could not find value for parameter {id} 
+2134
+Array
+(
+    [0] => 1
+)
+
+2714
+100 - could not find value for parameter {id} 
+2136
+Array
+(
+    [0] => 1
+)
+
+2716
+100 - could not find value for parameter {id} 
+2138
+Array
+(
+    [0] => 1
+)
+
+2718
+100 - could not find value for parameter {id} 
+2140
+Array
+(
+    [0] => 1
+)
+
+2720
+100 - could not find value for parameter {id} 
+2142
+Array
+(
+    [0] => 1
+)
+
+2724
+100 - could not find value for parameter {id} 
+2144
+Array
+(
+    [0] => 1
+)
+
+2726
+100 - could not find value for parameter {id} 
+2150
+Array
+(
+    [0] => 1
+)
+
+2730
+100 - could not find value for parameter {id} 
+2152
+Array
+(
+    [0] => 1
+)
+
+2732
+100 - could not find value for parameter {id} 
+2154
+Array
+(
+    [0] => 1
+)
+
+2734
+100 - could not find value for parameter {id} 
+2156
+Array
+(
+    [0] => 1
+)
+
+2738
+100 - could not find value for parameter {id} 
+2158
+Array
+(
+    [0] => 1
+)
+
+2742
+100 - could not find value for parameter {id} 
+2160
+Array
+(
+    [0] => 1
+)
+
+2744
+100 - could not find value for parameter {id} 
+2162
+Array
+(
+    [0] => 1
+)
+
+2746
+100 - could not find value for parameter {id} 
+2164
+Array
+(
+    [0] => 1
+)
+
+2748
+100 - could not find value for parameter {id} 
+2166
+Array
+(
+    [0] => 1
+)
+
+2750
+100 - could not find value for parameter {id} 
+2752
+100 - could not find value for parameter {id} 
+2168
+Array
+(
+    [0] => 1
+)
+
+2754
+100 - could not find value for parameter {id} 
+2170
+Array
+(
+    [0] => 1
+)
+
+2756
+100 - could not find value for parameter {id} 
+2172
+Array
+(
+    [0] => 1
+)
+
+2758
+100 - could not find value for parameter {id} 
+2174
+Array
+(
+    [0] => 1
+)
+
+2760
+100 - could not find value for parameter {id} 
+2176
+Array
+(
+    [0] => 1
+)
+
+2762
+100 - could not find value for parameter {id} 
+2178
+Array
+(
+    [0] => 1
+)
+
+2764
+100 - could not find value for parameter {id} 
+2180
+Array
+(
+    [0] => 1
+)
+
+2768
+100 - could not find value for parameter {id} 
+2184
+Array
+(
+    [0] => 1
+)
+
+2770
+100 - could not find value for parameter {id} 
+2186
+Array
+(
+    [0] => 1
+)
+
+2772
+100 - could not find value for parameter {id} 
+2188
+Array
+(
+    [0] => 1
+)
+
+2774
+100 - could not find value for parameter {id} 
+2190
+Array
+(
+    [0] => 1
+)
+
+2778
+100 - could not find value for parameter {id} 
+2192
+Array
+(
+    [0] => 1
+)
+
+2780
+100 - could not find value for parameter {id} 
+2194
+Array
+(
+    [0] => 1
+)
+
+2782
+100 - could not find value for parameter {id} 
+2198
+Array
+(
+    [0] => 1
+)
+
+2786
+100 - could not find value for parameter {id} 
+2788
+100 - could not find value for parameter {id} 
+2200
+Array
+(
+    [0] => 1
+)
+
+2794
+100 - could not find value for parameter {id} 
+2208
+Array
+(
+    [0] => 1
+)
+
+2796
+100 - could not find value for parameter {id} 
+2210
+Array
+(
+    [0] => 1
+)
+
+2798
+100 - could not find value for parameter {id} 
+2212
+Array
+(
+    [0] => 1
+)
+
+2802
+100 - could not find value for parameter {id} 
+2214
+Array
+(
+    [0] => 1
+)
+
+2810
+100 - could not find value for parameter {id} 
+2216
+Array
+(
+    [0] => 1
+)
+
+2812
+100 - could not find value for parameter {id} 
+2218
+Array
+(
+    [0] => 1
+)
+
+2814
+100 - could not find value for parameter {id} 
+2220
+Array
+(
+    [0] => 1
+)
+
+2816
+100 - could not find value for parameter {id} 
+2224
+Array
+(
+    [0] => 1
+)
+
+2824
+100 - could not find value for parameter {id} 
+2226
+Array
+(
+    [0] => 1
+)
+
+2828
+100 - could not find value for parameter {id} 
+2228
+Array
+(
+    [0] => 1
+)
+
+2830
+100 - could not find value for parameter {id} 
+2230
+Array
+(
+    [0] => 1
+)
+
+2834
+100 - could not find value for parameter {id} 
+2240
+Array
+(
+    [0] => 1
+)
+
+2836
+100 - could not find value for parameter {id} 
+2838
+100 - could not find value for parameter {id} 
+2242
+Array
+(
+    [0] => 1
+)
+
+2840
+100 - could not find value for parameter {id} 
+2244
+Array
+(
+    [0] => 1
+)
+
+2844
+100 - could not find value for parameter {id} 
+2246
+Array
+(
+    [0] => 1
+)
+
+2846
+100 - could not find value for parameter {id} 
+2250
+Array
+(
+    [0] => 1
+)
+
+2852
+100 - could not find value for parameter {id} 
+2252
+Array
+(
+    [0] => 1
+)
+
+2860
+100 - could not find value for parameter {id} 
+2260
+Array
+(
+    [0] => 1
+)
+
+2862
+100 - could not find value for parameter {id} 
+2262
+Array
+(
+    [0] => 1
+)
+
+2864
+100 - could not find value for parameter {id} 
+2266
+Array
+(
+    [0] => 1
+)
+
+2866
+100 - could not find value for parameter {id} 
+2268
+Array
+(
+    [0] => 1
+)
+
+2868
+100 - could not find value for parameter {id} 
+2270
+Array
+(
+    [0] => 1
+)
+
+2872
+100 - could not find value for parameter {id} 
+2272
+Array
+(
+    [0] => 1
+)
+
+2876
+100 - could not find value for parameter {id} 
+2274
+Array
+(
+    [0] => 1
+)
+
+2878
+100 - could not find value for parameter {id} 
+2880
+100 - could not find value for parameter {id} 
+2276
+Array
+(
+    [0] => 1
+)
+
+2882
+100 - could not find value for parameter {id} 
+2278
+Array
+(
+    [0] => 1
+)
+
+2884
+100 - could not find value for parameter {id} 
+2284
+Array
+(
+    [0] => 1
+)
+
+2886
+100 - could not find value for parameter {id} 
+2288
+Array
+(
+    [0] => 1
+)
+
+2888
+100 - could not find value for parameter {id} 
+2294
+Array
+(
+    [0] => 1
+)
+
+2890
+100 - could not find value for parameter {id} 
+2298
+Array
+(
+    [0] => 1
+)
+
+2892
+100 - could not find value for parameter {id} 
+2300
+Array
+(
+    [0] => 1
+)
+
+2894
+100 - could not find value for parameter {id} 
+2302
+Array
+(
+    [0] => 1
+)
+
+2900
+100 - could not find value for parameter {id} 
+2306
+Array
+(
+    [0] => 1
+)
+
+2902
+100 - could not find value for parameter {id} 
+2310
+Array
+(
+    [0] => 1
+)
+
+2906
+100 - could not find value for parameter {id} 
+2314
+Array
+(
+    [0] => 1
+)
+
+2910
+100 - could not find value for parameter {id} 
+2912
+100 - could not find value for parameter {id} 
+2316
+Array
+(
+    [0] => 1
+)
+
+2916
+100 - could not find value for parameter {id} 
+2318
+Array
+(
+    [0] => 1
+)
+
+2938
+100 - could not find value for parameter {id} 
+2322
+Array
+(
+    [0] => 1
+)
+
+2954
+100 - could not find value for parameter {id} 
+2324
+Array
+(
+    [0] => 1
+)
+
+3030
+100 - could not find value for parameter {id} 
+2328
+Array
+(
+    [0] => 1
+)
+
+3054
+100 - could not find value for parameter {id} 
+2330
+Array
+(
+    [0] => 1
+)
+
+3096
+100 - could not find value for parameter {id} 
+2332
+Array
+(
+    [0] => 1
+)
+
+3318
+100 - could not find value for parameter {id} 
+2334
+Array
+(
+    [0] => 1
+)
+
+3444
+100 - could not find value for parameter {id} 
+2336
+Array
+(
+    [0] => 1
+)
+
+3448
+100 - could not find value for parameter {id} 
+2338
+Array
+(
+    [0] => 1
+)
+
+3450
+100 - could not find value for parameter {id} 
+2340
+Array
+(
+    [0] => 1
+)
+
+3482
+100 - could not find value for parameter {id} 
+2344
+Array
+(
+    [0] => 1
+)
+
+3534
+100 - could not find value for parameter {id} 
+2350
+Array
+(
+    [0] => 1
+)
+
+3556
+100 - could not find value for parameter {id} 
+2352
+Array
+(
+    [0] => 1
+)
+
+3564
+100 - could not find value for parameter {id} 
+2356
+Array
+(
+    [0] => 1
+)
+
+3590
+100 - could not find value for parameter {id} 
+3592
+100 - could not find value for parameter {id} 
+2358
+Array
+(
+    [0] => 1
+)
+
+3624
+100 - could not find value for parameter {id} 
+2366
+Array
+(
+    [0] => 1
+)
+
+3640
+100 - could not find value for parameter {id} 
+2370
+Array
+(
+    [0] => 1
+)
+
+3642
+100 - could not find value for parameter {id} 
+2374
+Array
+(
+    [0] => 1
+)
+
+3808
+100 - could not find value for parameter {id} 
+2380
+Array
+(
+    [0] => 1
+)
+
+3814
+100 - could not find value for parameter {id} 
+2382
+Array
+(
+    [0] => 1
+)
+
+3816
+100 - could not find value for parameter {id} 
+2384
+Array
+(
+    [0] => 1
+)
+
+3820
+100 - could not find value for parameter {id} 
+2386
+Array
+(
+    [0] => 1
+)
+
+3832
+100 - could not find value for parameter {id} 
+2390
+Array
+(
+    [0] => 1
+)
+
+3840
+100 - could not find value for parameter {id} 
+2394
+Array
+(
+    [0] => 1
+)
+
+3846
+100 - could not find value for parameter {id} 
+2398
+Array
+(
+    [0] => 1
+)
+
+3848
+100 - could not find value for parameter {id} 
+3852
+100 - could not find value for parameter {id} 
+2400
+Array
+(
+    [0] => 1
+)
+
+3854
+100 - could not find value for parameter {id} 
+2404
+Array
+(
+    [0] => 1
+)
+
+3860
+100 - could not find value for parameter {id} 
+2406
+Array
+(
+    [0] => 1
+)
+
+3862
+100 - could not find value for parameter {id} 
+2410
+Array
+(
+    [0] => 1
+)
+
+3866
+100 - could not find value for parameter {id} 
+2414
+Array
+(
+    [0] => 1
+)
+
+3868
+100 - could not find value for parameter {id} 
+2416
+Array
+(
+    [0] => 1
+)
+
+3870
+100 - could not find value for parameter {id} 
+2418
+Array
+(
+    [0] => 1
+)
+
+3872
+100 - could not find value for parameter {id} 
+2422
+Array
+(
+    [0] => 1
+)
+
+3876
+100 - could not find value for parameter {id} 
+2424
+Array
+(
+    [0] => 1
+)
+
+3878
+100 - could not find value for parameter {id} 
+2426
+Array
+(
+    [0] => 1
+)
+
+3882
+100 - could not find value for parameter {id} 
+2428
+Array
+(
+    [0] => 1
+)
+
+3884
+100 - could not find value for parameter {id} 
+2430
+Array
+(
+    [0] => 1
+)
+
+3886
+100 - could not find value for parameter {id} 
+2432
+Array
+(
+    [0] => 1
+)
+
+3888
+100 - could not find value for parameter {id} 
+2436
+Array
+(
+    [0] => 1
+)
+
+3896
+100 - could not find value for parameter {id} 
+3904
+100 - could not find value for parameter {id} 
+2444
+Array
+(
+    [0] => 1
+)
+
+3908
+100 - could not find value for parameter {id} 
+2446
+Array
+(
+    [0] => 1
+)
+
+3910
+100 - could not find value for parameter {id} 
+2448
+Array
+(
+    [0] => 1
+)
+
+3912
+100 - could not find value for parameter {id} 
+2452
+Array
+(
+    [0] => 1
+)
+
+3914
+100 - could not find value for parameter {id} 
+2456
+Array
+(
+    [0] => 1
+)
+
+3916
+100 - could not find value for parameter {id} 
+2458
+Array
+(
+    [0] => 1
+)
+
+3920
+100 - could not find value for parameter {id} 
+2464
+Array
+(
+    [0] => 1
+)
+
+3922
+100 - could not find value for parameter {id} 
+2466
+Array
+(
+    [0] => 1
+)
+
+3924
+100 - could not find value for parameter {id} 
+2472
+Array
+(
+    [0] => 1
+)
+
+3926
+100 - could not find value for parameter {id} 
+2474
+Array
+(
+    [0] => 1
+)
+
+3930
+100 - could not find value for parameter {id} 
+2480
+Array
+(
+    [0] => 1
+)
+
+3936
+100 - could not find value for parameter {id} 
+2482
+Array
+(
+    [0] => 1
+)
+
+3938
+100 - could not find value for parameter {id} 
+2484
+Array
+(
+    [0] => 1
+)
+
+3944
+100 - could not find value for parameter {id} 
+2486
+Array
+(
+    [0] => 1
+)
+
+3948
+100 - could not find value for parameter {id} 
+2490
+Array
+(
+    [0] => 1
+)
+
+3950
+100 - could not find value for parameter {id} 
+2496
+Array
+(
+    [0] => 1
+)
+
+3952
+100 - could not find value for parameter {id} 
+2498
+Array
+(
+    [0] => 1
+)
+
+3956
+100 - could not find value for parameter {id} 
+2500
+Array
+(
+    [0] => 1
+)
+
+3960
+100 - could not find value for parameter {id} 
+3962
+100 - could not find value for parameter {id} 
+2502
+Array
+(
+    [0] => 1
+)
+
+3964
+100 - could not find value for parameter {id} 
+2508
+Array
+(
+    [0] => 1
+)
+
+3968
+100 - could not find value for parameter {id} 
+2512
+Array
+(
+    [0] => 1
+)
+
+3970
+100 - could not find value for parameter {id} 
+2516
+Array
+(
+    [0] => 1
+)
+
+3972
+100 - could not find value for parameter {id} 
+2518
+Array
+(
+    [0] => 1
+)
+
+3974
+100 - could not find value for parameter {id} 
+2520
+Array
+(
+    [0] => 1
+)
+
+3976
+100 - could not find value for parameter {id} 
+2524
+Array
+(
+    [0] => 1
+)
+
+3978
+100 - could not find value for parameter {id} 
+2526
+Array
+(
+    [0] => 1
+)
+
+3980
+100 - could not find value for parameter {id} 
+2530
+Array
+(
+    [0] => 1
+)
+
+3986
+100 - could not find value for parameter {id} 
+2532
+Array
+(
+    [0] => 1
+)
+
+3988
+100 - could not find value for parameter {id} 
+2534
+Array
+(
+    [0] => 1
+)
+
+3992
+100 - could not find value for parameter {id} 
+2540
+Array
+(
+    [0] => 1
+)
+
+4002
+100 - could not find value for parameter {id} 
+2542
+Array
+(
+    [0] => 1
+)
+
+4004
+100 - could not find value for parameter {id} 
+4006
+100 - could not find value for parameter {id} 
+2544
+Array
+(
+    [0] => 1
+)
+
+4008
+100 - could not find value for parameter {id} 
+2548
+Array
+(
+    [0] => 1
+)
+
+4012
+100 - could not find value for parameter {id} 
+2550
+Array
+(
+    [0] => 1
+)
+
+2554
+Array
+(
+    [0] => 1
+)
+
+2556
+Array
+(
+    [0] => 1
+)
+
+2558
+Array
+(
+    [0] => 1
+)
+
+2560
+Array
+(
+    [0] => 1
+)
+
+2564
+Array
+(
+    [0] => 1
+)
+
+2566
+Array
+(
+    [0] => 1
+)
+
+2570
+Array
+(
+    [0] => 1
+)
+
+2572
+Array
+(
+    [0] => 1
+)
+
+2574
+Array
+(
+    [0] => 1
+)
+
+2576
+Array
+(
+    [0] => 1
+)
+
+2580
+Array
+(
+    [0] => 1
+)
+
+2582
+Array
+(
+    [0] => 1
+)
+
+2586
+Array
+(
+    [0] => 1
+)
+
+2588
+Array
+(
+    [0] => 1
+)
+
+2590
+Array
+(
+    [0] => 1
+)
+
+2594
+Array
+(
+    [0] => 1
+)
+
+2596
+Array
+(
+    [0] => 1
+)
+
+2598
+Array
+(
+    [0] => 1
+)
+
+2602
+Array
+(
+    [0] => 1
+)
+
+2608
+Array
+(
+    [0] => 1
+)
+
+2610
+Array
+(
+    [0] => 1
+)
+
+2614
+Array
+(
+    [0] => 1
+)
+
+2618
+Array
+(
+    [0] => 1
+)
+
+2622
+Array
+(
+    [0] => 1
+)
+
+2624
+Array
+(
+    [0] => 1
+)
+
+2626
+Array
+(
+    [0] => 1
+)
+
+2628
+Array
+(
+    [0] => 1
+)
+
+2630
+Array
+(
+    [0] => 1
+)
+
+2634
+Array
+(
+    [0] => 1
+)
+
+2636
+Array
+(
+    [0] => 1
+)
+
+2638
+Array
+(
+    [0] => 1
+)
+
+2640
+Array
+(
+    [0] => 1
+)
+
+2644
+Array
+(
+    [0] => 1
+)
+
+2648
+Array
+(
+    [0] => 1
+)
+
+2650
+Array
+(
+    [0] => 1
+)
+
+2652
+Array
+(
+    [0] => 1
+)
+
+2654
+Array
+(
+    [0] => 1
+)
+
+2656
+Array
+(
+    [0] => 1
+)
+
+2660
+Array
+(
+    [0] => 1
+)
+
+2662
+Array
+(
+    [0] => 1
+)
+
+2664
+Array
+(
+    [0] => 1
+)
+
+2666
+Array
+(
+    [0] => 1
+)
+
+2668
+Array
+(
+    [0] => 1
+)
+
+2672
+Array
+(
+    [0] => 1
+)
+
+2676
+Array
+(
+    [0] => 1
+)
+
+2678
+Array
+(
+    [0] => 1
+)
+
+2680
+Array
+(
+    [0] => 1
+)
+
+2684
+Array
+(
+    [0] => 1
+)
+
+2686
+Array
+(
+    [0] => 1
+)
+
+2688
+Array
+(
+    [0] => 1
+)
+
+2690
+Array
+(
+    [0] => 1
+)
+
+2694
+Array
+(
+    [0] => 1
+)
+
+2696
+Array
+(
+    [0] => 1
+)
+
+2698
+Array
+(
+    [0] => 1
+)
+
+2700
+Array
+(
+    [0] => 1
+)
+
+2702
+Array
+(
+    [0] => 1
+)
+
+2704
+Array
+(
+    [0] => 1
+)
+
+2714
+Array
+(
+    [0] => 1
+)
+
+2716
+Array
+(
+    [0] => 1
+)
+
+2718
+Array
+(
+    [0] => 1
+)
+
+2720
+Array
+(
+    [0] => 1
+)
+
+2724
+Array
+(
+    [0] => 1
+)
+
+2726
+Array
+(
+    [0] => 1
+)
+
+2730
+Array
+(
+    [0] => 1
+)
+
+2732
+Array
+(
+    [0] => 1
+)
+
+2734
+Array
+(
+    [0] => 1
+)
+
+2738
+Array
+(
+    [0] => 1
+)
+
+2742
+Array
+(
+    [0] => 1
+)
+
+2744
+Array
+(
+    [0] => 1
+)
+
+2746
+Array
+(
+    [0] => 1
+)
+
+2748
+Array
+(
+    [0] => 1
+)
+
+2750
+Array
+(
+    [0] => 1
+)
+
+2752
+Array
+(
+    [0] => 1
+)
+
+2754
+Array
+(
+    [0] => 1
+)
+
+2756
+Array
+(
+    [0] => 1
+)
+
+2758
+Array
+(
+    [0] => 1
+)
+
+2760
+Array
+(
+    [0] => 1
+)
+
+2762
+Array
+(
+    [0] => 1
+)
+
+2764
+Array
+(
+    [0] => 1
+)
+
+2768
+Array
+(
+    [0] => 1
+)
+
+2770
+Array
+(
+    [0] => 1
+)
+
+2772
+Array
+(
+    [0] => 1
+)
+
+2774
+Array
+(
+    [0] => 1
+)
+
+2778
+Array
+(
+    [0] => 1
+)
+
+2780
+Array
+(
+    [0] => 1
+)
+
+2782
+Array
+(
+    [0] => 1
+)
+
+2786
+Array
+(
+    [0] => 1
+)
+
+2788
+Array
+(
+    [0] => 1
+)
+
+2794
+Array
+(
+    [0] => 1
+)
+
+2796
+Array
+(
+    [0] => 1
+)
+
+2798
+Array
+(
+    [0] => 1
+)
+
+2802
+Array
+(
+    [0] => 1
+)
+
+2810
+Array
+(
+    [0] => 1
+)
+
+2812
+Array
+(
+    [0] => 1
+)
+
+2814
+Array
+(
+    [0] => 1
+)
+
+2816
+Array
+(
+    [0] => 1
+)
+
+2824
+Array
+(
+    [0] => 1
+)
+
+2828
+Array
+(
+    [0] => 1
+)
+
+2830
+Array
+(
+    [0] => 1
+)
+
+2834
+Array
+(
+    [0] => 1
+)
+
+2836
+Array
+(
+    [0] => 1
+)
+
+2838
+Array
+(
+    [0] => 1
+)
+
+2840
+Array
+(
+    [0] => 1
+)
+
+2844
+Array
+(
+    [0] => 1
+)
+
+2846
+Array
+(
+    [0] => 1
+)
+
+2852
+Array
+(
+    [0] => 1
+)
+
+2860
+Array
+(
+    [0] => 1
+)
+
+2862
+Array
+(
+    [0] => 1
+)
+
+2864
+Array
+(
+    [0] => 1
+)
+
+2866
+Array
+(
+    [0] => 1
+)
+
+2868
+Array
+(
+    [0] => 1
+)
+
+2872
+Array
+(
+    [0] => 1
+)
+
+2876
+Array
+(
+    [0] => 1
+)
+
+2878
+Array
+(
+    [0] => 1
+)
+
+2880
+Array
+(
+    [0] => 1
+)
+
+2882
+Array
+(
+    [0] => 1
+)
+
+2884
+Array
+(
+    [0] => 1
+)
+
+2886
+Array
+(
+    [0] => 1
+)
+
+2888
+Array
+(
+    [0] => 1
+)
+
+2890
+Array
+(
+    [0] => 1
+)
+
+2892
+Array
+(
+    [0] => 1
+)
+
+2894
+Array
+(
+    [0] => 1
+)
+
+2900
+Array
+(
+    [0] => 1
+)
+
+2902
+Array
+(
+    [0] => 1
+)
+
+2906
+Array
+(
+    [0] => 1
+)
+
+2910
+Array
+(
+    [0] => 1
+)
+
+2912
+Array
+(
+    [0] => 1
+)
+
+2916
+Array
+(
+    [0] => 1
+)
+
+2938
+Array
+(
+    [0] => 1
+)
+
+2954
+Array
+(
+    [0] => 1
+)
+
+3030
+Array
+(
+    [0] => 1
+)
+
+3054
+Array
+(
+    [0] => 1
+)
+
+3096
+Array
+(
+    [0] => 1
+)
+
+3318
+Array
+(
+    [0] => 1
+)
+
+3444
+Array
+(
+    [0] => 1
+)
+
+3448
+Array
+(
+    [0] => 1
+)
+
+3450
+Array
+(
+    [0] => 1
+)
+
+3482
+Array
+(
+    [0] => 1
+)
+
+3534
+Array
+(
+    [0] => 1
+)
+
+3556
+Array
+(
+    [0] => 1
+)
+
+3564
+Array
+(
+    [0] => 1
+)
+
+3590
+Array
+(
+    [0] => 1
+)
+
+3592
+Array
+(
+    [0] => 1
+)
+
+3624
+Array
+(
+    [0] => 1
+)
+
+3640
+Array
+(
+    [0] => 1
+)
+
+3642
+Array
+(
+    [0] => 1
+)
+
+3808
+Array
+(
+    [0] => 1
+)
+
+3814
+Array
+(
+    [0] => 1
+)
+
+3816
+Array
+(
+    [0] => 1
+)
+
+3820
+Array
+(
+    [0] => 1
+)
+
+3832
+Array
+(
+    [0] => 1
+)
+
+3840
+Array
+(
+    [0] => 1
+)
+
+3846
+Array
+(
+    [0] => 1
+)
+
+3848
+Array
+(
+    [0] => 1
+)
+
+3852
+Array
+(
+    [0] => 1
+)
+
+3854
+Array
+(
+    [0] => 1
+)
+
+3860
+Array
+(
+    [0] => 1
+)
+
+3862
+Array
+(
+    [0] => 1
+)
+
+3866
+Array
+(
+    [0] => 1
+)
+
+3868
+Array
+(
+    [0] => 1
+)
+
+3870
+Array
+(
+    [0] => 1
+)
+
+3872
+Array
+(
+    [0] => 1
+)
+
+3876
+Array
+(
+    [0] => 1
+)
+
+3878
+Array
+(
+    [0] => 1
+)
+
+3882
+Array
+(
+    [0] => 1
+)
+
+3884
+Array
+(
+    [0] => 1
+)
+
+3886
+Array
+(
+    [0] => 1
+)
+
+3888
+Array
+(
+    [0] => 1
+)
+
+3896
+Array
+(
+    [0] => 1
+)
+
+3904
+Array
+(
+    [0] => 1
+)
+
+3908
+Array
+(
+    [0] => 1
+)
+
+3910
+Array
+(
+    [0] => 1
+)
+
+3912
+Array
+(
+    [0] => 1
+)
+
+3914
+Array
+(
+    [0] => 1
+)
+
+3916
+Array
+(
+    [0] => 1
+)
+
+3920
+Array
+(
+    [0] => 1
+)
+
+3922
+Array
+(
+    [0] => 1
+)
+
+3924
+Array
+(
+    [0] => 1
+)
+
+3926
+Array
+(
+    [0] => 1
+)
+
+3930
+Array
+(
+    [0] => 1
+)
+
+3936
+Array
+(
+    [0] => 1
+)
+
+3938
+Array
+(
+    [0] => 1
+)
+
+3944
+Array
+(
+    [0] => 1
+)
+
+3948
+Array
+(
+    [0] => 1
+)
+
+3950
+Array
+(
+    [0] => 1
+)
+
+3952
+Array
+(
+    [0] => 1
+)
+
+3956
+Array
+(
+    [0] => 1
+)
+
+3960
+Array
+(
+    [0] => 1
+)
+
+3962
+Array
+(
+    [0] => 1
+)
+
+3964
+Array
+(
+    [0] => 1
+)
+
+3968
+Array
+(
+    [0] => 1
+)
+
+3970
+Array
+(
+    [0] => 1
+)
+
+3972
+Array
+(
+    [0] => 1
+)
+
+3974
+Array
+(
+    [0] => 1
+)
+
+3976
+Array
+(
+    [0] => 1
+)
+
+3978
+Array
+(
+    [0] => 1
+)
+
+3980
+Array
+(
+    [0] => 1
+)
+
+3986
+Array
+(
+    [0] => 1
+)
+
+3988
+Array
+(
+    [0] => 1
+)
+
+3992
+Array
+(
+    [0] => 1
+)
+
+4002
+Array
+(
+    [0] => 1
+)
+
+4004
+Array
+(
+    [0] => 1
+)
+
+4006
+Array
+(
+    [0] => 1
+)
+
+4008
+Array
+(
+    [0] => 1
+)
+
+4012
+Array
+(
+    [0] => 1
+)
+

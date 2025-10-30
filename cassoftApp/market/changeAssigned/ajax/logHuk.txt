@@ -1,0 +1,44 @@
+---------------------15.10.2025MSK14:57:03
+Array
+(
+    [DOMAIN] => ooostandart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ff2e334180507012c02028209d717547
+    [AUTH_ID] => d798ef68005d64e60079277800000001000007f6d711b259ae0fa07126f71e7114a0c4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c7171769005d64e600792778000000010000076de07853bc0a480f896de18cb07a12e4
+    [member_id] => 86e357e224a24e8a55f7e57ebd7648d6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"90\/"}
+    [app] => change_assigned
+    [FOLDER] => CA8gSaXHIu/AY
+    [user] => 1
+)
+
+REQUEST
+Array
+(
+    [DOMAIN] => ooostandart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ff2e334180507012c02028209d717547
+    [AUTH_ID] => d798ef68005d64e60079277800000001000007f6d711b259ae0fa07126f71e7114a0c4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c7171769005d64e600792778000000010000076de07853bc0a480f896de18cb07a12e4
+    [member_id] => 86e357e224a24e8a55f7e57ebd7648d6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"90\/"}
+    [app] => change_assigned
+    [FOLDER] => CA8gSaXHIu/AY
+    [user] => 1
+)
+
+clientsApp
+Array
+(
+    [ID] => 144
+)
+

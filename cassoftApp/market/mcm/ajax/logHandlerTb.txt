@@ -1,0 +1,69 @@
+---------------------30.10.2025MSK09:17:26
+Array
+(
+    [update_id] => 510392444
+    [message] => Array
+        (
+            [message_id] => 8081
+            [from] => Array
+                (
+                    [id] => 475125571
+                    [is_bot] => 
+                    [first_name] => Анастасия
+                    [last_name] => Панцевич
+                    [username] => nst_dt
+                    [is_premium] => 1
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002377480862
+                    [title] => Отдел продаж DVApro
+                    [type] => supergroup
+                )
+
+            [date] => 1761804892
+            [text] => Всем доброе утро!
+
+Планерка в Zoom в 9:30
+
+
+✅ Ссылка:
+https://us06web.zoom.us/j/4074264801?pwd=u2Ta62AV1C2PTCCGsORnCkpRCGEY3e.1
+
+Ключ организатора:
+435019
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 54
+                            [length] => 73
+                            [type] => url
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 54
+                            [length] => 73
+                            [type] => bold
+                        )
+
+                    [2] => Array
+                        (
+                            [offset] => 148
+                            [length] => 6
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [url] => https://us06web.zoom.us/j/4074264801?pwd=u2Ta62AV1C2PTCCGsORnCkpRCGEY3e.1
+                )
+
+        )
+
+)
+

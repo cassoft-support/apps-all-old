@@ -1,0 +1,225 @@
+getSettingData
+Array
+(
+    [DOMAIN] => brokci24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a2c7140f0ea80c73fdffa5eab5fc9aa0
+    [AUTH_ID] => 26beed640043eea6006664bc00000001000007d459e51accdb301900843f7104eaad46
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 163d15650043eea6006664bc00000001000007b5ace27f1ef92cfece8b0758d09c6149
+    [member_id] => 3bbaca275204a4316c4596533195886b
+    [status] => P
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"5\/"}
+)
+Array
+(
+    [access_token] => 26beed640043eea6006664bc00000001000007d459e51accdb301900843f7104eaad46
+    [domain] => brokci24.bitrix24.ru
+    [refresh_token] => 123
+    [application_token] => a2c7140f0ea80c73fdffa5eab5fc9aa0
+    [client_endpoint] => https://brokci24.bitrix24.ru/rest/
+    [C_REST_CLIENT_ID] => app.5e2afe618ddfd0.69900496
+    [C_REST_CLIENT_SECRET] => KKLF2lZ1pY3ePA4MGLuhlfQSWkvy0DWwOPWWAG4Ki4X6CMpeYd
+)
+getSettingData
+Array
+(
+    [DOMAIN] => brokci24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e90b92c934d40af8e66ad9af6d6fcf06
+    [AUTH_ID] => 6bc0ed640043eea6006664bc000000010000079c959073e68e4a0cd3443eca4d64c96b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5b3f15650043eea6006664bc000000010000078a0dfb851e254de6acf64801610e5975
+    [member_id] => 3bbaca275204a4316c4596533195886b
+    [status] => P
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"5\/"}
+)
+Array
+(
+    [access_token] => 6bc0ed640043eea6006664bc000000010000079c959073e68e4a0cd3443eca4d64c96b
+    [domain] => brokci24.bitrix24.ru
+    [refresh_token] => 123
+    [application_token] => e90b92c934d40af8e66ad9af6d6fcf06
+    [client_endpoint] => https://brokci24.bitrix24.ru/rest/
+    [C_REST_CLIENT_ID] => app.5e2afe618ddfd0.69900496
+    [C_REST_CLIENT_SECRET] => KKLF2lZ1pY3ePA4MGLuhlfQSWkvy0DWwOPWWAG4Ki4X6CMpeYd
+)
+getSettingData
+Array
+(
+    [DOMAIN] => brokci.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 977836be25d46e890176b19456322fd6
+    [AUTH_ID] => 4dc1ed640043eea6005a33fe00000008000007543bca5838487eb7365adfa00137ab7d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 3d4015650043eea6005a33fe00000008000007697826a751f61e6e4aa5fff0f47df36c
+    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+    [status] => P
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"38\/"}
+)
+Array
+(
+    [access_token] => 4dc1ed640043eea6005a33fe00000008000007543bca5838487eb7365adfa00137ab7d
+    [domain] => brokci.bitrix24.ru
+    [refresh_token] => 123
+    [application_token] => 977836be25d46e890176b19456322fd6
+    [client_endpoint] => https://brokci.bitrix24.ru/rest/
+    [C_REST_CLIENT_ID] => app.5e2afe618ddfd0.69900496
+    [C_REST_CLIENT_SECRET] => KKLF2lZ1pY3ePA4MGLuhlfQSWkvy0DWwOPWWAG4Ki4X6CMpeYd
+)
+getSettingData
+Array
+(
+    [DOMAIN] => brokci.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => b6eec591a68de7a5eb8247b2a3fbfaac
+    [AUTH_ID] => cfd3ed640043eea6005a33fe00000008000007d29355ab70dd51b32737454fffb2747e
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => bf5215650043eea6005a33fe00000008000007191dd73f44525cde0218996e6dc41b17
+    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+    [status] => P
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"38\/"}
+)
+Array
+(
+    [access_token] => cfd3ed640043eea6005a33fe00000008000007d29355ab70dd51b32737454fffb2747e
+    [domain] => brokci.bitrix24.ru
+    [refresh_token] => 123
+    [application_token] => b6eec591a68de7a5eb8247b2a3fbfaac
+    [client_endpoint] => https://brokci.bitrix24.ru/rest/
+    [C_REST_CLIENT_ID] => app.5e2afe618ddfd0.69900496
+    [C_REST_CLIENT_SECRET] => KKLF2lZ1pY3ePA4MGLuhlfQSWkvy0DWwOPWWAG4Ki4X6CMpeYd
+)
+getSettingData
+Array
+(
+    [DOMAIN] => brokci.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 84e8bfba903f194d9597d231c2e361eb
+    [AUTH_ID] => ce18ee640043eea6005a33fe0000000800000702ad06a5eb312529ebba328290e47fce
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => be9715650043eea6005a33fe00000008000007d4b5fd63cfb3e1eeafb8f86c21eb8392
+    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+    [status] => P
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"38\/"}
+)
+Array
+(
+    [access_token] => ce18ee640043eea6005a33fe0000000800000702ad06a5eb312529ebba328290e47fce
+    [domain] => brokci.bitrix24.ru
+    [refresh_token] => 123
+    [application_token] => 84e8bfba903f194d9597d231c2e361eb
+    [client_endpoint] => https://brokci.bitrix24.ru/rest/
+    [C_REST_CLIENT_ID] => app.5e2afe618ddfd0.69900496
+    [C_REST_CLIENT_SECRET] => KKLF2lZ1pY3ePA4MGLuhlfQSWkvy0DWwOPWWAG4Ki4X6CMpeYd
+)
+getSettingData
+Array
+(
+    [DOMAIN] => brokci.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => cff3d8c505856cc35c57ae08a7255ac6
+    [AUTH_ID] => 2b31ee640043eea6005a33fe00000008000007530bf7e15c1cb9855ac645717ff3d8bb
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1bb015650043eea6005a33fe00000008000007b4d43ff22425428e2c9679585878e354
+    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+    [status] => P
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"38\/"}
+)
+Array
+(
+    [access_token] => 2b31ee640043eea6005a33fe00000008000007530bf7e15c1cb9855ac645717ff3d8bb
+    [domain] => brokci.bitrix24.ru
+    [refresh_token] => 123
+    [application_token] => cff3d8c505856cc35c57ae08a7255ac6
+    [client_endpoint] => https://brokci.bitrix24.ru/rest/
+    [C_REST_CLIENT_ID] => app.5e2afe618ddfd0.69900496
+    [C_REST_CLIENT_SECRET] => KKLF2lZ1pY3ePA4MGLuhlfQSWkvy0DWwOPWWAG4Ki4X6CMpeYd
+)
+getSettingData
+Array
+(
+    [DOMAIN] => brokci.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 557e398dd1685b4d03a40366230a9fb2
+    [AUTH_ID] => 5239ee640043eea6005a33fe0000000800000731b4a6273f46ebca4e3af6d491e97151
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 42b815650043eea6005a33fe0000000800000771a6a17d738abcf3e6ae462c230e1243
+    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+    [status] => P
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"38\/"}
+)
+Array
+(
+    [access_token] => 5239ee640043eea6005a33fe0000000800000731b4a6273f46ebca4e3af6d491e97151
+    [domain] => brokci.bitrix24.ru
+    [refresh_token] => 123
+    [application_token] => 557e398dd1685b4d03a40366230a9fb2
+    [client_endpoint] => https://brokci.bitrix24.ru/rest/
+    [C_REST_CLIENT_ID] => app.5e2afe618ddfd0.69900496
+    [C_REST_CLIENT_SECRET] => KKLF2lZ1pY3ePA4MGLuhlfQSWkvy0DWwOPWWAG4Ki4X6CMpeYd
+)
+getSettingData
+Array
+(
+    [DOMAIN] => brokci.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => dc069549bc5418e743ef7cf0f0d9632a
+    [AUTH_ID] => 5c39ee640043eea6005a33fe00000008000007170af8fdb109aade173a640507c78a4c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4cb815650043eea6005a33fe00000008000007309d2d5a7808a2f5d62c5ee7e0fd5263
+    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+    [status] => P
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"38\/"}
+)
+Array
+(
+    [access_token] => 5c39ee640043eea6005a33fe00000008000007170af8fdb109aade173a640507c78a4c
+    [domain] => brokci.bitrix24.ru
+    [refresh_token] => 123
+    [application_token] => dc069549bc5418e743ef7cf0f0d9632a
+    [client_endpoint] => https://brokci.bitrix24.ru/rest/
+    [C_REST_CLIENT_ID] => app.5e2afe618ddfd0.69900496
+    [C_REST_CLIENT_SECRET] => KKLF2lZ1pY3ePA4MGLuhlfQSWkvy0DWwOPWWAG4Ki4X6CMpeYd
+)
+getSettingData
+Array
+(
+    [DOMAIN] => brokci.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 927ae3d9777e5c2675a70325db19a467
+    [AUTH_ID] => eb3eef640043eea6005a33fe0000000800000704d03fbecf99013d40d45d3956ee2a6d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => dbbd16650043eea6005a33fe00000008000007a37a631fdc9a5d7a58b1cda86681220e
+    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+    [status] => P
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"38\/"}
+)
+Array
+(
+    [access_token] => eb3eef640043eea6005a33fe0000000800000704d03fbecf99013d40d45d3956ee2a6d
+    [domain] => brokci.bitrix24.ru
+    [refresh_token] => 123
+    [application_token] => 927ae3d9777e5c2675a70325db19a467
+    [client_endpoint] => https://brokci.bitrix24.ru/rest/
+    [C_REST_CLIENT_ID] => app.5e2afe618ddfd0.69900496
+    [C_REST_CLIENT_SECRET] => KKLF2lZ1pY3ePA4MGLuhlfQSWkvy0DWwOPWWAG4Ki4X6CMpeYd
+)

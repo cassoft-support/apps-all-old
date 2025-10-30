@@ -1,0 +1,16 @@
+---------------------13.10.2025MSK08:47:51
+1
+params
+Array
+(
+    [entityTypeId] => 4
+    [id] => 3743
+    [fields] => Array
+        (
+            [assignedById] => 135
+        )
+
+)
+
+assignedById
+135

@@ -1,0 +1,35 @@
+---------------------23.07.2024MSK10:41:03------------------
+post
+Array
+(
+    [value] => Array
+        (
+            [ID] => 19
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 12.07.2024
+            [CS_COLOR] => #94eaff
+            [TYPE_STAGE_NAME] => Начальная стадия
+            [CS_STAGE_DEAL] => ["DT161_19:NEW"]
+            [CS_STAGE_SMART] => Array
+                (
+                    [0] => DT161_19:NEW
+                    [1] => DT161_17:NEW
+                )
+
+            [CS_TYPE_STAGE] => new_action
+            [STAGE_SMART_NAME] => Новое резюме-(<b>Агенты</b>), Новое резюме-(<b>Руководители</b>), 
+            [NAME] => Собеседование назначено
+        )
+
+    [auth] => Array
+        (
+            [access_token] => 6e6c9f66005567d6006edb080000000b000007c064899e8048cc3db0a8755fe6bd08aa
+            [refresh_token] => 5eebc666005567d6006edb080000000b000007fb857451c46c4d2ebe71b3bc65e3eceb
+            [expires_in] => 1721724015352
+            [domain] => beregone.bitrix24.ru
+            [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+        )
+
+    [app] => hr_pro
+)
+

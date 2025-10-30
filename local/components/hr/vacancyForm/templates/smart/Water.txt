@@ -1,0 +1,235 @@
+Array
+(
+    [0] => 1920
+    [1] => 872
+    [2] => 2
+    [3] => width="1920" height="872"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1920
+    [1] => 1297
+    [2] => 2
+    [3] => width="1920" height="1297"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1920
+    [1] => 1297
+    [2] => 2
+    [3] => width="1920" height="1297"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1920
+    [1] => 872
+    [2] => 2
+    [3] => width="1920" height="872"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1920
+    [1] => 1297
+    [2] => 2
+    [3] => width="1920" height="1297"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1920
+    [1] => 1067
+    [2] => 2
+    [3] => width="1920" height="1067"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 582
+    [1] => 1964
+    [2] => 3
+    [3] => width="582" height="1964"
+    [bits] => 8
+    [mime] => image/png
+)
+Array
+(
+    [0] => 1361
+    [1] => 3000
+    [2] => 3
+    [3] => width="1361" height="3000"
+    [bits] => 8
+    [mime] => image/png
+)
+Array
+(
+    [0] => 1200
+    [1] => 700
+    [2] => 2
+    [3] => width="1200" height="700"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1200
+    [1] => 700
+    [2] => 2
+    [3] => width="1200" height="700"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1200
+    [1] => 700
+    [2] => 2
+    [3] => width="1200" height="700"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 319
+    [1] => 255
+    [2] => 3
+    [3] => width="319" height="255"
+    [bits] => 8
+    [mime] => image/png
+)
+Array
+(
+    [0] => 319
+    [1] => 255
+    [2] => 3
+    [3] => width="319" height="255"
+    [bits] => 8
+    [mime] => image/png
+)
+Array
+(
+    [0] => 694
+    [1] => 494
+    [2] => 3
+    [3] => width="694" height="494"
+    [bits] => 8
+    [mime] => image/png
+)
+Array
+(
+    [0] => 866
+    [1] => 1155
+    [2] => 2
+    [3] => width="866" height="1155"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1200
+    [1] => 800
+    [2] => 2
+    [3] => width="1200" height="800"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1200
+    [1] => 800
+    [2] => 2
+    [3] => width="1200" height="800"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1200
+    [1] => 800
+    [2] => 2
+    [3] => width="1200" height="800"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 900
+    [1] => 900
+    [2] => 2
+    [3] => width="900" height="900"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1280
+    [1] => 939
+    [2] => 2
+    [3] => width="1280" height="939"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 900
+    [1] => 900
+    [2] => 2
+    [3] => width="900" height="900"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 650
+    [1] => 650
+    [2] => 2
+    [3] => width="650" height="650"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 900
+    [1] => 900
+    [2] => 2
+    [3] => width="900" height="900"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1024
+    [1] => 572
+    [2] => 2
+    [3] => width="1024" height="572"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)

@@ -1,0 +1,4 @@
+---------------------05.06.2025MSK18:29:37
+/var/www/www-root/data/www/app.cassoft.ru/cassoftApp/market/hr/hh/in/7c91d0bf5fb9f2b084ae3a6cb334e14d_911.php
+add
+Файл /cassoftApp/market/hr/hh/in/7c91d0bf5fb9f2b084ae3a6cb334e14d_911.php успешно создан и в него записана информация

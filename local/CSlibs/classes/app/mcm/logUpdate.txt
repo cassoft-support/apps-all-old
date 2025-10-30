@@ -1,0 +1,12 @@
+---------------------22.10.2025MSK09:14:27
+Array
+(
+    [CONNECTOR] => cs_mcm_whatsapp
+    [LINE] => 1
+    [ACTIVE_STATUS] => 1
+    [profile] => 7b1e945b-bcfe
+    [fn] => profileUpdate
+)
+
+elUp
+66

@@ -1,0 +1,45 @@
+resSendDub
+Array
+(
+    [ok] => 
+    [error_code] => 400
+    [description] => Bad Request: chat not found
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 523
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760620004
+            [text] => test
+        )
+
+)
+

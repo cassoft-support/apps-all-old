@@ -1,0 +1,380 @@
+---------------------30.10.2025MSK07:33:45
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [event_handler_id] => 334
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [1828] => Array
+                        (
+                            [access_token] => b9f8026900580e62005d376e000007240000061d52ba5d884f1263d6bcd25085e5560d
+                            [expires] => 1761802425
+                            [expires_in] => 3600
+                            [scope] => crm,messageservice,entity,imopenlines,im,imbot,user_brief
+                            [domain] => cbn.bitrix24.ru
+                            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                            [status] => S
+                            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                            [member_id] => d17d1d15669be52925cf091ae22002d4
+                            [refresh_token] => a9772a6900580e62005d376e00000724000006e75278ccf147e1b9c82b2f0f3a07cf9e
+                            [user_id] => 1828
+                            [client_id] => app.61950a6ad4cfd7.21433277
+                            [application_token] => 0a8a29776c00931a03af397bf0917a23
+                            [AUTH] => Array
+                                (
+                                    [access_token] => b9f8026900580e62005d376e000007240000061d52ba5d884f1263d6bcd25085e5560d
+                                    [expires] => 1761802425
+                                    [expires_in] => 3600
+                                    [scope] => crm,messageservice,entity,imopenlines,im,imbot,user_brief
+                                    [domain] => cbn.bitrix24.ru
+                                    [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                                    [status] => S
+                                    [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                                    [member_id] => d17d1d15669be52925cf091ae22002d4
+                                    [refresh_token] => a9772a6900580e62005d376e00000724000006e75278ccf147e1b9c82b2f0f3a07cf9e
+                                    [user_id] => 1828
+                                    [client_id] => app.61950a6ad4cfd7.21433277
+                                    [application_token] => 0a8a29776c00931a03af397bf0917a23
+                                )
+
+                            [BOT_ID] => 1828
+                            [BOT_CODE] => cs_cian_bot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [MESSAGE] => Пожалуйста, оцените качество обслуживания.
+
+Отправьте: 1 - хорошо, 0 - плохо
+                    [MESSAGE_TYPE] => L
+                    [FROM_USER_ID] => 1886
+                    [DIALOG_ID] => chat4268
+                    [TO_CHAT_ID] => 4268
+                    [AUTHOR_ID] => 1886
+                    [SYSTEM] => N
+                    [PUSH] => Y
+                    [PUSH_IMPORTANT] => N
+                    [RECENT_SKIP_AUTHOR] => N
+                    [CONVERT] => N
+                    [SKIP_COMMAND] => N
+                    [SKIP_COUNTER_INCREMENTS] => N
+                    [SILENT_CONNECTOR] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [NO_SESSION_OL] => N
+                    [FAKE_RELATION] => 0
+                    [SKIP_URL_INDEX] => N
+                    [CHAT_ID] => 4268
+                    [CHAT_TITLE] => GEPTA - CS ЦИАН
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_TYPE] => L
+                    [CHAT_AVATAR] => 108138
+                    [CHAT_COLOR] => PURPLE
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => cs_cian_connector|24|165254846|1886
+                    [CHAT_ENTITY_DATA_1] => Y|LEAD|14852|N|Y|3186|1756422113|0|0|0
+                    [CHAT_ENTITY_DATA_2] => LEAD|14852|COMPANY|0|CONTACT|0|DEAL|0
+                    [CHAT_ENTITY_DATA_3] => 
+                    [CHAT_EXTRANET] => N
+                    [CHAT_PREV_MESSAGE_ID] => 0
+                    [CHAT_CAN_POST] => MEMBER
+                    [RID] => 1886
+                    [IS_MANAGER] => N
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [CHAT_USER_COUNT] => 2
+                    [PLATFORM_CONTEXT] => web
+                    [MESSAGE_ORIGINAL] => Пожалуйста, оцените качество обслуживания.
+
+Отправьте: 1 - хорошо, 0 - плохо
+                    [TO_USER_ID] => 0
+                    [MESSAGE_ID] => 223822
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1886
+                    [NAME] => GEPTA
+                    [FIRST_NAME] => GEPTA
+                    [LAST_NAME] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1761798825
+    [auth] => Array
+        (
+            [access_token] => b9f8026900580e62005d376e000001f400000680b4566d8e80c406e5a3f15fc40f25ee
+            [expires] => 1761802425
+            [expires_in] => 3600
+            [scope] => crm,messageservice,entity,imopenlines,im,imbot,user_brief
+            [domain] => cbn.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+            [user_id] => 500
+            [refresh_token] => a9772a6900580e62005d376e000001f4000006318f6d88d0b355be7edc82bfcdfc39f4
+            [application_token] => 0a8a29776c00931a03af397bf0917a23
+        )
+
+    [app] => cian_messager
+    [tempList] => messageAdd
+    [CACHE_TYPE] => A
+    [~event] => ONIMBOTMESSAGEADD
+    [~event_handler_id] => 334
+    [~data] => Array
+        (
+            [BOT] => Array
+                (
+                    [1828] => Array
+                        (
+                            [access_token] => b9f8026900580e62005d376e000007240000061d52ba5d884f1263d6bcd25085e5560d
+                            [expires] => 1761802425
+                            [expires_in] => 3600
+                            [scope] => crm,messageservice,entity,imopenlines,im,imbot,user_brief
+                            [domain] => cbn.bitrix24.ru
+                            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                            [status] => S
+                            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                            [member_id] => d17d1d15669be52925cf091ae22002d4
+                            [refresh_token] => a9772a6900580e62005d376e00000724000006e75278ccf147e1b9c82b2f0f3a07cf9e
+                            [user_id] => 1828
+                            [client_id] => app.61950a6ad4cfd7.21433277
+                            [application_token] => 0a8a29776c00931a03af397bf0917a23
+                            [AUTH] => Array
+                                (
+                                    [access_token] => b9f8026900580e62005d376e000007240000061d52ba5d884f1263d6bcd25085e5560d
+                                    [expires] => 1761802425
+                                    [expires_in] => 3600
+                                    [scope] => crm,messageservice,entity,imopenlines,im,imbot,user_brief
+                                    [domain] => cbn.bitrix24.ru
+                                    [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                                    [status] => S
+                                    [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                                    [member_id] => d17d1d15669be52925cf091ae22002d4
+                                    [refresh_token] => a9772a6900580e62005d376e00000724000006e75278ccf147e1b9c82b2f0f3a07cf9e
+                                    [user_id] => 1828
+                                    [client_id] => app.61950a6ad4cfd7.21433277
+                                    [application_token] => 0a8a29776c00931a03af397bf0917a23
+                                )
+
+                            [BOT_ID] => 1828
+                            [BOT_CODE] => cs_cian_bot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [MESSAGE] => Пожалуйста, оцените качество обслуживания.
+
+Отправьте: 1 - хорошо, 0 - плохо
+                    [MESSAGE_TYPE] => L
+                    [FROM_USER_ID] => 1886
+                    [DIALOG_ID] => chat4268
+                    [TO_CHAT_ID] => 4268
+                    [AUTHOR_ID] => 1886
+                    [SYSTEM] => N
+                    [PUSH] => Y
+                    [PUSH_IMPORTANT] => N
+                    [RECENT_SKIP_AUTHOR] => N
+                    [CONVERT] => N
+                    [SKIP_COMMAND] => N
+                    [SKIP_COUNTER_INCREMENTS] => N
+                    [SILENT_CONNECTOR] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [NO_SESSION_OL] => N
+                    [FAKE_RELATION] => 0
+                    [SKIP_URL_INDEX] => N
+                    [CHAT_ID] => 4268
+                    [CHAT_TITLE] => GEPTA - CS ЦИАН
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_TYPE] => L
+                    [CHAT_AVATAR] => 108138
+                    [CHAT_COLOR] => PURPLE
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => cs_cian_connector|24|165254846|1886
+                    [CHAT_ENTITY_DATA_1] => Y|LEAD|14852|N|Y|3186|1756422113|0|0|0
+                    [CHAT_ENTITY_DATA_2] => LEAD|14852|COMPANY|0|CONTACT|0|DEAL|0
+                    [CHAT_ENTITY_DATA_3] => 
+                    [CHAT_EXTRANET] => N
+                    [CHAT_PREV_MESSAGE_ID] => 0
+                    [CHAT_CAN_POST] => MEMBER
+                    [RID] => 1886
+                    [IS_MANAGER] => N
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [CHAT_USER_COUNT] => 2
+                    [PLATFORM_CONTEXT] => web
+                    [MESSAGE_ORIGINAL] => Пожалуйста, оцените качество обслуживания.
+
+Отправьте: 1 - хорошо, 0 - плохо
+                    [TO_USER_ID] => 0
+                    [MESSAGE_ID] => 223822
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1886
+                    [NAME] => GEPTA
+                    [FIRST_NAME] => GEPTA
+                    [LAST_NAME] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [~ts] => 1761798825
+    [~auth] => Array
+        (
+            [access_token] => b9f8026900580e62005d376e000001f400000680b4566d8e80c406e5a3f15fc40f25ee
+            [expires] => 1761802425
+            [expires_in] => 3600
+            [scope] => crm,messageservice,entity,imopenlines,im,imbot,user_brief
+            [domain] => cbn.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+            [user_id] => 500
+            [refresh_token] => a9772a6900580e62005d376e000001f4000006318f6d88d0b355be7edc82bfcdfc39f4
+            [application_token] => 0a8a29776c00931a03af397bf0917a23
+        )
+
+    [~app] => cian_messager
+    [~tempList] => messageAdd
+    [~CACHE_TYPE] => A
+)
+
+result
+Array
+(
+    [operationId] => 9F27FC32-B549-11F0-A6BF-E34DA4D8109E
+    [result] => Array
+        (
+            [chat] => Array
+                (
+                    [chatId] => 165254846
+                    [createdAt] => 2025-08-28T17:09:24.179411+00:00
+                    [updatedAt] => 2025-10-30T04:33:44.002764+00:00
+                    [agentUserId] => 118289849
+                    [users] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [userId] => 74349460
+                                    [role] => initiator
+                                )
+
+                            [1] => Array
+                                (
+                                    [userId] => 94312105
+                                    [role] => companion
+                                )
+
+                            [2] => Array
+                                (
+                                    [userId] => 118289849
+                                    [role] => opponent
+                                )
+
+                        )
+
+                    [offer] => Array
+                        (
+                            [id] => 319620476
+                            [url] => https://cian.ru/sale/flat/319620476/
+                            [userId] => 118289849
+                            [externalId] => 2472
+                        )
+
+                    [entityId] => 319620476
+                    [newbuilding] => 
+                    [lastMessage] => Array
+                        (
+                            [messageId] => 27c7412222af7d7db42e838966a06c9dcc78292916a87b16d3617931de963a5e
+                            [user] => Array
+                                (
+                                    [userId] => 94312105
+                                    [avatar] => Array
+                                        (
+                                            [images] => Array
+                                                (
+                                                    [small] => https://cian.ru/avatar.axd?i=94312105&t=2&p=1
+                                                    [big] => https://cian.ru/avatar.axd?i=94312105&t=2&p=2
+                                                )
+
+                                        )
+
+                                    [name] => GEPTA
+                                    [firstName] => 
+                                    [lastName] => 
+                                )
+
+                            [direction] => in
+                            [content] => Array
+                                (
+                                    [offers] => Array
+                                        (
+                                        )
+
+                                    [text] => Пожалуйста, оцените качество обслуживания.
+
+Отправьте: 1 - хорошо, 0 - плохо
+                                    [files] => 
+                                )
+
+                            [createdAt] => 2025-10-30T04:33:44.002764+00:00
+                        )
+
+                )
+
+        )
+
+)
+
+filter
+Array
+(
+    [ACTIVE] => Y
+    [<=PROPERTY_188] => 18645000
+    [>PROPERTY_188] => 15255000
+    [PROPERTY_194] => 92
+    [PROPERTY_208] => 4
+)
+
+product
+Array
+(
+    [ID] => 25158
+    [NAME] => 4-к. квартира, Общ. 107.1м2 г. Южно-Сахалинск, ул. Комсомольская, д.283Г, эт.5/9 Цена-16 950 000
+    [TIMESTAMP_X] => 2025-08-17T06:00:12+03:00
+    [PROPERTY_188] => Array
+        (
+            [valueId] => 741914
+            [value] => 16950000
+        )
+
+    [PROPERTY_254] => Array
+        (
+            [valueId] => 707954
+            [value] => 1
+        )
+
+)
+

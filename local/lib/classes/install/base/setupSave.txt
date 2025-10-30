@@ -1,0 +1,154 @@
+12.06.2023MSK21:32
+Array
+(
+    [DOMAIN] => b24-xrdkpo.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8700e2000c4a4e1b064b5f936c67621a
+    [AUTH_ID] => 146b8764005914040064578c000000010000073e13b9fe7d4420b4ccee7d9ae940b63f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 04eaae64005914040064578c000000010000078504b0a08af7aa32c8c803f30a6f449c
+    [member_id] => ee4f3d20ee34a3e77246b80abf4bd06a
+    [status] => F
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"15\/"}
+    [app] => change_user
+)
+Array
+(
+    [result] => Array
+        (
+            [ID] => 1
+            [XML_ID] => 22276946
+            [ACTIVE] => 1
+            [NAME] => Андрей
+            [LAST_NAME] => Черкасов
+            [SECOND_NAME] => Сергеевич
+            [EMAIL] => cas@cassoft.ru
+            [WORK_PHONE] => 87899876677
+            [WORK_POSITION] => 
+            [IS_ONLINE] => Y
+            [TIME_ZONE] => 
+            [TIMESTAMP_X] => 12.06.2023 21:29:07
+            [TIME_ZONE_OFFSET] => 0
+            [DATE_REGISTER] => 2023-06-02T03:00:00+03:00
+            [LAST_ACTIVITY_DATE] => 2023-06-12 21:32:46
+            [PERSONAL_GENDER] => M
+            [PERSONAL_BIRTHDAY] => 
+            [PERSONAL_PHOTO] => https://cdn-ru.bitrix24.ru/b25878362/main/b9c/b9c8e9d70fa5e95195cea99c4bcf0cc9/cb16e2e77b5a364bc70c367a94671781.jpeg
+            [PERSONAL_MOBILE] => +79877955613
+            [PERSONAL_CITY] => 
+            [UF_DEPARTMENT] => Array
+                (
+                    [0] => 1
+                )
+
+            [UF_EMPLOYMENT_DATE] => 
+        )
+
+    [time] => Array
+        (
+            [start] => 1686594766.6626
+            [finish] => 1686594766.6903
+            [duration] => 0.027753829956055
+            [processing] => 0.001939058303833
+            [date_start] => 2023-06-12T21:32:46+03:00
+            [date_finish] => 2023-06-12T21:32:46+03:00
+            [operating_reset_at] => 1686595366
+            [operating] => 0
+        )
+
+)
+Array
+(
+    [marketing] => 1
+    [personalArea] => 2
+    [counter_bid] => 3
+    [callControler] => 4
+    [real_estate] => 5
+    [real_estate_test] => 6
+    [brokci_2] => 7
+    [select_relevant] => 8
+    [catalog_mob] => 9
+    [gallery] => 10
+    [devPro] => 11
+    [pbx] => 12
+    [cassoft] => 13
+    [financier] => 14
+    [testirovanie_metodov] => 15
+    [cloud_receipts_mb] => 16
+    [change_user] => 17
+)
+app_change_user_accessArray
+(
+    [0] => Array
+        (
+            [ID] => 5
+            [UF_CS_CLIENT_PORTAL_MEMBER_ID] => ee4f3d20ee34a3e77246b80abf4bd06a
+            [UF_CS_CLIENT_PORTAL_DOMEN] => b24-xrdkpo.bitrix24.ru
+            [UF_CS_CLIENT_PORTAL_ACCESS_TOKEN] => 146b8764005914040064578c000000010000073e13b9fe7d4420b4ccee7d9ae940b63f
+            [UF_CS_CLIENT_PORTAL_REFRESH_TOKEN] => 04eaae64005914040064578c000000010000078504b0a08af7aa32c8c803f30a6f449c
+        )
+
+)
+Array
+(
+    [UF_CS_CLIENT_PORTAL_MEMBER_ID] => ee4f3d20ee34a3e77246b80abf4bd06a
+    [UF_CS_CLIENT_PORTAL_DOMEN] => b24-xrdkpo.bitrix24.ru
+    [UF_CS_CLIENT_PORTAL_ACCESS_TOKEN] => 146b8764005914040064578c000000010000073e13b9fe7d4420b4ccee7d9ae940b63f
+    [UF_CS_CLIENT_PORTAL_REFRESH_TOKEN] => 04eaae64005914040064578c000000010000078504b0a08af7aa32c8c803f30a6f449c
+)
+Array
+(
+    [0] => Array
+        (
+            [ID] => 210
+            [UF_CS_ACTIVE] => 1
+            [UF_CS_CLIENT_PORTAL_MEMBER_ID] => ee4f3d20ee34a3e77246b80abf4bd06a
+            [UF_CS_CLIENT_PORTAL_DOMEN] => b24-xrdkpo.bitrix24.ru
+            [UF_CS_APP_NAME] => brokci-pro
+            [UF_CS_CLIENT_FIO] => Черкасов Андрей
+            [UF_CS_CLIENT_TEL] => 
+            [UF_CS_CLIENT_TEL2] => 
+            [UF_CS_CLIENT_MAIL] => cas@cassoft.ru
+            [UF_CS_MARKETING] => 
+            [UF_CS_GALLERY] => 
+            [UF_CS_SELECTION_MOB] => 
+            [UF_CS_SELECT_RELEVANT] => 
+            [UF_CS_CALLS_CONTROLLER] => 
+            [UF_CS_BROKCI_INDUSTRY] => 
+            [UF_CS_OBJECT] => 
+            [UF_CS_BROKCI_PRO] => true
+            [UF_CS_CLIENT_PHOTO] => https://cdn-ru.bitrix24.ru/b25878362/main/b9c/b9c8e9d70fa5e95195cea99c4bcf0cc9/cb16e2e77b5a364bc70c367a94671781.jpeg
+            [UF_CS_DEV_PRO] => 
+            [UF_CS_PBX] => 
+            [UF_CS_FOLDER] => uctRJDpKFHyiI
+            [UF_CS_DATE_LICENSE_BROKCI_PRO] => 
+            [UF_CS_DATE_LICENSE_DEV_PRO] => 
+            [UF_CS_LICENSE_BROKCI_PRO] => 
+            [UF_CS_LICENSE_DEV_PRO] => 
+            [UF_CS_CLOUD_RECEIPTS_MB] => 
+            [UF_INSTALL_APP] => Array
+                (
+                    [0] => 17
+                )
+
+        )
+
+)
+Array
+(
+    [UF_CS_CLIENT_PORTAL_MEMBER_ID] => ee4f3d20ee34a3e77246b80abf4bd06a
+    [UF_CS_CLIENT_PORTAL_DOMEN] => b24-xrdkpo.bitrix24.ru
+    [UF_CS_ACTIVE] => 1
+    [UF_CS_CLIENT_FIO] => Черкасов Андрей Сергеевич
+    [UF_CS_CLIENT_TEL2] => 87899876677
+    [UF_CS_CLIENT_TEL] => +79877955613
+    [UF_CS_CLIENT_MAIL] => cas@cassoft.ru
+    [UF_CS_CLIENT_PHOTO] => https://cdn-ru.bitrix24.ru/b25878362/main/b9c/b9c8e9d70fa5e95195cea99c4bcf0cc9/cb16e2e77b5a364bc70c367a94671781.jpeg
+    [UF_INSTALL_APP] => Array
+        (
+            [0] => 17
+        )
+
+)

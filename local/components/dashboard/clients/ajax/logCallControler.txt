@@ -1,0 +1,21 @@
+Array
+(
+    [member_id] => 3bbaca275204a4316c4596533195886b
+    [app] => callControler
+    [type] => charts
+    [user_id] => 1
+)
+Array
+(
+    [member_id] => 
+    [app] => callControler
+    [type] => charts
+    [user_id] => 1
+)
+Array
+(
+    [member_id] => 
+    [app] => callControler
+    [type] => charts
+    [user_id] => 1
+)

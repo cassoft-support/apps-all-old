@@ -1,0 +1,255 @@
+---------------------23.10.2025MSK21:43:09
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [event_handler_id] => 322
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [1816] => Array
+                        (
+                            [access_token] => 4d85fa6800543a28005d376e000007180000061494e22193fd0ccf875daa8427ca7a4a
+                            [expires] => 1761248589
+                            [expires_in] => 3600
+                            [scope] => crm,imopenlines,im,user_brief,imbot,entity
+                            [domain] => cbn.bitrix24.ru
+                            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                            [status] => S
+                            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                            [member_id] => d17d1d15669be52925cf091ae22002d4
+                            [refresh_token] => 3d04226900543a28005d376e00000718000006c3b64fd25cb8690f0843ed4c0af15a7d
+                            [user_id] => 1816
+                            [client_id] => app.608a76c6dfdc68.60170467
+                            [application_token] => d7997a29333557dec947ae584c10ead4
+                            [AUTH] => Array
+                                (
+                                    [access_token] => 4d85fa6800543a28005d376e000007180000061494e22193fd0ccf875daa8427ca7a4a
+                                    [expires] => 1761248589
+                                    [expires_in] => 3600
+                                    [scope] => crm,imopenlines,im,user_brief,imbot,entity
+                                    [domain] => cbn.bitrix24.ru
+                                    [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                                    [status] => S
+                                    [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                                    [member_id] => d17d1d15669be52925cf091ae22002d4
+                                    [refresh_token] => 3d04226900543a28005d376e00000718000006c3b64fd25cb8690f0843ed4c0af15a7d
+                                    [user_id] => 1816
+                                    [client_id] => app.608a76c6dfdc68.60170467
+                                    [application_token] => d7997a29333557dec947ae584c10ead4
+                                )
+
+                            [BOT_ID] => 1816
+                            [BOT_CODE] => cs_domclick_bot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [MESSAGE] => Добрый день! Хочу записаться на просмотр. Когда вам будет удобно?
+                    [MESSAGE_TYPE] => L
+                    [FROM_USER_ID] => 1860
+                    [DIALOG_ID] => chat4452
+                    [TO_CHAT_ID] => 4452
+                    [AUTHOR_ID] => 1860
+                    [SYSTEM] => N
+                    [PUSH] => Y
+                    [PUSH_IMPORTANT] => N
+                    [RECENT_SKIP_AUTHOR] => N
+                    [CONVERT] => N
+                    [SKIP_COMMAND] => N
+                    [SKIP_COUNTER_INCREMENTS] => N
+                    [SILENT_CONNECTOR] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [NO_SESSION_OL] => N
+                    [FAKE_RELATION] => 0
+                    [SKIP_URL_INDEX] => N
+                    [CHAT_ID] => 4452
+                    [CHAT_TITLE] => Вячеслав Ким Продавец - ДомКлик
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_TYPE] => L
+                    [CHAT_AVATAR] => 0
+                    [CHAT_COLOR] => BROWN
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => cs_domclick_connector|26|68fa773aaa0af30001d01726|1860
+                    [CHAT_ENTITY_DATA_1] => Y|LEAD|17054|N|N|3364|1761244988|0|0|0
+                    [CHAT_ENTITY_DATA_2] => LEAD|17054|COMPANY|0|CONTACT|0|DEAL|0
+                    [CHAT_ENTITY_DATA_3] => 
+                    [CHAT_EXTRANET] => N
+                    [CHAT_PREV_MESSAGE_ID] => 0
+                    [CHAT_CAN_POST] => MEMBER
+                    [RID] => 1860
+                    [IS_MANAGER] => N
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [CHAT_USER_COUNT] => 2
+                    [PLATFORM_CONTEXT] => web
+                    [MESSAGE_ORIGINAL] => Добрый день! Хочу записаться на просмотр. Когда вам будет удобно?
+                    [TO_USER_ID] => 0
+                    [MESSAGE_ID] => 222610
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1860
+                    [NAME] => Вячеслав Ким Продавец
+                    [FIRST_NAME] => Вячеслав Ким
+                    [LAST_NAME] => Продавец
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1761244989
+    [auth] => Array
+        (
+            [access_token] => 4d85fa6800543a28005d376e000001f40000068694ff279dd940a74a1d695ef24a18a3
+            [expires] => 1761248589
+            [expires_in] => 3600
+            [scope] => crm,imopenlines,im,user_brief,imbot,entity
+            [domain] => cbn.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+            [user_id] => 500
+            [refresh_token] => 3d04226900543a28005d376e000001f4000006bf5fc31a4d1d1357a5262b7b52b7fd92
+            [application_token] => d7997a29333557dec947ae584c10ead4
+        )
+
+    [app] => domclick_messager
+    [tempList] => messageAdd
+    [CACHE_TYPE] => A
+    [~event] => ONIMBOTMESSAGEADD
+    [~event_handler_id] => 322
+    [~data] => Array
+        (
+            [BOT] => Array
+                (
+                    [1816] => Array
+                        (
+                            [access_token] => 4d85fa6800543a28005d376e000007180000061494e22193fd0ccf875daa8427ca7a4a
+                            [expires] => 1761248589
+                            [expires_in] => 3600
+                            [scope] => crm,imopenlines,im,user_brief,imbot,entity
+                            [domain] => cbn.bitrix24.ru
+                            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                            [status] => S
+                            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                            [member_id] => d17d1d15669be52925cf091ae22002d4
+                            [refresh_token] => 3d04226900543a28005d376e00000718000006c3b64fd25cb8690f0843ed4c0af15a7d
+                            [user_id] => 1816
+                            [client_id] => app.608a76c6dfdc68.60170467
+                            [application_token] => d7997a29333557dec947ae584c10ead4
+                            [AUTH] => Array
+                                (
+                                    [access_token] => 4d85fa6800543a28005d376e000007180000061494e22193fd0ccf875daa8427ca7a4a
+                                    [expires] => 1761248589
+                                    [expires_in] => 3600
+                                    [scope] => crm,imopenlines,im,user_brief,imbot,entity
+                                    [domain] => cbn.bitrix24.ru
+                                    [server_endpoint] => https://oauth.bitrix24.tech/rest/
+                                    [status] => S
+                                    [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                                    [member_id] => d17d1d15669be52925cf091ae22002d4
+                                    [refresh_token] => 3d04226900543a28005d376e00000718000006c3b64fd25cb8690f0843ed4c0af15a7d
+                                    [user_id] => 1816
+                                    [client_id] => app.608a76c6dfdc68.60170467
+                                    [application_token] => d7997a29333557dec947ae584c10ead4
+                                )
+
+                            [BOT_ID] => 1816
+                            [BOT_CODE] => cs_domclick_bot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [MESSAGE] => Добрый день! Хочу записаться на просмотр. Когда вам будет удобно?
+                    [MESSAGE_TYPE] => L
+                    [FROM_USER_ID] => 1860
+                    [DIALOG_ID] => chat4452
+                    [TO_CHAT_ID] => 4452
+                    [AUTHOR_ID] => 1860
+                    [SYSTEM] => N
+                    [PUSH] => Y
+                    [PUSH_IMPORTANT] => N
+                    [RECENT_SKIP_AUTHOR] => N
+                    [CONVERT] => N
+                    [SKIP_COMMAND] => N
+                    [SKIP_COUNTER_INCREMENTS] => N
+                    [SILENT_CONNECTOR] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [NO_SESSION_OL] => N
+                    [FAKE_RELATION] => 0
+                    [SKIP_URL_INDEX] => N
+                    [CHAT_ID] => 4452
+                    [CHAT_TITLE] => Вячеслав Ким Продавец - ДомКлик
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_TYPE] => L
+                    [CHAT_AVATAR] => 0
+                    [CHAT_COLOR] => BROWN
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => cs_domclick_connector|26|68fa773aaa0af30001d01726|1860
+                    [CHAT_ENTITY_DATA_1] => Y|LEAD|17054|N|N|3364|1761244988|0|0|0
+                    [CHAT_ENTITY_DATA_2] => LEAD|17054|COMPANY|0|CONTACT|0|DEAL|0
+                    [CHAT_ENTITY_DATA_3] => 
+                    [CHAT_EXTRANET] => N
+                    [CHAT_PREV_MESSAGE_ID] => 0
+                    [CHAT_CAN_POST] => MEMBER
+                    [RID] => 1860
+                    [IS_MANAGER] => N
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [CHAT_USER_COUNT] => 2
+                    [PLATFORM_CONTEXT] => web
+                    [MESSAGE_ORIGINAL] => Добрый день! Хочу записаться на просмотр. Когда вам будет удобно?
+                    [TO_USER_ID] => 0
+                    [MESSAGE_ID] => 222610
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1860
+                    [NAME] => Вячеслав Ким Продавец
+                    [FIRST_NAME] => Вячеслав Ким
+                    [LAST_NAME] => Продавец
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [~ts] => 1761244989
+    [~auth] => Array
+        (
+            [access_token] => 4d85fa6800543a28005d376e000001f40000068694ff279dd940a74a1d695ef24a18a3
+            [expires] => 1761248589
+            [expires_in] => 3600
+            [scope] => crm,imopenlines,im,user_brief,imbot,entity
+            [domain] => cbn.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+            [user_id] => 500
+            [refresh_token] => 3d04226900543a28005d376e000001f4000006bf5fc31a4d1d1357a5262b7b52b7fd92
+            [application_token] => d7997a29333557dec947ae584c10ead4
+        )
+
+    [~app] => domclick_messager
+    [~tempList] => messageAdd
+    [~CACHE_TYPE] => A
+)
+

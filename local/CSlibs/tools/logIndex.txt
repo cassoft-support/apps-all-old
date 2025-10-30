@@ -1,0 +1,17 @@
+---------------------01.06.2025MSK17:23:04
+Array
+(
+)
+
+input
+{"member_id":"7c91d0bf5fb9f2b084ae3a6cb334e14d","app":"hr_pro"}
+memberId
+7c91d0bf5fb9f2b084ae3a6cb334e14d
+clientsApp
+Array
+(
+    [ID] => 3
+)
+
+Y
+res

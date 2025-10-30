@@ -1,0 +1,14 @@
+30.10.2025MSK10:53
+Array
+(
+    [EventType] => ChannelSubscription
+    [SubscriptionDate] => 30.10.2025
+    [SubscriptionTime] => 07:53
+    [TelegramID] => 57409225
+    [FirstName] => Akroman
+    [LastName] => None
+    [Username] => Akroman
+    [SubscriptionSource] => None
+    [bot_id] => 7824620140
+    [source_id] => 1002170273363
+)

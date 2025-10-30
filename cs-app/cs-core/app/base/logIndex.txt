@@ -1,0 +1,23 @@
+---------------------30.10.2025MSK10:51:49
+Array
+(
+)
+
+doc
+/var/www/bitirx-brokci/data/www/app.cassoft.ru
+input
+{"member_id":"54f17a89344db2b08c183c4e688e9874","app":"mcm","app_access":"mcm"}
+memberId
+54f17a89344db2b08c183c4e688e9874
+app_access
+mcm
+app
+mcm
+clientsApp
+Array
+(
+    [ID] => 14
+)
+
+Y
+res

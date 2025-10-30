@@ -1,0 +1,42 @@
+---------------------16.01.2025MSK18:48:04
+Array
+(
+    [DOMAIN] => cbn.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8429ef9e178b811898409a3248841440
+    [AUTH_ID] => 3338896700580e62005d376e000001f400000760699495a28871abcbb777a335b900cd
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 23b7b06700580e62005d376e000001f4000007cb9eda31a51d707406e04fe742c7183d
+    [member_id] => d17d1d15669be52925cf091ae22002d4
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"64\/"}
+    [app] => cian_messager
+    [FOLDER] => CAMj/n3fWEDkg
+)
+
+REQUEST
+Array
+(
+    [DOMAIN] => cbn.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8429ef9e178b811898409a3248841440
+    [AUTH_ID] => 3338896700580e62005d376e000001f400000760699495a28871abcbb777a335b900cd
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 23b7b06700580e62005d376e000001f4000007cb9eda31a51d707406e04fe742c7183d
+    [member_id] => d17d1d15669be52925cf091ae22002d4
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"64\/"}
+    [app] => cian_messager
+    [FOLDER] => CAMj/n3fWEDkg
+)
+
+clientsApp
+Array
+(
+    [ID] => 3
+)
+

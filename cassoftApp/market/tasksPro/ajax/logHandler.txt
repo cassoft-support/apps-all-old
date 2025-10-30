@@ -1,0 +1,22 @@
+---------------------04.02.2025MSK10:10:20
+Array
+(
+    [DOMAIN] => app-cassoft.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5fbc309527c970e88181f417b9663f56
+    [AUTH_ID] => 6acba16700579b0e0074c1240000000c000007c3727d668decc79140fe5ef8f2f19b28
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5a4ac96700579b0e0074c1240000000c000007dcd3f432bc666c8b34d1619a65610ba7
+    [member_id] => b52a9e034640cdbe192eb721d7288263
+    [status] => S
+    [PLACEMENT] => SETTING_CONNECTOR
+    [PLACEMENT_OPTIONS] => {"CONNECTOR":"cs_mcm_whatsapp","LINE":"2","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+)
+
+rest
+Array
+(
+    [ID] => 1
+)
+

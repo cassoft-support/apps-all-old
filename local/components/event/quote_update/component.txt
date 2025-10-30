@@ -1,0 +1,74 @@
+30.10.2025MSK10:29
+Array
+(
+    [event] => ONCRMQUOTEUPDATE
+    [event_handler_id] => 2665
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 2469
+                )
+
+        )
+
+    [ts] => 1761809377
+    [auth] => Array
+        (
+            [domain] => tk-titan.bitrix24.ru
+            [client_endpoint] => https://tk-titan.bitrix24.ru/rest/
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [member_id] => 0e1cdf0d009498c49246ed98fc5f3710
+            [application_token] => ff6220a21083c5d6b8d1c0831d77d38d
+        )
+
+)
+Array
+(
+    [event] => ONCRMQUOTEUPDATE
+    [event_handler_id] => 2665
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 2469
+                )
+
+        )
+
+    [ts] => 1761809377
+    [auth] => Array
+        (
+            [domain] => tk-titan.bitrix24.ru
+            [client_endpoint] => https://tk-titan.bitrix24.ru/rest/
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [member_id] => 0e1cdf0d009498c49246ed98fc5f3710
+            [application_token] => ff6220a21083c5d6b8d1c0831d77d38d
+        )
+
+    [app] => change_assigned
+    [CACHE_TYPE] => A
+    [~event] => ONCRMQUOTEUPDATE
+    [~event_handler_id] => 2665
+    [~data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 2469
+                )
+
+        )
+
+    [~ts] => 1761809377
+    [~auth] => Array
+        (
+            [domain] => tk-titan.bitrix24.ru
+            [client_endpoint] => https://tk-titan.bitrix24.ru/rest/
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [member_id] => 0e1cdf0d009498c49246ed98fc5f3710
+            [application_token] => ff6220a21083c5d6b8d1c0831d77d38d
+        )
+
+    [~app] => change_assigned
+    [~CACHE_TYPE] => A
+)

@@ -1,0 +1,64 @@
+---------------------30.10.2025MSK10:53:34
+Array
+(
+    [CS_DEAL] => {"contact":true,"company":true,"invoice":true,"quote":false}
+    [CS_LEAD] => {"contact":true,"company":true,"quote":false}
+    [CS_CONTACT] => {"lead":false,"deal":false,"company":false,"invoice":false,"quote":false}
+    [CS_COMPANY] => {"lead":false,"deal":false,"contact":false,"invoice":false,"quote":false}
+    [CS_QUOTE] => {"lead":false,"deal":false,"contact":false,"company":false,"invoice":false}
+    [CS_SMART] => 
+    [CS_INVOICE] => 
+    [CS_COMMENT_ADD] => 1
+)
+
+30.10.2025 10:53:34
+Array
+(
+    [CS_DEAL] => {"contact":true,"company":true,"invoice":true,"quote":false}
+    [CS_LEAD] => {"contact":true,"company":true,"quote":false}
+    [CS_CONTACT] => {"lead":false,"deal":false,"company":false,"invoice":false,"quote":false}
+    [CS_COMPANY] => {"lead":false,"deal":false,"contact":false,"invoice":false,"quote":false}
+    [CS_QUOTE] => {"lead":false,"deal":false,"contact":false,"company":false,"invoice":false}
+    [CS_SMART] => 
+    [CS_INVOICE] => 
+    [CS_COMMENT_ADD] => 1
+)
+
+resCompanySetup
+Array
+(
+    [contact] => 1
+    [company] => 1
+    [quote] => 
+)
+
+statusInvoice
+Array
+(
+    [0] => DT31_2:N
+)
+
+statusInvoice
+Array
+(
+    [0] => DT31_2:N
+    [1] => DT31_2:S
+)
+
+name
+[B]лида[/B] ID84182: [URL=/crm/lead/details/84182/]Заполнение CRM-формы "Заявки с Телеграмм"[/URL] пользователем Карим Асоев
+statusInvoice
+Array
+(
+    [0] => DT31_2:N
+)
+
+statusInvoice
+Array
+(
+    [0] => DT31_2:N
+    [1] => DT31_2:S
+)
+
+contact
+Изменено contact-1

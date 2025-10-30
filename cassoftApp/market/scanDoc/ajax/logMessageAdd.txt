@@ -1,0 +1,54 @@
+---------------------07.01.2025MSK17:02:36
+Array
+(
+    [event] => ONIMCONNECTORMESSAGEADD
+    [event_handler_id] => 8
+    [data] => Array
+        (
+            [CONNECTOR] => cs_cian_connector
+            [LINE] => 2
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 8
+                                    [message_id] => 28
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 1
+                                    [text] => [b]support2@cassoft.ru:[/b] [br]tets
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 107695360
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [ts] => 1736258556
+    [auth] => Array
+        (
+            [access_token] => 0c427d6700580e620074c124000000010000078d80ab416abc9b146192eeda4578ab9c
+            [expires] => 1736262156
+            [expires_in] => 3600
+            [scope] => crm,messageservice,entity,user_basic,imopenlines
+            [domain] => app-cassoft.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => S
+            [client_endpoint] => https://app-cassoft.bitrix24.ru/rest/
+            [member_id] => b52a9e034640cdbe192eb721d7288263
+            [user_id] => 1
+            [application_token] => 1b73d35158b5317a78ba99a2714f910c
+        )
+
+)
+

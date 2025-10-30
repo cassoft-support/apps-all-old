@@ -1,0 +1,25 @@
+---------------------12.08.2024MSK08:29:38
+start
+arResult
+Array
+(
+    [userFIO] => Черкасов
+    [user_id] => 75
+    [app] => fulfillment
+    [deal_id] => 
+    [admin] => N
+    [domain] => sellerden.bitrix24.ru
+    [member_id] => 6655936493adaa30bfcf7acdba7fa92a
+    [UserAut] => {"DOMAIN":"sellerden.bitrix24.ru","PROTOCOL":"1","LANG":"ru","APP_SID":"f5ee5af6cc61887ec416184f1a42811e","AUTH_ID":"d1abb966005567de005f20c00000004b00000754091b11debfd59aa0df43d6eef39dc8","AUTH_EXPIRES":"3600","REFRESH_ID":"c12ae166005567de005f20c00000004b000007225c9863924e5e49a3f9071e7c02cebc","member_id":"6655936493adaa30bfcf7acdba7fa92a","status":"F","PLACEMENT":"DEFAULT","PLACEMENT_OPTIONS":"{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"61\\\/\"}"}
+    [req] => {"DOMAIN":"sellerden.bitrix24.ru","PROTOCOL":"1","LANG":"ru","APP_SID":"f5ee5af6cc61887ec416184f1a42811e","AUTH_ID":"d1abb966005567de005f20c00000004b00000754091b11debfd59aa0df43d6eef39dc8","AUTH_EXPIRES":"3600","REFRESH_ID":"c12ae166005567de005f20c00000004b000007225c9863924e5e49a3f9071e7c02cebc","member_id":"6655936493adaa30bfcf7acdba7fa92a","status":"F","PLACEMENT":"DEFAULT","PLACEMENT_OPTIONS":"{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"61\\\/\"}"}
+    [chatBuy] => (function(w,d,u){
+        var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+    })(window,document,'https://cdn-ru.bitrix24.ru/b9950371/crm/site_button/loader_5_9bynjt.js');
+    [chatSupport] => (function(w,d,u){
+        var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+    })(window,document,'https://cdn-ru.bitrix24.ru/b9950371/crm/site_button/loader_5_9bynjt.js');
+    [PLACEMENT] => DEFAULT
+)
+

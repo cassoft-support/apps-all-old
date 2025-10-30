@@ -1,0 +1,835 @@
+<?php
+//set_time_limit(600);
+
+session_start();
+
+if (isset($_GET['mode'])) {
+    if ($_GET['mode'] === 'response') {
+    $_SESSION["mode"] = $_GET['mode'];
+    }
+}
+
+if (isset($_GET['mode'])) {
+    if ($_GET['mode'] === 'publication') {
+    $_SESSION["mode"] = $_GET['mode'];
+    }
+}
+
+
+
+
+/*  if (isset($_GET['mode'])) {
+
+    $mode = $_GET["mode"];
+} else {
+    $mode = 'response';
+
+} */
+
+
+
+echo ini_get("max_execution_time");
+
+ini_set('max_execution_time',200);
+
+echo ini_get("max_execution_time");
+
+echo 'Версия PHP: ' . phpversion();
+
+$memory1 = memory_get_usage();   
+$memoryUsageInKB = $memory1 / 1024;
+echo "Memory usage: " . $memoryUsageInKB . " KB";
+echo '<br>';
+
+ 
+print "максимум выделенной памяти на этом хостинге в байтах: $memory";
+
+require_once ('Excel_to_PHP/reader.php'); // подключаем файл reader.php из папки
+
+require_once ('PHP_to_Excel/Classes/PHPExcel.php');
+
+$arrIdVacancy = [];
+
+$arrIdVacancyes = [];
+
+$arrIdResponse = [];   
+
+
+
+$arrDataKont = [];
+
+
+
+$Excel = new Spreadsheet_Excel_Reader(); // создаем объект
+
+$Excel->setOutputEncoding('utf-8'); // устанавливаем кодировку
+
+$Excel->read('in.xls'); // открываем нужный Excel файл
+
+$countRow = $Excel->sheets[ 0]['numRows']; // узнаем количество строк в 1 листе
+/* echo $countRow. '  $count в первом листе <br> ';
+ 
+ echo $Excel->sheets[ 0]['cells'][2][3];
+ echo '<br> '; */
+ /* $site = $Excel->sheets[ 0]['cells'][2][3];
+ 
+ $site_mas = explode("/", $site);
+ $site_id = $site_mas[4];
+ echo $site_id; */
+//echo '<br> ';
+ 
+ $countRow = 74;
+for ($tt = 2; $tt < $countRow; $tt++) {
+   
+  $site[$tt] = $Excel->sheets[ 0]['cells'][$tt][3]; 
+ // echo $site[$tt];
+ $site_mas[$tt] = explode("/", $site[$tt]);
+ $site_id[$tt] = $site_mas[$tt][4];
+ /* echo '<br> ';
+ echo $site_id[$tt];
+echo '<br> ';
+  array_push($arrIdVacancy, $site_id[$tt]); */
+}
+ 
+// echo '<br> ';
+ //$count_id = count($arrIdVacancy);
+// echo $count_id. '  $arrIdVacancy ';
+// echo '<br> ';
+ 
+/********************************************************************
+/hh.ru
+*********************************************************************/
+$nomerStroki = 2;
+
+// Функция авторизации на hh.ru
+function getRequest()
+{
+
+    $client_id = 'RCIJDVLJF9EDKMR8BJ144RU3OMN1SARBR2LSJDIFV7SF93HGNS7IKHFNT61LL43I';
+    $client_secret = 'H10B7ITLMFGAFU98UG5QVCOVLNOB57K42KL353BVVE15DN3A1RV0JNLO072UD2CF';
+
+
+    if (empty($_GET['code']))
+    {
+
+        $newURL = "https://hh.ru/oauth/authorize?response_type=code&skip_choose_account=true&client_id=" . $client_id;
+
+        header('Location: ' . $newURL);
+
+    }
+    else
+    {
+
+        if ($curl = curl_init())
+        {
+            curl_setopt($curl, CURLOPT_URL, 'https://hh.ru/oauth/token');
+            curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+            curl_setopt($curl, CURLOPT_POSTFIELDS, "grant_type=authorization_code&client_id=" . $client_id . "&client_secret=" . $client_secret . "&code=" . $_GET['code']);
+            $out = curl_exec($curl);
+            curl_close($curl);
+        }
+
+        $jsonobj = $out;
+
+        $obj = json_decode($jsonobj);
+
+        return $obj->access_token;
+
+    }
+}
+
+// Функция получения данных: Get запрос
+function getUrl($access_token, $apiUrl)
+{
+
+    $headers = array(
+        'Authorization: Bearer ' . $access_token,
+        'User-Agent: Masterpro'
+    );
+
+    $urlApi = $apiUrl;
+
+    if ($curl = curl_init())
+    {
+        curl_setopt($curl, CURLOPT_URL, $urlApi);
+        curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
+        $out = curl_exec($curl);
+        curl_close($curl);
+    }
+
+    $data = json_decode($out, true);
+    return $data;
+
+}
+
+
+
+// Функция получения откликов по id вакансии
+function getResponse($data)
+{
+
+    $responses_data = $data;
+
+    foreach ($responses_data['items'] as $response)
+    {
+           
+        $resume_id = $response['resume']['id'];
+   /*  echo $item;
+    echo '<br>'; */
+        global $arrIdResponse;
+        array_push($arrIdResponse, $resume_id);
+
+    }
+
+}
+
+/* 
+$phpexcel = new PHPExcel(); // Создаём объект PHPExcel
+ 
+ $page = $phpexcel->setActiveSheetIndex( 0);
+
+  $page->setCellValue("A1", "Дата размещения"); 
+  $page->setCellValue("B1", "Компания");  
+  $page->setCellValue("C1", "Вакансия"); 
+  $page->setCellValue("D1", "Зарплата");
+  $page->setCellValue("E1", "ФИО менеджера по подбору");
+  $page->setCellValue("F1", "Телефон");
+  $page->setCellValue("G1", "Телефон");
+  $page->setCellValue("H1", "Эл. Почта");
+  $page->setCellValue("I1", "Ссылка на HH");
+  
+  $page->setCellValue("K1", "Вахта (месяц)");
+  $page->setCellValue("L1", "Регион");
+  $page->setCellValue("M1", "Актив");
+  
+  $page->setCellValue("N1", "Вакансий всего");
+  $page->setCellValue("O1", "Вакансий за период");
+  $page->setCellValue("R1", "Условия");
+  $page->setCellValue("S1", " ");
+  
+  $page->getColumnDimension('N')->setAutoSize(true);
+  $page->getColumnDimension('O')->setAutoSize(true);
+  
+  
+  $page->getColumnDimension('K')->setAutoSize(true);
+  $page->getColumnDimension('L')->setAutoSize(true);
+  $page->getColumnDimension('M')->setAutoSize(true);
+  
+  
+  
+  $page->getColumnDimension('A')->setAutoSize(true);
+  $page->getColumnDimension('B')->setAutoSize(true);
+  $page->getColumnDimension('C')->setAutoSize(true);
+  
+  $page->getColumnDimension('D')->setAutoSize(true);
+  $page->getColumnDimension('E')->setAutoSize(true);
+  $page->getColumnDimension('F')->setAutoSize(true);
+  
+  $page->getColumnDimension('H')->setAutoSize(true);
+  $page->getColumnDimension('I')->setAutoSize(true);   
+  
+  $page->getColumnDimension('R')->setWidth(100);
+  
+  $page->getDefaultRowDimension()->setRowHeight(-1);
+  
+  $page->getStyle('A1:R1')->getFont()->setBold(true);
+  
+ 
+  $page->setAutoFilter('B1:C1');
+  
+  $page->freezePane('A2'); 
+  
+  
+  $page->setTitle("Результаты"); 
+ */
+
+// Функция получения списка вакансий
+function getVacancies($access_token, $employer)
+{
+
+
+$phpexcel = new PHPExcel(); // Создаём объект PHPExcel
+ 
+ $page = $phpexcel->setActiveSheetIndex( 0);
+
+  $page->setCellValue("A1", "Дата размещения"); 
+  $page->setCellValue("B1", "Компания");  
+  $page->setCellValue("C1", "Вакансия"); 
+  $page->setCellValue("D1", "Зарплата");
+  $page->setCellValue("E1", "ФИО менеджера по подбору");
+  $page->setCellValue("F1", "Телефон");
+  $page->setCellValue("G1", "Телефон");
+  $page->setCellValue("H1", "Эл. Почта");
+  $page->setCellValue("I1", "Ссылка на HH");
+  
+  $page->setCellValue("K1", "Вахта (месяц)");
+  $page->setCellValue("L1", "Регион");
+  $page->setCellValue("M1", "Актив");
+  
+  $page->setCellValue("N1", "Вакансий всего");
+  $page->setCellValue("O1", "Вакансий за период");
+  $page->setCellValue("R1", "Условия");
+  $page->setCellValue("S1", " ");
+  
+  $page->getColumnDimension('N')->setAutoSize(true);
+  $page->getColumnDimension('O')->setAutoSize(true);
+  
+  
+  $page->getColumnDimension('K')->setAutoSize(true);
+  $page->getColumnDimension('L')->setAutoSize(true);
+  $page->getColumnDimension('M')->setAutoSize(true);
+  
+  
+  
+  $page->getColumnDimension('A')->setAutoSize(true);
+  $page->getColumnDimension('B')->setAutoSize(true);
+  $page->getColumnDimension('C')->setAutoSize(true);
+  
+  $page->getColumnDimension('D')->setAutoSize(true);
+  $page->getColumnDimension('E')->setAutoSize(true);
+  $page->getColumnDimension('F')->setAutoSize(true);
+  
+  $page->getColumnDimension('H')->setAutoSize(true);
+  $page->getColumnDimension('I')->setAutoSize(true);   
+  
+  $page->getColumnDimension('R')->setWidth(100);
+  
+  $page->getDefaultRowDimension()->setRowHeight(-1);
+  
+  $page->getStyle('A1:R1')->getFont()->setBold(true);
+  
+ 
+  $page->setAutoFilter('B1:C1');
+  
+  $page->freezePane('A2'); 
+  
+  
+  $page->setTitle("Результаты"); 
+
+
+
+
+
+$employer_id = $employer; //  Id  работодателя
+
+
+//$url = "https://api.hh.ru/vacancies";
+    
+    $currentDate = date('Y-m-d');
+    $previousDate = date('Y-m-d', strtotime('-1 days'));
+    $dateFrom = urlencode($previousDate);
+    $dateTo = urlencode($currentDate);
+    
+   // $url .= "?employer_id={$companyId}&date_from={$dateFrom}&date_to={$dateTo}";
+
+//week
+//days
+
+$perPage = 10;
+
+// Вывод вакансий из архива
+$apiUrl = "https://api.hh.ru/employers/" . $employer_id . "/vacancies/archived";
+
+// Вывод опубликованных вакансий
+
+/* $apiUrl = "https://api.hh.ru/vacancies?employer_id=" . $employerId . "&per_page=" . $perPage . "&date_from={$dateFrom}&date_to={$dateTo}"; */
+
+$data = getUrl($access_token, $apiUrl);
+
+echo 'Список вакансий компании с id  '.$employer_id;
+/* echo '<pre>';
+     print_r($data); */
+
+
+$dataVac = $data;
+
+foreach ($dataVac['items'] as $value)
+    {
+      
+       
+        $apiUrl = "https://api.hh.ru/negotiations/response?vacancy_id=" . $value['id'];
+        $data = getUrl($access_token, $apiUrl);
+        getResponse($data);
+
+    }
+
+
+
+$totalVacancies = $dataVac[found];
+
+echo 'Всего вакансий     '. $totalVacancies;
+echo '<br>';
+
+$totalPages = $dataVac[pages];
+ 
+ 
+ 
+ for ($nPage = 0;$nPage < $totalPages;$nPage++)
+    {
+echo ' **************  Номер страницы  ********************  ';
+echo $nPage ; 
+echo '<br>';
+
+
+$apiUrl = "https://api.hh.ru/employers/" . $employer_id . "/vacancies/archived";
+
+/* $apiUrl = "https://api.hh.ru/vacancies?employer_id=" . $employerId . "&per_page=" . $perPage . "&page=" . $nPage . "&date_from=" . $dateFrom ."&date_to=" .$dateTo;
+ */
+
+
+$data = getUrl($access_token, $apiUrl);
+/* echo '<pre>';
+     print_r($data);  */
+
+
+/* 
+
+premium 
+Если значение true — в сортировке вакансий будет учтены премиум вакансии. Такая сортировка используется на сайте. По умолчанию — false
+
+
+
+
+echo 'Список вакансий компании с id  '.$employerId;
+echo '<pre>';
+     print_r($data); */
+
+$dataVac = $data;
+ 
+ ////////////////////////////////////////////////////////////
+ $item5 = count($dataVac[items]);
+  /* echo($item5);
+ echo '<br>'; */
+ 
+  for ($k = 0;$k < $item5;$k++)
+    {
+
+global $nomerStroki;
+$kk = $nomerStroki + $k;
+
+/* echo('kk           ');
+ echo($kk);
+ echo '<br>';
+echo('nomerStroki');
+ echo '<br>';
+echo($nomerStroki);
+ echo '<br>'; */
+
+  // ссылка на вакансию
+ $vacancy_id[$k] = $dataVac[items][$k]['id'];      
+ // echo '<p style=" padding-left: 100px; margin: 10px; "   >' . $vacancy_id[$k] . '</p>'; 
+   global $arrIdVacancyes;
+        
+        // Формирование массива id резюме
+        array_push($arrIdVacancyes, $vacancy_id[$k]);
+   
+ 
+   
+   
+  $vacancy_id_url[$k] = $dataVac[items][$k]['url'];      
+ // echo '<p style=" padding-left: 100px; margin: 10px; "   >' . $vacancy_id_url[$k] . '</p>'; 
+  /*   
+ $apiUrl = $vacancy_id_url[$k];
+$data33[$k] = getUrl($access_token, $apiUrl);
+ 
+ 
+   $candidat[$k] = $data33[$k]['description'];      
+
+$trimmed_string1[$k] = strip_tags($candidat[$k]);
+ 
+	$str[$k] = $trimmed_string1[$k];
+$phrase = 'Условия';
+$lastPos[$k] = mb_strrpos($str[$k], $phrase, 0, 'UTF-8'); 
+
+if ($lastPos[$k] !== false) {
+    $newStr[$k] = mb_substr($str[$k], $lastPos[$k]);
+   echo $newStr[$k];  echo '<br>'; echo '<br>';
+} else {
+    echo "Условия не найдены";
+    $newStr[$k] = "Условия не найдены";
+}	
+
+$string77[$k] = $newStr[$k];
+$string77[$k] = trim(str_replace('
+', '', $string77[$k]));
+echo $string77[$k];
+
+$trimmed_string[$k] = $string77[$k]; */
+
+ $trimmed_string[$k] = 'Условия';  
+   
+            
+ // ссылка на сайт
+ $vacancy_id[$k] = $dataVac[items][$k]['alternate_url'];      
+  //echo '<p style=" padding-left: 100px; margin: 10px; "   >' . $vacancy_id[$k] . '</p>';
+
+ //global $page;
+ 
+ $page->setCellValue("I$kk", "$vacancy_id[$k]"); 
+ 
+ // условия
+ $vacancy_conditions[$k] = $trimmed_string[$k];      
+ // echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_conditions[$k] . '</p>';
+ $page->setCellValue("R$kk", "$vacancy_conditions[$k]");
+ 
+ $page->setCellValue("S$kk", '--');
+ 
+ //  Актив
+ /* $page->setCellValue("M$kk", "$out20[$k]"); 
+ echo '<p style=" padding-left: 100px; margin: 10px; "   >' . $out20[$k] . '</p>';  */
+ 
+ 
+ //  График вахты
+ /* $page->setCellValue("K$kk", "$out5[$k]"); 
+ echo '<p style=" padding-left: 100px; margin: 10px; "   >' . $out5[$k] . '</p>';  */
+
+//  address вакансии
+ $address[$k] = $dataVac[items][$k]['area']['name'];      
+  //echo '<p style=" padding-left: 100px; margin: 10px; "   >' . $address[$k] . '</p>'; 
+$page->setCellValue("L$kk", "$address[$k]");
+
+//  название вакансии
+ $vacancy_name[$k] = $dataVac[items][$k]['name'];      
+  echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_name[$k] . '</p>';
+ $page->setCellValue("C$kk", "$vacancy_name[$k]");
+
+//  зарплата
+$vacancy_salary_from[$k] = $dataVac[items][$k]['salary']['from'];      
+  //echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_salary_from[$k] . '</p>';
+  
+  $vacancy_salary_to[$k] = $dataVac[items][$k]['salary']['to'];      
+  //echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_salary_to[$k] . '</p>';
+
+$vacancy_salary[$k] = "От  $vacancy_salary_from[$k] до $vacancy_salary_to[$k] руб.";
+$page->setCellValue("D$kk", "$vacancy_salary[$k]");
+
+//  дата публикации
+$vacancy_created_at[$k] = $dataVac[items][$k]['published_at']; 
+ //echo date("d.m.Y", $vacancy_created_at[$k]);
+ //echo $vacancy_created_at[$k];
+//$vacancy_created_at[$k] = date("d.m.Y", $vacancy_created_at[$k]); 
+$page->setCellValue("A$kk", "$vacancy_created_at[$k]");
+
+// имя компании
+$vacancy_employer_name[$k] = $dataVac[items][$k]['employer']['name'];      
+ // echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_employer_name[$k] . '</p>';  
+$page->setCellValue("B$kk", "$vacancy_employer_name[$k]");
+
+// менеджер
+$vacancy_contacts_name[$k] = $dataVac[items][$k]['contacts']['name'];      
+ // echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_contacts_name[$k] . '</p>'; 
+$page->setCellValue("E$kk", "$vacancy_contacts_name[$k]"); 
+
+// Телефон
+$vacancy_contacts_phones[$k] = $dataVac[items][$k]['contacts']['phones']['0']['formatted'];      
+ // echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_contacts_phones[$k] . '</p>'; 
+$page->setCellValue("F$kk", "$vacancy_contacts_phones[$k]");
+
+// Почта
+$vacancy_contacts_email[$k] = $dataVac[items][$k]['contacts']['email'];      
+ // echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_contacts_email[$k] . '</p>' ;
+$page->setCellValue("H$kk", "$vacancy_contacts_email[$k]");
+
+
+// Всего вакансий компании
+$vacancy_count[$k] = $dataVac['found'];      
+ // echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_count[$k] . '</p>';  
+$page->setCellValue("N$kk", "$vacancy_count[$k]");
+
+// Вакансий компании за период
+/* $vacancy_count_period[$k] = $totalVacancies;      
+  echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_count_period[$k] . '</p>';  
+$page->setCellValue("N$kk", "$vacancy_count_period[$k]"); */
+
+
+ 
+    }  //for ($k
+    
+    $nomerStroki = $nomerStroki + $item5;
+    
+    // Получение id вакансии
+/*     foreach ($dataVac['items'] as $value)
+    {
+       
+        
+  $vacancy_id = $value['id'];      
+  echo '<p style=" padding-left: 100px; margin: 10px; "   >' . $vacancy_id . '</p>';
+
+  $vacancy_name = $value['name'];      
+  echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_name . '</p>';
+
+  $vacancy_area = $value['area']['name'];      
+  echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_area . '</p>';
+
+  $vacancy_salary_from = $value['salary']['from'];      
+  echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_salary_from . '</p>';
+
+  $vacancy_salary_to = $value['salary']['to'];      
+  echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_salary_to . '</p>';
+
+  $vacancy_created_at = $value['created_at'];      
+  echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_created_at . '</p>';
+
+  $vacancy_employer_name = $value['employer']['name'];      
+  echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_employer_name . '</p>';       
+ 
+  $vacancy_contacts_name = $value['contacts']['name'];      
+  echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_contacts_name . '</p>'; 
+
+  $vacancy_contacts_email = $value['contacts']['email'];      
+  echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_contacts_email . '</p>'; 
+
+  $vacancy_contacts_phones = $value['contacts']['phones']['0']['formatted'];      
+  echo '<p style=" padding: 0; margin: 5px; "   >' . $vacancy_contacts_phones . '</p>'; 
+
+
+
+
+    }  */ //foreach
+
+    }  // for n
+
+
+$objWriter = PHPExcel_IOFactory::createWriter($phpexcel, 'Excel2007');
+  $objWriter->save("out.xlsx"); 
+
+
+
+}  // Функция получения списка вакансий конец
+
+
+// Получение токена
+$access_token = getRequest();
+echo '<br>';
+echo $access_token;
+echo '<br>';
+
+//***************************************************
+//******************  Получение откликов по вакансиям
+
+function getResponseVacancies($access_token)
+{
+   /* $employer = 3964417; 
+    getVacancies($access_token, $employer); */
+
+
+
+global $arrIdVacancyes;
+$count_id_vac = count($arrIdVacancyes);
+  echo $count_id_vac. '  $count_id <br> ';echo '<br>';
+
+
+
+echo '<br>';
+echo 'Число откликов       ';
+global $arrIdResponse;
+ echo count($arrIdResponse);
+ 
+ $item55 = count($arrIdResponse);
+
+    echo '<br>';
+
+
+ $phpexcel_2 = new PHPExcel(); 
+
+ $page_2 = $phpexcel_2->setActiveSheetIndex( 0);
+
+  $page_2->setCellValue("A1", "Фамилия"); 
+  $page_2->setCellValue("B1", "Имя");  
+  $page_2->setCellValue("C1", "Отчество"); 
+  
+  $page_2->setCellValue("D1", "Телефон"); 
+  $page_2->setCellValue("E1", "Почта");  
+  $page_2->setCellValue("F1", "Вакансия"); 
+
+  $page_2->getColumnDimension('A')->setAutoSize(true);
+  $page_2->getColumnDimension('B')->setAutoSize(true);
+  $page_2->getColumnDimension('C')->setAutoSize(true);
+  $page_2->getColumnDimension('D')->setAutoSize(true);
+  $page_2->getColumnDimension('E')->setAutoSize(true);
+  $page_2->getColumnDimension('F')->setAutoSize(true);
+
+$page_2->getStyle('A1:R1')->getFont()->setBold(true);
+  
+ 
+  $page_2->setAutoFilter('A1:D1');
+  
+  $page_2->freezePane('A2'); 
+
+
+    for ($k = 0;$k <= $item55;$k++)
+    {
+$kk = 2 + $k;
+        if (isset($arrIdResponse[$k]))
+        {
+
+            //echo $arrIdResponse[$k];
+     global $arrIdResponse;       
+     $apiUrl = "https://api.hh.ru/resumes/" . $arrIdResponse[$k] . "?specialization_fields=contacts";
+
+//echo $apiUrl;
+
+            $data5[$k] = getUrl($access_token, $apiUrl);
+
+/* echo '<pre>';
+     print_r($data5[$k]); */
+
+
+            $postName[$k] = $data5[$k]['title'];
+
+            $lastName[$k] = $data5[$k]['last_name'];
+
+            $firstName[$k] = $data5[$k]['first_name'];
+
+            $middleName[$k] = $data5[$k]['middle_name'];
+
+
+// Фамилия
+
+$page_2->setCellValue("A$kk", "$lastName[$k]");
+$page_2->setCellValue("B$kk", "$firstName[$k]");
+$page_2->setCellValue("C$kk", "$middleName[$k]");
+$page_2->setCellValue("F$kk", "$postName[$k]");
+
+
+
+
+            echo '<p style=" padding: 0; margin: 5px; "   >' . $lastName[$k] . '</p>';
+
+            if ($data5[$k]['contact'][0]['type']['id'] == 'cell')
+            {
+
+                echo '<p style=" padding: 0; margin: 5px; "   >' . $data5[$k]['contact'][0]['value']['formatted'] . '</p>';
+                $arrKont[$k] = $data5[$k]['contact'][0]['value']['formatted'];
+$page_2->setCellValue("D$kk", "$arrKont[$k]");
+
+
+            }
+
+            if ($data5[$k]['contact'][1]['type']['id'] == 'email')
+            {
+                $arrKont2[$k] = $data5[$k]['contact'][1]['value'];
+$page_2->setCellValue("E$kk", "$arrKont2[$k]");
+                echo '<p style=" padding: 0; margin: 5px; "   >' . $arrKont2[$k] . '</p>';
+
+            }
+            
+//require ($_SERVER["DOCUMENT_ROOT"] . "/bitrix/modules/main/include/prolog_before.php");
+
+/* 
+            if (\Bitrix\Main\Loader::includeModule('crm'))
+            {
+
+                $arNewContact = array(
+                    "NAME" => $firstName[$k],
+                    "SECOND_NAME" => $middleName[$k],
+                    "LAST_NAME" => $lastName[$k],
+                    'ASSIGNED_BY_ID' => "1",
+                    "POST" => $postName[$k]
+                );
+
+                $arNewContact['FM']['PHONE'] = array(
+                    'n0' => array(
+                        'VALUE_TYPE' => 'WORK',
+                        'VALUE' => $arrKont[$k],
+                    )
+                );
+
+                $arNewContact['FM']['EMAIL'] = array(
+                    'n0' => array(
+                        'VALUE_TYPE' => 'WORK',
+                        'VALUE' => $arrKont2[$k],
+                    )
+                );
+
+                $contact = new CCrmContact();
+                $contactID = $contact->Add($arNewContact);
+
+                $entity[$k] = new CCrmDeal;
+                $fields[$k] = array(
+                    'TITLE' => $postName[$k],
+                    'CONTACT_ID' => $contactID,
+                    'STAGE_ID' => 'NEW',
+                    'CATEGORY_ID' => '0'
+                );
+                $d_id[$k] = $entity[$k]->add($fields[$k]);
+
+            } */
+            
+//////////////////////////////////////////////////////////////////////
+
+        }
+    }
+  $objWriter2 = new PHPExcel_Writer_Excel2007($phpexcel_2);
+$objWriter2->save("out2.xlsx");   
+    
+    
+} // Получение откликов по вакансиям конец
+ 
+ // Функция публикации вакансии
+function postVacanciesDrafts($access_token)
+{
+
+    $data_json = file_get_contents("data.json");
+
+    $data_string = file_get_contents("data.json");
+    $curl = curl_init('https://api.hh.ru/vacancies/drafts');
+    curl_setopt($curl, CURLOPT_CUSTOMREQUEST, "POST");
+    curl_setopt($curl, CURLOPT_POSTFIELDS, $data_string);
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($curl, CURLOPT_HTTPHEADER, ['Authorization: Bearer ' . $access_token, 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36', 'Content-Type: application/json', 'Content-Length: ' . strlen($data_string) ]);
+    $result = curl_exec($curl);
+    curl_close($curl);
+    echo '<pre>';
+    print_r($result);
+
+    echo '<br>';
+    echo '<br>';
+
+}
+/*  if (isset($_GET['mode'])) {
+
+    $mode = $_GET["mode"];
+} else {
+    $mode = 'response';
+
+} */
+ 
+ if (isset($_SESSION["mode"]))
+{
+    $mode = $_SESSION["mode"];
+    
+   // echo $mode;
+}
+ 
+ 
+ 
+  echo '<br>';
+    echo $mode;
+  echo '<br>';  
+    if ($mode == 'publication') {
+
+    postVacanciesDrafts($access_token);
+}
+ 
+ if ($mode == 'response') {
+ 
+    $employer = 3964417; 
+    getVacancies($access_token, $employer);
+    getResponseVacancies($access_token);
+    
+ }
+    
+    
+/* 
+$objWriter = PHPExcel_IOFactory::createWriter($phpexcel, 'Excel2007');
+  $objWriter->save("out.xlsx"); 
+ */
+
+
+echo 'hh-cоздан ';
+
+
+?>
+

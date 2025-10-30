@@ -1,0 +1,50 @@
+29.02.2024MSK08:43
+Array
+(
+    [sort] => Array
+        (
+            [0] => 2212
+            [1] => 2216
+            [2] => 2218
+        )
+
+    [oldPhotoInfo] => Array
+        (
+            [0] => 2212,https://cdn-ru.bitrix24.ru/b27193526/disk/cce/cce44703fb208f8059959938f722bef1/3d8ae6affd4d98302e6bac94020a1630
+            [1] => 2216,https://cdn-ru.bitrix24.ru/b27193526/disk/a7a/a7acab24a108662392fc0a7ac3be25e2/7dffe245884e4c4a8b6eeae764f1b732
+            [2] => 2218,https://cdn-ru.bitrix24.ru/b27193526/disk/d69/d69c0d8e32ba3a15e9da42ec0eb85cbe/8b4aa6170a084de254b0b6b9e8870855
+        )
+
+    [authParams] => {"access_token":"9126e06500576b72006797b200000016000007734ce632d3d288a21a6ab311d8ad5874","refresh_token":"81a5076600576b72006797b2000000160000074e459ed500bdae3b27c2de21466a1609","expires_in":1709188754284,"domain":"logistics-pro.bitrix24.ru","member_id":"137f3595ca3a2c72c95bd79acb765bef"}
+    [app] => logistics_pro
+    [company_id] => 166
+)
+Array
+(
+    [access_token] => 9126e06500576b72006797b200000016000007734ce632d3d288a21a6ab311d8ad5874
+    [refresh_token] => 81a5076600576b72006797b2000000160000074e459ed500bdae3b27c2de21466a1609
+    [expires_in] => 1709188754284
+    [domain] => logistics-pro.bitrix24.ru
+    [member_id] => 137f3595ca3a2c72c95bd79acb765bef
+)
+logistics_proArray
+(
+    [DOMAIN] => logistics-pro.bitrix24.ru
+    [member_id] => 137f3595ca3a2c72c95bd79acb765bef
+    [AUTH_ID] => 9126e06500576b72006797b200000016000007734ce632d3d288a21a6ab311d8ad5874
+    [REFRESH_ID] => 81a5076600576b72006797b2000000160000074e459ed500bdae3b27c2de21466a1609
+)
+Array
+(
+    [UF_CRM_CS_SCAN_DOC] => Array
+        (
+            [0] => 2212|https://cdn-ru.bitrix24.ru/b27193526/disk/cce/cce44703fb208f8059959938f722bef1/3d8ae6affd4d98302e6bac94020a1630
+            [1] => 2216|https://cdn-ru.bitrix24.ru/b27193526/disk/a7a/a7acab24a108662392fc0a7ac3be25e2/7dffe245884e4c4a8b6eeae764f1b732
+            [2] => 2218|https://cdn-ru.bitrix24.ru/b27193526/disk/d69/d69c0d8e32ba3a15e9da42ec0eb85cbe/8b4aa6170a084de254b0b6b9e8870855
+        )
+
+)
+Array
+(
+    [0] => 1
+)

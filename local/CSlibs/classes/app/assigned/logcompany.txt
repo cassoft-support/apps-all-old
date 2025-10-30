@@ -1,0 +1,177 @@
+---------------------30.10.2025MSK10:53:40
+company
+filter
+Array
+(
+    [id] => 11631
+)
+
+typeId
+4
+name
+[B]сделки[/B] ID: [URL=/crm/deal/details/73175/]автоматизация магазина[/URL], пользователем Елена Грибанова
+commentAdd
+false
+resElement
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11631
+                    [createdTime] => 2025-08-22T10:00:13+03:00
+                    [updatedTime] => 2025-08-22T10:24:22+03:00
+                    [createdBy] => 3587
+                    [updatedBy] => 985
+                    [assignedById] => 3587
+                    [opened] => Y
+                    [title] => ЦЕЛОВАЛЬНИК ДЕНИС ВИКТОРОВИЧ ИП
+                    [logo] => 
+                    [address] => 
+                    [addressLegal] => 
+                    [bankingDetails] => 
+                    [comments] => 
+                    [typeId] => CUSTOMER
+                    [industry] => IT
+                    [revenue] => 0
+                    [currencyId] => RUB
+                    [employees] => EMPLOYEES_1
+                    [leadId] => 
+                    [webformId] => 0
+                    [originatorId] => ONE_C
+                    [originId] => 162ed643-7f26-11f0-9709-0050569250e8
+                    [originVersion] => 
+                    [hasPhone] => Y
+                    [hasEmail] => Y
+                    [hasImol] => N
+                    [isMyCompany] => N
+                    [searchContent] => 11631 ЦЕЛОВАЛЬНИК ДЕНИС ВИКТОРОВИЧ ИП Елена Грибанова 79324409777 89324409777 9324409777 324409777 24409777 4409777 409777 09777 9777 777 prybinyb tznvy pbz Информационные технологии не выбрано 00-00160714 22.08.2025 Отправлять СМС
+                    [categoryId] => 0
+                    [lastActivityBy] => 3587
+                    [lastActivityTime] => 2025-08-22T10:00:13+03:00
+                    [emailHome] => 
+                    [emailWork] => celovalo@gmail.com
+                    [emailMailing] => 
+                    [phoneMobile] => 
+                    [phoneWork] => +79324409777
+                    [phoneMailing] => 
+                    [imol] => 
+                    [email] => celovalo@gmail.com
+                    [phone] => +79324409777
+                    [lastCommunicationTime] => 2025-09-02T10:43:29+03:00
+                    [lastCommunicationCallTime] => 
+                    [lastCommunicationEmailTime] => 
+                    [lastCommunicationImolTime] => 
+                    [lastCommunicationWebformTime] => 
+                    [ufLogo] => 
+                    [ufCrm_66586DF70A022] => 
+                    [ufCrm_66586DF71A4F4] => 
+                    [ufCrm_66586DF7239A5] => 
+                    [ufCrm_66586DF7366D3] => 
+                    [ufCrm_66586DF74D2FD] => 
+                    [ufCrm_66586DF75A5EA] => 
+                    [ufCrm_66586DF7644F9] => 
+                    [ufCrm_66586DF76E202] => 
+                    [ufCrm_66586DF777F22] => 
+                    [ufCrm_66586DF7837AA] => 
+                    [ufCrm_66586DF78E163] => 
+                    [ufCrm_66586DF799821] => 
+                    [ufCrm_66586DF7A3BFF] => 
+                    [ufCrm_66586DF7ADFA6] => 
+                    [ufCrm_66586DF7B8168] => 
+                    [ufCrm_667E818AD2B16] => 
+                    [ufCrm_667E818ADD372] => 
+                    [ufCrm_667E818AE663B] => 
+                    [ufCrm_667E818AF024C] => 
+                    [ufCrm_667E818B06DF0] => 
+                    [ufCrm_667E818B10652] => 
+                    [ufCrm_667E818B1BB50] => 
+                    [ufCrm_667E818B2642B] => 
+                    [ufCrm_667E818B30173] => 
+                    [ufCrm_667E818B3A1EC] => 
+                    [ufCrm_667E818B446F1] => 
+                    [ufCrm_667E818B4E87C] => 
+                    [ufCrm_667E818B58727] => 
+                    [ufCrm_667E818B62BF6] => 
+                    [ufCrm_667E818B6CDAF] => 
+                    [ufCrmEmployees] => 
+                    [ufCrm_B24_URL] => 
+                    [ufCrmLicenseKey] => 
+                    [ufCrmTariff] => 
+                    [ufCrmDateEnd] => 
+                    [ufCrmMpDateEnd] => 
+                    [ufCrm_6791F2B194292] => 
+                    [ufCrm_6791F2B1A55BE] => 
+                    [ufCrm_6791F2B1B042B] => 
+                    [ufCrm_6791F2B1BF494] => 
+                    [ufCrm_6791F2B1CBD01] => 
+                    [ufCrm_1744697696] => 00-00160714
+                    [ufCrm_1744697725] => 2025-08-22T03:00:00+03:00
+                    [ufCrm_1744697739] => N
+                    [ufCrm_1744697751] => Y
+                    [ufCrm_1744697791] => 
+                    [ufCrmRuAnalitycs] => 
+                    [ufCrmRuDiadok] => Array
+                        (
+                        )
+
+                    [ufCrmRurobotSbpUrl] => 
+                    [ufCrmRurobotSbpQrFile] => 
+                    [ufCrmRurobotChekUrl] => 
+                    [ufCrmRurobotChekQrFile] => 
+                    [ufStamp] => 
+                    [ufDirectorSign] => 
+                    [ufAccountantSign] => 
+                    [parentId1054] => 
+                    [utmSource] => 
+                    [utmMedium] => 
+                    [utmCampaign] => 
+                    [utmContent] => 
+                    [utmTerm] => 
+                    [observers] => Array
+                        (
+                        )
+
+                    [contactIds] => Array
+                        (
+                            [0] => 56015
+                        )
+
+                    [entityTypeId] => 4
+                    [fm] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 543707
+                                    [valueType] => WORK
+                                    [value] => +79324409777
+                                    [typeId] => PHONE
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 543759
+                                    [valueType] => WORK
+                                    [value] => celovalo@gmail.com
+                                    [typeId] => EMAIL
+                                )
+
+                            [2] => Array
+                                (
+                                    [id] => 543793
+                                    [valueType] => WORK
+                                    [value] => +7932440-97-77
+                                    [typeId] => PHONE
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+element
+11631

@@ -1,0 +1,17 @@
+---------------------24.10.2025MSK13:15:39
+Array
+(
+)
+
+input
+{"member_id":"8eaa91c3070793928bbd86588d5d3aba"}
+memberId
+8eaa91c3070793928bbd86588d5d3aba
+clientsApp
+Array
+(
+    [ID] => 12
+)
+
+Y
+res

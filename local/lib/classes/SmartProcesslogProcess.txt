@@ -1,0 +1,744 @@
+Array
+(
+)
+Array
+(
+    [result] => Array
+        (
+            [item] => Array
+                (
+                    [id] => 116
+                    [xmlId] => 
+                    [title] => Эксп.№46/ Курск - Львов355
+                    [createdBy] => 8
+                    [updatedBy] => 8
+                    [movedBy] => 8
+                    [createdTime] => 2023-11-29T18:51:51+03:00
+                    [updatedTime] => 2023-12-05T16:36:10+03:00
+                    [movedTime] => 2023-12-01T21:46:37+03:00
+                    [categoryId] => 34
+                    [opened] => N
+                    [stageId] => DT130_34:UC_6GVZRW
+                    [previousStageId] => DT130_34:UC_450I46
+                    [begindate] => 2023-11-29T03:00:00+03:00
+                    [closedate] => 2023-12-06T03:00:00+03:00
+                    [companyId] => 10
+                    [contactId] => 0
+                    [opportunity] => 35000
+                    [isManualOpportunity] => N
+                    [taxValue] => 0
+                    [currencyId] => RUB
+                    [mycompanyId] => 12
+                    [sourceId] => CALL
+                    [sourceDescription] => 
+                    [webformId] => 0
+                    [ufCrm18CsClientPay] => 
+                    [ufCrm18CsClient] => 14
+                    [ufCrm18CsProviderPay] => 
+                    [ufCrm18CsDateLoading] => 
+                    [ufCrm18CsDateUnloading] => 
+                    [ufCrm18CsNumber] => 
+                    [ufCrm18CsNameDoc] => 
+                    [ufCrm18CsTypeDoc] => 
+                    [ufCrm18CsTypeDt] => 
+                    [ufCrm18CsProviderContactForm] => 
+                    [ufCrm18CsDateChange] => 1701456360
+                    [ufCrm18CsClientDateDoc] => 
+                    [ufCrm_18_CS_1C_UNLOAD] => 1
+                    [ufCrm18CsCar] => 2222
+                    [ufCrm18CsDrivers] => 2222
+                    [ufCrm18CsMycompanyPay] => 
+                    [ufCrm18CsMessageChannel] => 
+                    [ufCrm18CsDateCheck] => 01.12.2023MSK21:46
+                    [ufCrm18CsDateCheckReq] => 01.12.2023MSK12:39
+                    [assignedById] => 10
+                    [lastActivityBy] => 8
+                    [lastActivityTime] => 2023-12-01T21:46:37+03:00
+                    [parentId2] => 46
+                    [parentId155] => 
+                    [parentId157] => 
+                    [parentId162] => 18
+                    [parentId176] => 
+                    [utmSource] => 
+                    [utmMedium] => 
+                    [utmCampaign] => 
+                    [utmContent] => 
+                    [utmTerm] => 
+                    [observers] => Array
+                        (
+                            [0] => 12
+                        )
+
+                    [contactIds] => Array
+                        (
+                        )
+
+                    [entityTypeId] => 130
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1701783370.0146
+            [finish] => 1701783370.4325
+            [duration] => 0.41790890693665
+            [processing] => 0.33838081359863
+            [date_start] => 2023-12-05T16:36:10+03:00
+            [date_finish] => 2023-12-05T16:36:10+03:00
+            [operating_reset_at] => 1701783970
+            [operating] => 0.3383629322052
+        )
+
+)
+Array
+(
+)
+Array
+(
+    [result] => Array
+        (
+            [item] => Array
+                (
+                    [id] => 116
+                    [xmlId] => 
+                    [title] => Эксп.№46/ Курск - Львов355
+                    [createdBy] => 8
+                    [updatedBy] => 8
+                    [movedBy] => 8
+                    [createdTime] => 2023-11-29T18:51:51+03:00
+                    [updatedTime] => 2023-12-05T16:36:12+03:00
+                    [movedTime] => 2023-12-01T21:46:37+03:00
+                    [categoryId] => 34
+                    [opened] => N
+                    [stageId] => DT130_34:UC_6GVZRW
+                    [previousStageId] => DT130_34:UC_450I46
+                    [begindate] => 2023-11-29T03:00:00+03:00
+                    [closedate] => 2023-12-06T03:00:00+03:00
+                    [companyId] => 10
+                    [contactId] => 0
+                    [opportunity] => 35000
+                    [isManualOpportunity] => N
+                    [taxValue] => 0
+                    [currencyId] => RUB
+                    [mycompanyId] => 12
+                    [sourceId] => CALL
+                    [sourceDescription] => 
+                    [webformId] => 0
+                    [ufCrm18CsClientPay] => 
+                    [ufCrm18CsClient] => 14
+                    [ufCrm18CsProviderPay] => 
+                    [ufCrm18CsDateLoading] => 
+                    [ufCrm18CsDateUnloading] => 
+                    [ufCrm18CsNumber] => 
+                    [ufCrm18CsNameDoc] => 
+                    [ufCrm18CsTypeDoc] => 
+                    [ufCrm18CsTypeDt] => 
+                    [ufCrm18CsProviderContactForm] => 
+                    [ufCrm18CsDateChange] => 1701456360
+                    [ufCrm18CsClientDateDoc] => 
+                    [ufCrm_18_CS_1C_UNLOAD] => 1
+                    [ufCrm18CsCar] => 2222
+                    [ufCrm18CsDrivers] => 2222
+                    [ufCrm18CsMycompanyPay] => 
+                    [ufCrm18CsMessageChannel] => 
+                    [ufCrm18CsDateCheck] => 01.12.2023MSK21:46
+                    [ufCrm18CsDateCheckReq] => 01.12.2023MSK12:39
+                    [assignedById] => 10
+                    [lastActivityBy] => 8
+                    [lastActivityTime] => 2023-12-01T21:46:37+03:00
+                    [parentId2] => 46
+                    [parentId155] => 
+                    [parentId157] => 
+                    [parentId162] => 20
+                    [parentId176] => 
+                    [utmSource] => 
+                    [utmMedium] => 
+                    [utmCampaign] => 
+                    [utmContent] => 
+                    [utmTerm] => 
+                    [observers] => Array
+                        (
+                            [0] => 12
+                        )
+
+                    [contactIds] => Array
+                        (
+                        )
+
+                    [entityTypeId] => 130
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1701783372.7485
+            [finish] => 1701783373.1642
+            [duration] => 0.41562390327454
+            [processing] => 0.34946703910828
+            [date_start] => 2023-12-05T16:36:12+03:00
+            [date_finish] => 2023-12-05T16:36:13+03:00
+            [operating_reset_at] => 1701783972
+            [operating] => 0.68781399726868
+        )
+
+)
+Array
+(
+)
+Array
+(
+    [result] => Array
+        (
+            [item] => Array
+                (
+                    [id] => 116
+                    [xmlId] => 
+                    [title] => Эксп.№46/ Курск - Львов355
+                    [createdBy] => 8
+                    [updatedBy] => 8
+                    [movedBy] => 8
+                    [createdTime] => 2023-11-29T18:51:51+03:00
+                    [updatedTime] => 2023-12-05T16:36:15+03:00
+                    [movedTime] => 2023-12-01T21:46:37+03:00
+                    [categoryId] => 34
+                    [opened] => N
+                    [stageId] => DT130_34:UC_6GVZRW
+                    [previousStageId] => DT130_34:UC_450I46
+                    [begindate] => 2023-11-29T03:00:00+03:00
+                    [closedate] => 2023-12-06T03:00:00+03:00
+                    [companyId] => 10
+                    [contactId] => 0
+                    [opportunity] => 35000
+                    [isManualOpportunity] => N
+                    [taxValue] => 0
+                    [currencyId] => RUB
+                    [mycompanyId] => 12
+                    [sourceId] => CALL
+                    [sourceDescription] => 
+                    [webformId] => 0
+                    [ufCrm18CsClientPay] => 
+                    [ufCrm18CsClient] => 14
+                    [ufCrm18CsProviderPay] => 
+                    [ufCrm18CsDateLoading] => 
+                    [ufCrm18CsDateUnloading] => 
+                    [ufCrm18CsNumber] => 
+                    [ufCrm18CsNameDoc] => 
+                    [ufCrm18CsTypeDoc] => 
+                    [ufCrm18CsTypeDt] => 
+                    [ufCrm18CsProviderContactForm] => 
+                    [ufCrm18CsDateChange] => 1701456360
+                    [ufCrm18CsClientDateDoc] => 
+                    [ufCrm_18_CS_1C_UNLOAD] => 1
+                    [ufCrm18CsCar] => 2222
+                    [ufCrm18CsDrivers] => 2222
+                    [ufCrm18CsMycompanyPay] => 
+                    [ufCrm18CsMessageChannel] => 
+                    [ufCrm18CsDateCheck] => 01.12.2023MSK21:46
+                    [ufCrm18CsDateCheckReq] => 01.12.2023MSK12:39
+                    [assignedById] => 10
+                    [lastActivityBy] => 8
+                    [lastActivityTime] => 2023-12-01T21:46:37+03:00
+                    [parentId2] => 46
+                    [parentId155] => 
+                    [parentId157] => 
+                    [parentId162] => 22
+                    [parentId176] => 
+                    [utmSource] => 
+                    [utmMedium] => 
+                    [utmCampaign] => 
+                    [utmContent] => 
+                    [utmTerm] => 
+                    [observers] => Array
+                        (
+                            [0] => 12
+                        )
+
+                    [contactIds] => Array
+                        (
+                        )
+
+                    [entityTypeId] => 130
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1701783375.6122
+            [finish] => 1701783375.9957
+            [duration] => 0.38355493545532
+            [processing] => 0.29780387878418
+            [date_start] => 2023-12-05T16:36:15+03:00
+            [date_finish] => 2023-12-05T16:36:15+03:00
+            [operating_reset_at] => 1701783975
+            [operating] => 0.98558211326599
+        )
+
+)
+Array
+(
+)
+Array
+(
+    [result] => Array
+        (
+            [item] => Array
+                (
+                    [id] => 116
+                    [xmlId] => 
+                    [title] => Эксп.№46/ Курск - Львов355
+                    [createdBy] => 8
+                    [updatedBy] => 8
+                    [movedBy] => 8
+                    [createdTime] => 2023-11-29T18:51:51+03:00
+                    [updatedTime] => 2023-12-05T16:36:18+03:00
+                    [movedTime] => 2023-12-01T21:46:37+03:00
+                    [categoryId] => 34
+                    [opened] => N
+                    [stageId] => DT130_34:UC_6GVZRW
+                    [previousStageId] => DT130_34:UC_450I46
+                    [begindate] => 2023-11-29T03:00:00+03:00
+                    [closedate] => 2023-12-06T03:00:00+03:00
+                    [companyId] => 10
+                    [contactId] => 0
+                    [opportunity] => 35000
+                    [isManualOpportunity] => N
+                    [taxValue] => 0
+                    [currencyId] => RUB
+                    [mycompanyId] => 12
+                    [sourceId] => CALL
+                    [sourceDescription] => 
+                    [webformId] => 0
+                    [ufCrm18CsClientPay] => 
+                    [ufCrm18CsClient] => 14
+                    [ufCrm18CsProviderPay] => 
+                    [ufCrm18CsDateLoading] => 
+                    [ufCrm18CsDateUnloading] => 
+                    [ufCrm18CsNumber] => 
+                    [ufCrm18CsNameDoc] => 
+                    [ufCrm18CsTypeDoc] => 
+                    [ufCrm18CsTypeDt] => 
+                    [ufCrm18CsProviderContactForm] => 
+                    [ufCrm18CsDateChange] => 1701456360
+                    [ufCrm18CsClientDateDoc] => 
+                    [ufCrm_18_CS_1C_UNLOAD] => 1
+                    [ufCrm18CsCar] => 2222
+                    [ufCrm18CsDrivers] => 2222
+                    [ufCrm18CsMycompanyPay] => 
+                    [ufCrm18CsMessageChannel] => 
+                    [ufCrm18CsDateCheck] => 01.12.2023MSK21:46
+                    [ufCrm18CsDateCheckReq] => 01.12.2023MSK12:39
+                    [assignedById] => 10
+                    [lastActivityBy] => 8
+                    [lastActivityTime] => 2023-12-01T21:46:37+03:00
+                    [parentId2] => 46
+                    [parentId155] => 
+                    [parentId157] => 
+                    [parentId162] => 24
+                    [parentId176] => 
+                    [utmSource] => 
+                    [utmMedium] => 
+                    [utmCampaign] => 
+                    [utmContent] => 
+                    [utmTerm] => 
+                    [observers] => Array
+                        (
+                            [0] => 12
+                        )
+
+                    [contactIds] => Array
+                        (
+                        )
+
+                    [entityTypeId] => 130
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1701783378.066
+            [finish] => 1701783378.5043
+            [duration] => 0.4382700920105
+            [processing] => 0.37721395492554
+            [date_start] => 2023-12-05T16:36:18+03:00
+            [date_finish] => 2023-12-05T16:36:18+03:00
+            [operating_reset_at] => 1701783978
+            [operating] => 1.3627772331238
+        )
+
+)
+Array
+(
+)
+Array
+(
+    [result] => Array
+        (
+            [item] => Array
+                (
+                    [id] => 116
+                    [xmlId] => 
+                    [title] => Эксп.№46/ Курск - Львов355
+                    [createdBy] => 8
+                    [updatedBy] => 8
+                    [movedBy] => 8
+                    [createdTime] => 2023-11-29T18:51:51+03:00
+                    [updatedTime] => 2023-12-05T16:36:21+03:00
+                    [movedTime] => 2023-12-01T21:46:37+03:00
+                    [categoryId] => 34
+                    [opened] => N
+                    [stageId] => DT130_34:UC_6GVZRW
+                    [previousStageId] => DT130_34:UC_450I46
+                    [begindate] => 2023-11-29T03:00:00+03:00
+                    [closedate] => 2023-12-06T03:00:00+03:00
+                    [companyId] => 10
+                    [contactId] => 0
+                    [opportunity] => 35000
+                    [isManualOpportunity] => N
+                    [taxValue] => 0
+                    [currencyId] => RUB
+                    [mycompanyId] => 12
+                    [sourceId] => CALL
+                    [sourceDescription] => 
+                    [webformId] => 0
+                    [ufCrm18CsClientPay] => 
+                    [ufCrm18CsClient] => 14
+                    [ufCrm18CsProviderPay] => 
+                    [ufCrm18CsDateLoading] => 
+                    [ufCrm18CsDateUnloading] => 
+                    [ufCrm18CsNumber] => 
+                    [ufCrm18CsNameDoc] => 
+                    [ufCrm18CsTypeDoc] => 
+                    [ufCrm18CsTypeDt] => 
+                    [ufCrm18CsProviderContactForm] => 
+                    [ufCrm18CsDateChange] => 1701456360
+                    [ufCrm18CsClientDateDoc] => 
+                    [ufCrm_18_CS_1C_UNLOAD] => 1
+                    [ufCrm18CsCar] => 2222
+                    [ufCrm18CsDrivers] => 2222
+                    [ufCrm18CsMycompanyPay] => 
+                    [ufCrm18CsMessageChannel] => 
+                    [ufCrm18CsDateCheck] => 01.12.2023MSK21:46
+                    [ufCrm18CsDateCheckReq] => 01.12.2023MSK12:39
+                    [assignedById] => 10
+                    [lastActivityBy] => 8
+                    [lastActivityTime] => 2023-12-01T21:46:37+03:00
+                    [parentId2] => 46
+                    [parentId155] => 
+                    [parentId157] => 
+                    [parentId162] => 26
+                    [parentId176] => 
+                    [utmSource] => 
+                    [utmMedium] => 
+                    [utmCampaign] => 
+                    [utmContent] => 
+                    [utmTerm] => 
+                    [observers] => Array
+                        (
+                            [0] => 12
+                        )
+
+                    [contactIds] => Array
+                        (
+                        )
+
+                    [entityTypeId] => 130
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1701783380.9897
+            [finish] => 1701783381.3292
+            [duration] => 0.33955788612366
+            [processing] => 0.27462410926819
+            [date_start] => 2023-12-05T16:36:20+03:00
+            [date_finish] => 2023-12-05T16:36:21+03:00
+            [operating_reset_at] => 1701783981
+            [operating] => 1.6373841762543
+        )
+
+)
+Array
+(
+)
+Array
+(
+    [result] => Array
+        (
+            [item] => Array
+                (
+                    [id] => 116
+                    [xmlId] => 
+                    [title] => Эксп.№46/ Курск - Львов355
+                    [createdBy] => 8
+                    [updatedBy] => 8
+                    [movedBy] => 8
+                    [createdTime] => 2023-11-29T18:51:51+03:00
+                    [updatedTime] => 2023-12-05T16:36:23+03:00
+                    [movedTime] => 2023-12-01T21:46:37+03:00
+                    [categoryId] => 34
+                    [opened] => N
+                    [stageId] => DT130_34:UC_6GVZRW
+                    [previousStageId] => DT130_34:UC_450I46
+                    [begindate] => 2023-11-29T03:00:00+03:00
+                    [closedate] => 2023-12-06T03:00:00+03:00
+                    [companyId] => 10
+                    [contactId] => 0
+                    [opportunity] => 35000
+                    [isManualOpportunity] => N
+                    [taxValue] => 0
+                    [currencyId] => RUB
+                    [mycompanyId] => 12
+                    [sourceId] => CALL
+                    [sourceDescription] => 
+                    [webformId] => 0
+                    [ufCrm18CsClientPay] => 
+                    [ufCrm18CsClient] => 14
+                    [ufCrm18CsProviderPay] => 
+                    [ufCrm18CsDateLoading] => 
+                    [ufCrm18CsDateUnloading] => 
+                    [ufCrm18CsNumber] => 
+                    [ufCrm18CsNameDoc] => 
+                    [ufCrm18CsTypeDoc] => 
+                    [ufCrm18CsTypeDt] => 
+                    [ufCrm18CsProviderContactForm] => 
+                    [ufCrm18CsDateChange] => 1701456360
+                    [ufCrm18CsClientDateDoc] => 
+                    [ufCrm_18_CS_1C_UNLOAD] => 1
+                    [ufCrm18CsCar] => 2222
+                    [ufCrm18CsDrivers] => 2222
+                    [ufCrm18CsMycompanyPay] => 
+                    [ufCrm18CsMessageChannel] => 
+                    [ufCrm18CsDateCheck] => 01.12.2023MSK21:46
+                    [ufCrm18CsDateCheckReq] => 01.12.2023MSK12:39
+                    [assignedById] => 10
+                    [lastActivityBy] => 8
+                    [lastActivityTime] => 2023-12-01T21:46:37+03:00
+                    [parentId2] => 46
+                    [parentId155] => 
+                    [parentId157] => 
+                    [parentId162] => 28
+                    [parentId176] => 
+                    [utmSource] => 
+                    [utmMedium] => 
+                    [utmCampaign] => 
+                    [utmContent] => 
+                    [utmTerm] => 
+                    [observers] => Array
+                        (
+                            [0] => 12
+                        )
+
+                    [contactIds] => Array
+                        (
+                        )
+
+                    [entityTypeId] => 130
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1701783383.7834
+            [finish] => 1701783384.1216
+            [duration] => 0.33815479278564
+            [processing] => 0.25957918167114
+            [date_start] => 2023-12-05T16:36:23+03:00
+            [date_finish] => 2023-12-05T16:36:24+03:00
+            [operating_reset_at] => 1701783983
+            [operating] => 1.8969402313232
+        )
+
+)
+Array
+(
+)
+Array
+(
+    [result] => Array
+        (
+            [item] => Array
+                (
+                    [id] => 116
+                    [xmlId] => 
+                    [title] => Эксп.№46/ Курск - Львов355
+                    [createdBy] => 8
+                    [updatedBy] => 8
+                    [movedBy] => 8
+                    [createdTime] => 2023-11-29T18:51:51+03:00
+                    [updatedTime] => 2023-12-05T16:36:26+03:00
+                    [movedTime] => 2023-12-01T21:46:37+03:00
+                    [categoryId] => 34
+                    [opened] => N
+                    [stageId] => DT130_34:UC_6GVZRW
+                    [previousStageId] => DT130_34:UC_450I46
+                    [begindate] => 2023-11-29T03:00:00+03:00
+                    [closedate] => 2023-12-06T03:00:00+03:00
+                    [companyId] => 10
+                    [contactId] => 0
+                    [opportunity] => 35000
+                    [isManualOpportunity] => N
+                    [taxValue] => 0
+                    [currencyId] => RUB
+                    [mycompanyId] => 12
+                    [sourceId] => CALL
+                    [sourceDescription] => 
+                    [webformId] => 0
+                    [ufCrm18CsClientPay] => 
+                    [ufCrm18CsClient] => 14
+                    [ufCrm18CsProviderPay] => 
+                    [ufCrm18CsDateLoading] => 
+                    [ufCrm18CsDateUnloading] => 
+                    [ufCrm18CsNumber] => 
+                    [ufCrm18CsNameDoc] => 
+                    [ufCrm18CsTypeDoc] => 
+                    [ufCrm18CsTypeDt] => 
+                    [ufCrm18CsProviderContactForm] => 
+                    [ufCrm18CsDateChange] => 1701456360
+                    [ufCrm18CsClientDateDoc] => 
+                    [ufCrm_18_CS_1C_UNLOAD] => 1
+                    [ufCrm18CsCar] => 2222
+                    [ufCrm18CsDrivers] => 2222
+                    [ufCrm18CsMycompanyPay] => 
+                    [ufCrm18CsMessageChannel] => 
+                    [ufCrm18CsDateCheck] => 01.12.2023MSK21:46
+                    [ufCrm18CsDateCheckReq] => 01.12.2023MSK12:39
+                    [assignedById] => 10
+                    [lastActivityBy] => 8
+                    [lastActivityTime] => 2023-12-01T21:46:37+03:00
+                    [parentId2] => 46
+                    [parentId155] => 
+                    [parentId157] => 
+                    [parentId162] => 30
+                    [parentId176] => 
+                    [utmSource] => 
+                    [utmMedium] => 
+                    [utmCampaign] => 
+                    [utmContent] => 
+                    [utmTerm] => 
+                    [observers] => Array
+                        (
+                            [0] => 12
+                        )
+
+                    [contactIds] => Array
+                        (
+                        )
+
+                    [entityTypeId] => 130
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1701783386.1285
+            [finish] => 1701783386.4627
+            [duration] => 0.33419394493103
+            [processing] => 0.27226281166077
+            [date_start] => 2023-12-05T16:36:26+03:00
+            [date_finish] => 2023-12-05T16:36:26+03:00
+            [operating_reset_at] => 1701783986
+            [operating] => 2.1691792011261
+        )
+
+)
+Array
+(
+)
+Array
+(
+    [result] => Array
+        (
+            [item] => Array
+                (
+                    [id] => 116
+                    [xmlId] => 
+                    [title] => Эксп.№46/ Курск - Львов355
+                    [createdBy] => 8
+                    [updatedBy] => 8
+                    [movedBy] => 8
+                    [createdTime] => 2023-11-29T18:51:51+03:00
+                    [updatedTime] => 2023-12-05T16:36:28+03:00
+                    [movedTime] => 2023-12-01T21:46:37+03:00
+                    [categoryId] => 34
+                    [opened] => N
+                    [stageId] => DT130_34:UC_6GVZRW
+                    [previousStageId] => DT130_34:UC_450I46
+                    [begindate] => 2023-11-29T03:00:00+03:00
+                    [closedate] => 2023-12-06T03:00:00+03:00
+                    [companyId] => 10
+                    [contactId] => 0
+                    [opportunity] => 35000
+                    [isManualOpportunity] => N
+                    [taxValue] => 0
+                    [currencyId] => RUB
+                    [mycompanyId] => 12
+                    [sourceId] => CALL
+                    [sourceDescription] => 
+                    [webformId] => 0
+                    [ufCrm18CsClientPay] => 
+                    [ufCrm18CsClient] => 14
+                    [ufCrm18CsProviderPay] => 
+                    [ufCrm18CsDateLoading] => 
+                    [ufCrm18CsDateUnloading] => 
+                    [ufCrm18CsNumber] => 
+                    [ufCrm18CsNameDoc] => 
+                    [ufCrm18CsTypeDoc] => 
+                    [ufCrm18CsTypeDt] => 
+                    [ufCrm18CsProviderContactForm] => 
+                    [ufCrm18CsDateChange] => 1701456360
+                    [ufCrm18CsClientDateDoc] => 
+                    [ufCrm_18_CS_1C_UNLOAD] => 1
+                    [ufCrm18CsCar] => 2222
+                    [ufCrm18CsDrivers] => 2222
+                    [ufCrm18CsMycompanyPay] => 
+                    [ufCrm18CsMessageChannel] => 
+                    [ufCrm18CsDateCheck] => 01.12.2023MSK21:46
+                    [ufCrm18CsDateCheckReq] => 01.12.2023MSK12:39
+                    [assignedById] => 10
+                    [lastActivityBy] => 8
+                    [lastActivityTime] => 2023-12-01T21:46:37+03:00
+                    [parentId2] => 46
+                    [parentId155] => 
+                    [parentId157] => 
+                    [parentId162] => 32
+                    [parentId176] => 
+                    [utmSource] => 
+                    [utmMedium] => 
+                    [utmCampaign] => 
+                    [utmContent] => 
+                    [utmTerm] => 
+                    [observers] => Array
+                        (
+                            [0] => 12
+                        )
+
+                    [contactIds] => Array
+                        (
+                        )
+
+                    [entityTypeId] => 130
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1701783388.5108
+            [finish] => 1701783388.8721
+            [duration] => 0.36129522323608
+            [processing] => 0.28055906295776
+            [date_start] => 2023-12-05T16:36:28+03:00
+            [date_finish] => 2023-12-05T16:36:28+03:00
+            [operating_reset_at] => 1701783988
+            [operating] => 2.4497163295746
+        )
+
+)

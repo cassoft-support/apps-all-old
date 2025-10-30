@@ -1,0 +1,33 @@
+---------------------24.06.2025MSK08:47:12
+Array
+(
+    [DOMAIN] => ecoferma56.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 42ef6fecfc752357185ac48fb92ef1a6
+    [AUTH_ID] => f0495a680052d240002bb690000000d4201c072729625c0e85215a07cc2588c81f482a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e0c881680052d240002bb690000000d4201c07705958b84b90f03438c27a928bf00edd
+    [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [status] => S
+    [PLACEMENT] => TASK_VIEW_TAB
+    [PLACEMENT_OPTIONS] => {&quot;taskId&quot;:&quot;9620&quot;}
+    [app] => tasks_pro
+    [taskId] => 9620
+    [CACHE_TYPE] => A
+    [~DOMAIN] => ecoferma56.bitrix24.ru
+    [~PROTOCOL] => 1
+    [~LANG] => ru
+    [~APP_SID] => 42ef6fecfc752357185ac48fb92ef1a6
+    [~AUTH_ID] => f0495a680052d240002bb690000000d4201c072729625c0e85215a07cc2588c81f482a
+    [~AUTH_EXPIRES] => 3600
+    [~REFRESH_ID] => e0c881680052d240002bb690000000d4201c07705958b84b90f03438c27a928bf00edd
+    [~member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [~status] => S
+    [~PLACEMENT] => TASK_VIEW_TAB
+    [~PLACEMENT_OPTIONS] => {"taskId":"9620"}
+    [~app] => tasks_pro
+    [~taskId] => 9620
+    [~CACHE_TYPE] => A
+)
+

@@ -1,0 +1,38 @@
+---------------------15.09.2025MSK14:16:43
+resumes/258a8038000f525823001f4d2c6b626e6a5658
+responseData
+Array
+(
+    [description] => Unrecognized authorization (Authorization header value should start with "Bearer ")
+    [oauth_error] => bad-auth-type
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [value] => bad_authorization
+                    [type] => oauth
+                )
+
+        )
+
+    [request_id] => 175793500333675d14deaf7795063028
+)
+
+responseData
+Array
+(
+    [description] => Unrecognized authorization (Authorization header value should start with "Bearer ")
+    [oauth_error] => bad-auth-type
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [value] => bad_authorization
+                    [type] => oauth
+                )
+
+        )
+
+    [request_id] => 1757935003376cf59a8c83b331a51030
+)
+

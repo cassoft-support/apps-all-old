@@ -1,0 +1,5 @@
+deleteArray
+(
+    [id] => 1826
+    [UserAut] => {"DOMAIN":"logistics-pro.bitrix24.ru","PROTOCOL":"1","LANG":"ru","APP_SID":"e63c87c724880b5ad04948cfcac6e593","AUTH_ID":"b7d7a26500576b72006797b200000008000007b100aab3d820a22c6885cb4a6e2be69e","AUTH_EXPIRES":"3600","REFRESH_ID":"a756ca6500576b72006797b2000000080000074b6df470babb31ade89d065b7c3f2802","member_id":"137f3595ca3a2c72c95bd79acb765bef","status":"F","PLACEMENT":"DEFAULT","PLACEMENT_OPTIONS":"{\"any\":\"4\\\/\"}"}
+)

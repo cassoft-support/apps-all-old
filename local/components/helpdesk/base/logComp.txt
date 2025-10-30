@@ -1,0 +1,35 @@
+---------------------30.10.2025MSK10:08:50
+start
+params
+Array
+(
+    [auth] => Array
+        (
+            [access_token] => 101d0369005d64e60064ce1c0000071a0000075ca872dd5f61d2d7a66d1c5afe43ee8a
+            [refresh_token] => 009c2a69005d64e60064ce1c0000071a000007196877d344bf959cbce71c9d16acfa22
+            [expires_in] => 1761811729993
+            [domain] => inzhin.bitrix24.ru
+            [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+        )
+
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [app] => change_assigned
+    [type] => helpdesk
+    [user_id] => 18
+    [CACHE_TYPE] => A
+    [~auth] => Array
+        (
+            [access_token] => 101d0369005d64e60064ce1c0000071a0000075ca872dd5f61d2d7a66d1c5afe43ee8a
+            [refresh_token] => 009c2a69005d64e60064ce1c0000071a000007196877d344bf959cbce71c9d16acfa22
+            [expires_in] => 1761811729993
+            [domain] => inzhin.bitrix24.ru
+            [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+        )
+
+    [~member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [~app] => change_assigned
+    [~type] => helpdesk
+    [~user_id] => 18
+    [~CACHE_TYPE] => A
+)
+

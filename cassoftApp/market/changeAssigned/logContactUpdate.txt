@@ -1,0 +1,7323 @@
+---------------------08.07.2025MSK11:30:18
+Array
+(
+    [DOMAIN] => batareyka25.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5a3b35bfaf8bb220d1d76cefe4ca3473
+    [AUTH_ID] => 23e36c68005d64e60051ae92000025de706207a841f1d8eccee6439796f6cb5456e83c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 13629468005d64e60051ae92000025de70620786e9a583a96aa2cbe7fff4759f22959c
+    [member_id] => eb94e122b1846c4dbe062bc3393475d8
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"80\/"}
+)
+
+rest
+Array
+(
+    [ID] => 111
+)
+
+2025-07-08T11:45:38+03:00
+Array
+(
+    [DOMAIN] => stayproperty.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => b87e4cd032d4ebc09d796d6625257e41
+    [AUTH_ID] => 58e76c68005d64e60057f8620000090e0000075b64de7252fe1d819b533b955f9bdd56
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 48669468005d64e60057f8620000090e000007c2514ddecd51fd8dbbd40642c0491b3e
+    [member_id] => 986202eae13f5a77690fd2e208d23890
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"134\/"}
+)
+
+rest
+Array
+(
+    [ID] => 35
+)
+
+2025-07-08T11:46:09+03:00
+Array
+(
+    [DOMAIN] => stayproperty.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 809cb75ae52d526e4ae5e3710ecdd502
+    [AUTH_ID] => 84e76c68005d64e60057f8620000090e000007e0452cb25e4d56291d8d351d9c61bc45
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 74669468005d64e60057f8620000090e000007608194ffb3647b5e08a7b66174074e57
+    [member_id] => 986202eae13f5a77690fd2e208d23890
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"134\/"}
+)
+
+rest
+Array
+(
+    [ID] => 35
+)
+
+2025-07-08T11:48:57+03:00
+Array
+(
+    [DOMAIN] => stayproperty.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => acee11b1f81a7524dc899be6d7d6df30
+    [AUTH_ID] => 87e96c68005d64e60057f8620000090e0000078034c6a3a292ca40a959bfea5b32b2ed
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 77689468005d64e60057f8620000090e0000078474f63fa39ed0fd5975a15dc8ff0061
+    [member_id] => 986202eae13f5a77690fd2e208d23890
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"134\/"}
+)
+
+rest
+Array
+(
+    [ID] => 35
+)
+
+2025-07-08T11:50:27+03:00
+Array
+(
+    [DOMAIN] => batareyka25.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a12f42e4caa95c2c625d6f825f993df3
+    [AUTH_ID] => dbe96c68005d64e60051ae92000025de70620723d6a7473e10abe97ba24590de22b224
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => cb689468005d64e60051ae92000025de70620710e1b2de3d044290ba257fdcf7a6ee40
+    [member_id] => eb94e122b1846c4dbe062bc3393475d8
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"80\/"}
+)
+
+rest
+Array
+(
+    [ID] => 111
+)
+
+2025-07-08T11:55:56+03:00
+Array
+(
+    [DOMAIN] => batareyka25.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => c0151563b7dd4d69dcd1d62e49009d04
+    [AUTH_ID] => 2aeb6c68005d64e60051ae92000025de706207896707c85dbc1bbaf98ff854bcb980ef
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1a6a9468005d64e60051ae92000025de70620710823d871facf1baa736e193ac9dcae4
+    [member_id] => eb94e122b1846c4dbe062bc3393475d8
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"80\/"}
+)
+
+rest
+Array
+(
+    [ID] => 111
+)
+
+2025-07-08T12:14:46+03:00
+Array
+(
+    [DOMAIN] => batareyka25.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ef4e4cf63f2e9bf19b6c3c01b4916b94
+    [AUTH_ID] => f3ec6c68005d64e60051ae92000025de70620712385aa4499003ac57a583a3063e20e3
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e36b9468005d64e60051ae92000025de7062070a4ecdaf1e5c3e5163adee8a3e659c58
+    [member_id] => eb94e122b1846c4dbe062bc3393475d8
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"80\/"}
+)
+
+rest
+Array
+(
+    [ID] => 111
+)
+
+2025-07-08T12:25:43+03:00
+Array
+(
+    [DOMAIN] => stayproperty.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 98389ccf404abb2d35d38042dfd8e07e
+    [AUTH_ID] => 61ee6c68005d64e60057f8620000090e000007ebd7d8ede4aea16ab8bc99f00658c9f2
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 516d9468005d64e60057f8620000090e000007ed02b9655bf143e5dc350009d34ebbfd
+    [member_id] => 986202eae13f5a77690fd2e208d23890
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"134\/"}
+)
+
+rest
+Array
+(
+    [ID] => 35
+)
+
+2025-07-08T12:27:03+03:00
+Array
+(
+    [DOMAIN] => batareyka25.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e9987bd252d81c04cec1a6471b3bee8b
+    [AUTH_ID] => 75ee6c68005d64e60051ae92000025de706207579706cb693343bbdf420f93a0f9a057
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 656d9468005d64e60051ae92000025de7062077d042c1ae594019341fd924c2210cae4
+    [member_id] => eb94e122b1846c4dbe062bc3393475d8
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"80\/"}
+)
+
+rest
+Array
+(
+    [ID] => 111
+)
+
+2025-07-08T13:27:21+03:00
+Array
+(
+    [DOMAIN] => batareyka25.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 82c7dc2263881e35af5bcf6cd56680d5
+    [AUTH_ID] => 98006d68005d64e60051ae92000025de706207e0c2001cee947832d589a1dbd973f278
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 887f9468005d64e60051ae92000025de7062078888d37ec1150bb369e1d18b13d84065
+    [member_id] => eb94e122b1846c4dbe062bc3393475d8
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"80\/"}
+)
+
+rest
+Array
+(
+    [ID] => 111
+)
+
+2025-07-08T19:42:41+03:00
+Array
+(
+    [DOMAIN] => b24-l36psk.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0e086f3dce4377fcbf7b5c17c948f036
+    [AUTH_ID] => 91586d68005d64e60077671e00000001000007824c8ef2debd2ea302ddf90c882da611
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 81d79468005d64e60077671e00000001000007ce0b6b4df284654eab00d2990d320b90
+    [member_id] => 3946c32474b2d4f29f69719656a57ea3
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"24\/"}
+)
+
+rest
+Array
+(
+    [ID] => 106
+)
+
+2025-07-09T09:30:50+03:00
+Array
+(
+    [DOMAIN] => cp.tehnoparts.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 425e0ab45e468c9aa3b3aa8d8cd7ece5
+    [AUTH_ID] => aa1a6e68005d64e600558d8c00002d6800000710fb0bef36a83512b181b9124bd78c9b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 9a999568005d64e600558d8c00002d680000073ab0418dc5f3c0b31872f81e408d9987
+    [member_id] => 82ad88735da229b163a1dd4dec008641
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 109
+)
+
+2025-07-09T09:31:49+03:00
+Array
+(
+    [DOMAIN] => cp.tehnoparts.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 9f7945575863e9482bc12bf57c73052a
+    [AUTH_ID] => e41a6e68005d64e600558d8c000000120000077b6831e5b198663cd556a4d78757e3bf
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d4999568005d64e600558d8c00000012000007ebf1fc721dd7b38c2369e105c3fd1856
+    [member_id] => 82ad88735da229b163a1dd4dec008641
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 109
+)
+
+2025-07-09T09:52:19+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 745cb13ae10edcc8f2508de85efc1a0a
+    [AUTH_ID] => b21f6e68005d64e60073ef76000001430000076b9414312409d4b286e2e527b8381037
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a29e9568005d64e60073ef7600000143000007ff8ffbfe3141284ba472af5fc96acfff
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-09T12:14:19+03:00
+Array
+(
+    [DOMAIN] => kach36.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d8b6e49546189e755ccac3a577e6a899
+    [AUTH_ID] => db406e68005d64e6006fe660000000220000076ee0395ca0d51cd2ff2953e003b243d4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => cbbf9568005d64e6006fe66000000022000007630de389994172ccffb8302181b0c5ef
+    [member_id] => 6057617aa3772f128d53013087b81b91
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"46\/"}
+)
+
+rest
+
+2025-07-09T12:33:37+03:00
+Array
+(
+    [DOMAIN] => kach36.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a2f84f5b8e88a19d6c5093803883d95d
+    [AUTH_ID] => 7c456e68005d64e6006fe660000000220000077dda1d06390ef3d8d1844287cd1b9c05
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6cc49568005d64e6006fe6600000002200000773d9ecafd6574894d82eeb478aca15e3
+    [member_id] => 6057617aa3772f128d53013087b81b91
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"46\/"}
+)
+
+rest
+
+2025-07-09T12:33:46+03:00
+Array
+(
+    [DOMAIN] => kach36.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 23cfb81e6fd872a2ef936c92bd9dd45a
+    [AUTH_ID] => 89456e68005d64e6006fe660000000220000070d4fc02d6dd77221c2a54568476ca475
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 79c49568005d64e6006fe660000000220000072a000a48ae83162992ac84a8b3c46ad8
+    [member_id] => 6057617aa3772f128d53013087b81b91
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"46\/"}
+)
+
+rest
+
+2025-07-09T12:37:37+03:00
+Array
+(
+    [DOMAIN] => kach36.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0fd5777857a58f81b3be7158ebf4e423
+    [AUTH_ID] => 68466e68005d64e6006fe660000000220000077d891a1e5739acd42581f03ff8a3ac47
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 58c59568005d64e6006fe66000000022000007da7d76c12246a5246c0580d5da3d2fea
+    [member_id] => 6057617aa3772f128d53013087b81b91
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"46\/"}
+)
+
+rest
+
+2025-07-09T12:37:58+03:00
+Array
+(
+    [DOMAIN] => kach36.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ce9d08a7f85869df4ac28b926fc6735f
+    [AUTH_ID] => 7e466e68005d64e6006fe660000000220000073c14d29d5c6bfe7ad2c7a3d6a8cb0f71
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6ec59568005d64e6006fe660000000220000079c644b1abee502c28a26c8e557a066de
+    [member_id] => 6057617aa3772f128d53013087b81b91
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"46\/"}
+)
+
+rest
+
+2025-07-09T12:39:02+03:00
+Array
+(
+    [DOMAIN] => kach36.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => cbd55a5bea084eb5672c32dea24cbba2
+    [AUTH_ID] => c5466e68005d64e6006fe660000000220000070479b6f54038e077d66eac1d2d63a242
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b5c59568005d64e6006fe660000000220000073626cb15f9c08b0d10f9e384bfa74f83
+    [member_id] => 6057617aa3772f128d53013087b81b91
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"46\/"}
+)
+
+rest
+
+2025-07-09T12:39:38+03:00
+Array
+(
+    [DOMAIN] => kach36.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 18719cd34d664572308771357db30666
+    [AUTH_ID] => ea466e68005d64e6006fe6600000002200000782858e8037465594e34fd40ddca1cec1
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => dac59568005d64e6006fe660000000220000074529e970b1b35bf21d9eae38493a8792
+    [member_id] => 6057617aa3772f128d53013087b81b91
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"46\/"}
+)
+
+rest
+Array
+(
+    [ID] => 112
+)
+
+2025-07-09T12:42:36+03:00
+Array
+(
+    [DOMAIN] => kach36.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e54c0d5134a0aae74492fa7f69c330b1
+    [AUTH_ID] => 96476e68005d64e6006fe6600000002200000702c983414556c1421d362142d0fa38a7
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 86c69568005d64e6006fe660000000220000072f0ff528c1a44861d4c158226cf63efa
+    [member_id] => 6057617aa3772f128d53013087b81b91
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"46\/"}
+)
+
+rest
+Array
+(
+    [ID] => 112
+)
+
+2025-07-09T12:44:06+03:00
+Array
+(
+    [DOMAIN] => kach36.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => b8c09f02eda0214d9c9193a3fb972bdc
+    [AUTH_ID] => f5476e68005d64e6006fe660000000220000075ce214c7565da4df615bc26c0d75edf3
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e5c69568005d64e6006fe66000000022000007e269557deb556f770a979055aea52e23
+    [member_id] => 6057617aa3772f128d53013087b81b91
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"46\/"}
+)
+
+rest
+Array
+(
+    [ID] => 112
+)
+
+2025-07-10T12:54:06+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 479bd9663c5a10430679cee6eba3507c
+    [AUTH_ID] => ce9b6f68005d64e60073ef760000014300000784f70d544a5b55075f276d1a2b110795
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => be1a9768005d64e60073ef76000001430000070d67537b9e6d840c890bb1571f46ff92
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-10T16:13:02+03:00
+Array
+(
+    [DOMAIN] => voessen.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a7b3d0b118fa2bac2865d7945aedbaab
+    [AUTH_ID] => 6dca6f68005d64e600615e2a0000006b000007c18e41b3238c1f633eab5961e360bb3a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5d499768005d64e600615e2a0000006b00000725d458fd3eca03dcc7438a6876b4fe5e
+    [member_id] => 412c82aaa2b382c1fe624f4d2eedeeb2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"333\/"}
+)
+
+rest
+Array
+(
+    [ID] => 19
+)
+
+2025-07-11T11:26:50+03:00
+Array
+(
+    [DOMAIN] => bitrix.smodern.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 02b8746fea9ff21167725169b683f01a
+    [AUTH_ID] => d3d87068005d64e60066a18e000000e4000007befada8ab155cabd96025ab377ebc9e3
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c3579868005d64e60066a18e000000e4000007582a6f485c5b12a1dc2dde1eebc7e672
+    [member_id] => f753f2e0b68d23876a4af7c983f5f123
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 105
+)
+
+2025-07-11T18:11:01+03:00
+Array
+(
+    [DOMAIN] => engineer-history.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ec0faceb840cbd660cd8746108d3a13c
+    [AUTH_ID] => 95377168005d64e600678c06000000570000074b54b4c13a07646d7a3ddb6719b713b8
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 85b69868005d64e600678c0600000057000007fc73ddbc80ce12309f69bfa24f17f26f
+    [member_id] => 3008292eae22756fe5570ae47a907b38
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"101\/"}
+)
+
+rest
+Array
+(
+    [ID] => 73
+)
+
+2025-07-11T23:49:57+03:00
+Array
+(
+    [DOMAIN] => hilari.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 6cf2e80d18de4e8a95bc8f76216e16b9
+    [AUTH_ID] => 04877168005d64e600784d0a00000008201c0785188b5617bc341a432a0653a51d506a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => f4059968005d64e600784d0a00000008201c07ae2396a080f1ea8ce365f3f853747f31
+    [member_id] => 1ef119a85290bdadb2f3274cc9a18f66
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"92\/"}
+)
+
+rest
+Array
+(
+    [ID] => 113
+)
+
+2025-07-13T23:13:41+03:00
+Array
+(
+    [DOMAIN] => 360cleanpro.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f951db7da7799b40754f9f015fa67d7b
+    [AUTH_ID] => 84217468005d64e6007637e80000000c0000071e622294e2387cbb2f0a9e15a7e7265e
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 74a09b68005d64e6007637e80000000c0000074c3e6b0d25f2cf5af1be3bf9208d6e26
+    [member_id] => 2125ff67ee7ddb3d9b4cda45a06df56a
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"44\/"}
+)
+
+rest
+Array
+(
+    [ID] => 70
+)
+
+2025-07-14T10:45:53+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 26876c8f4c50640b4d10ba57359891b3
+    [AUTH_ID] => a6c37468005d64e60073ef7600000143000007f30f2023e46fdedce56bd148b08fb011
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 96429c68005d64e60073ef7600000143000007ebbce20d783a1cc89fb6c8e37e1d72ca
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-14T11:02:57+03:00
+Array
+(
+    [DOMAIN] => alexstar.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a02abc59f2188b7eb96c1673b6d6053b
+    [AUTH_ID] => 83c77468005d64e60073d9ee0000072d6054077ac093a80f34dd159d01b394e2f25cf6
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 73469c68005d64e60073d9ee0000072d605407b113cd0d7a1ae9d99642386c81f26ce9
+    [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"59\/"}
+)
+
+rest
+Array
+(
+    [ID] => 3
+)
+
+2025-07-14T11:03:20+03:00
+Array
+(
+    [DOMAIN] => alexstar.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 809ddb1efcd24a5c7563d2dbfdda651e
+    [AUTH_ID] => a3c77468005d64e60073d9ee0000072d605407596805a8e2612ecc3eb88ea959fcfdb5
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 93469c68005d64e60073d9ee0000072d6054077a38db787be84c7417f1cd2953df7fb6
+    [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"59\/"}
+)
+
+rest
+Array
+(
+    [ID] => 3
+)
+
+2025-07-15T09:03:04+03:00
+Array
+(
+    [DOMAIN] => crm.bkizvest.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 242858627dd181fae127c7f78d113aa3
+    [AUTH_ID] => 23fd7568005d64e60074176600000003000007660ec90d2f9651adf89ae21f0e60b4cd
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 137c9d68005d64e60074176600000003000007424306fa1b281cf244d5a013ff5862cd
+    [member_id] => 230bfb7b4ca94c0f26d2a205f44655b9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 107
+)
+
+2025-07-15T10:19:28+03:00
+Array
+(
+    [DOMAIN] => newflat.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 1a7538cd5ddb6838116e910f40c30220
+    [AUTH_ID] => 100f7668005d64e60035755a00002bbf00000793cde960c5a512d0936647ec4b0e167a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 008e9d68005d64e60035755a00002bbf000007930e355f92d34fb803da4a3e5f12742b
+    [member_id] => 911cba31b2243463bf73e5725fb8e723
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"93\/"}
+)
+
+rest
+Array
+(
+    [ID] => 114
+)
+
+2025-07-15T10:25:34+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f4c5b2f184b4cd9fbe4cd6c1cdea5d41
+    [AUTH_ID] => 7d107668005d64e60073ef7600000143000007d37c2a59909bc126e2a7cf48afa95efb
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6d8f9d68005d64e60073ef760000014300000725fd61e454114be68b41212c9fcc2242
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-15T10:28:19+03:00
+Array
+(
+    [DOMAIN] => newflat.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => b1153b4679702878ffcba2d667e8c407
+    [AUTH_ID] => 1f117668005d64e60035755a00002bbf000007560edf92e8679b49639178a5fee83a2a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0f909d68005d64e60035755a00002bbf000007fc892742550f79eaee005129b70cb362
+    [member_id] => 911cba31b2243463bf73e5725fb8e723
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"93\/"}
+)
+
+rest
+Array
+(
+    [ID] => 114
+)
+
+2025-07-15T12:38:54+03:00
+Array
+(
+    [DOMAIN] => mrt.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => cd05093fbf356fb8299f1ad2273272f8
+    [AUTH_ID] => be2f7668005d64e60008a7ea00005bf40000072ff1fbc3e9ea9edfa22c7a59f051d032
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => aeae9d68005d64e60008a7ea00005bf4000007af018583e39de0522565e5e38afe9469
+    [member_id] => 0f7e8481e265e23919f8400b7c113a90
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"277\/"}
+)
+
+rest
+Array
+(
+    [ID] => 94
+)
+
+2025-07-15T16:33:02+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 451b30764a7bebf7fde8d434fdcb2af2
+    [AUTH_ID] => 9e667668005d64e60064ce1c0000071a00000712b0f49a2addcff12831e61984dd1c16
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 8ee59d68005d64e60064ce1c0000071a0000075a15daa75de82ca818b73d4c3b3aed26
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-07-17T07:10:23+03:00
+Array
+(
+    [DOMAIN] => b24.gskmetizi.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8ff2db50bc3af3c5f9478ec37ee93fd8
+    [AUTH_ID] => b4857868005d64e60009781900002be2000007baa2bf9a7d4de37d55063d3d3e08c39c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a404a068005d64e60009781900002be2000007eb342f434e55c8cf4adbcf52a7de7639
+    [member_id] => 99afd961a603ec7c4688737fbf1129b0
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+
+2025-07-17T08:31:51+03:00
+Array
+(
+    [DOMAIN] => crm.bkizvest.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => cccb5d23c71e7fc1569432ecd0b1b088
+    [AUTH_ID] => d6987868005d64e6007417660000002700000745a03ed026dd23610a189fc8b8bde373
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c617a068005d64e600741766000000270000072613364b5c54197a33c68b835a793843
+    [member_id] => 230bfb7b4ca94c0f26d2a205f44655b9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 107
+)
+
+2025-07-18T13:51:54+03:00
+Array
+(
+    [DOMAIN] => engineer-history.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 87e8114ae689eeb47be582bcc4caa697
+    [AUTH_ID] => 5a357a68005d64e600678c06000000570000079c72f29009b5b2306b32b24f19827487
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4ab4a168005d64e600678c06000000570000078e3531965c608df2c4dc8456f9f578ed
+    [member_id] => 3008292eae22756fe5570ae47a907b38
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"101\/"}
+)
+
+rest
+Array
+(
+    [ID] => 73
+)
+
+2025-07-19T16:53:36+03:00
+Array
+(
+    [DOMAIN] => portal.center-dpo.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 2c0a58c2bb7ccfcd92053ae693e89cc0
+    [AUTH_ID] => 6fb17b68005d64e6003681b800000001000007af34e9f212a6699b02e84477369a9cf9
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5f30a368005d64e6003681b800000001000007c41cba76e001bcaaa421db7f6a547102
+    [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 108
+)
+
+2025-07-21T09:59:48+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => cfc9197b7c125e527ccff72492a4bf7e
+    [AUTH_ID] => 72f37d68005d64e60073ef7600000143000007b157b0ae34f5aa8f243af016f617fa33
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6272a568005d64e60073ef7600000143000007b509d6edc48a81cd033fcc22ee770358
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-21T10:07:57+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 7d0ffe0c24724418bc81e1d7125f18b6
+    [AUTH_ID] => 5df57d68005d64e60073ef7600000143000007dba403915eccab7e16f72a5bd26c97f5
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4d74a568005d64e60073ef760000014300000717a38209183596e1dcf7f5cf640be5a9
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-21T10:11:31+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8142ab44efbc806acd543e63c39d2e9d
+    [AUTH_ID] => 32f67d68005d64e60073ef760000014300000736929d2ed13f797038666f52e817eb82
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 2275a568005d64e60073ef76000001430000077bf2edd5e96db7a15b9cda6505ce5dc8
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-21T10:52:02+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8fd53a6d21e0008c9d99dba874cee6eb
+    [AUTH_ID] => b1ff7d68005d64e60073ef7600000143000007b053f3792c3c4615cc669b2ddf07f783
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a17ea568005d64e60073ef76000001430000079a0c5ccf4fd450d22854fcc947edb6cb
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-21T15:08:04+03:00
+Array
+(
+    [DOMAIN] => tk-titan.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e86feae5efb82ad851685c05aa078a41
+    [AUTH_ID] => b33b7e68005d64e60064ee2400000079201c070427fadba25fffc7fee67e0a835f989f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a3baa568005d64e60064ee2400000079201c075d8468c8e7e79162c7fd0eaab22d5a0d
+    [member_id] => 0e1cdf0d009498c49246ed98fc5f3710
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"159\/"}
+)
+
+rest
+Array
+(
+    [ID] => 115
+)
+
+2025-07-21T18:31:43+03:00
+Array
+(
+    [DOMAIN] => ttt72.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => cd6e4021a69e29e1d4b25dca5f2ec829
+    [AUTH_ID] => 6e6b7e68005d64e6003e9e8c00000001201c071461a849b49bba2954c752dc6524af9a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5eeaa568005d64e6003e9e8c00000001201c07eb20b5728cb36447fb7d5656a5cc925b
+    [member_id] => 402072290f9ea8316d9d28a602c11731
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"158\/"}
+)
+
+rest
+Array
+(
+    [ID] => 18
+)
+
+2025-07-22T09:32:21+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 3b5b1e49c0397e8b078ba620d54f3ce4
+    [AUTH_ID] => 843e7f68005d64e60077029e0000016f000007947afa3f934847881a2dddd4c3f59b82
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 74bda668005d64e60077029e0000016f000007a9d8fbcb0d3d15f92c292d493f9b7ad0
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-07-22T11:11:24+03:00
+Array
+(
+    [DOMAIN] => crm.amkgrup.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f45cc1e8d2e46f74198cafc7e521be74
+    [AUTH_ID] => bc557f68005d64e6004bb92400000004000007fde4e357c8424e03516df2f13071026b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => acd4a668005d64e6004bb92400000004000007dfed2dcf443b122911730f36cc4082e0
+    [member_id] => 3bfb10a86eb730a30bf50c9850ced25e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+)
+
+rest
+Array
+(
+    [ID] => 116
+)
+
+2025-07-22T15:11:38+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 9230170b9e6298db9ca073dfa148fe6a
+    [AUTH_ID] => 098e7f68005d64e60077029e00000163000007712baf6a66ac2dacf53258d9644a79d7
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => f90ca768005d64e60077029e00000163000007db553c4ec83af32c005046a6b36103c8
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-07-23T13:01:58+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 92ae0f35ecc891d609788bb2cdb89ae3
+    [AUTH_ID] => 13c18068005d64e60073ef76000001430000078c4df3e69531760d2df6b2e71b7f0ef7
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0340a868005d64e60073ef76000001430000076c31fbc207f68b62059871a7142985e4
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-23T13:02:04+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4ca32a6bc69b2f465090e904f8e889b8
+    [AUTH_ID] => 25c18068005d64e60073ef76000001430000078ec04ed88649e058970cf89a7305a202
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1540a868005d64e60073ef7600000143000007c459d2be9634c441692afb67f0f28c42
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-23T13:12:39+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8ef3dc3fc72dbbd683cde0de98b0781c
+    [AUTH_ID] => a6c38068005d64e60073ef76000001430000070becd8c0126268cca6c0a390f4f946d9
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 9642a868005d64e60073ef76000001430000073fafd0c8a488bf2f251bf4ded002c38e
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-23T17:02:47+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5ac8338c330a1c95dc70186060c50dbe
+    [AUTH_ID] => 97f98068005d64e60073ef76000001430000077020a41a836d855a34ab42d38460ce98
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 8778a868005d64e60073ef7600000143000007312c8eae90c0a4c21efc6c126bbff8cc
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-24T11:05:35+03:00
+Array
+(
+    [DOMAIN] => cp.tehnoparts.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f9b113d26d728a1472735ebe3c5bd621
+    [AUTH_ID] => 56f78168005d64e600558d8c00000012000007804d3338c4854fa70a1523df0441f141
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4676a968005d64e600558d8c00000012000007f6d44dfdc55565ad21cb50b4833f3e6b
+    [member_id] => 82ad88735da229b163a1dd4dec008641
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 109
+)
+
+2025-07-24T12:54:29+03:00
+Array
+(
+    [DOMAIN] => mediaburo.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 1dd5eee2b14d44fc1da8c4df2c694fa1
+    [AUTH_ID] => e4108268005d64e6006d4dc800000788201c07081936ff935ccf83668de921c9741f4c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d48fa968005d64e6006d4dc800000788201c074f77a33c451d162ef1171c08e555604f
+    [member_id] => f96089681eb3c9a81113a2dd91752e6b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","install_finished":"Y","any":"48\/"}
+)
+
+rest
+Array
+(
+    [ID] => 117
+)
+
+2025-07-24T17:21:19+03:00
+Array
+(
+    [DOMAIN] => nais.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d7839f1e0fdd5c9d077393d01921dbe9
+    [AUTH_ID] => 6f4f8268005d64e600798ae00000000100000745a52f4680647b681dea2963b0a77601
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5fcea968005d64e600798ae0000000010000076ad5265c6adb72f71dcd39e5e5e84573
+    [member_id] => 5514bca823987ef1a6e26f5259bcb1bb
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"69\/"}
+)
+
+rest
+Array
+(
+    [ID] => 110
+)
+
+2025-07-24T17:40:47+03:00
+Array
+(
+    [DOMAIN] => nais.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4462ba33e057e450ab3861f91d59d641
+    [AUTH_ID] => f7538268005d64e600798ae000000001000007e1a692a74184e117cf01e4868a3d116b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e7d2a968005d64e600798ae000000001000007d60ef5f1292f7a09bbfbf8b8a9575b7c
+    [member_id] => 5514bca823987ef1a6e26f5259bcb1bb
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"69\/"}
+)
+
+rest
+Array
+(
+    [ID] => 110
+)
+
+2025-07-26T14:48:36+03:00
+Array
+(
+    [DOMAIN] => nais.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 33a39d563a21bf1eb2fcb8432b91e01f
+    [AUTH_ID] => a4ce8468005d64e600798ae0000000090000078895bc3687d1e2e5bc77c10e49a017f4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 944dac68005d64e600798ae0000000090000074fab52e6004443953f6c034f5102a98a
+    [member_id] => 5514bca823987ef1a6e26f5259bcb1bb
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"69\/"}
+)
+
+rest
+Array
+(
+    [ID] => 110
+)
+
+2025-07-27T12:36:17+03:00
+Array
+(
+    [DOMAIN] => portal.center-dpo.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 318cc134b6681b3e803f5386e27997a8
+    [AUTH_ID] => 21018668005d64e6003681b8000064c500000773929dda9273acf90c3371db9be3d33c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1180ad68005d64e6003681b8000064c50000075ce18da79a9081e1a698e204729c90ad
+    [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 108
+)
+
+2025-07-28T09:59:41+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e2d49dde043adbbb8da715838085f0e3
+    [AUTH_ID] => ed2d8768005d64e60073ef76000001430000075e6e8f926a5f100dbb417ac36a9b7fc0
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ddacae68005d64e60073ef7600000143000007bc7fe9915a1a0fe93ea4a643086ec604
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-28T10:09:55+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => c6f364a2606f372e6c6bee8167b7d6e5
+    [AUTH_ID] => 47308768005d64e60073ef7600000009000007ad2101ec76f88f6b0cc6da0affddc1a5
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 37afae68005d64e60073ef7600000009000007429180487fd1a6cf623c228b7e18f06e
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-28T11:45:40+03:00
+Array
+(
+    [DOMAIN] => gkgb24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0a7c5ca2a9c502d03c827590e71b7c8d
+    [AUTH_ID] => b8468768005d64e60066cec000000b5700000779d23caeab5bdc9fd4921673ebac74d0
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a8c5ae68005d64e60066cec000000b57000007406077ed58a0d0e4262b51bf7c96e24e
+    [member_id] => 88ddb8b706db5415edb0bf419d128c5b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 27
+)
+
+2025-07-28T12:11:21+03:00
+Array
+(
+    [DOMAIN] => nais.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 81ea3d5c83188946de3726bb68be1c1b
+    [AUTH_ID] => c94c8768005d64e600798ae000000001000007639150696dd2b76690f7ea881e16d294
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b9cbae68005d64e600798ae0000000010000076100bd01c5475dc375fc4be153fde7b2
+    [member_id] => 5514bca823987ef1a6e26f5259bcb1bb
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"69\/"}
+)
+
+rest
+Array
+(
+    [ID] => 110
+)
+
+2025-07-28T12:18:29+03:00
+Array
+(
+    [DOMAIN] => hilari.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d10f36f6b1ccb412ab59fc9d49333ce2
+    [AUTH_ID] => 724e8768005d64e600784d0a0000001800000734b4d74fee2109acadfda1f00499320c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 62cdae68005d64e600784d0a0000001800000710d735af0ab3704f210f2129c15c0e69
+    [member_id] => 1ef119a85290bdadb2f3274cc9a18f66
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"92\/"}
+)
+
+rest
+Array
+(
+    [ID] => 113
+)
+
+2025-07-28T14:28:22+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 899f25f2310010cd73664fc1f8b88418
+    [AUTH_ID] => e16c8768005d64e60073ef76000001430000075174fa87a549f68c053e4970fae83f05
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d1ebae68005d64e60073ef7600000143000007b4677fe34d840ed9e87af9c36f6f6aa2
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-29T07:05:37+03:00
+Array
+(
+    [DOMAIN] => international-art.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 73d5675e81efa9c516fba64e2525338f
+    [AUTH_ID] => a1568868005d64e6007ab03c00000001000007f4a06480c67a69f58f78f0d5bd9ebcab
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 91d5af68005d64e6007ab03c000000010000079a3414e333b549b4742f2057f3e34971
+    [member_id] => 8eaa91c3070793928bbd86588d5d3aba
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"3\/"}
+)
+
+rest
+Array
+(
+    [ID] => 118
+)
+
+2025-07-29T13:40:38+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8bb9b2f31eb717e105dd86ff6b5cdcb1
+    [AUTH_ID] => 33b38868005d64e60077029e00000219000007df412ce5de1a115629f22ef7f1cac9d8
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 2332b068005d64e60077029e0000021900000712897803c943c5913b3fb4470857f0a3
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-07-31T10:01:10+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => dd5f2caec943f5198f6b8c9ddcb816e2
+    [AUTH_ID] => b0228b68005d64e60073ef76000001430000076b40e2a0bf745e3eb179a6b90881489e
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a0a1b268005d64e60073ef760000014300000757bb3dec6c29ae880b6d3fd9e65ac8ea
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-07-31T10:32:14+03:00
+Array
+(
+    [DOMAIN] => inplain.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => bc58724cfd0201441ee202a46217f297
+    [AUTH_ID] => 0e2a8b68005d64e6000b929800000c1e00000755d87e0a7167fb0dcab58ee7942d0860
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => fea8b268005d64e6000b929800000c1e0000079c2732e50aaa9013e6f9a37fa64f6d1b
+    [member_id] => af3471cbf6876b8da79a15eb328a7b02
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"80\/"}
+)
+
+rest
+Array
+(
+    [ID] => 6
+)
+
+2025-07-31T15:37:21+03:00
+Array
+(
+    [DOMAIN] => alexstar.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 73d2c5b6b42f56688af55a1dfec2a551
+    [AUTH_ID] => 7c718b68005d64e60073d9ee0000077b0000072683dfa2666a87268f9e2afd68b13aba
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6cf0b268005d64e60073d9ee0000077b000007b0048ab83e47626fef818bba33f3a709
+    [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"59\/"}
+)
+
+rest
+Array
+(
+    [ID] => 3
+)
+
+2025-07-31T15:40:01+03:00
+Array
+(
+    [DOMAIN] => prorybu.ugrus.com
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 6db6b1d12e36b524b86096dee2df420e
+    [AUTH_ID] => 0d728b68005d64e60071ae1c0000007f000007b503bbc155ef80fffbb139c29bfbe05f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => fdf0b268005d64e60071ae1c0000007f000007843ace9699166ce95afa665ce17258f6
+    [member_id] => 8d54ddf7c8ba5572800ab7116bba2b4b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+)
+
+rest
+Array
+(
+    [ID] => 119
+)
+
+2025-07-31T15:41:08+03:00
+Array
+(
+    [DOMAIN] => prorybu.ugrus.com
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 274657b77782d0a554b992478082d30a
+    [AUTH_ID] => 3f728b68005d64e60071ae1c0000007f000007138a138c3cccfda4b3b467027210d546
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 2ff1b268005d64e60071ae1c0000007f000007f58e774244876103f3defddc88b098f7
+    [member_id] => 8d54ddf7c8ba5572800ab7116bba2b4b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 119
+)
+
+2025-07-31T16:55:20+03:00
+Array
+(
+    [DOMAIN] => mediaburo.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d461e717fc226ea30317025ffd3405cc
+    [AUTH_ID] => d7838b68005d64e6006d4dc800000788201c070f68d4ba7b20bf80b0c6b31e748ec966
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c702b368005d64e6006d4dc800000788201c073ab7c527fee0c2e416cda126ffae4f38
+    [member_id] => f96089681eb3c9a81113a2dd91752e6b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"48\/"}
+)
+
+rest
+Array
+(
+    [ID] => 117
+)
+
+2025-07-31T22:35:32+03:00
+Array
+(
+    [DOMAIN] => smartpoint.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 530fad20256c2e51d979b133757aa492
+    [AUTH_ID] => 93d38b68005d64e6005e401a00000014000007cad332611d4c513e46289be6e93d5d15
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 8352b368005d64e6005e401a00000014000007edc2002b992a4c988722ba39ac16f293
+    [member_id] => 2544555e26b37cdefb696dd4355d6506
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"418\/"}
+)
+
+rest
+Array
+(
+    [ID] => 96
+)
+
+2025-07-31T22:41:10+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ba824497f4516f81bc3bb63f19de336a
+    [AUTH_ID] => e5d48b68005d64e60077029e00000187000007110de6e9fd78372a9b22ac3587625b52
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d553b368005d64e60077029e000001870000078e1bd723c79cdc7c2f4fa774d24d1bf8
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-07-31T22:41:13+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8d9223daa99256f34fbdd7690449ee6d
+    [AUTH_ID] => e9d48b68005d64e60077029e00000187000007dd3a3f5356d5dcebcb6b6e1329bbfde5
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d953b368005d64e60077029e00000187000007bc9a19481b9b9adb59e3df06fa825403
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-08-01T13:04:11+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => de894afbf75d6e2f2035a4fada5e84db
+    [AUTH_ID] => 2a9f8c68005d64e60077029e000001a10000079092147688659e1f440c3830177dc71e
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1a1eb468005d64e60077029e000001a10000070faec04d6557377347b7c4574272cd59
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-08-01T14:58:27+03:00
+Array
+(
+    [DOMAIN] => portal.center-dpo.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 74b238d8dae76b1200ebe412a77b6ade
+    [AUTH_ID] => f1b98c68005d64e6003681b800000074000007a4796c8683781b1e088674a284c53202
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e138b468005d64e6003681b800000074000007551c545842f6c4ff181cd018ddb9c9b9
+    [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+)
+
+rest
+Array
+(
+    [ID] => 108
+)
+
+2025-08-01T15:06:51+03:00
+Array
+(
+    [DOMAIN] => portal.center-dpo.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 429c826efeca71beaaeb59c658a2955a
+    [AUTH_ID] => ebbb8c68005d64e6003681b800000074000007f2511c470ef0f81dd433764a770e6586
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => db3ab468005d64e6003681b800000074000007ca6a492fd7d72c1ec89f8de01a2ed2b1
+    [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 108
+)
+
+2025-08-04T12:18:49+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 376e5ba5675647b7ca4b86fc6133fc81
+    [AUTH_ID] => 09899068005d64e60073ef76000001430000078102481065c5059ab7b25f21521aeb6d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => f907b868005d64e60073ef7600000143000007e41eef368c804d12fb6942f57b0781c0
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-04T15:04:43+03:00
+Array
+(
+    [DOMAIN] => smartpoint.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => eda2de094490a1286902602d97fd1807
+    [AUTH_ID] => ebaf9068005d64e6005e401a00000014000007f711d8804237c66bb99112d7e01184fe
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => db2eb868005d64e6005e401a00000014000007bf0d3e7161ce41efbacca56ec21a3617
+    [member_id] => 2544555e26b37cdefb696dd4355d6506
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"418\/"}
+)
+
+rest
+Array
+(
+    [ID] => 96
+)
+
+2025-08-04T19:14:02+03:00
+Array
+(
+    [DOMAIN] => smartpoint.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 9b9cc8498c6071b0de1712186571aca0
+    [AUTH_ID] => 59ea9068005d64e6005e401a000011cc0000070d99e0cfa752d4a96c1109d18ed42110
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4969b868005d64e6005e401a000011cc0000078f0347292ceee86aa08860f8b7a95578
+    [member_id] => 2544555e26b37cdefb696dd4355d6506
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"418\/"}
+)
+
+rest
+Array
+(
+    [ID] => 96
+)
+
+2025-08-04T21:00:57+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0984ddb0fb0fd2a107f613532fcbc286
+    [AUTH_ID] => 69039168005d64e60073ef760000014300000723e667b65e615aa14d320863062f3f79
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5982b868005d64e60073ef7600000143000007b177e6e3b763400b70996dc4adccaac2
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-05T09:18:21+03:00
+Array
+(
+    [DOMAIN] => import24pro.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a4d17ba297c5aa111157b667fc94997f
+    [AUTH_ID] => 3db09168005d64e60075be380000000100000769ab7793b070a061dbbc36b8635245d7
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 2d2fb968005d64e60075be3800000001000007775ded2103c8ad74132a3dee5e976ffe
+    [member_id] => 80ee175bd4c6ad79caee6b7718cab0bf
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"20\/"}
+)
+
+rest
+Array
+(
+    [ID] => 5
+)
+
+2025-08-05T11:31:15+03:00
+Array
+(
+    [DOMAIN] => portal.center-dpo.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => b00cb775b2a55c328546383f5d74b579
+    [AUTH_ID] => 63cf9168005d64e6003681b800000074000007824dcc43efbf4220cadf35b6c82212ab
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 534eb968005d64e6003681b80000007400000756c6f0d096c5006473b2e489cedd8717
+    [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 108
+)
+
+2025-08-05T12:37:42+03:00
+Array
+(
+    [DOMAIN] => pulver.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a3f69fb977880bdcd4858bb51c86f9d6
+    [AUTH_ID] => f6de9168005d64e60018076700001e650000070def76245bf6b73bfda651e671e43fec
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e65db968005d64e60018076700001e6500000795afeb71378f23cc76a6ce319a228f01
+    [member_id] => 5744a356c88d426f042dda1770fcc93c
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"191\/"}
+)
+
+rest
+
+2025-08-05T15:17:29+03:00
+Array
+(
+    [DOMAIN] => smartpoint.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 485a5f4ef25984581b0cddf1951d021a
+    [AUTH_ID] => 68049268005d64e6005e401a000000140000078f84c445f6fdc3cab4aeb194dc586faf
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5883b968005d64e6005e401a0000001400000736dec81fc1b06e757b213c98d6238cdb
+    [member_id] => 2544555e26b37cdefb696dd4355d6506
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"418\/"}
+)
+
+rest
+Array
+(
+    [ID] => 96
+)
+
+2025-08-05T15:20:27+03:00
+Array
+(
+    [DOMAIN] => smartpoint.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d34103581bbb016c6fffc3e6139f4a03
+    [AUTH_ID] => 1a059268005d64e6005e401a00000b84000007916c5eeb741c4eda9bd0181b29899380
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0a84b968005d64e6005e401a00000b8400000713a51f2a900dc5181466f5d34b45f16e
+    [member_id] => 2544555e26b37cdefb696dd4355d6506
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"418\/"}
+)
+
+rest
+Array
+(
+    [ID] => 96
+)
+
+2025-08-06T09:07:54+03:00
+Array
+(
+    [DOMAIN] => smartpoint.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5074e20dfde39b684360eb1114630b74
+    [AUTH_ID] => 4aff9268005d64e6005e401a00000014000007c8375a7d5e48bb74f7a81642d4be163c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 3a7eba68005d64e6005e401a00000014000007e49960ccac3faa608cdc1ab83629ca98
+    [member_id] => 2544555e26b37cdefb696dd4355d6506
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"418\/"}
+)
+
+rest
+Array
+(
+    [ID] => 96
+)
+
+2025-08-06T16:23:42+03:00
+Array
+(
+    [DOMAIN] => profprioritet.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 7a60a634146a010ccf80e06d77a83627
+    [AUTH_ID] => 6d659368005d64e60064c460000000460000077248aa1d5544662b6124cc9625406c71
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5de4ba68005d64e60064c4600000004600000706685eaa97e6b185d3ba617ea9cfd9c8
+    [member_id] => 8f9e447fb78a37b7d91d39a59d185349
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"140\/"}
+)
+
+rest
+Array
+(
+    [ID] => 120
+)
+
+2025-08-06T17:49:09+03:00
+Array
+(
+    [DOMAIN] => stayproperty.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => bc5823e3a8144627f3c1057015b7c8d4
+    [AUTH_ID] => 75799368005d64e60057f862000023bc000007b39aee322cb6fe13d98014ceb39dc5e5
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 65f8ba68005d64e60057f862000023bc0000074e83b201728dfd86354bde923c04ee00
+    [member_id] => 986202eae13f5a77690fd2e208d23890
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"134\/"}
+)
+
+rest
+Array
+(
+    [ID] => 35
+)
+
+2025-08-07T06:29:24+03:00
+Array
+(
+    [DOMAIN] => pilotgr.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a75351b36961b744084437cc038806f7
+    [AUTH_ID] => a32b9468005d64e6000026c00000007e50460736df224e9c1a33ffb64b9d1e47232385
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 93aabb68005d64e6000026c00000007e5046070ee0324170ec7050436d7e10ec15d4c6
+    [member_id] => 0735fbbbd0a96e7cdb06f58021929866
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"158\/"}
+)
+
+rest
+Array
+(
+    [ID] => 90
+)
+
+2025-08-07T08:05:44+03:00
+Array
+(
+    [DOMAIN] => fastline.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => fcb7e6e4f6c71c01824135bc7c6d266e
+    [AUTH_ID] => 38429468005d64e600525fa40000007f4038075507d84427a195819d2ef014bfe8486f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 28c1bb68005d64e600525fa40000007f403807e5d0a01ba25ac458316c533d263c8137
+    [member_id] => 63b830560aeb9f13fb37eddcb79c2e1b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"105\/"}
+)
+
+rest
+Array
+(
+    [ID] => 121
+)
+
+2025-08-07T09:03:03+03:00
+Array
+(
+    [DOMAIN] => fastline.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 1435a9862ccd095a1e6df377731179d8
+    [AUTH_ID] => 914f9468005d64e600525fa40000007f403807101c24148cdfa9f88aab42f9a87f38c2
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 81cebb68005d64e600525fa40000007f4038077cbc124695479a316b5d9fd28b02b20e
+    [member_id] => 63b830560aeb9f13fb37eddcb79c2e1b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"105\/"}
+)
+
+rest
+Array
+(
+    [ID] => 121
+)
+
+2025-08-07T12:23:28+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ad1fdb3e8fc6364f297059aad28e501e
+    [AUTH_ID] => a07e9468005d64e60073ef7600000143000007b0dfad47ca04a1c535b0c62906507c65
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 90fdbb68005d64e60073ef7600000143000007e3340ccb266749917e23aa5a62d5eefd
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-07T14:00:11+03:00
+Array
+(
+    [DOMAIN] => portal.center-dpo.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8e3abf9f7bcef104734acfa43e578a74
+    [AUTH_ID] => 4a959468005d64e6003681b800000074000007c87dbc4fefd9f39e2b5332d603473d17
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 3b14bc68005d64e6003681b8000000740000074c1be0d6ac1f69faa2b626959cac4e40
+    [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 108
+)
+
+2025-08-07T15:28:31+03:00
+Array
+(
+    [DOMAIN] => gosavtoschool.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 320172ed261c6fd436d419ae98548cbd
+    [AUTH_ID] => fea99468005d64e60045af640000b2c8000007473b407d0c1401d6a9580a6375df242f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ee28bc68005d64e60045af640000b2c800000772382a05063f5504e9ac101e52c61097
+    [member_id] => 3f3b244be6f2a347f7b05f7676fd47ae
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"120\/"}
+)
+
+rest
+Array
+(
+    [ID] => 72
+)
+
+2025-08-07T15:29:43+03:00
+Array
+(
+    [DOMAIN] => gosavtoschool.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f243e4571660df79e9a9849d3a707f1f
+    [AUTH_ID] => 47aa9468005d64e60045af640000b2c8000007850ba29478eb750a7430855526831706
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 3729bc68005d64e60045af640000b2c8000007231fe70f82f5dd37eb6d8d9d71c310b3
+    [member_id] => 3f3b244be6f2a347f7b05f7676fd47ae
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"120\/"}
+)
+
+rest
+Array
+(
+    [ID] => 72
+)
+
+2025-08-07T16:13:10+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f631f0080a56315994fa52f956c6db76
+    [AUTH_ID] => 76b49468005d64e60077029e000001a800000750d9f80dac91d0506f9fd03ea375f966
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6633bc68005d64e60077029e000001a8000007b4e1b8de61d0030f1aa6628e5f27d340
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-08-07T17:06:43+03:00
+Array
+(
+    [DOMAIN] => profprioritet.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 1c8c749dc682a46e1c1dcd50a5744940
+    [AUTH_ID] => 02c19468005d64e60064c4600000004600000770c753577f2f5d04d0d3fa25fbcdb515
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => f23fbc68005d64e60064c460000000460000070099ca68b77534cc109e9ba74f4be06c
+    [member_id] => 8f9e447fb78a37b7d91d39a59d185349
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"140\/"}
+)
+
+rest
+Array
+(
+    [ID] => 120
+)
+
+2025-08-07T18:05:21+03:00
+Array
+(
+    [DOMAIN] => yarusconsalting.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e3ad696d4675082c6edabc2ad37ba295
+    [AUTH_ID] => c0ce9468005d64e60074aeb000000001100e0773a340b03a0cf252986c095118a58ac7
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b04dbc68005d64e60074aeb000000001100e07ab7592965f63068fefce0c2afc6c00a9
+    [member_id] => 826d1985c3e326abd882868304282f9d
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"87\/"}
+)
+
+rest
+Array
+(
+    [ID] => 122
+)
+
+2025-08-08T09:44:48+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => dc4cb78cd3d141aeed2167e89875249a
+    [AUTH_ID] => f0aa9568005d64e60073ef7600000143000007fdf0da4f13d46f92222f859254649f93
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e029bd68005d64e60073ef7600000143000007d6b31cd59ea1499cb17b81a31a55cb70
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-09T12:36:49+03:00
+Array
+(
+    [DOMAIN] => hilari.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 9dfb31fdb7f4e2972f536f7285bf5238
+    [AUTH_ID] => c0249768005d64e600784d0a0000025c000007a3205f5c9be0ac0935106778c5b84f16
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b0a3be68005d64e600784d0a0000025c000007b260da296eaad56dadafc81f8bc10636
+    [member_id] => 1ef119a85290bdadb2f3274cc9a18f66
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"92\/"}
+)
+
+rest
+Array
+(
+    [ID] => 113
+)
+
+2025-08-11T12:41:48+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => aa595832e7e0a04acc0b933891d5ca0e
+    [AUTH_ID] => ecc89968005d64e60073ef7600000009000007a542c98fea45c9258968ae93ed3666c8
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => dc47c168005d64e60073ef76000000090000077e07708e7cedb546d8034cf83161b21b
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-11T12:41:58+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8454727eb966e181414e0a9e0deda74e
+    [AUTH_ID] => f6c89968005d64e60073ef7600000373000007aff8c1591c8bb1787d66c849163f1154
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e647c168005d64e60073ef7600000373000007d4078887593c1f6f3ff126ce85829509
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-11T14:44:51+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 30c59d243b505b763b781eb9b4957500
+    [AUTH_ID] => c3e59968005d64e60077029e00000243000007a98994d477469957f2b5afc6b9689afa
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b364c168005d64e60077029e00000243000007eb98d333a48aa60d873a8a1a501e06b0
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-08-12T09:09:11+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8e624226e4ac7dc453945c93b2abb357
+    [AUTH_ID] => 96e89a68005d64e60073ef760000037300000782beedc7f40382198fde34ca5b37e39c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 8667c268005d64e60073ef760000037300000708c7ea9f24ebcfce7494260b8a68831f
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-12T10:06:20+03:00
+Array
+(
+    [DOMAIN] => medaim.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a4b112c21f357969c1180802211f4d3e
+    [AUTH_ID] => fcf59a68005d64e60000454b000000010000072d5ece91aec288990bc12a9500754bc4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ec74c268005d64e60000454b00000001000007ab5c750b2f5b58c05d2f0d377b203a39
+    [member_id] => e64874e772e6d851eca90c3a7380f7ed
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"100\/"}
+)
+
+rest
+Array
+(
+    [ID] => 123
+)
+
+2025-08-12T13:19:00+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a7150df8613cabee4239ab9b6b997565
+    [AUTH_ID] => 24239b68005d64e60064ce1c00000848201c07d4843f37f04ac9bd908b24f9e1588d2f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 14a2c268005d64e60064ce1c00000848201c070844a3d9bc26d8d818c0ea76bbbba88b
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-08-12T13:42:54+03:00
+Array
+(
+    [DOMAIN] => import24pro.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 674a130e4e8b123ed6eafbc61b3fc764
+    [AUTH_ID] => bd289b68005d64e60075be380000000100000754a85dc2563812d486ee49df0b07a5c5
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ada7c268005d64e60075be38000000010000077b819ea4c13df4704295ca48cdc881bb
+    [member_id] => 80ee175bd4c6ad79caee6b7718cab0bf
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"20\/"}
+)
+
+rest
+Array
+(
+    [ID] => 5
+)
+
+2025-08-13T10:19:18+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0ef78351652e219bff9a9d530139b84d
+    [AUTH_ID] => 864a9c68005d64e60073ef7600000373000007430490a715f6c8893b3129ebe14f333c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 76c9c368005d64e60073ef76000003730000074f8793dfbb00019ed51a060c7a50c847
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-13T16:58:46+03:00
+Array
+(
+    [DOMAIN] => profprioritet.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => c6c7bdb5bf91e64cd925bb27ed545041
+    [AUTH_ID] => 25a89c68005d64e60064c460000000460000074e20544d1dc176290d7671dc24765e56
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1527c468005d64e60064c46000000046000007ebe945aaf1ddec0784ec754f4dd0abbe
+    [member_id] => 8f9e447fb78a37b7d91d39a59d185349
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"140\/"}
+)
+
+rest
+Array
+(
+    [ID] => 120
+)
+
+2025-08-13T17:20:10+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4e8f5004cd85d6f6e1a11e6aad18f152
+    [AUTH_ID] => 29ad9c68005d64e60077029e000001e70000078ed186c50935b83dc69f7203880575ec
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 192cc468005d64e60077029e000001e700000763f10870f3f08882399f6717bab64d14
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-08-14T14:25:16+03:00
+Array
+(
+    [DOMAIN] => kaspplus.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e5de071dfd0d5b14b21e99e7168bb9da
+    [AUTH_ID] => acd59d68005d64e6002c04c00000054c00000747870c19d6f2fe202f610a440c70cf55
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 9c54c568005d64e6002c04c00000054c000007b17bc3c4dbdf7c5ae45c7b2eb7b5fe90
+    [member_id] => 9e5d2d3a74f34fa4f4eae5d96caadfe6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"100\/"}
+)
+
+rest
+Array
+(
+    [ID] => 11
+)
+
+2025-08-14T16:10:15+03:00
+Array
+(
+    [DOMAIN] => portal.center-dpo.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 14eb50c1931e411310251a13f30d8a04
+    [AUTH_ID] => 46ee9d68005d64e6003681b80000007400000782aa115020dbace440af2a8f97babfba
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 366dc568005d64e6003681b800000074000007b48130debcf78b65a4b6ddc68b16c487
+    [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 108
+)
+
+2025-08-14T16:53:41+03:00
+Array
+(
+    [DOMAIN] => realestatedealers.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => bd6b77962bfafe485fcebfb9e161ea2a
+    [AUTH_ID] => 74f89d68005d64e60061da3a00000ea800000772992b70722436686abcda74675df952
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6477c568005d64e60061da3a00000ea800000722bd0e73ab6908a413153cda09ef0798
+    [member_id] => 8512a8e7c4927330f0a56666caea052f
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"330\/"}
+)
+
+rest
+Array
+(
+    [ID] => 124
+)
+
+2025-08-15T09:30:17+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 7c37df8ca3e57b329ea9a01724c474d1
+    [AUTH_ID] => 07e29e68005d64e60073ef76000003730000074262a916efe63cd6078c1afa6e6424af
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => f760c668005d64e60073ef7600000373000007b36641ccd2b41011d1d9148293a7b7be
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-15T10:14:53+03:00
+Array
+(
+    [DOMAIN] => medaim.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 75fe8f853efe53bdebdd2da10df35396
+    [AUTH_ID] => 7cec9e68005d64e60000454b0000004c000007d22d76c1f1cc7de0f31ddeee6f4f8855
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6c6bc668005d64e60000454b0000004c0000079e844245b08e00dfafc5ed68092b01a4
+    [member_id] => e64874e772e6d851eca90c3a7380f7ed
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"100\/"}
+)
+
+rest
+Array
+(
+    [ID] => 123
+)
+
+2025-08-15T10:19:09+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 57f10850d2c35aafdc894217ce4463f4
+    [AUTH_ID] => 7aed9e68005d64e60064ce1c0000071a000007367b8b72b83311ea0ff7770208c31a9d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6a6cc668005d64e60064ce1c0000071a000007b9f8460390639cc2cad20e96d892aeb2
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-08-15T10:22:04+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => eac96ca0b1d6bcc5c673d4718b522265
+    [AUTH_ID] => 29ee9e68005d64e60073ef76000003730000076edaa18c3936771d10a28e132d3bdf0a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 196dc668005d64e60073ef7600000373000007a5f8fbdf497b991792498f5ccee41acf
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-15T11:19:35+03:00
+Array
+(
+    [DOMAIN] => realestatedealers.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0480d3eaed15753dd55d6393ee3c9987
+    [AUTH_ID] => a5fb9e68005d64e60061da3a00000ea80000073d49362229602ea8d53ea53dccb7aeb4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 957ac668005d64e60061da3a00000ea80000076eae8a6fcddc40c3c3c43aafc945d1ee
+    [member_id] => 8512a8e7c4927330f0a56666caea052f
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"330\/"}
+)
+
+rest
+Array
+(
+    [ID] => 124
+)
+
+2025-08-16T12:59:56+03:00
+Array
+(
+    [DOMAIN] => b24-odi7oc.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 9d45dd71c26e1e9e3cfad4de213ad06b
+    [AUTH_ID] => ac64a068005d64e60078882600000001000007c5497281a5c4d38bde1a26be5cef4343
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 9ce3c768005d64e60078882600000001000007514ea6fbcaabb7d529130688dcbb7231
+    [member_id] => b08e2d920b7897931b6fa6f0ee98e0c8
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"107\/"}
+)
+
+rest
+Array
+(
+    [ID] => 125
+)
+
+2025-08-16T13:00:15+03:00
+Array
+(
+    [DOMAIN] => b24-odi7oc.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f429d30eeb72ab0998088ffd846d30b5
+    [AUTH_ID] => bf64a068005d64e60078882600000001000007e3d80b671d85f9f7bcaf29b689406141
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => afe3c768005d64e600788826000000010000075e33d3c34b18c997c6f9b024af0880f2
+    [member_id] => b08e2d920b7897931b6fa6f0ee98e0c8
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"107\/"}
+)
+
+rest
+Array
+(
+    [ID] => 125
+)
+
+2025-08-16T13:01:33+03:00
+Array
+(
+    [DOMAIN] => b24-odi7oc.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0c2260e3f637d6a26827e9074cde81ca
+    [AUTH_ID] => 0d65a068005d64e6007888260000000100000702e5b29837d6e52447fe0cb8ec24da1c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => fde3c768005d64e6007888260000000100000770c35541d50b173ea0673d111a463374
+    [member_id] => b08e2d920b7897931b6fa6f0ee98e0c8
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"107\/"}
+)
+
+rest
+Array
+(
+    [ID] => 125
+)
+
+2025-08-16T13:20:59+03:00
+Array
+(
+    [DOMAIN] => profprioritet.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 371e40b3fd3ad810af9884eae48124c0
+    [AUTH_ID] => 9a69a068005d64e60064c46000000008000007d95b5ba8b0a20be393987678bb1e8c1b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 8ae8c768005d64e60064c46000000008000007554d11a754b309fb881d229a6f6869d0
+    [member_id] => 8f9e447fb78a37b7d91d39a59d185349
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"140\/"}
+)
+
+rest
+Array
+(
+    [ID] => 120
+)
+
+2025-08-16T13:41:50+03:00
+Array
+(
+    [DOMAIN] => b24-odi7oc.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 296a9db4ff4dc18b27654bc63e38cd7d
+    [AUTH_ID] => 7e6ea068005d64e60078882600000001000007bdc6819c9fdc7ab2a4dbe3b817a9eb79
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6eedc768005d64e600788826000000010000071daa4e267a582f71faada90c99e481d0
+    [member_id] => b08e2d920b7897931b6fa6f0ee98e0c8
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"107\/"}
+)
+
+rest
+Array
+(
+    [ID] => 125
+)
+
+2025-08-18T10:52:33+03:00
+Array
+(
+    [DOMAIN] => pbk-j.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 874ae5365d13a2884de1d44088f9c4c6
+    [AUTH_ID] => d1e9a268005d64e6006e387a00000053000007dbe4455b1f4e4b36403c2a916d9bb5ff
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c168ca68005d64e6006e387a00000053000007ddc8d72db4d6653cd40b5ba3ffc2667e
+    [member_id] => 969bf2a2a5c009f5c075b565e2c014a1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"123\/"}
+)
+
+rest
+Array
+(
+    [ID] => 101
+)
+
+2025-08-18T10:52:46+03:00
+Array
+(
+    [DOMAIN] => pbk-j.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => dc4818228b6a835c48251762a0ed2c6e
+    [AUTH_ID] => dee9a268005d64e6006e387a000000530000077098e8b3d56806489fd5715e0267e591
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ce68ca68005d64e6006e387a00000053000007d4cfacee17f1cdf13872e8b3e26ba5e6
+    [member_id] => 969bf2a2a5c009f5c075b565e2c014a1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"123\/"}
+)
+
+rest
+Array
+(
+    [ID] => 101
+)
+
+2025-08-18T13:19:14+03:00
+Array
+(
+    [DOMAIN] => olimp64.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ec60ef5154abbd69ab9871b7cbe09159
+    [AUTH_ID] => 320ca368005d64e60068302200000099100e07ad9c12926c254128ebe8d32555747f4b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 228bca68005d64e60068302200000099100e0784420f8f5953f02f703db16b9f184ecf
+    [member_id] => 6d31166e480d1c0262a9d27bcebdd875
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"109\/"}
+)
+
+rest
+Array
+(
+    [ID] => 126
+)
+
+2025-08-18T15:46:28+03:00
+Array
+(
+    [DOMAIN] => online-kassa.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => fee7fed8c1c6205e463337bb4b5b59e7
+    [AUTH_ID] => b32ea368005d64e6005f2c0a000003d9000007ea59c693b74c4439478ab8fd73502772
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a3adca68005d64e6005f2c0a000003d9000007981288c842ee467dc693e2e744648185
+    [member_id] => a513bf08548cc1ff028bd765d9380344
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"199\/"}
+)
+
+rest
+Array
+(
+    [ID] => 127
+)
+
+2025-08-18T16:49:45+03:00
+Array
+(
+    [DOMAIN] => olimp64.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => af1af44fd56ab4d60cecabc706aa165c
+    [AUTH_ID] => 803da368005d64e60068302200000099100e07eb802062254679d109d1cbe67c41d207
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 70bcca68005d64e60068302200000099100e0744ee4bffdb9f8624907f22ff5130682c
+    [member_id] => 6d31166e480d1c0262a9d27bcebdd875
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"109\/"}
+)
+
+rest
+Array
+(
+    [ID] => 126
+)
+
+2025-08-18T23:59:08+03:00
+Array
+(
+    [DOMAIN] => nais.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 72e3636e8fed2dd231607a86e7dd5819
+    [AUTH_ID] => 2ba2a368005d64e600798ae00000000100000773f1bd301be341922fb19195339559e1
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1b21cb68005d64e600798ae000000001000007ba90c3de09340df03ef4251fca8d2ac4
+    [member_id] => 5514bca823987ef1a6e26f5259bcb1bb
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"69\/"}
+)
+
+rest
+Array
+(
+    [ID] => 110
+)
+
+2025-08-19T11:09:38+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => fb92db4f534808d590be5f604b395b3c
+    [AUTH_ID] => 523fa468005d64e60073ef7600000373000007bcf7ca5947c884bdabcbefbc0556a541
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 42becb68005d64e60073ef7600000373000007b8352a6fcaf68a5b3ef0cb2c434cb2df
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-19T11:33:38+03:00
+Array
+(
+    [DOMAIN] => online-kassa.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 6fb3bdb882567009e1083be4dfa3e9e4
+    [AUTH_ID] => f144a468005d64e6005f2c0a000003d9000007a49f6fac6b903426a0207ae00cb2660b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e1c3cb68005d64e6005f2c0a000003d9000007084692d6a3de2b8b977bbe77801b4177
+    [member_id] => a513bf08548cc1ff028bd765d9380344
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"199\/"}
+)
+
+rest
+Array
+(
+    [ID] => 127
+)
+
+2025-08-19T11:40:20+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => caa5e12240923d1adcf468cc17dc1b76
+    [AUTH_ID] => 8446a468005d64e60073ef7600000143000007f770159197f0c0aaf73ee8c89901bfe5
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 74c5cb68005d64e60073ef760000014300000714afa411bee9ca08c3cc45993248e9b3
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-19T11:42:36+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a6708ed6efa488daade6f219ab3d7c7d
+    [AUTH_ID] => 0c47a468005d64e60073ef7600000373000007d47e943a6d139b6e3fa866f4e5220bcd
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => fcc5cb68005d64e60073ef7600000373000007c7815a87f6fb10010b41011d4a4bd311
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-19T12:29:35+03:00
+Array
+(
+    [DOMAIN] => online-kassa.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4d475758e94e0e65f383e1c7d3bdb897
+    [AUTH_ID] => 0f52a468005d64e6005f2c0a000003d9000007017eaa1939353f55313ed5c661db6db6
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ffd0cb68005d64e6005f2c0a000003d9000007cb9f290ede8a90acb3026f3fd8214587
+    [member_id] => a513bf08548cc1ff028bd765d9380344
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"199\/"}
+)
+
+rest
+Array
+(
+    [ID] => 127
+)
+
+2025-08-19T14:37:45+03:00
+Array
+(
+    [DOMAIN] => plasticexpert.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f25179eb09b92f221dfc333cec6edc0b
+    [AUTH_ID] => 1870a468005d64e600768bee0000093e00000739b1134a4b74fe872b9eaf8a2e6ced25
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 08efcb68005d64e600768bee0000093e000007b7b97a5c319645aa01a8b0d7c36ef7ab
+    [member_id] => 9a3de8cb4ed1dc7fe13fd12ebc3af49b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"22\/"}
+)
+
+rest
+Array
+(
+    [ID] => 23
+)
+
+2025-08-20T09:08:11+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 1106e32bde2b8ea76e71b5fe56fcbbf2
+    [AUTH_ID] => 5a74a568005d64e60073ef7600000373000007f6347733313783d13df6bdf9b39ae120
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4af3cc68005d64e60073ef76000003730000071be927649ffe5b21b129ebb2bcbeda19
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-20T09:37:08+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 9e0b4dfe773060c1a859c2b45524d588
+    [AUTH_ID] => 247ba568005d64e60077029e000001f2000007b304b6a332f5f9115324bd82f11c7df2
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 14facc68005d64e60077029e000001f2000007a14f401cc45d864396856be3c8694a81
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-08-20T12:04:47+03:00
+Array
+(
+    [DOMAIN] => olimp64.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 35153f6fe3a3aae82ef04de180d1da77
+    [AUTH_ID] => bc9da568005d64e60068302200000099100e078cdffc059fd4e90b95a314c1bbc0c2f6
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ac1ccd68005d64e60068302200000099100e07898bcc9ef7250a95a05cec3d9431ee8d
+    [member_id] => 6d31166e480d1c0262a9d27bcebdd875
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"109\/"}
+)
+
+rest
+Array
+(
+    [ID] => 126
+)
+
+2025-08-20T13:37:41+03:00
+Array
+(
+    [DOMAIN] => olimp64.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 26badf9f9ec8a456b1648fde6b1e4ee9
+    [AUTH_ID] => 7db3a568005d64e60068302200000099100e07b94ef73ea3afe790c976cc6b8fb7f6f1
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6d32cd68005d64e60068302200000099100e078d80f88ab231b413a35b198284f02529
+    [member_id] => 6d31166e480d1c0262a9d27bcebdd875
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"109\/"}
+)
+
+rest
+Array
+(
+    [ID] => 126
+)
+
+2025-08-20T13:38:12+03:00
+Array
+(
+    [DOMAIN] => olimp64.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 3b773ac7acfd7a9927bde3e0730dcea7
+    [AUTH_ID] => 98b3a568005d64e60068302200000099100e07284042d8a3f4cfa85680affe336be476
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 8832cd68005d64e60068302200000099100e0758565df3246bb054d3c97a842e0bb8d1
+    [member_id] => 6d31166e480d1c0262a9d27bcebdd875
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"109\/"}
+)
+
+rest
+Array
+(
+    [ID] => 126
+)
+
+2025-08-21T12:20:25+03:00
+Array
+(
+    [DOMAIN] => olimp64.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 3fceca4fdb2354a1a2bf82722e998b9a
+    [AUTH_ID] => e7f2a668005d64e60068302200000099100e079b133c9d7a2d8316c4a1a9d80388b9ff
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d771ce68005d64e60068302200000099100e0775387fe35620108767221ad35b7b7220
+    [member_id] => 6d31166e480d1c0262a9d27bcebdd875
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"109\/"}
+)
+
+rest
+Array
+(
+    [ID] => 126
+)
+
+2025-08-21T17:22:26+03:00
+Array
+(
+    [DOMAIN] => portal.center-dpo.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 30cb7961504b2540afbab40696fb3dcc
+    [AUTH_ID] => b139a768005d64e6003681b800000074000007d6140b4b9313d2ab488f5bdd9bdc65f8
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a1b8ce68005d64e6003681b8000000740000077b403bc969becff7f5fd933ab7ca096e
+    [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 108
+)
+
+2025-08-22T09:11:10+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 26c07881365f0481b788b24c4e6223ee
+    [AUTH_ID] => 0d18a868005d64e60073ef7600000373000007b3194a66eac2949cb6af919857257f7b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => fd96cf68005d64e60073ef7600000373000007a70c8df3badb7661fab21105328503f5
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-22T09:54:44+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 494350cdcbad333319becfd5dd987340
+    [AUTH_ID] => 4422a868005d64e60077029e0000023800000722c9ad998f6de38a1932c8b0dd19e432
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 34a1cf68005d64e60077029e0000023800000759f028124f1c7f4b297a34e61213b82d
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-08-22T12:54:55+03:00
+Array
+(
+    [DOMAIN] => bitrix.picvario.com
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 60d0d15cde6371898f581d2c7e31e187
+    [AUTH_ID] => 7f4ca868005d64e6005c7c9e000001ec000007197117bc26756f62df2919127774bd4a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6fcbcf68005d64e6005c7c9e000001ec000007488764d915ee6fbd2fe4f676a9d7c84a
+    [member_id] => 0dedfe290ebf6261bd4adf125b0a520a
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 58
+)
+
+2025-08-25T13:52:04+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ad765d411d0bce6b1bf3718f9ac58a1b
+    [AUTH_ID] => 634eac68005d64e60073ef7600000373000007e433f1d7b41a30439e8cb31bfac2cd80
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 53cdd368005d64e60073ef7600000373000007e6a8e0b1ef4a0b113aee1a4a4dc0ee68
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-25T14:29:44+03:00
+Array
+(
+    [DOMAIN] => home.kvarta-group.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ada3b3d79f2b7c710ee1d36c6c5069c5
+    [AUTH_ID] => 3857ac68005d64e6006405280000007f000007e62cf98d2f7881c7aaf63307a5b03d62
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 28d6d368005d64e6006405280000007f000007df81d5f166635f5b2ed25733aaedbc07
+    [member_id] => b32c3c1b44c412dbd27a6dfd6adbe3c7
+    [status] => S
+    [PLACEMENT] => DEFAULT
+)
+
+rest
+Array
+(
+    [ID] => 128
+)
+
+2025-08-25T15:01:25+03:00
+Array
+(
+    [DOMAIN] => pbk-j.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e0e9355bd2a02e5cc1fd5055b6cddc53
+    [AUTH_ID] => 955eac68005d64e6006e387a000000e100000736750363a2cb6554233818e7fa58e4ad
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 85ddd368005d64e6006e387a000000e1000007501cbbc96eaa44e5e02e77c41d167dc0
+    [member_id] => 969bf2a2a5c009f5c075b565e2c014a1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"123\/"}
+)
+
+rest
+Array
+(
+    [ID] => 101
+)
+
+2025-08-25T15:54:49+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 01975bb106178ad33314aefddfaa5e1f
+    [AUTH_ID] => 296bac68005d64e60073ef7600000009000007a81c3fc5e02cf22b7fdd9c99beeb84f2
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 19ead368005d64e60073ef7600000009000007ec9e3d4de85182aae4b7b56e68b6eacb
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-25T16:31:34+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 724b310ec06554d1e5599b031527b751
+    [AUTH_ID] => c573ac68005d64e60073ef760000000900000770967bdca51d94802432082ab6f847be
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b5f2d368005d64e60073ef76000000090000079c58019d4116601ab1f09092c70d8b8a
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-26T10:10:51+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => c0c2952bc2d1a30a2a61ee6728f1dd32
+    [AUTH_ID] => 0b6cad68005d64e60073ef76000003730000072a2eb2724ad38a211e90020afdd2707a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => fbead468005d64e60073ef76000003730000071fca486737e33fb545d0228d04293a7a
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-26T10:17:32+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5fb2ad27025ee404d66a61e123b2db63
+    [AUTH_ID] => 886dad68005d64e60073ef7600000373000007d749ffe93de173f5b65c83e2815a1344
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 78ecd468005d64e60073ef7600000373000007eaea010ef30ba29254850bd00d115f67
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-26T10:17:57+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ebea095fcad6248aba41c4bbdda5e204
+    [AUTH_ID] => 946dad68005d64e60073ef7600000373000007b1e378eae1d800a8467dc8a17af33a0c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 84ecd468005d64e60073ef7600000373000007061f0ace190b15d3067ed7e63462390c
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-26T12:06:25+03:00
+Array
+(
+    [DOMAIN] => b24-rlsdyj.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => b1554f3e1a2d84d877694fa3f660f257
+    [AUTH_ID] => 2187ad68005d64e600457fa60000198200000711408a3c4490ba1cca55f29a3df7e029
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1106d568005d64e600457fa600001982000007bff883234a3755e5f9245222da652c9d
+    [member_id] => 081164e47161805576a4b1b330a8c2e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"232\/"}
+)
+
+rest
+Array
+(
+    [ID] => 97
+)
+
+2025-08-26T13:59:18+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => b8c65ab5b9fc89b8c0a10c56b297780c
+    [AUTH_ID] => 96a1ad68005d64e60073ef76000003730000071856b84ad0b2fd923fdc16fedf763a3e
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 8620d568005d64e60073ef76000003730000070bd0bb46785d0ff7baea52e801ca63b4
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-26T17:01:30+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => c4ff119e817be8e6c406e8d4c9154e67
+    [AUTH_ID] => 49ccad68005d64e60073ef7600000143000007ed4745a38b1f5f03ae116b8317adea28
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 394bd568005d64e60073ef760000014300000746ff352f409aa870b6b6df1dce5a7740
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-27T15:36:21+03:00
+Array
+(
+    [DOMAIN] => newflat.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 26cf79caa394958f7c52219e87058906
+    [AUTH_ID] => d509af68005d64e60035755a00000001201c0744dab48ca682d5dec39923852d81fde4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c588d668005d64e60035755a00000001201c073a1b0e54abfeb99f61d1a16f7f14881e
+    [member_id] => 911cba31b2243463bf73e5725fb8e723
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"93\/"}
+)
+
+rest
+Array
+(
+    [ID] => 114
+)
+
+2025-08-28T10:17:17+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 2ea62fb921d8de5ad8fa87f502bd8b7a
+    [AUTH_ID] => 8d10b068005d64e60073ef760000014300000756f1e4cbb2beb838daf39beb02224b8d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 7d8fd768005d64e60073ef760000014300000709774155236b12ef6fa2ec88a159bf03
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-28T10:19:08+03:00
+Array
+(
+    [DOMAIN] => b24-giokjj.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5b288c7aa6d78ff874c35f8171f8d4f3
+    [AUTH_ID] => fb10b068005d64e60067c6c800000001000007bbdae0d2fece42d87542f908ff412077
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => eb8fd768005d64e60067c6c800000001000007d321e45b27668347c3e820bca421dd39
+    [member_id] => 4c0960637b62e7f9674a11daa30cfbfd
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"135\/"}
+)
+
+rest
+Array
+(
+    [ID] => 54
+)
+
+2025-08-28T12:08:22+03:00
+Array
+(
+    [DOMAIN] => pbk-j.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 72921a45012860df2e5c9a032f569e09
+    [AUTH_ID] => 962ab068005d64e6006e387a00000053000007b933192b43d3918f0123663f4fce0dff
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 86a9d768005d64e6006e387a00000053000007d6fc4997f6779697930dcc9cb05fd5d8
+    [member_id] => 969bf2a2a5c009f5c075b565e2c014a1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"123\/"}
+)
+
+rest
+Array
+(
+    [ID] => 101
+)
+
+2025-08-28T14:12:02+03:00
+Array
+(
+    [DOMAIN] => smartpoint.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 7bd9910abb2cc90f6f6eec97f797fa69
+    [AUTH_ID] => 9047b068005d64e6005e401a00000014000007995d4f06d1f963348f4e7eb1dbf7d41f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 80c6d768005d64e6005e401a00000014000007d62de6a8ff10e0b29d77750513c2da9b
+    [member_id] => 2544555e26b37cdefb696dd4355d6506
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"418\/"}
+)
+
+rest
+Array
+(
+    [ID] => 96
+)
+
+2025-08-29T14:57:52+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => dd047101094047f1bf6318480b9c1ec9
+    [AUTH_ID] => d0a3b168005d64e60073ef7600000143000007b6e8dd873e140e13b193c5254065c42b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c022d968005d64e60073ef760000014300000707ac7dbfa3e76fdd116a86a2709d5902
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-08-31T17:55:53+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a629a34edacc8e0977fc40495a057375
+    [AUTH_ID] => 8470b468005d64e60073ef7600000143000007adf8235714d1a2e55911e8ff0fe655f4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 74efdb68005d64e60073ef76000001430000073235dc765382b3bad0136694972352ef
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-01T10:53:33+03:00
+Array
+(
+    [DOMAIN] => smartpoint.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 21d8f5939c2e60c78c6d0ba462d0eec6
+    [AUTH_ID] => 0d5fb568005d64e6005e401a000000140000075cced93ef3b7e1d4923d1dd0769fdcc0
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => fddddc68005d64e6005e401a00000014000007aa39be5afc99b82f22cefaac15a36443
+    [member_id] => 2544555e26b37cdefb696dd4355d6506
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"418\/"}
+)
+
+rest
+Array
+(
+    [ID] => 96
+)
+
+2025-09-01T15:40:53+03:00
+Array
+(
+    [DOMAIN] => gorizont-ru.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 6c445ee3f8fd136c08e3a9820bf5cf39
+    [AUTH_ID] => 62a2b568005d64e60059a47a00000012000007d65cdad71dd6907d4f207eed6be714b6
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5221dd68005d64e60059a47a00000012000007e41c27f1bf0a150ca4202387f3d2b763
+    [member_id] => 54f17a89344db2b08c183c4e688e9874
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"46\/"}
+)
+
+rest
+Array
+(
+    [ID] => 33
+)
+
+2025-09-01T16:27:54+03:00
+Array
+(
+    [DOMAIN] => medaim.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 398a1b625f51b9ae9294adb2156c5365
+    [AUTH_ID] => 6aadb568005d64e60000454b0000004c00000792630a89e6bbbaaf93933b304510956d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5a2cdd68005d64e60000454b0000004c0000077b378bc131b03b03aa3972fb9354156b
+    [member_id] => e64874e772e6d851eca90c3a7380f7ed
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"100\/"}
+)
+
+rest
+Array
+(
+    [ID] => 123
+)
+
+2025-09-02T12:27:54+03:00
+Array
+(
+    [DOMAIN] => calipsocoffee.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 576c1f51f8835e84bd6f075e319d70f3
+    [AUTH_ID] => a9c6b668005d64e60078051000000008000007b8f65c894e457d752a953a03a204f942
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 9945de68005d64e6007805100000000800000783f1482ac59e23af1fb9d9fc90893183
+    [member_id] => abdaa651741e6023eb1515d9ced91caf
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"56\/"}
+)
+
+rest
+Array
+(
+    [ID] => 82
+)
+
+2025-09-02T12:29:33+03:00
+Array
+(
+    [DOMAIN] => calipsocoffee.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a5d2b4ae6a0667a77e3fb128072edecf
+    [AUTH_ID] => 0cc7b668005d64e60078051000000008000007a827debb1cc02b5f59eaa88cf9f88257
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => fc45de68005d64e60078051000000008000007bb7da937a9917ed88140fce6098dcd86
+    [member_id] => abdaa651741e6023eb1515d9ced91caf
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"56\/"}
+)
+
+rest
+Array
+(
+    [ID] => 82
+)
+
+2025-09-02T12:48:09+03:00
+Array
+(
+    [DOMAIN] => calipsocoffee.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8f005f4482880a218b4f835ddaa2f2b5
+    [AUTH_ID] => 62cbb668005d64e6007805100000000800000783d30e34f03fbbc1868f1083ef02372d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 524ade68005d64e60078051000000008000007402142936acca21fc912ef3318cba2b5
+    [member_id] => abdaa651741e6023eb1515d9ced91caf
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"56\/"}
+)
+
+rest
+Array
+(
+    [ID] => 82
+)
+
+2025-09-03T14:16:38+03:00
+Array
+(
+    [DOMAIN] => b24-58z56p.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0faf807c01bd13f4ef9de2831302233d
+    [AUTH_ID] => 3831b868005d64e600744de40000000100000726895a85570e9d3e0f462ac5e1a0df53
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 28b0df68005d64e600744de400000001000007668c57fb1ea97230b88899b59d0a6887
+    [member_id] => 06ef294157e1bb99ffb265375ec7e82b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"49\/"}
+)
+
+rest
+Array
+(
+    [ID] => 129
+)
+
+2025-09-03T14:17:12+03:00
+Array
+(
+    [DOMAIN] => b24-58z56p.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e6d4bc03421ab4d92fe87143d84c50f6
+    [AUTH_ID] => 8031b868005d64e600744de400000001000007bc1aa29d58b639aa8d4216c815242ff8
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 70b0df68005d64e600744de40000000100000731f1a56c384c1e7f7b256fcbce05fa36
+    [member_id] => 06ef294157e1bb99ffb265375ec7e82b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"49\/"}
+)
+
+rest
+Array
+(
+    [ID] => 129
+)
+
+2025-09-03T14:17:23+03:00
+Array
+(
+    [DOMAIN] => b24-58z56p.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4a4efc1b37a3b5ace4fa860694027ebf
+    [AUTH_ID] => 9431b868005d64e600744de400000001000007ffcd26b76a7e87183654423212f76f10
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 84b0df68005d64e600744de400000001000007a7d95e2a38ddc76790807079327c1774
+    [member_id] => 06ef294157e1bb99ffb265375ec7e82b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"49\/"}
+)
+
+rest
+Array
+(
+    [ID] => 129
+)
+
+2025-09-03T14:17:56+03:00
+Array
+(
+    [DOMAIN] => b24-58z56p.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 909bac31a84c14f2e7edc65863164a15
+    [AUTH_ID] => e031b868005d64e600744de400000001000007ec94ffb469f6bbf7d2515e133df14df5
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d0b0df68005d64e600744de400000001000007841fd4b98fa37928956ce23b1698e6fc
+    [member_id] => 06ef294157e1bb99ffb265375ec7e82b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"49\/"}
+)
+
+rest
+Array
+(
+    [ID] => 129
+)
+
+2025-09-03T14:24:57+03:00
+Array
+(
+    [DOMAIN] => b24-58z56p.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e7e1b70318f9d307df266c4ebe393777
+    [AUTH_ID] => 9933b868005d64e600744de4000000010000073764fa0687e6fddf659fd25dbeee8075
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 89b2df68005d64e600744de4000000010000074f345ea1b275a572cb532a2d74af5043
+    [member_id] => 06ef294157e1bb99ffb265375ec7e82b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"49\/"}
+)
+
+rest
+Array
+(
+    [ID] => 129
+)
+
+2025-09-05T15:36:19+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 6e83cf1d66bd0dc7d4686bfbdc6854d2
+    [AUTH_ID] => 53e7ba68005d64e60073ef760000037300000773ca5c325daec0146845073f7e2945c2
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4366e268005d64e60073ef76000003730000071435c9341badebfbff717604539a2d0f
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-08T04:09:09+03:00
+Array
+(
+    [DOMAIN] => portal.center-dpo.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 186722fe7c222f7b754f92edeff747d1
+    [AUTH_ID] => c43abe68005d64e6003681b8000064c3403807b664e7b28a4d1c5d5506a43b8f6c4f46
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b4b9e568005d64e6003681b8000064c34038075bed152da0a046911b8ec38608f4e804
+    [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 108
+)
+
+2025-09-08T09:08:04+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ae0eafb167eaf69336a14b339ca09251
+    [AUTH_ID] => d380be68005d64e60073ef760000037300000717570355878dfcad6b3b4db51aee7a66
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c3ffe568005d64e60073ef7600000373000007de595d33f0af7e7bf749bd882fcc5cb7
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-09T03:51:26+03:00
+Array
+(
+    [DOMAIN] => portal.center-dpo.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 185f20e92fd8dfbe00bb62d0d917dae5
+    [AUTH_ID] => 1d88bf68005d64e6003681b8000064c6201c071e6da458d459c616e10c15adcb5d802e
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0d07e768005d64e6003681b8000064c6201c0745e23f2600c66c5ff6247936056952bf
+    [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 108
+)
+
+2025-09-09T14:06:43+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 358df09f29e0ee31985ae43c89b20a0a
+    [AUTH_ID] => 5218c068005d64e60073ef7600000143000007bde49dfaa062ecd2ded8f489f8b49c5d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4297e768005d64e60073ef76000001430000072c6016f36419f274a2aa5cb2a886cf07
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-09T14:13:45+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f8d3dc84f61e9a9035faf0b149bf0560
+    [AUTH_ID] => f819c068005d64e60077029e0000012e000007f6519c8e29f2fa2697485307929d954f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e898e768005d64e60077029e0000012e000007ca2729a0686efc46aed2605ea3f34881
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-09-09T14:49:56+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f30f590dfa1dd2bb4607d455af013438
+    [AUTH_ID] => 7322c068005d64e60073ef76000001430000072b9f55922a37d66ce6e5d1dc7afe1fc0
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 63a1e768005d64e60073ef7600000143000007554846a308462bd0f0d9442ce05ec573
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-09T15:31:07+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5c1e87f76528fc409e945897e9ad6c1f
+    [AUTH_ID] => 1a2cc068005d64e60073ef760000000900000744fd70773d6aad6bb791b546944abca8
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0aabe768005d64e60073ef76000000090000070b43097098049b162530f3c7c8c5c101
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-09T15:53:23+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 50faab3d22e1e3f9760dc9e554a8176d
+    [AUTH_ID] => 5331c068005d64e60064ce1c0000071a000007eb38be23aa584eeb41c7db3a849e4394
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 43b0e768005d64e60064ce1c0000071a000007760abc39ec5627bd1faaedb57aee9f51
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-09T22:05:50+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4ddd6f3a8bf16168a95f5947f5f0fc1e
+    [AUTH_ID] => 5f85c068005d64e60064ce1c0000071a000007aa95dd0962d9672bc7405efaac9c25dc
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4f04e868005d64e60064ce1c0000071a000007ef5dc68895e9147e744d517035b2bb5f
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-10T07:05:38+03:00
+Array
+(
+    [DOMAIN] => olimp64.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 407b424ac0d89d3ae94b726c1318d044
+    [AUTH_ID] => 2107c168005d64e60068302200000099100e07da8c93ce4639a03a779a99c1be1af5f4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1186e868005d64e60068302200000099100e07814c98885c3e7a7b53817eac54ff79d7
+    [member_id] => 6d31166e480d1c0262a9d27bcebdd875
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"109\/"}
+)
+
+rest
+Array
+(
+    [ID] => 126
+)
+
+2025-09-10T07:07:50+03:00
+Array
+(
+    [DOMAIN] => olimp64.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 283b7e1d6496005454c0d3edcc107be5
+    [AUTH_ID] => a607c168005d64e60068302200000099100e07582fbcc3346058c57318306dac7b2746
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 9686e868005d64e60068302200000099100e07d9c864ed5932f5431fc9cfe01e10a4b3
+    [member_id] => 6d31166e480d1c0262a9d27bcebdd875
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"109\/"}
+)
+
+rest
+Array
+(
+    [ID] => 126
+)
+
+2025-09-10T11:01:51+03:00
+Array
+(
+    [DOMAIN] => premiumsegment.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 1029555b1cb527c20c8ae8fc1d8a46e7
+    [AUTH_ID] => 6f3ec168005d64e6003fce9c000026360000077cea1192c768972565f67485c85024b8
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5fbde868005d64e6003fce9c00002636000007222a8cdb2be27854d61f656d2ae838c6
+    [member_id] => b9e281763094e624346a2a0cbb4b42e9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"125\/"}
+)
+
+rest
+Array
+(
+    [ID] => 93
+)
+
+2025-09-10T11:02:03+03:00
+Array
+(
+    [DOMAIN] => premiumsegment.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8fbd74ec2e670227d4fa00806c585aa3
+    [AUTH_ID] => 873ec168005d64e6003fce9c00002636000007c7e91696045bbffe8605ef5829ba3413
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 77bde868005d64e6003fce9c000026360000078722b45605ac59eaf8b3200c36c19d3f
+    [member_id] => b9e281763094e624346a2a0cbb4b42e9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"125\/"}
+)
+
+rest
+Array
+(
+    [ID] => 93
+)
+
+2025-09-10T11:21:25+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 71963768a6e08cf019eebce144e81920
+    [AUTH_ID] => bb42c168005d64e60064ce1c0000071a000007e8f1ccc3c78b444f909c55bf07639866
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => abc1e868005d64e60064ce1c0000071a000007f359a9d2e69c80ee0aac7f08a4a241b3
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-10T11:22:53+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 411b9b06016b66b9b9ad7b29290c8170
+    [AUTH_ID] => fd42c168005d64e60064ce1c0000071a00000756dbaf03743267deb5947e910cce8cfa
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => edc1e868005d64e60064ce1c0000071a000007f2f6625a59d6b5553ced3dbd10f79fd6
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-10T11:24:04+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => dd1c00d003fc36bac28691a99b81bf7e
+    [AUTH_ID] => 2643c168005d64e60064ce1c0000071a000007356388c099d6d71202a9a0b0fcca63ec
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 16c2e868005d64e60064ce1c0000071a0000074fc878a6f3c220d2061ec0623d8b0f9c
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-10T11:25:01+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a421e93ce5f1c1655c39b9c1ccb405ae
+    [AUTH_ID] => 5043c168005d64e60064ce1c0000071a000007a90b2d087fdd7f2f0637c6ca392d7831
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 40c2e868005d64e60064ce1c0000071a00000744ec967c43391f90115047a1eab67636
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-10T11:26:57+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => c38ed5a663314c3d454cca7bf93ff67f
+    [AUTH_ID] => b743c168005d64e60064ce1c0000071a00000712082d0f76491ac74ddba22b0046dfc0
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a7c2e868005d64e60064ce1c0000071a000007c3d78d39721977c4309b167ae65e87e4
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-10T12:33:49+03:00
+Array
+(
+    [DOMAIN] => holcor.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 91b2b65efebb87f626894a1c34b1973d
+    [AUTH_ID] => 0d54c168005d64e6006e86ca0000001d000007a3df09ce04bc65526bd792a93d805597
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => fdd2e868005d64e6006e86ca0000001d000007df735bf8899cf69f75fba492227874da
+    [member_id] => 9b4017aeccac09ce8b2464094004c3d1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"69\/"}
+)
+
+rest
+Array
+(
+    [ID] => 130
+)
+
+2025-09-10T12:34:08+03:00
+Array
+(
+    [DOMAIN] => holcor.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 91b2b65efebb87f626894a1c34b1973d
+)
+
+2025-09-10T14:55:19+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ed74311e71e54f3007607cca93e149e0
+    [AUTH_ID] => 3775c168005d64e60064ce1c0000071a0000073c7bc2720b0c2c4f0d0ca00719f10ee6
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 27f4e868005d64e60064ce1c0000071a00000727dd026b7c8379f504d05d11452963ab
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-10T18:33:49+03:00
+Array
+(
+    [DOMAIN] => engineer-history.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8e0777d1cd16fdf32823ca726198a860
+    [AUTH_ID] => 6da8c168005d64e600678c06000004c9000007d1e4979055beebbaaf1997fd22caeb00
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5d27e968005d64e600678c06000004c900000752b8c84d6da54b0f5b52f0b186192ff0
+    [member_id] => 3008292eae22756fe5570ae47a907b38
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"101\/"}
+)
+
+rest
+Array
+(
+    [ID] => 73
+)
+
+2025-09-11T08:13:53+03:00
+Array
+(
+    [DOMAIN] => olimp64.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 24668ea624342fdadb94a2bc57331c68
+    [AUTH_ID] => a168c268005d64e60068302200000099100e0707e8c9b05fd30ca839ec996a0bbcd195
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 91e7e968005d64e60068302200000099100e07d49eb9aecbfed6c8cd6113610a79d0a6
+    [member_id] => 6d31166e480d1c0262a9d27bcebdd875
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"109\/"}
+)
+
+rest
+Array
+(
+    [ID] => 126
+)
+
+2025-09-11T11:32:06+03:00
+Array
+(
+    [DOMAIN] => dolgspisanrf.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => bc270a4e304d10a610ed0815be8b2975
+    [AUTH_ID] => 1697c268005d64e6007731f200000001000007687eb92b090a62a564cdeec4534dceae
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0616ea68005d64e6007731f2000000010000078a8c0e724bf7501a95bb12979a1f5741
+    [member_id] => 12868026f429720c8143252a78069cfe
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"131\/"}
+)
+
+rest
+Array
+(
+    [ID] => 131
+)
+
+2025-09-11T11:53:01+03:00
+Array
+(
+    [DOMAIN] => primeconsulting.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 32d2aa49f28d049dfb749c2a8ba87d6f
+    [AUTH_ID] => fd9bc268005d64e6000fb14300000043000007bd72b61f9e4be3e138359bc87a6f7904
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ed1aea68005d64e6000fb1430000004300000703d374732950c08af4a42b254492c149
+    [member_id] => 1a2fe4d7938981c959980ee33e1d4971
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"23\/"}
+)
+
+rest
+Array
+(
+    [ID] => 132
+)
+
+2025-09-11T15:27:31+03:00
+Array
+(
+    [DOMAIN] => p-i.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 315a1d7a30adea1c592bfc127d56639b
+    [AUTH_ID] => 43cec268005d64e60070850e0000004c0000072ad7aebc22486d48115d4f2cb09586ad
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 334dea68005d64e60070850e0000004c000007f2b492d8e47597c7023291ebd6f00690
+    [member_id] => 74482b6e2b3c18d41fe956c3067c90fe
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"90\/"}
+)
+
+rest
+Array
+(
+    [ID] => 133
+)
+
+2025-09-11T15:31:23+03:00
+Array
+(
+    [DOMAIN] => p-i.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0591b6cf7a163d03dfe6891954b626dc
+    [AUTH_ID] => 2acfc268005d64e60070850e0000004c0000079047c1fe6f8c29b792c604746247e1b1
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1a4eea68005d64e60070850e0000004c0000072a44cad107077de6b71d1c0db021db1c
+    [member_id] => 74482b6e2b3c18d41fe956c3067c90fe
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"90\/"}
+)
+
+rest
+Array
+(
+    [ID] => 133
+)
+
+2025-09-11T15:37:08+03:00
+Array
+(
+    [DOMAIN] => p-i.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 592e10a96aaab15ce89b204072a671ff
+    [AUTH_ID] => 82d0c268005d64e60070850e0000004c0000078d6aca8081126a2483966556b7c73014
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 724fea68005d64e60070850e0000004c00000755f002f8b2c0d5ac6ebb249739d2baca
+    [member_id] => 74482b6e2b3c18d41fe956c3067c90fe
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"90\/"}
+)
+
+rest
+Array
+(
+    [ID] => 133
+)
+
+2025-09-11T22:00:16+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4b4a408cedd505f6d3f4518cca415548
+    [AUTH_ID] => 502ac368005d64e60064ce1c0000071a000007e3124fb7629cfe4bdde18b18ac349f92
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 40a9ea68005d64e60064ce1c0000071a00000761b246ba85d1ee93b08176483110463e
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-12T07:33:01+03:00
+Array
+(
+    [DOMAIN] => b24-bws0rk.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 2ad9980f7a9c67ea29969d177f3984de
+    [AUTH_ID] => b9adc368005d64e6007ba82e00000001403807046f3c41611ce6c9b2fa5d5671443e46
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a92ceb68005d64e6007ba82e0000000140380742861a2c53d76308e0271a0a55ddcf3f
+    [member_id] => 17e09369eb027f625ab40f550352c32f
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"19\/"}
+)
+
+rest
+Array
+(
+    [ID] => 134
+)
+
+2025-09-12T07:34:20+03:00
+Array
+(
+    [DOMAIN] => b24-bws0rk.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8914d732689c3aae2905282f3ffa3102
+    [AUTH_ID] => 08aec368005d64e6007ba82e000000014038077dd41bd15f66df7f591ba01d0c766d4a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => f82ceb68005d64e6007ba82e00000001403807c9c0cfdae235c0053f19d9661debbd7b
+    [member_id] => 17e09369eb027f625ab40f550352c32f
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"19\/"}
+)
+
+rest
+Array
+(
+    [ID] => 134
+)
+
+2025-09-12T10:47:34+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 35fc324474bf1a37f6bb53e8ee3b6525
+    [AUTH_ID] => d8ddc368005d64e60073ef760000000900000793908f13a6b02f7ce0856f3ff22fff41
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c85ceb68005d64e60073ef7600000009000007e121f717ee01a8994d673ebd2107a544
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-12T10:55:48+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 045b0b6984910e0e49bb9ad36961a15a
+    [AUTH_ID] => 0be0c368005d64e60073ef760000000b000007f8f8534633f93ea6d1e0575a788e3aef
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => fb5eeb68005d64e60073ef760000000b000007b56c689d124be1472f0abdefa2b26557
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-12T10:57:07+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 86f8f01488794608a75fc892c7f7e475
+    [AUTH_ID] => 62e0c368005d64e60073ef76000000090000075c34575e5e1081810d59afb8a9467c41
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 525feb68005d64e60073ef76000000090000070e52423be6db02eb261439e04c55da9f
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-12T11:19:12+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => df0d2685a261fc472097746e1aceb28d
+    [AUTH_ID] => 8ee5c368005d64e60073ef760000000b0000074a4a9dccc0492d41893304b5bc92d068
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 7e64eb68005d64e60073ef760000000b000007246c7b17f03d1d6ade6c5b369a088a3d
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-12T12:02:21+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4f13cd085affec1242e22961aae4bf67
+    [AUTH_ID] => 83efc368005d64e60064ce1c0000071a000007f76f96f196f14bf789511aea806faa59
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 736eeb68005d64e60064ce1c0000071a000007abc037e721300601cc7fc4070c8105ec
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-12T12:03:33+03:00
+Array
+(
+    [DOMAIN] => pbk-j.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0d517d313839000978e7d47181c69501
+    [AUTH_ID] => ecefc368005d64e6006e387a00000053000007bbfda95db5a50b4373c4e31fdd966418
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => dc6eeb68005d64e6006e387a00000053000007a17d6763935d5300550c3e8bb35e2b54
+    [member_id] => 969bf2a2a5c009f5c075b565e2c014a1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"123\/"}
+)
+
+rest
+Array
+(
+    [ID] => 101
+)
+
+2025-09-12T12:03:53+03:00
+Array
+(
+    [DOMAIN] => pbk-j.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f1ad5e9b97976f306c965a1b78a9c03f
+    [AUTH_ID] => 07f0c368005d64e6006e387a000000530000074042fadc12799b2de873693290b393ed
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => f76eeb68005d64e6006e387a00000053000007de27076e13f2c74eb9fc3ede19c5a754
+    [member_id] => 969bf2a2a5c009f5c075b565e2c014a1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"123\/"}
+)
+
+rest
+Array
+(
+    [ID] => 101
+)
+
+2025-09-12T12:49:54+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => cb51ab8f640fd409e2ce42932d20befe
+    [AUTH_ID] => d2fac368005d64e60077029e00000192000007e8ffe5f740b417b34e90fd0668f22dad
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c279eb68005d64e60077029e000001920000073f6e23123a648fd0c6afcde045028b80
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-09-12T14:16:31+03:00
+Array
+(
+    [DOMAIN] => pbk-j.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 10d5e16bf960146383fffae6c9b2871c
+    [AUTH_ID] => e10ec468005d64e6006e387a00000053000007f370c203f9662c94c119223884508e21
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d18deb68005d64e6006e387a00000053000007cf0b50871fbf37f5bf20c6d12b975671
+    [member_id] => 969bf2a2a5c009f5c075b565e2c014a1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"123\/"}
+)
+
+rest
+Array
+(
+    [ID] => 101
+)
+
+2025-09-12T14:16:40+03:00
+Array
+(
+    [DOMAIN] => pbk-j.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 93134cddaec583404fd99442a6b326a6
+    [AUTH_ID] => ff0ec468005d64e6006e387a0000005300000783b458afd0320f4bbd80c1d8782a874f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ef8deb68005d64e6006e387a0000005300000714dca4637603b52f60eda571947d5530
+    [member_id] => 969bf2a2a5c009f5c075b565e2c014a1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"123\/"}
+)
+
+rest
+Array
+(
+    [ID] => 101
+)
+
+2025-09-12T14:16:53+03:00
+Array
+(
+    [DOMAIN] => pbk-j.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 98aef13073f64627da8d898382d06c7b
+    [AUTH_ID] => 290fc468005d64e6006e387a000000530000075fd7d0ad75feb634bf5dadc055cf0c3d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 198eeb68005d64e6006e387a0000005300000788cd0b155dca1c4ab04d56c815c21659
+    [member_id] => 969bf2a2a5c009f5c075b565e2c014a1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"123\/"}
+)
+
+rest
+Array
+(
+    [ID] => 101
+)
+
+2025-09-15T15:43:28+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 6488a360363f502e5fb2b10144d1349c
+    [AUTH_ID] => 0018c868005d64e60073ef76000000090000076849c75fdb1eb264a459044be275d2e2
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => f096ef68005d64e60073ef76000000090000073bc4062c4cb285aee144ab60ca1e25e1
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","install_finished":"Y","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-16T10:32:29+03:00
+Array
+(
+    [DOMAIN] => calipsocoffee.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 1f716f709b23628f194bb760cbb6239f
+    [AUTH_ID] => 9d20c968005d64e6007805100000000100000788446da0dd58c656c76134aa77845510
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 8d9ff068005d64e60078051000000001000007af472d2dd273e6f2db486087cf4771b2
+    [member_id] => abdaa651741e6023eb1515d9ced91caf
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"56\/"}
+)
+
+rest
+Array
+(
+    [ID] => 82
+)
+
+2025-09-16T10:39:04+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 89747199c5019ff6ea22c64ddda5f76d
+    [AUTH_ID] => 2622c968005d64e60064ce1c0000071a000007ad2ad64d61eb17fd50e73bd828ec74f8
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 16a1f068005d64e60064ce1c0000071a000007f05ed8eca929fe37e600427fe8f1a779
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-16T14:06:59+03:00
+Array
+(
+    [DOMAIN] => calipsocoffee.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => baecd2fd449129d2b4a8c2b6b97e6f5c
+    [AUTH_ID] => de52c968005d64e600780510000000010000079fc6a6cc6a0411410dad9bfe2f9f564b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ced1f068005d64e60078051000000001000007b8908def33fe259f32a7aa8845928f6c
+    [member_id] => abdaa651741e6023eb1515d9ced91caf
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"56\/"}
+)
+
+rest
+Array
+(
+    [ID] => 82
+)
+
+2025-09-16T14:08:23+03:00
+Array
+(
+    [DOMAIN] => calipsocoffee.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5407e121cf1a9bbe378a7e50877ce304
+    [AUTH_ID] => 3653c968005d64e60078051000000001000007798b12838e924d83c8e7a41adb72473a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 26d2f068005d64e600780510000000010000070cd16a3e5c3a22df461b04bfa0b66423
+    [member_id] => abdaa651741e6023eb1515d9ced91caf
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"56\/"}
+)
+
+rest
+Array
+(
+    [ID] => 82
+)
+
+2025-09-16T16:44:58+03:00
+Array
+(
+    [DOMAIN] => mrt.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 703ad32e457aef54c508495f6415dfd1
+    [AUTH_ID] => e977c968005d64e60008a7ea00005bf4000007d4cd388140eb1e92d035310dfba1a2fd
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d9f6f068005d64e60008a7ea00005bf40000076c047f371368dba432809b327cdf57dd
+    [member_id] => 0f7e8481e265e23919f8400b7c113a90
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"277\/"}
+)
+
+rest
+Array
+(
+    [ID] => 94
+)
+
+2025-09-16T16:45:20+03:00
+Array
+(
+    [DOMAIN] => mrt.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f5ed732991fde0da80efcd07e1f407e1
+    [AUTH_ID] => f977c968005d64e60008a7ea00005bf400000736e457ffdfe622e0fedd4b58b04dfdff
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e9f6f068005d64e60008a7ea00005bf400000754e89d66a48b6b716daab0d8f72802d1
+    [member_id] => 0f7e8481e265e23919f8400b7c113a90
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"277\/"}
+)
+
+rest
+Array
+(
+    [ID] => 94
+)
+
+2025-09-16T19:59:06+03:00
+Array
+(
+    [DOMAIN] => b24-iblul9.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 253c86fcc782fd5b69306713415117d3
+    [AUTH_ID] => 69a5c968005d64e6007908980000000a00000710f0f66951e66903a7631b9fc413190f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5924f168005d64e6007908980000000a00000713e597e49c1fb287c04c0ddd678e4ce5
+    [member_id] => 48066681a7d69f668cdd5e6a48b854c6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"62\/"}
+)
+
+rest
+
+2025-09-16T20:00:45+03:00
+Array
+(
+    [DOMAIN] => b24-iblul9.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d7b4946397fadc7c01790e1c8be6b114
+    [AUTH_ID] => c7a5c968005d64e6007908980000000a0000073f1c5dccd1f809d82c26d93160a56e25
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b724f168005d64e6007908980000000a000007bc803c4e57e15b15466097bce13076af
+    [member_id] => 48066681a7d69f668cdd5e6a48b854c6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"62\/"}
+)
+
+rest
+
+2025-09-16T22:07:14+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f99575d0bc6e0eb761580ccfac3d0467
+    [AUTH_ID] => 72c3c968005d64e60064ce1c0000071a0000076457e8c699b8d49e118a99fe27e73b39
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6242f168005d64e60064ce1c0000071a000007a0e9c73bf8159a12066ef209879172b9
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-09-17T08:34:12+03:00
+Array
+(
+    [DOMAIN] => aliance-a.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 7699f952d018969b5a1ea4747b1d3fd6
+    [AUTH_ID] => 6456ca68005d64e60066146200000006201c071bd8954cfe3ac483092ccde143061b10
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 54d5f168005d64e60066146200000006201c07486eb95fd3296442ae77aa7a2043d659
+    [member_id] => 02a9ef71212390aee2e91ab99ad1eec1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"140\/"}
+)
+
+rest
+Array
+(
+    [ID] => 135
+)
+
+2025-09-17T08:34:32+03:00
+Array
+(
+    [DOMAIN] => aliance-a.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 905cd3e4045668bba316248dec53daac
+    [AUTH_ID] => 7756ca68005d64e60066146200000006201c07ac675e15e0c759b246f2a005a90a52bc
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 67d5f168005d64e60066146200000006201c07eadf59c4ae5c0f69e40d9144c257d42a
+    [member_id] => 02a9ef71212390aee2e91ab99ad1eec1
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"140\/"}
+)
+
+rest
+Array
+(
+    [ID] => 135
+)
+
+2025-09-19T08:41:34+03:00
+Array
+(
+    [DOMAIN] => kach36.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4da9269183d16b1636418258750ad4bc
+    [AUTH_ID] => 1dfbcc68005d64e6006fe660000000160000073e129ce8dd9934529c804f7d5365caa2
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0d7af468005d64e6006fe66000000016000007ca1e5b9a2077a8e0bc9a782ed6b867e0
+    [member_id] => 6057617aa3772f128d53013087b81b91
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"46\/"}
+)
+
+rest
+Array
+(
+    [ID] => 112
+)
+
+2025-09-19T09:28:12+03:00
+Array
+(
+    [DOMAIN] => premiumsegment.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 669f3bb5fb9539040386115af2381a2d
+    [AUTH_ID] => 0806cd68005d64e6003fce9c000026360000077926ece27492dbda22a8ad68885fb2e0
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => f884f468005d64e6003fce9c000026360000076a6dbf7c968acf7a8dd9498c8ab7e978
+    [member_id] => b9e281763094e624346a2a0cbb4b42e9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"125\/"}
+)
+
+rest
+Array
+(
+    [ID] => 93
+)
+
+2025-09-19T09:28:53+03:00
+Array
+(
+    [DOMAIN] => premiumsegment.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 90f5f5e8ebb43505e7a7b5655531c583
+    [AUTH_ID] => 2a06cd68005d64e6003fce9c000026360000076524a4ab80ef3eaac9f75a93acf583cb
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1a85f468005d64e6003fce9c00002636000007a80b23dd432cbe1e0cc5bec1b3d2c026
+    [member_id] => b9e281763094e624346a2a0cbb4b42e9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"125\/"}
+)
+
+rest
+Array
+(
+    [ID] => 93
+)
+
+2025-09-19T09:57:06+03:00
+Array
+(
+    [DOMAIN] => steelcam.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 3362d5569d043f1d9a88512eb6a075a8
+    [AUTH_ID] => ae0ccd68005d64e6002e09a800000024201c07921f496f1b763d073acbc5ee83c263e7
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 9e8bf468005d64e6002e09a800000024201c0791b635d3c287eefef0758d9e7b1ed050
+    [member_id] => 6b6ab9fd6860a95d549704efd1796594
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"24\/"}
+)
+
+rest
+Array
+(
+    [ID] => 25
+)
+
+2025-09-19T10:05:24+03:00
+Array
+(
+    [DOMAIN] => steelcam.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ff307d906dea78a5625c8ec6568d2267
+    [AUTH_ID] => c00ecd68005d64e6002e09a800000024201c07c7cb47b126a9104a111a332b62884646
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b08df468005d64e6002e09a800000024201c07113d0127ccc9f6a1018d877d7c13fa16
+    [member_id] => 6b6ab9fd6860a95d549704efd1796594
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"24\/"}
+)
+
+rest
+Array
+(
+    [ID] => 25
+)
+
+2025-09-21T11:58:59+03:00
+Array
+(
+    [DOMAIN] => lukaniukteam.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 6053f2a31a1e3066ad3fbe479904a912
+    [AUTH_ID] => 63cccf68005d64e6007a7a8600000001000007eb45a8f47a5b34abfe278b61d4c4e727
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 534bf768005d64e6007a7a8600000001000007175bb9516f7c4403b012c6443135d81e
+    [member_id] => a63ee35e94963881676db56c3a9b0f6f
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"19\/"}
+)
+
+rest
+
+2025-09-21T12:00:17+03:00
+Array
+(
+    [DOMAIN] => lukaniukteam.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 191cc756f9bd49aee487f3c0c3bf9358
+    [AUTH_ID] => b1cccf68005d64e6007a7a86000000010000072ae98a691a138765ebb9cbaa7c93a7c4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a14bf768005d64e6007a7a86000000010000072940e5ae6556400f010c440af2fa8233
+    [member_id] => a63ee35e94963881676db56c3a9b0f6f
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"19\/"}
+)
+
+rest
+
+2025-09-21T13:40:23+03:00
+Array
+(
+    [DOMAIN] => lukaniukteam.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 20c317f640955ecc8237937d67052764
+    [AUTH_ID] => 27e4cf68005d64e6007a7a86000000010000078bce6040fc32dd54fb336914acfc0dd9
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1763f768005d64e6007a7a8600000001000007350cdcd0efec47dbc97b98894df6b097
+    [member_id] => a63ee35e94963881676db56c3a9b0f6f
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"19\/"}
+)
+
+rest
+
+2025-09-21T14:46:45+03:00
+Array
+(
+    [DOMAIN] => lukaniukteam.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => fd13ffd01f556ae4c919fe8c4def9e30
+    [AUTH_ID] => b4f3cf68005d64e6007a7a86000000010000070ebed8e9769e09ec64d81573ec2f2499
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a472f768005d64e6007a7a86000000010000074a585bb60b6b8822619890ed8c9b2b2a
+    [member_id] => a63ee35e94963881676db56c3a9b0f6f
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"19\/"}
+)
+
+rest
+
+2025-09-22T12:50:57+03:00
+Array
+(
+    [DOMAIN] => montaj-climat.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => cd860bd036e397e1253319b876ec6fba
+    [AUTH_ID] => 112ad168005d64e6007af9c60000000b00000765863491b153df2751aa80f1d2ed7382
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 01a9f868005d64e6007af9c60000000b000007b5062ea258c6e78c8c349622672ea3d6
+    [member_id] => b292e2be4dd6c205cc6be7aeed181bf2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","install_finished":"Y","any":"33\/"}
+)
+
+rest
+Array
+(
+    [ID] => 136
+)
+
+2025-09-22T12:51:11+03:00
+Array
+(
+    [DOMAIN] => montaj-climat.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 625434eecdfabfe2d4b27ff25c7e5dcf
+    [AUTH_ID] => 1f2ad168005d64e6007af9c60000000b00000778000964003010a8b6e24ff670fb864e
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0fa9f868005d64e6007af9c60000000b000007e41aaecd3d10020a158a8ab214180589
+    [member_id] => b292e2be4dd6c205cc6be7aeed181bf2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"33\/"}
+)
+
+rest
+Array
+(
+    [ID] => 136
+)
+
+2025-09-22T16:22:27+03:00
+Array
+(
+    [DOMAIN] => nefox.bitrix24.by
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 55757c9ffdabf6e2861eab9ec67dccaf
+    [AUTH_ID] => a35bd168005d64e60000c2a90000002d000007fe5dfce502b7e8abdfb60a1b23f34e95
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 93daf868005d64e60000c2a90000002d000007084dfe2b4e19726f969783fb56d14379
+    [member_id] => 2d449dfab115fa12cce249110babb2ba
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"199\/"}
+)
+
+rest
+Array
+(
+    [ID] => 137
+)
+
+2025-09-22T16:23:04+03:00
+Array
+(
+    [DOMAIN] => nefox.bitrix24.by
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d82944415fcad04dfdfde94d999bf128
+    [AUTH_ID] => c85bd168005d64e60000c2a90000002d000007a6a1ee3b711d029544abb0cc1d89b934
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b8daf868005d64e60000c2a90000002d0000076169aa98ccd9f6e1c503fb517cbc8bf5
+    [member_id] => 2d449dfab115fa12cce249110babb2ba
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"199\/"}
+)
+
+rest
+Array
+(
+    [ID] => 137
+)
+
+2025-09-23T08:25:51+03:00
+Array
+(
+    [DOMAIN] => b24-w08861.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4a46e85709c39bec4ea4298736a60063
+    [AUTH_ID] => 6f3dd268005d64e6007b3e84000000ff000007b8dd9768b128bae134c2c07585d2bff1
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 5fbcf968005d64e6007b3e84000000ff000007d7c78c1c0a549990d512d1f30e908de5
+    [member_id] => 72ce3bb42209d2a0857ca0b6b59525ad
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"19\/"}
+)
+
+rest
+Array
+(
+    [ID] => 138
+)
+
+2025-09-23T08:34:50+03:00
+Array
+(
+    [DOMAIN] => b24-w08861.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f920baad17a22616abfd29b7c806b630
+    [AUTH_ID] => 893fd268005d64e6007b3e84000000ff000007ea7fa8c3fd5987767bbae7d57defb629
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 79bef968005d64e6007b3e84000000ff00000784a48c77b76a1bf2ac56ee6941f3eef1
+    [member_id] => 72ce3bb42209d2a0857ca0b6b59525ad
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"19\/"}
+)
+
+rest
+Array
+(
+    [ID] => 138
+)
+
+2025-09-23T09:04:57+03:00
+Array
+(
+    [DOMAIN] => pkf24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 579f9054ba58c582c9c9d276a4767970
+    [AUTH_ID] => 9946d268005d64e60077029e00000257201c07d3f87e84350ab81f59e9e44fd6cfd969
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 89c5f968005d64e60077029e00000257201c07738ac1b2eed0331c3fdfed536ae369f0
+    [member_id] => 6b784156df7d4369d3e593a6482d11ca
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 60
+)
+
+2025-09-23T09:20:46+03:00
+Array
+(
+    [DOMAIN] => gkgb24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => fac6316399944740d442d34bc3298046
+    [AUTH_ID] => 4e4ad268005d64e60066cec0000000010000070cfed44fb6978f12085343239224c9f2
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 3ec9f968005d64e60066cec00000000100000797d4aa3869c48a45250aaf1f8ea3aa25
+    [member_id] => 88ddb8b706db5415edb0bf419d128c5b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 27
+)
+
+2025-09-23T17:25:23+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 3da42f62d4f1c52f45da9e77c19d6eca
+    [AUTH_ID] => e3bbd268005d64e60073ef7600000373000007cfacfac5c02ef189b30f7e912b61d1f8
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d33afa68005d64e60073ef7600000373000007edb1a2c4e1b7942601a1a5e26e1be22f
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-23T17:46:30+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e39b93108a0fdc4f6a5cb1a8f9e061f5
+    [AUTH_ID] => d5c0d268005d64e60073ef7600000373000007876fc991c5a0f6c3f610cbb65cfcf677
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c53ffa68005d64e60073ef760000037300000734c86af5a5aa07989f2b65261ee6f8ef
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-24T09:11:24+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 061b48538295cae6bdd0a58b76f44a47
+    [AUTH_ID] => 9c99d368005d64e60073ef7600000009000007e9579da09ed6f75d9ba6153e5284d1ec
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 8c18fb68005d64e60073ef7600000009000007cb19d504119ba0814230fac6aab774ab
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-24T09:13:59+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 22fcef7eafd7930cac23453a76450a78
+    [AUTH_ID] => 2c9ad368005d64e60073ef7600000373000007c752db2472ef0a147b24016e47ba9c79
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1c19fb68005d64e60073ef7600000373000007b665063f18e6a00fe29fbf846d46f29f
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-24T10:22:35+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 66b66f4acac4cbd5df30c1ef1db2a744
+    [AUTH_ID] => 4aaad368005d64e60073ef76000000090000070dda678455052f6a95d7abe964067908
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 3a29fb68005d64e60073ef76000000090000078da36f3de5445911756548bce9427aec
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-24T16:27:58+03:00
+Array
+(
+    [DOMAIN] => realeast.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 944b11bae90c5b61bcebe10c1a6de85c
+    [AUTH_ID] => edffd368005d64e60053b016000020f30000074e7f753e0c512a2edd1684866e79b51b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => dd7efb68005d64e60053b016000020f3000007d2b89299f369e166cdb36484100167ef
+    [member_id] => a066527a2ef17c5af017fc466b0f783c
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"123\/"}
+)
+
+rest
+Array
+(
+    [ID] => 71
+)
+
+2025-09-24T23:31:07+03:00
+Array
+(
+    [DOMAIN] => b24.gskmetizi.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8d0eddab91e1e0a9b12d24939b98fec9
+    [AUTH_ID] => 1a63d468005d64e60009781900000009000007c3cd83d06db47912c7fdb7b8ebec55c1
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0ae2fb68005d64e60009781900000009000007fa6c503be628c4725e5a2932bc5bee08
+    [member_id] => 99afd961a603ec7c4688737fbf1129b0
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+
+2025-09-25T09:30:16+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f02079030d43f7b1308fa664541cd227
+    [AUTH_ID] => 87efd468005d64e60073ef76000003730000073a6172fdcad2c9c201b3f15a55642085
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 776efc68005d64e60073ef760000037300000718974ba956195054cadc92d8cbd3ffbb
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-09-25T09:33:05+03:00
+Array
+(
+    [DOMAIN] => pulver.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 429d62dbab677b00363eafbad4a065e7
+    [AUTH_ID] => 30f0d468005d64e600180767000000594038073d337ba50786cde6115d9def4bcfbe24
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 206ffc68005d64e60018076700000059403807fb73ee1771eb89deed30b137c571e4c2
+    [member_id] => 5744a356c88d426f042dda1770fcc93c
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"191\/"}
+)
+
+rest
+
+2025-09-25T10:09:48+03:00
+Array
+(
+    [DOMAIN] => mrt.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 41f22f81c997a68b7be0e49e333a72e7
+    [AUTH_ID] => caf8d468005d64e60008a7ea00005bf4000007189e991ba337c62af0558dcd39e1d580
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ba77fc68005d64e60008a7ea00005bf40000073d5af1f2a0b7e517ae8e5036d360f95c
+    [member_id] => 0f7e8481e265e23919f8400b7c113a90
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"277\/"}
+)
+
+rest
+Array
+(
+    [ID] => 94
+)
+
+2025-09-26T16:28:38+03:00
+Array
+(
+    [DOMAIN] => tkgifts.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a17a608598c4144f07aa349237b2abab
+    [AUTH_ID] => 16a3d668005d64e60044aa680000000800000739e600b0982431c04135b1554fec6ce6
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0622fe68005d64e60044aa6800000008000007618822610a1c5f1b8c195762ddc5bf4c
+    [member_id] => c8532a1ca15cd6d05d9bfa34059f6168
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"68\/"}
+)
+
+rest
+Array
+(
+    [ID] => 139
+)
+
+2025-09-27T15:32:50+03:00
+Array
+(
+    [DOMAIN] => engineer-history.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 459de0d7760c00d5b03aaed28e4105d4
+    [AUTH_ID] => 82e7d768005d64e600678c06000000690000073b0c64638e6d106241b0843e442814cc
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 7266ff68005d64e600678c06000000690000071b97ea6d782429cf43929c1d3f1170ba
+    [member_id] => 3008292eae22756fe5570ae47a907b38
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"101\/"}
+)
+
+rest
+Array
+(
+    [ID] => 73
+)
+
+2025-09-29T15:37:20+03:00
+Array
+(
+    [DOMAIN] => kach36.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => b832ad8cd0bb82427132f42c7d7c7b2b
+    [AUTH_ID] => 908bda68005d64e6006fe660000000220000070d8af872413fc0ae31b5348415536c25
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 800a0269005d64e6006fe660000000220000072ce014fabfb369b8c0d16a0855b2de0e
+    [member_id] => 6057617aa3772f128d53013087b81b91
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"46\/"}
+)
+
+rest
+Array
+(
+    [ID] => 112
+)
+
+2025-09-30T17:10:49+03:00
+Array
+(
+    [DOMAIN] => steelcam.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 54cda4d40b41fb7383070ca1a1abc0b8
+    [AUTH_ID] => f8f2db68005d64e6002e09a800000024201c073b6423a273c20988a5846819b14131d4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e8710369005d64e6002e09a800000024201c070ed99cf64efb7ec1131eab7741d5dffe
+    [member_id] => 6b6ab9fd6860a95d549704efd1796594
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"24\/"}
+)
+
+rest
+Array
+(
+    [ID] => 25
+)
+
+2025-10-01T08:46:40+03:00
+Array
+(
+    [DOMAIN] => montaj-climat.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 32e0dbc74e0094d8120c8c48123e6fe3
+    [AUTH_ID] => 48cedc68005d64e6007af9c60000000100000784dd35441bd5a2df61cb6dbd0bf9ecdc
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 384d0469005d64e6007af9c6000000010000078bad4d331dd3253bfbc17b2151658faa
+    [member_id] => b292e2be4dd6c205cc6be7aeed181bf2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"33\/"}
+)
+
+rest
+Array
+(
+    [ID] => 136
+)
+
+2025-10-01T10:50:37+03:00
+Array
+(
+    [DOMAIN] => dolgspisanrf.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e24f0264420c3d2fd0ee240fa1b4bfe9
+    [AUTH_ID] => 5cebdc68005d64e6007731f200000001000007babaee393bab7475bfbcdc850a8dc020
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4c6a0469005d64e6007731f200000001000007a8ecbfbe17e2e3fccbc665360a0b57a1
+    [member_id] => 12868026f429720c8143252a78069cfe
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"131\/"}
+)
+
+rest
+Array
+(
+    [ID] => 131
+)
+
+2025-10-01T10:56:53+03:00
+Array
+(
+    [DOMAIN] => dolgspisanrf.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => dc36d8c68ca84327dc72640e1c21866d
+    [AUTH_ID] => d5ecdc68005d64e6007731f2000000010000072b29ff6172238a5fbd47b3b526f6ad52
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c56b0469005d64e6007731f200000001000007c1ab8d1c6e83bc6f4c787cd461e184a4
+    [member_id] => 12868026f429720c8143252a78069cfe
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"131\/"}
+)
+
+rest
+Array
+(
+    [ID] => 131
+)
+
+2025-10-01T11:02:36+03:00
+Array
+(
+    [DOMAIN] => premiumsegment.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 1b8f781560dbda94a33814ee1427ed15
+    [AUTH_ID] => 2beedc68005d64e6003fce9c00002636000007f24493a8a3e027e4c2671611df246d4f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1b6d0469005d64e6003fce9c00002636000007f5c151777ad7ee76a7a1856029d3a9b7
+    [member_id] => b9e281763094e624346a2a0cbb4b42e9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"125\/"}
+)
+
+rest
+Array
+(
+    [ID] => 93
+)
+
+2025-10-01T13:06:00+03:00
+Array
+(
+    [DOMAIN] => tkgifts.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => b37532d94c1f8331d03bd635a6cbeae9
+    [AUTH_ID] => 180bdd68005d64e60044aa6800000008000007f2de171ce72d36d44e92566be0b1293b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 088a0469005d64e60044aa6800000008000007af475908fa013988eef9927c4d7f03e6
+    [member_id] => c8532a1ca15cd6d05d9bfa34059f6168
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"68\/"}
+)
+
+rest
+Array
+(
+    [ID] => 139
+)
+
+2025-10-02T09:43:58+03:00
+Array
+(
+    [DOMAIN] => dagaz-24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0abc5c680b118b2f2893d020bff4b6a7
+    [AUTH_ID] => 3e2dde68005d64e60062951c0000000140380735a39c99c570539db8c26cbf46ffc33c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 2eac0569005d64e60062951c000000014038077a6effc77b9bb990615d771bd6195fba
+    [member_id] => 6cb23726cadc17ce218afb6abf1d3d50
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"119\/"}
+)
+
+rest
+Array
+(
+    [ID] => 68
+)
+
+2025-10-02T09:50:04+03:00
+Array
+(
+    [DOMAIN] => dagaz-24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 152f99a9402bf7dc55cc9c87b61c7822
+    [AUTH_ID] => ac2ede68005d64e60062951c0000000140380729ec4ce9937278311678e86fd7956295
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 9cad0569005d64e60062951c00000001403807c518092193d5507ff65a3f8cbdd44587
+    [member_id] => 6cb23726cadc17ce218afb6abf1d3d50
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"119\/"}
+)
+
+rest
+Array
+(
+    [ID] => 68
+)
+
+2025-10-02T11:36:19+03:00
+Array
+(
+    [DOMAIN] => mozart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 88313aacbf5536cf14819514b224b14e
+    [AUTH_ID] => 9347de68005d64e600648d16000000010000072eb2cff243bb8df29d418b5df4427f71
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 83c60569005d64e600648d16000000010000070e53b0ac2c221e05296decffee214c7a
+    [member_id] => f56b6724a3823da382bdae22b4d9b360
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"75\/"}
+)
+
+rest
+
+2025-10-02T11:40:15+03:00
+Array
+(
+    [DOMAIN] => b24.gskmetizi.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 22b5313bdea5b7564eb34c9a1b33a873
+    [AUTH_ID] => 7f48de68005d64e60009781900002be20000073f366d916c2de0dc821cf4fc8b8dd4bf
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 6fc70569005d64e60009781900002be2000007faa1039d48944aaf7ec7feb479b8c23f
+    [member_id] => 99afd961a603ec7c4688737fbf1129b0
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+
+2025-10-02T12:59:01+03:00
+Array
+(
+    [DOMAIN] => dolgspisanrf.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 18c05d9c53a1b808a3d75585ce9e259b
+    [AUTH_ID] => f55ade68005d64e6007731f200000001000007310c3f5b92800ab1712fe4ebfd878278
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => e5d90569005d64e6007731f200000001000007d05a8f90156b91d81336d26408bc1dcd
+    [member_id] => 12868026f429720c8143252a78069cfe
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"131\/"}
+)
+
+rest
+Array
+(
+    [ID] => 131
+)
+
+2025-10-03T14:00:21+03:00
+Array
+(
+    [DOMAIN] => tf.tfence.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f94b89d79678f6a3edd94b464b04e612
+    [AUTH_ID] => c3badf68005d64e60072866c00000005000007799f9d7eb9957a8af3633129c346006f
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b3390769005d64e60072866c00000005000007c88db9bad57286bd2ff4c30d02ff51fd
+    [member_id] => 0df52ca3f2622caa472897eb28e7603d
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","install_finished":"Y"}
+)
+
+rest
+Array
+(
+    [ID] => 140
+)
+
+2025-10-03T14:01:52+03:00
+Array
+(
+    [DOMAIN] => tf.tfence.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5fe372807280e018a9469f160f35469c
+    [AUTH_ID] => 2fbbdf68005d64e60072866c00000005000007c6347d6a06f975106c41cd3e61a0f4d1
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1f3a0769005d64e60072866c0000000500000720b08b7c7840cba3e7b71ea4092f31d0
+    [member_id] => 0df52ca3f2622caa472897eb28e7603d
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 140
+)
+
+2025-10-06T06:01:39+03:00
+Array
+(
+    [DOMAIN] => dagaz-24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 67389272eb0cb5902415381e5bce85b2
+    [AUTH_ID] => 223fe368005d64e60062951c00000001403807322a94fd8aa280eb7adb9158c07c0ac7
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 12be0a69005d64e60062951c0000000140380739cfc04e9f1d45eaf83ff584293768de
+    [member_id] => 6cb23726cadc17ce218afb6abf1d3d50
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"119\/"}
+)
+
+rest
+Array
+(
+    [ID] => 68
+)
+
+2025-10-06T12:36:39+03:00
+Array
+(
+    [DOMAIN] => b24.gskmetizi.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => c01d1221585aa6ed1fd363f05f807d9c
+    [AUTH_ID] => b69be368005d64e600097819000058a000000764ccecc88c3a6995598df0fc24ea0685
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a61a0b69005d64e600097819000058a000000766ec28be5e23467d0d81ee5aac00fbb7
+    [member_id] => 99afd961a603ec7c4688737fbf1129b0
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+
+2025-10-08T10:14:43+03:00
+Array
+(
+    [DOMAIN] => itown24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5e8cd90752710e354579eba5cd2c3638
+    [AUTH_ID] => 731de668005d64e6005b9f980000000100000783b43db9cdd0bcb417caad5e7b275d25
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 639c0d69005d64e6005b9f9800000001000007c024197995e099bb7877902a4dcda43e
+    [member_id] => 90152e3c600fb879e8ef8e51e61255d3
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"290\/"}
+)
+
+rest
+Array
+(
+    [ID] => 141
+)
+
+2025-10-08T11:39:27+03:00
+Array
+(
+    [DOMAIN] => plasticexpert.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 732f94f8c18da508302bb8d720cdfbc4
+    [AUTH_ID] => 4e31e668005d64e600768bee00000008000007841181135de470f8d63eef6cb89fa1f7
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 3eb00d69005d64e600768bee00000008000007acea69a851aa6cacf9abc76e7fccfd71
+    [member_id] => 9a3de8cb4ed1dc7fe13fd12ebc3af49b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"22\/"}
+)
+
+rest
+Array
+(
+    [ID] => 23
+)
+
+2025-10-09T09:16:04+03:00
+Array
+(
+    [DOMAIN] => b24-sve7kb.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => c51a2e1a0c87d7303d8b75442e564ee8
+    [AUTH_ID] => 3461e768005d64e60076f82e00000008000007bc3be163a2762af51270ff39f6e69eea
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 24e00e69005d64e60076f82e00000008000007cdf891fbe517c55ee214b8fa26339858
+    [member_id] => 675af7eae4e081cb31936b0226153de8
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","install_finished":"Y","any":"4\/"}
+)
+
+rest
+Array
+(
+    [ID] => 142
+)
+
+2025-10-09T10:51:37+03:00
+Array
+(
+    [DOMAIN] => pilotgr.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 9f4fe48c327476af0d97d2f4f53c99e6
+    [AUTH_ID] => 9877e768005d64e6000026c000000134504607fe8e21c35fba97c843e03283cfa43aa2
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 88f60e69005d64e6000026c000000134504607b5c6c1fc6d4ca67860fa6057b518af74
+    [member_id] => 0735fbbbd0a96e7cdb06f58021929866
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"158\/"}
+)
+
+rest
+Array
+(
+    [ID] => 90
+)
+
+2025-10-09T14:57:32+03:00
+Array
+(
+    [DOMAIN] => voessen.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4c2f568b0d7eb23eb1f63c57a45cf9ca
+    [AUTH_ID] => 3bb1e768005d64e600615e2a0000006b0000078cadcd23897560fc1d1ded09f7e0e500
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 2b300f69005d64e600615e2a0000006b000007974aee6f30e73f192176ed7d00a1e4d6
+    [member_id] => 412c82aaa2b382c1fe624f4d2eedeeb2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"333\/"}
+)
+
+rest
+Array
+(
+    [ID] => 19
+)
+
+2025-10-09T15:02:12+03:00
+Array
+(
+    [DOMAIN] => itown24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 06c5cfae79bbe88add6a5d54bf5f280c
+    [AUTH_ID] => 53b2e768005d64e6005b9f9800000001000007e992c6bd24a5d95aa5d3db903739aeb3
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 43310f69005d64e6005b9f9800000001000007484ddf67dc00075063e52a9e05fa6e98
+    [member_id] => 90152e3c600fb879e8ef8e51e61255d3
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"290\/"}
+)
+
+rest
+Array
+(
+    [ID] => 141
+)
+
+2025-10-09T15:36:54+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8cc978f65b837fcaac8f543d1f30d09d
+    [AUTH_ID] => 76bae768005d64e60073ef7600000009000007273e23cd8e8b8eb8433063a7e73bfef9
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 66390f69005d64e60073ef76000000090000071492bdee4b34a6e67acf9398c726a663
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-10-10T09:13:55+03:00
+Array
+(
+    [DOMAIN] => premiumsegment.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 63e85a998eddf62a029fb1ef8aaf3dc2
+    [AUTH_ID] => 2cb2e868005d64e6003fce9c00002636000007be793835f37678fe39790452c45ee014
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1c311069005d64e6003fce9c000026360000078528d891f13e5a85777da0b4fde330bb
+    [member_id] => b9e281763094e624346a2a0cbb4b42e9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"125\/"}
+)
+
+rest
+Array
+(
+    [ID] => 93
+)
+
+2025-10-10T09:16:26+03:00
+Array
+(
+    [DOMAIN] => dagaz-24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => aaeef6986441691d870b30be584ba8e6
+    [AUTH_ID] => c9b2e868005d64e60062951c0000000140380762dc9e1ba2d4ef4b3ff5becc94e2f7e5
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b9311069005d64e60062951c0000000140380792369c7eda4416beca354b10b504d069
+    [member_id] => 6cb23726cadc17ce218afb6abf1d3d50
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"119\/"}
+)
+
+rest
+Array
+(
+    [ID] => 68
+)
+
+2025-10-10T09:19:21+03:00
+Array
+(
+    [DOMAIN] => dagaz-24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 6afdc772cfc62994bf275674ccc600ed
+    [AUTH_ID] => 78b3e868005d64e60062951c00000001403807dad669d7dd7c63d4cc0726d299605287
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 68321069005d64e60062951c000000014038070f29c9ad439f34ceb02b139a337e196c
+    [member_id] => 6cb23726cadc17ce218afb6abf1d3d50
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"119\/"}
+)
+
+rest
+Array
+(
+    [ID] => 68
+)
+
+2025-10-10T09:44:49+03:00
+Array
+(
+    [DOMAIN] => premiumsegment.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 739e16637b8555317f777d1ae1d0f2a1
+    [AUTH_ID] => 70b9e868005d64e6003fce9c0000263600000764cbc398260050b9027983469d6ba2f3
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 60381069005d64e6003fce9c000026360000074705d9e6bcbcc7d1109a1c793c22de59
+    [member_id] => b9e281763094e624346a2a0cbb4b42e9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"125\/"}
+)
+
+rest
+Array
+(
+    [ID] => 93
+)
+
+2025-10-10T10:55:05+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8a8eccc71192504e2c94beeacf2a0b67
+    [AUTH_ID] => e9c9e868005d64e60073ef760000000b000007b1b581e0ff0c6e3627d5e2388d79468d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d9481069005d64e60073ef760000000b0000071f75b4f4f838b4532bb7c3aee8a454f9
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-10-10T10:56:29+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a2d64badd10f10e37992175d8e79052e
+    [AUTH_ID] => 3bcae868005d64e60073ef760000000b000007b27c15edcd8d2f725730d2ec90119cdd
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 2b491069005d64e60073ef760000000b000007399aea4740c51a056492649561c0e1ba
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-10-10T15:01:45+03:00
+Array
+(
+    [DOMAIN] => montaj-climat.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5928c59f0dedff157fc88180ef36d0ae
+    [AUTH_ID] => b703e968005d64e6007af9c60000003b00000753ed657debfbba5c91dbd2405844e675
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a7821069005d64e6007af9c60000003b0000075265f057087c76db9d7aeb44f7796ef2
+    [member_id] => b292e2be4dd6c205cc6be7aeed181bf2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"33\/"}
+)
+
+rest
+Array
+(
+    [ID] => 136
+)
+
+2025-10-13T08:47:41+03:00
+Array
+(
+    [DOMAIN] => voessen.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a84d45c1a636cb47a0365237ed0369fb
+    [AUTH_ID] => 8ca0ec68005d64e600615e2a0000006b0000077a805d35cbc0be018fd15ffec8bb18f4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 7c1f1469005d64e600615e2a0000006b0000070d1cd6aa400ffbcc5f4b1d24513a4992
+    [member_id] => 412c82aaa2b382c1fe624f4d2eedeeb2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"333\/"}
+)
+
+rest
+Array
+(
+    [ID] => 19
+)
+
+2025-10-13T12:59:44+03:00
+Array
+(
+    [DOMAIN] => bitrix.gbi-pro.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 1745c9870ff2129c32133865c721406b
+    [AUTH_ID] => a0dbec68005d64e600594bae0000000300000784d9a6e822bfe126189fa47639cb4549
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 905a1469005d64e600594bae000000030000079b21bbe39b8ea879bc0634ded3554c04
+    [member_id] => 6ae89a2095310d43f11c08de886cb7fb
+    [status] => S
+    [PLACEMENT] => DEFAULT
+)
+
+rest
+Array
+(
+    [ID] => 143
+)
+
+2025-10-13T13:01:58+03:00
+Array
+(
+    [DOMAIN] => bitrix.gbi-pro.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 1745c9870ff2129c32133865c721406b
+)
+
+2025-10-13T13:02:06+03:00
+Array
+(
+    [DOMAIN] => bitrix.gbi-pro.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8ab15271905ec12badff752696061d6b
+    [AUTH_ID] => 2edcec68005d64e600594bae000000030000077ee32d375a168ddfdfc265dcaaa32720
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1e5b1469005d64e600594bae000000030000075d3e9c2d0474ef08e4ccb72266f43011
+    [member_id] => 6ae89a2095310d43f11c08de886cb7fb
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 143
+)
+
+2025-10-13T15:33:55+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e25d3d9ce62bdd59ef1d6e11fbdbcb47
+    [AUTH_ID] => c2ffec68005d64e60073ef760000000b00000780580577b98c7ee5c14414836695c447
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b27e1469005d64e60073ef760000000b0000079f0c73bf8511468e9a34da2107dc9408
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-10-14T05:34:34+03:00
+Array
+(
+    [DOMAIN] => dagaz-24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => de0c6f50bb4b9ec168ca10afdc17517c
+    [AUTH_ID] => c9c4ed68005d64e60062951c000000014038075cf87b4f053973f58d315e54d143f05c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b9431569005d64e60062951c000000014038077acc564b8ca129c0c68fa7439727f1eb
+    [member_id] => 6cb23726cadc17ce218afb6abf1d3d50
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"119\/"}
+)
+
+rest
+Array
+(
+    [ID] => 68
+)
+
+2025-10-14T07:34:35+03:00
+Array
+(
+    [DOMAIN] => pulver.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d39af23962f473b1f6f3f941f083b467
+    [AUTH_ID] => ebe0ed68005d64e6001807670000000140380725bd1feea970c7957f291a56e4ee166d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => db5f1569005d64e60018076700000001403807c82449437f95bbb06c325dfd594baec8
+    [member_id] => 5744a356c88d426f042dda1770fcc93c
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"191\/"}
+)
+
+rest
+
+2025-10-14T09:33:16+03:00
+Array
+(
+    [DOMAIN] => ooostandart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => fcae4abb7ea09ebe1346dedeb44582b6
+    [AUTH_ID] => bbfced68005d64e60079277800000001000007dff5830835f61878f0193aa1435a53e3
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ab7b1569005d64e6007927780000000100000754e4ce0a721aad256563fee50fe651c5
+    [member_id] => 86e357e224a24e8a55f7e57ebd7648d6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"90\/"}
+)
+
+rest
+Array
+(
+    [ID] => 144
+)
+
+2025-10-14T11:11:52+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => df2cb0bf6524df11e2d65ae49ec38c0f
+    [AUTH_ID] => d813ee68005d64e60073ef760000000b000007ea3ef339f082e19cd5d3aa38f338b2ac
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c8921569005d64e60073ef760000000b0000074f13e74f6f7ef13ee677b818b150d9f7
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-10-14T12:11:03+03:00
+Array
+(
+    [DOMAIN] => b24-58z56p.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0cf7bb887a8757d849c8483793f00a1c
+    [AUTH_ID] => aa21ee68005d64e600744de400000001000007a0d25eb7b3659b370352e3017a99c419
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 9aa01569005d64e600744de400000001000007e0f61e85994b757146d687c90e384d57
+    [member_id] => 06ef294157e1bb99ffb265375ec7e82b
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"49\/"}
+)
+
+rest
+Array
+(
+    [ID] => 129
+)
+
+2025-10-14T13:02:46+03:00
+Array
+(
+    [DOMAIN] => premiumsegment.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0829adb295543fd60254ce32503090df
+    [AUTH_ID] => fe2bee68005d64e6003fce9c00002636000007c40a6052ada2dc9534b1ba47c642d81a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => eeaa1569005d64e6003fce9c0000263600000710311e316b8d2c4e7c443337a4a14362
+    [member_id] => b9e281763094e624346a2a0cbb4b42e9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"125\/"}
+)
+
+rest
+Array
+(
+    [ID] => 93
+)
+
+2025-10-14T14:26:37+03:00
+Array
+(
+    [DOMAIN] => premiumsegment.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 01fbdf4d1ad9280bc7cb0e539d479578
+    [AUTH_ID] => a83fee68005d64e6003fce9c000026360000073687a23dbecb5110f07867480afbdf52
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 98be1569005d64e6003fce9c00002636000007429a4f7bc0a51de60f0532ef609f6104
+    [member_id] => b9e281763094e624346a2a0cbb4b42e9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"125\/"}
+)
+
+rest
+Array
+(
+    [ID] => 93
+)
+
+2025-10-14T14:51:13+03:00
+Array
+(
+    [DOMAIN] => bitrix.smodern.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 80a7ff2f7c942243bd07486701bacac1
+    [AUTH_ID] => 4147ee68005d64e60066a18e0000000f000007b57b4f08f8378520f2ac0d6daa1efde3
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 31c61569005d64e60066a18e0000000f000007e16800a3e6937c21d1b1b45e536afaf4
+    [member_id] => f753f2e0b68d23876a4af7c983f5f123
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER"}
+)
+
+rest
+Array
+(
+    [ID] => 105
+)
+
+2025-10-14T18:21:37+03:00
+Array
+(
+    [DOMAIN] => premiumsegment.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 6aed9f3eac9ba1f68c86e4bd1e0788c9
+    [AUTH_ID] => 9178ee68005d64e6003fce9c00002636000007be6589b60edd2fb5cf7b3a895ac14019
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 81f71569005d64e6003fce9c000026360000070bb9f9d8ebb8792e20daee86b1666801
+    [member_id] => b9e281763094e624346a2a0cbb4b42e9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"125\/"}
+)
+
+rest
+Array
+(
+    [ID] => 93
+)
+
+2025-10-14T18:39:00+03:00
+Array
+(
+    [DOMAIN] => premiumsegment.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 67d377c345d8f54162f19a47dfcdb9bd
+    [AUTH_ID] => a47cee68005d64e6003fce9c000026360000071711325a0c3bc966f69d45109d1e3a42
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 94fb1569005d64e6003fce9c00002636000007641fd26345cf6d11b60c1870a4c2d5b8
+    [member_id] => b9e281763094e624346a2a0cbb4b42e9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"125\/"}
+)
+
+rest
+Array
+(
+    [ID] => 93
+)
+
+2025-10-15T06:26:14+03:00
+Array
+(
+    [DOMAIN] => voessen.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 75e24ff84a99a443823e4aba8549bbb4
+    [AUTH_ID] => 5122ef68005d64e600615e2a0000006b0000077db889a21bbac930216d88f5cc646052
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 41a11669005d64e600615e2a0000006b0000074927d80958740034d8499967a5c38568
+    [member_id] => 412c82aaa2b382c1fe624f4d2eedeeb2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"333\/"}
+)
+
+rest
+Array
+(
+    [ID] => 19
+)
+
+2025-10-15T10:37:03+03:00
+Array
+(
+    [DOMAIN] => ooostandart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 077f57cfe5149032f872387c26362de2
+    [AUTH_ID] => 295def68005d64e6007927780000000100000790ec9dade8ab67622a560949e07990ce
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 19dc1669005d64e600792778000000010000077aeaecb07e3953f74fad7bfaeb26230f
+    [member_id] => 86e357e224a24e8a55f7e57ebd7648d6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"90\/"}
+)
+
+rest
+Array
+(
+    [ID] => 144
+)
+
+2025-10-15T14:56:16+03:00
+Array
+(
+    [DOMAIN] => ooostandart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 2d0c6bea2236919401c7a50d949fd489
+    [AUTH_ID] => 6898ef68005d64e60079277800000001000007ae8a0ee72fd39e8ae23eb153a27e10ef
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 58171769005d64e60079277800000001000007fe7fa23ffab59e87ee17780d4ffe9be3
+    [member_id] => 86e357e224a24e8a55f7e57ebd7648d6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"90\/"}
+)
+
+rest
+Array
+(
+    [ID] => 144
+)
+
+2025-10-15T14:56:33+03:00
+Array
+(
+    [DOMAIN] => ooostandart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f2403dcb8eb026d7e3b33a64f7cafa0c
+    [AUTH_ID] => 9098ef68005d64e600792778000000010000079a0471d1089086c43abe7cc412126720
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 80171769005d64e600792778000000010000075320dcdaf2a0c96359d273c3c1984658
+    [member_id] => 86e357e224a24e8a55f7e57ebd7648d6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"90\/"}
+)
+
+rest
+Array
+(
+    [ID] => 144
+)
+
+2025-10-15T14:56:51+03:00
+Array
+(
+    [DOMAIN] => ooostandart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 1dfb63d78eb870de82e6aeb52705b9c8
+    [AUTH_ID] => c898ef68005d64e60079277800000001000007ff397b4aab3e501d2c1185be5fee27f9
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b8171769005d64e60079277800000001000007c59ec708f9b23e27db6f264a38a4f4e2
+    [member_id] => 86e357e224a24e8a55f7e57ebd7648d6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"90\/"}
+)
+
+rest
+Array
+(
+    [ID] => 144
+)
+
+2025-10-15T14:57:19+03:00
+Array
+(
+    [DOMAIN] => ooostandart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 2113b2621b28421600cd5cdb00d7b9b4
+    [AUTH_ID] => 2699ef68005d64e6007927780000000100000750764f2458085b82ff1674986a69fb8d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 16181769005d64e60079277800000001000007c35409194553bfe35d1c8af7ceaeb131
+    [member_id] => 86e357e224a24e8a55f7e57ebd7648d6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"90\/"}
+)
+
+rest
+Array
+(
+    [ID] => 144
+)
+
+2025-10-15T14:57:43+03:00
+Array
+(
+    [DOMAIN] => ooostandart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 277ad16b320cd9f63defd0d971cff1d0
+    [AUTH_ID] => 8199ef68005d64e600792778000000010000073e6141ebb038a7f44642972d71e2cddb
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 71181769005d64e600792778000000010000079fdd097533fea2e057bcccdb9af56877
+    [member_id] => 86e357e224a24e8a55f7e57ebd7648d6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"90\/"}
+)
+
+rest
+Array
+(
+    [ID] => 144
+)
+
+2025-10-15T14:59:26+03:00
+Array
+(
+    [DOMAIN] => ooostandart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => eb64ac3884d37aa53e3c3fedf4b689c6
+    [AUTH_ID] => 8e9aef68005d64e600792778000000010000072cc9aaa94df410d30a361f07e91f91d8
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 7e191769005d64e6007927780000000100000770d89b2b219f06462376f0d5735fabba
+    [member_id] => 86e357e224a24e8a55f7e57ebd7648d6
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"90\/"}
+)
+
+rest
+Array
+(
+    [ID] => 144
+)
+
+2025-10-16T14:44:35+03:00
+Array
+(
+    [DOMAIN] => opmeduzza.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ad888910900a1f4f241cc59584dcdc57
+    [AUTH_ID] => a7e8f068005d64e600282f6e00001b82403807868d990ff4ca995f4467998a42a65311
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 97671869005d64e600282f6e00001b82403807cb3fa0d1bd2388188a6282aceb37629c
+    [member_id] => f50c0c14a4b1a0ad8cdc28c38870fcc9
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"212\/"}
+)
+
+rest
+Array
+(
+    [ID] => 85
+)
+
+2025-10-17T08:26:58+03:00
+Array
+(
+    [DOMAIN] => voessen.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8cd01d05932705336f0892242c3b194d
+    [AUTH_ID] => a9e1f168005d64e600615e2a0000006b000007ccdb99a5e8c0806bfd3a3d3559483c04
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 99601969005d64e600615e2a0000006b000007d36276887644bfe0523878c975945fe0
+    [member_id] => 412c82aaa2b382c1fe624f4d2eedeeb2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"333\/"}
+)
+
+rest
+Array
+(
+    [ID] => 19
+)
+
+2025-10-17T08:47:18+03:00
+Array
+(
+    [DOMAIN] => voessen.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 7895de4b65bfd4c9f677d3da9604c8ae
+    [AUTH_ID] => 75e6f168005d64e600615e2a0000006b0000073f2b09625695741b0f32667a6130e680
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 65651969005d64e600615e2a0000006b0000074e273cb4e76772b332b7861dc15f406b
+    [member_id] => 412c82aaa2b382c1fe624f4d2eedeeb2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"333\/"}
+)
+
+rest
+Array
+(
+    [ID] => 19
+)
+
+2025-10-17T11:08:31+03:00
+Array
+(
+    [DOMAIN] => voessen.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => bed53aaf7ac2617e8ea7462342086d59
+    [AUTH_ID] => 8d07f268005d64e600615e2a0000006b00000774faadc38983a9deb39ba045e41c7634
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 7d861969005d64e600615e2a0000006b0000079ea13a255de26fa6c6a3c4ee840f9e12
+    [member_id] => 412c82aaa2b382c1fe624f4d2eedeeb2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"333\/"}
+)
+
+rest
+Array
+(
+    [ID] => 19
+)
+
+2025-10-17T11:08:52+03:00
+Array
+(
+    [DOMAIN] => voessen.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d04064d8e9e975e1b4f8eb196e7109d5
+    [AUTH_ID] => a307f268005d64e600615e2a0000006b000007255f6a211899bd5b36b00479bedba7c6
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 93861969005d64e600615e2a0000006b000007d00f21b92d0c775f964620ea4ecab095
+    [member_id] => 412c82aaa2b382c1fe624f4d2eedeeb2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"from":"market_detail","any":"333\/"}
+)
+
+rest
+Array
+(
+    [ID] => 19
+)
+
+2025-10-17T11:46:12+03:00
+Array
+(
+    [DOMAIN] => online-kassa.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a93a9f604af27625a9a7677f5cd7f5bc
+    [AUTH_ID] => 6010f268005d64e6005f2c0a0000188f000007a6322b120965b92e1d1dfbc7bc67750a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 508f1969005d64e6005f2c0a0000188f000007e49de902e7db33974b8bc04cfeda2e88
+    [member_id] => a513bf08548cc1ff028bd765d9380344
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"199\/"}
+)
+
+rest
+Array
+(
+    [ID] => 127
+)
+
+2025-10-19T09:39:41+03:00
+Array
+(
+    [DOMAIN] => newflat.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => f1971a665da0c6fe4c0d3f81e7fc8f7a
+    [AUTH_ID] => bc95f468005d64e60035755a00002c4d302a0728bdc4588a1d7be88c9bbffa0e778385
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ac141c69005d64e60035755a00002c4d302a07ae6daa2f61ffa4bf896311f9c86bfb18
+    [member_id] => 911cba31b2243463bf73e5725fb8e723
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"93\/"}
+)
+
+rest
+Array
+(
+    [ID] => 114
+)
+
+2025-10-20T17:16:51+03:00
+Array
+(
+    [DOMAIN] => inntery.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 494859687141ad78880f384dad51710f
+    [AUTH_ID] => 6352f668005d64e60061fd60000000ec0000071caced3b5ef27978ed6ba670d2584a1c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 53d11d69005d64e60061fd60000000ec00000739fcbe6a723afdc2b3f1c3e318e983ba
+    [member_id] => 063995a35d5ffbb5ea0fada2fb90ccad
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"104\/"}
+)
+
+rest
+Array
+(
+    [ID] => 69
+)
+
+2025-10-21T11:18:06+03:00
+Array
+(
+    [DOMAIN] => dagaz-24.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a1a70c711924875b1e20f5e0a87dd9fd
+    [AUTH_ID] => cd4ff768005d64e60062951c000000014038074d2df4220e84e1580e0b803bfda39853
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => bdce1e69005d64e60062951c00000001403807029595485364f64c3d0dff73f40387b2
+    [member_id] => 6cb23726cadc17ce218afb6abf1d3d50
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"119\/"}
+)
+
+rest
+Array
+(
+    [ID] => 68
+)
+
+2025-10-21T11:28:07+03:00
+Array
+(
+    [DOMAIN] => inntery.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => c73289af52ea15ad8655fdf613e6efa7
+    [AUTH_ID] => 0952f768005d64e60061fd60000000ec0000076592910c98ac460f02ff163f71e6dd0c
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => f9d01e69005d64e60061fd60000000ec000007844adc25ce193d45f50084a0c25a2017
+    [member_id] => 063995a35d5ffbb5ea0fada2fb90ccad
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"104\/"}
+)
+
+rest
+Array
+(
+    [ID] => 69
+)
+
+2025-10-21T11:33:20+03:00
+Array
+(
+    [DOMAIN] => inntery.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ac5d1e98c52e4541503275ee5e5c6731
+    [AUTH_ID] => 5f53f768005d64e60061fd60000001de000007961e4dcbbc04e0332b538c790a624dcf
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4fd21e69005d64e60061fd60000001de000007e93dbe589e5b1e9ded3a7414ca787d9f
+    [member_id] => 063995a35d5ffbb5ea0fada2fb90ccad
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"104\/"}
+)
+
+rest
+Array
+(
+    [ID] => 69
+)
+
+2025-10-21T12:02:52+03:00
+Array
+(
+    [DOMAIN] => inntery.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 45bdaa04ad18f103be2fbc7ef8085c10
+    [AUTH_ID] => 4b5af768005d64e60061fd60000001de00000767ad4532d9639494214256e38ad3a982
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 3bd91e69005d64e60061fd60000001de0000073eafa0181d617c4034afde0eac595d2f
+    [member_id] => 063995a35d5ffbb5ea0fada2fb90ccad
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"104\/"}
+)
+
+rest
+Array
+(
+    [ID] => 69
+)
+
+2025-10-21T12:06:11+03:00
+Array
+(
+    [DOMAIN] => inntery.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0ec46fda59618fd46fcc77f0222bc750
+    [AUTH_ID] => 125bf768005d64e60061fd60000001de00000786e886a47986782c6b1599508af2a4a9
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 02da1e69005d64e60061fd60000001de0000070cdccbad308d13d85d7ae32adff3ea8f
+    [member_id] => 063995a35d5ffbb5ea0fada2fb90ccad
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"104\/"}
+)
+
+rest
+Array
+(
+    [ID] => 69
+)
+
+2025-10-21T12:06:38+03:00
+Array
+(
+    [DOMAIN] => inntery.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 056d17e3c2c267631c50e9bcad1c484d
+    [AUTH_ID] => 2d5bf768005d64e60061fd60000001de000007793a7a58b76e9dbba3e00438f611f052
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1dda1e69005d64e60061fd60000001de000007027331d04c1f5f5f8fd15cf1b51a492d
+    [member_id] => 063995a35d5ffbb5ea0fada2fb90ccad
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"104\/"}
+)
+
+rest
+Array
+(
+    [ID] => 69
+)
+
+2025-10-21T12:08:02+03:00
+Array
+(
+    [DOMAIN] => inntery.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5a55f2228123938a56a1bcc186b6045a
+    [AUTH_ID] => 825bf768005d64e60061fd60000001de00000756a20e844d1cea45ef47a809bb8d63c4
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 72da1e69005d64e60061fd60000001de0000078d683d477284ee667423822c0b52bb94
+    [member_id] => 063995a35d5ffbb5ea0fada2fb90ccad
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"104\/"}
+)
+
+rest
+Array
+(
+    [ID] => 69
+)
+
+2025-10-21T13:52:02+03:00
+Array
+(
+    [DOMAIN] => inntery.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => ec3e7d2de224fa6bcdc889e29b200e0f
+    [AUTH_ID] => e273f768005d64e60061fd60000001de000007502ead027b63b788e48e291a3eb968e6
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => d2f21e69005d64e60061fd60000001de0000074709253d2e7b1638cc4564fa4ff7b548
+    [member_id] => 063995a35d5ffbb5ea0fada2fb90ccad
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"104\/"}
+)
+
+rest
+Array
+(
+    [ID] => 69
+)
+
+2025-10-23T13:54:06+03:00
+Array
+(
+    [DOMAIN] => montaj-climat.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 0f49a63c21e421205245d6e277ee5a22
+    [AUTH_ID] => 5d17fa68005d64e6007af9c6000000010000070f334c3b8220151b407deff0b41893b7
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 4d962169005d64e6007af9c600000001000007f900abe6fa1a97dcb594a2ae7ec52d71
+    [member_id] => b292e2be4dd6c205cc6be7aeed181bf2
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"33\/"}
+)
+
+rest
+Array
+(
+    [ID] => 136
+)
+
+2025-10-24T10:26:13+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => cdacaeacb815b719ee9ca78751b33927
+    [AUTH_ID] => 2438fb68005d64e60064ce1c0000071a000007d7229ec300d11c388a051c7e88491dbd
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 14b72269005d64e60064ce1c0000071a000007b7f17c5a5a2f5610f4a62eb3309d5795
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-10-24T11:45:04+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 8ed2117eb1fe1c149463a6dccdd1ea97
+    [AUTH_ID] => 954afb68005d64e60064ce1c0000071a000007495688d824e91d6c76c22597408780fe
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 85c92269005d64e60064ce1c0000071a0000076fe30a3ec95951889aed6ea6f0515fa7
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+
+2025-10-24T11:47:14+03:00
+Array
+(
+    [DOMAIN] => gift.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 552d9254810a70762f2a393a57000323
+    [AUTH_ID] => 214bfb68005d64e60073ef760000000b000007d8711e064556f946ffc0d790d68b38df
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 11ca2269005d64e60073ef760000000b0000073f8ab273952bec4112d47130f0cec35f
+    [member_id] => 7baa9b42738af939fe3bb094d14b9bf5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"133\/"}
+)
+
+rest
+Array
+(
+    [ID] => 30
+)
+
+2025-10-30T09:34:57+03:00
+Array
+(
+    [DOMAIN] => smartpoint.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 05311a4c49fcd6e0a72b186ff62dc03b
+    [AUTH_ID] => 20150369005d64e6005e401a00000014000007b3d9db2e8cf9f53693c18199c203e678
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 10942a69005d64e6005e401a000000140000077d656a5b0c784bb7b7b422c12c6d7748
+    [member_id] => 2544555e26b37cdefb696dd4355d6506
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"418\/"}
+)
+
+rest
+Array
+(
+    [ID] => 96
+)
+
+2025-10-30T10:08:48+03:00
+Array
+(
+    [DOMAIN] => inzhin.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => b12b3c2f613a3c4cdb22d38af59e9dd0
+    [AUTH_ID] => 101d0369005d64e60064ce1c0000071a0000075ca872dd5f61d2d7a66d1c5afe43ee8a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 009c2a69005d64e60064ce1c0000071a000007196877d344bf959cbce71c9d16acfa22
+    [member_id] => 1dd99f8185e66d1b4834ec3c072a64e5
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"106\/"}
+)
+
+rest
+Array
+(
+    [ID] => 51
+)
+

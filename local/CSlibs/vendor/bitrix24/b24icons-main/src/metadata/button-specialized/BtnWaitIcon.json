@@ -1,0 +1,16 @@
+{
+  "dateFix": "2024-09-24",
+  "name": "Button Wait",
+  "category": "Button Specialized",
+  "specialized": {
+    "width": "w-[21px]",
+    "height": "h-[21px]"
+  },
+  "subCategories": [
+    "UI",
+    "Button",
+    "Specialized",
+    "Animate",
+    "Wait"
+  ]
+}

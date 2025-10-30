@@ -1,0 +1,18 @@
+---------------------04.02.2025MSK08:42:48
+Array
+(
+    [app] => mcm
+    [id] => 34
+    [auth] => Array
+        (
+            [access_token] => 1cb1a16700579b0e0074c1240000000c0000077be70223589bd0498610cca1fcef8c57
+            [refresh_token] => 0c30c96700579b0e0074c1240000000c000007612039e3cfbda08a6365de3ce99c34ea
+            [expires_in] => 1738649888211
+            [domain] => app-cassoft.bitrix24.ru
+            [member_id] => b52a9e034640cdbe192eb721d7288263
+        )
+
+)
+
+res
+Файл /cassoftApp/market/mcm/in/b52a9e034640cdbe192eb721d7288263_c35a4dc2-a49b.php существует

@@ -1,0 +1,133 @@
+---------------------30.10.2025MSK10:44:31
+Array
+(
+    [workflow_id] => 6903175cadba60.24586372
+    [code] => mcm_robot_warning
+    [document_id] => Array
+        (
+            [0] => crm
+            [1] => CCrmDocumentLead
+            [2] => LEAD_6207
+        )
+
+    [document_type] => Array
+        (
+            [0] => crm
+            [1] => CCrmDocumentLead
+            [2] => LEAD
+        )
+
+    [event_token] => 6903175cadba60.24586372|A7895_32903_19683_47755|lhaOcTVKfKR1pdbaiXA8h0EsZ164lOix.347bb09ec3066f447129959249acab10d3947052e1e83c533af4ae4fc26e581e
+    [properties] => Array
+        (
+            [text] => Создан лид №L_6207 Алексей Веселков - Telegram DVApro
+Клиент - Алексей
+телефон 
+            [bot_key] => 7776881648:AAGovDHouhj3q-OeCOYxIATlD0Xkq8UyNTI
+            [group_tg] => -1002377480862
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 0
+    [ts] => 1761810268
+    [auth] => Array
+        (
+            [access_token] => 6f25036900579b0e0073d9ee00000001000000a84439a8d9677ad67a44c9435162f58b
+            [expires] => 1761813871
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement,rpa,mobile,disk,userfieldconfig,contact_center,bizproc
+            [domain] => alexstar.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://alexstar.bitrix24.ru/rest/
+            [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+            [user_id] => 1
+            [refresh_token] => 5fa42a6900579b0e0073d9ee000000010000004177b69dd4a17aa3f1270f6c9f7c0d67
+            [application_token] => 75ca58874364553808e2cf1c55d86a27
+        )
+
+    [app] => mcm
+    [tempList] => robot_warning
+    [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+    [CACHE_TYPE] => A
+    [~workflow_id] => 6903175cadba60.24586372
+    [~code] => mcm_robot_warning
+    [~document_id] => Array
+        (
+            [0] => crm
+            [1] => CCrmDocumentLead
+            [2] => LEAD_6207
+        )
+
+    [~document_type] => Array
+        (
+            [0] => crm
+            [1] => CCrmDocumentLead
+            [2] => LEAD
+        )
+
+    [~event_token] => 6903175cadba60.24586372|A7895_32903_19683_47755|lhaOcTVKfKR1pdbaiXA8h0EsZ164lOix.347bb09ec3066f447129959249acab10d3947052e1e83c533af4ae4fc26e581e
+    [~properties] => Array
+        (
+            [text] => Создан лид №L_6207 Алексей Веселков - Telegram DVApro
+Клиент - Алексей
+телефон 
+            [bot_key] => 7776881648:AAGovDHouhj3q-OeCOYxIATlD0Xkq8UyNTI
+            [group_tg] => -1002377480862
+        )
+
+    [~use_subscription] => Y
+    [~timeout_duration] => 0
+    [~ts] => 1761810268
+    [~auth] => Array
+        (
+            [access_token] => 6f25036900579b0e0073d9ee00000001000000a84439a8d9677ad67a44c9435162f58b
+            [expires] => 1761813871
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement,rpa,mobile,disk,userfieldconfig,contact_center,bizproc
+            [domain] => alexstar.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://alexstar.bitrix24.ru/rest/
+            [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+            [user_id] => 1
+            [refresh_token] => 5fa42a6900579b0e0073d9ee000000010000004177b69dd4a17aa3f1270f6c9f7c0d67
+            [application_token] => 75ca58874364553808e2cf1c55d86a27
+        )
+
+    [~app] => mcm
+    [~tempList] => robot_warning
+    [~member_id] => b176cc28ddd836fa2c7d93e81fff15df
+    [~CACHE_TYPE] => A
+)
+
+resSend
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 8082
+            [from] => Array
+                (
+                    [id] => 7776881648
+                    [is_bot] => 1
+                    [first_name] => dva_pro
+                    [username] => dva_pro_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002377480862
+                    [title] => Отдел продаж DVApro
+                    [type] => supergroup
+                )
+
+            [date] => 1761810271
+            [text] => Создан лид №L_6207 Алексей Веселков - Telegram DVApro
+Клиент - Алексей
+телефон
+        )
+
+)
+

@@ -1,0 +1,133 @@
+---------------------30.05.2025MSK03:58:16
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [event_handler_id] => 322
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [1816] => Array
+                        (
+                            [access_token] => b710396800543a28005d376e000007180000068086900b093cc3d96eb12b58cc083bd0
+                            [expires] => 1748570295
+                            [expires_in] => 3600
+                            [scope] => crm,imopenlines,im,user_brief,imbot,entity
+                            [domain] => cbn.bitrix24.ru
+                            [server_endpoint] => https://oauth.bitrix.info/rest/
+                            [status] => S
+                            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                            [member_id] => d17d1d15669be52925cf091ae22002d4
+                            [refresh_token] => a78f606800543a28005d376e00000718000006f50ed6a129f93cf8fbc2d1509e938d84
+                            [user_id] => 1816
+                            [client_id] => app.608a76c6dfdc68.60170467
+                            [application_token] => d7997a29333557dec947ae584c10ead4
+                            [AUTH] => Array
+                                (
+                                    [access_token] => b710396800543a28005d376e000007180000068086900b093cc3d96eb12b58cc083bd0
+                                    [expires] => 1748570295
+                                    [expires_in] => 3600
+                                    [scope] => crm,imopenlines,im,user_brief,imbot,entity
+                                    [domain] => cbn.bitrix24.ru
+                                    [server_endpoint] => https://oauth.bitrix.info/rest/
+                                    [status] => S
+                                    [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                                    [member_id] => d17d1d15669be52925cf091ae22002d4
+                                    [refresh_token] => a78f606800543a28005d376e00000718000006f50ed6a129f93cf8fbc2d1509e938d84
+                                    [user_id] => 1816
+                                    [client_id] => app.608a76c6dfdc68.60170467
+                                    [application_token] => d7997a29333557dec947ae584c10ead4
+                                )
+
+                            [BOT_ID] => 1816
+                            [BOT_CODE] => cs_domclick_bot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [MESSAGE] => Вопросы можно задать?
+                    [MESSAGE_TYPE] => L
+                    [FROM_USER_ID] => 1994
+                    [DIALOG_ID] => chat4030
+                    [TO_CHAT_ID] => 4030
+                    [AUTHOR_ID] => 1994
+                    [SYSTEM] => N
+                    [PUSH] => Y
+                    [PUSH_IMPORTANT] => N
+                    [RECENT_SKIP_AUTHOR] => N
+                    [CONVERT] => N
+                    [SKIP_COMMAND] => N
+                    [SKIP_COUNTER_INCREMENTS] => N
+                    [SILENT_CONNECTOR] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [NO_SESSION_OL] => N
+                    [FAKE_RELATION] => 0
+                    [SKIP_URL_INDEX] => N
+                    [CHAT_ID] => 4030
+                    [CHAT_TITLE] => Татьяна Син Продавец - ДомКлик
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_TYPE] => L
+                    [CHAT_AVATAR] => 0
+                    [CHAT_COLOR] => AZURE
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => cs_domclick_connector|26|68382bc968c928000120f1b8|1994
+                    [CHAT_ENTITY_DATA_1] => Y|LEAD|16956|N|N|2972|1748511692|0|0|0
+                    [CHAT_ENTITY_DATA_2] => LEAD|16956|COMPANY|0|CONTACT|0|DEAL|0
+                    [CHAT_ENTITY_DATA_3] => 
+                    [CHAT_EXTRANET] => N
+                    [CHAT_PREV_MESSAGE_ID] => 0
+                    [CHAT_CAN_POST] => MEMBER
+                    [RID] => 1994
+                    [IS_MANAGER] => N
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [CHAT_USER_COUNT] => 3
+                    [PLATFORM_CONTEXT] => web
+                    [MESSAGE_ORIGINAL] => Вопросы можно задать?
+                    [TO_USER_ID] => 0
+                    [MESSAGE_ID] => 196218
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 1994
+                    [NAME] => Татьяна Син Продавец
+                    [FIRST_NAME] => Татьяна Син
+                    [LAST_NAME] => Продавец
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1748566695
+    [auth] => Array
+        (
+            [access_token] => b810396800543a28005d376e000001f40000069679c2475575cae2ee30741c7c3d3a78
+            [expires] => 1748570296
+            [expires_in] => 3600
+            [scope] => crm,imopenlines,im,user_brief,imbot,entity
+            [domain] => cbn.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => S
+            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+            [user_id] => 500
+            [refresh_token] => a88f606800543a28005d376e000001f4000006d08c8d801324eeb0e771f86e8142ed56
+            [application_token] => d7997a29333557dec947ae584c10ead4
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 33
+)
+

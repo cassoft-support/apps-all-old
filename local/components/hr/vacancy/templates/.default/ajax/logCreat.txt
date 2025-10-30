@@ -1,0 +1,15 @@
+---------------------19.05.2025MSK11:23:43
+Array
+(
+    [auth] => Array
+        (
+            [access_token] => 83f82a68005567d6002bb6900000013a201c07d3c3c3d67b23f94c08835a8e5b6704b7
+            [refresh_token] => 73775268005567d6002bb6900000013a201c0740ce38aa395a30c2f1cd2294654027ea
+            [expires_in] => 1747646602151
+            [domain] => ecoferma56.bitrix24.ru
+            [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+        )
+
+    [app] => hr_pro
+)
+

@@ -1,0 +1,178 @@
+---------------------25.04.2025MSK11:27:39
+Array
+(
+    [event] => ONIMCONNECTORMESSAGEADD
+    [event_handler_id] => 2083
+    [data] => Array
+        (
+            [CONNECTOR] => cs_mcm_whatsapp
+            [LINE] => 11
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 2735
+                                    [message_id] => 480929
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 1
+                                    [text] => [b]Андрей Черкасов:[/b] [br]yryry
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 79955003579@c.us
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [ts] => 1745569658
+    [auth] => Array
+        (
+            [access_token] => 8a550b6800579b0e0036d584000000010000075c9991ad9c4add32264887af9087ba3a
+            [expires] => 1745573258
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,user_brief,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement
+            [domain] => cassoft.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => S
+            [client_endpoint] => https://cassoft.bitrix24.ru/rest/
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [user_id] => 1
+            [application_token] => 1f50bf124d75322df4fe9cff3d38f5d5
+        )
+
+    [app] => mcm
+    [tempList] => sendOut
+    [CACHE_TYPE] => A
+    [~event] => ONIMCONNECTORMESSAGEADD
+    [~event_handler_id] => 2083
+    [~data] => Array
+        (
+            [CONNECTOR] => cs_mcm_whatsapp
+            [LINE] => 11
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 2735
+                                    [message_id] => 480929
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 1
+                                    [text] => [b]Андрей Черкасов:[/b] [br]yryry
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 79955003579@c.us
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [~ts] => 1745569658
+    [~auth] => Array
+        (
+            [access_token] => 8a550b6800579b0e0036d584000000010000075c9991ad9c4add32264887af9087ba3a
+            [expires] => 1745573258
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,user_brief,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement
+            [domain] => cassoft.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => S
+            [client_endpoint] => https://cassoft.bitrix24.ru/rest/
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [user_id] => 1
+            [application_token] => 1f50bf124d75322df4fe9cff3d38f5d5
+        )
+
+    [~app] => mcm
+    [~tempList] => sendOut
+    [~CACHE_TYPE] => A
+)
+
+profileLine
+Array
+(
+    [0] => Array
+        (
+            [ID] => 10
+            [UF_MEMBER_ID] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [UF_PROFILE_ID] => c40b7054-9f50
+            [UF_PROFILE_NAME] => cs_613
+            [UF_CS_CODE] => nivWEGkdo82edNF8
+            [UF_DATE_CREATE] => 1745482640
+            [UF_DATE_CLOSE] => 1748074640
+            [UF_DATE_CLOSE_FACT] => 
+            [UF_ACTIVE] => Y
+            [UF_RESOURCE] => wappi
+            [UF_TYPE] => whatsapp
+            [UF_LINE_B24] => 11
+            [UF_CONNECTOR] => cs_mcm_whatsapp
+            [UF_STATUS_B24] => 1
+            [UF_SITE] => 
+            [UF_DOMAIN] => cassoft.bitrix24.ru
+            [UF_NAME] => cs 613
+        )
+
+)
+
+profile
+c40b7054-9f50
+urlMethod
+/api/sync/message/send?profile_id=c40b7054-9f50
+dataMes
+Array
+(
+    [recipient] => 79955003579@c.us
+    [body] => Андрей Черкасов: yryry
+)
+
+result
+Array
+(
+    [status] => done
+    [timestamp] => 1745569659
+    [time] => 2025-04-25T11:27:39+03:00
+    [message_id] => 3EB0F6C300C07733A50953
+    [task_id] => b4cbb281-e803-4ef2-80c7-f1593845538d
+    [uuid] => c40b7054-9f50
+)
+
+result
+Array
+(
+    [status] => done
+    [timestamp] => 1745569659
+    [time] => 2025-04-25T11:27:39+03:00
+    [message_id] => 3EB0F6C300C07733A50953
+    [task_id] => b4cbb281-e803-4ef2-80c7-f1593845538d
+    [uuid] => c40b7054-9f50
+)
+
+resultDelivery
+Array
+(
+    [SUCCESS] => 1
+    [DATA] => Array
+        (
+        )
+
+)
+

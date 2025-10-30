@@ -1,0 +1,29 @@
+---------------------30.10.2025MSK10:53:36
+invoice
+filter
+Array
+(
+    [parentId2] => 253226
+    [stageId] => Array
+        (
+            [0] => DT31_2:N
+            [1] => DT31_2:S
+        )
+
+)
+
+typeId
+31
+name
+[B]сделки[/B] ID: [URL=/crm/deal/details/253226/]7 909 451-02-47 - Входящий звонок[/URL], пользователем Нина Давыдова
+commentAdd
+
+resElement
+Array
+(
+    [items] => Array
+        (
+        )
+
+)
+

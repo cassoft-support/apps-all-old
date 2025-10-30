@@ -1,0 +1,16 @@
+installDev
+2024-07-19T16:55:01+03:00
+Array
+(
+    [DOMAIN] => beregone.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 09e60c1e7dac19c99deab2512dba27f4
+    [AUTH_ID] => 457e9a66005567d6006edb080000000b0000079f4248e55724dcfbdbfadfc1f79991a0
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 35fdc166005567d6006edb080000000b000007667ed983763662ce8d26964cc11e3667
+    [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+    [status] => F
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"33\/"}
+)

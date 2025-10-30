@@ -1,0 +1,33 @@
+---------------------27.09.2024MSK15:50:21
+Array
+(
+    [user_id] => 116
+    [type] => favouritesStage
+    [app] => brokci
+    [memberId] => 2fc4458eafd45ed17cd4f7fd76de1591
+    [auth] => Array
+        (
+            [access_token] => 1db7f66600591408003c9688000000740000075dc532c6a2a260ab57ce90af49ee75f8
+            [refresh_token] => 0d361e6700591408003c96880000007400000700fc76dce2995feaba38fb6bbd617a5d
+            [expires_in] => 1727444766389
+            [domain] => darhaus.bitrix24.ru
+            [member_id] => 2fc4458eafd45ed17cd4f7fd76de1591
+        )
+
+    [CACHE_TYPE] => A
+    [~user_id] => 116
+    [~type] => favouritesStage
+    [~app] => brokci
+    [~memberId] => 2fc4458eafd45ed17cd4f7fd76de1591
+    [~auth] => Array
+        (
+            [access_token] => 1db7f66600591408003c9688000000740000075dc532c6a2a260ab57ce90af49ee75f8
+            [refresh_token] => 0d361e6700591408003c96880000007400000700fc76dce2995feaba38fb6bbd617a5d
+            [expires_in] => 1727444766389
+            [domain] => darhaus.bitrix24.ru
+            [member_id] => 2fc4458eafd45ed17cd4f7fd76de1591
+        )
+
+    [~CACHE_TYPE] => A
+)
+

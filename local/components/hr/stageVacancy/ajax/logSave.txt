@@ -1,0 +1,10 @@
+startArray
+(
+    [error] => no_install_app
+    [error_information] => error install app, pls install local application 
+)
+Array
+(
+    [error] => no_install_app
+    [error_information] => error install app, pls install local application 
+)

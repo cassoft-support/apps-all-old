@@ -1,0 +1,17 @@
+.selectors {
+    display: flex;
+    flex-direction: column;
+    border-width:1;
+    border-color: rgb(190,190,190);
+    border-style: solid;
+    margin-top: 10px;
+	margin-bottom: 10px;
+}
+.selectorAvito {
+	float: left; /*Задаем обтекание*/
+}
+
+.selectorYandex {
+	float: left; /*Задаем обтекание*/
+}
+

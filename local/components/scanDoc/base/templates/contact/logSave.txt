@@ -1,0 +1,47 @@
+---------------------16.12.2024MSK17:45:54
+Array
+(
+    [sort] => Array
+        (
+            [0] => 3686
+            [1] => 1675619003_papik_pro_p_ekonomist_risunok_15.jpg
+        )
+
+    [oldPhotoInfo] => Array
+        (
+            [0] => 3686,https://cdn-ru.bitrix24.ru/b27193526/disk/21a/21a80fbca140be7c4b072d248aef0d7e/47f1bd63fd5f84540d2adbfb473215a7
+        )
+
+    [authParams] => {"access_token":"1e4b606700576b72006797b200000008000007dab7c5f4953a5f9d7120822b97952393","refresh_token":"0eca876700576b72006797b2000000080000078d341ecacb4a3a38f7e0b3012600bf4c","expires_in":1734363933565,"domain":"logistics-pro.bitrix24.ru","member_id":"137f3595ca3a2c72c95bd79acb765bef"}
+    [app] => logistics_pro
+    [contact_id] => 526
+)
+
+Array
+(
+    [access_token] => 1e4b606700576b72006797b200000008000007dab7c5f4953a5f9d7120822b97952393
+    [refresh_token] => 0eca876700576b72006797b2000000080000078d341ecacb4a3a38f7e0b3012600bf4c
+    [expires_in] => 1734363933565
+    [domain] => logistics-pro.bitrix24.ru
+    [member_id] => 137f3595ca3a2c72c95bd79acb765bef
+)
+logistics_proArray
+(
+    [DOMAIN] => logistics-pro.bitrix24.ru
+    [member_id] => 137f3595ca3a2c72c95bd79acb765bef
+    [AUTH_ID] => 1e4b606700576b72006797b200000008000007dab7c5f4953a5f9d7120822b97952393
+    [REFRESH_ID] => 0eca876700576b72006797b2000000080000078d341ecacb4a3a38f7e0b3012600bf4c
+)
+Array
+(
+    [UF_CRM_CS_SCAN_DOC] => Array
+        (
+            [0] => 3686|https://cdn-ru.bitrix24.ru/b27193526/disk/21a/21a80fbca140be7c4b072d248aef0d7e/47f1bd63fd5f84540d2adbfb473215a7
+            [1] => 3688|https://cdn-ru.bitrix24.ru/b27193526/disk/049/0495475fed5c621ef0678d660d1e860b/accfe10b1e7ee7f81c2fa04353ee475a
+        )
+
+)
+Array
+(
+    [0] => 1
+)

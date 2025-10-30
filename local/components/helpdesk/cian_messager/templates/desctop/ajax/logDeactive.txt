@@ -1,0 +1,54 @@
+---------------------16.01.2025MSK18:30:38
+Array
+(
+    [key] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjk0MzEyMTA1fQ.UV2wc6VYtj_p2cwVuw0ideULYY2Jutxrp5wBeZ40ge8
+    [app] => cian_messager
+    [id] => 21480
+    [options] => {"CONNECTOR":"cs_cian_connector","LINE":"24","STATUS":true,"ACTIVE_STATUS":true,"CONNECTION_STATUS":true,"REGISTER_STATUS":true,"ERROR_STATUS":false}
+    [auth] => Array
+        (
+            [access_token] => 1534896700543a28005d376e000001f400000756bc3a6dff2c5852b97af387c3a8cf05
+            [refresh_token] => 05b3b06700543a28005d376e000001f4000007c2b05a78aa4b3941ca6bc76305714eb1
+            [expires_in] => 1737045015519
+            [domain] => cbn.bitrix24.ru
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+        )
+
+)
+
+keyCian
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjk0MzEyMTA1fQ.UV2wc6VYtj_p2cwVuw0ideULYY2Jutxrp5wBeZ40ge8
+res
+Array
+(
+    [operationId] => D670FEC6-D41E-11EF-8EED-039B3B1A0FCC
+    [result] => Array
+        (
+        )
+
+)
+
+options
+Array
+(
+    [CONNECTOR] => cs_cian_connector
+    [LINE] => 24
+    [STATUS] => 1
+    [ACTIVE_STATUS] => 1
+    [CONNECTION_STATUS] => 1
+    [REGISTER_STATUS] => 1
+    [ERROR_STATUS] => 
+)
+
+activate
+Array
+(
+    [0] => 1
+)
+
+resSetupUp
+Array
+(
+    [0] => 1
+)
+

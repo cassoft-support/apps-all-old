@@ -1,0 +1,17 @@
+22.02.2025MSK20:03
+Array
+(
+    [auth] => Array
+        (
+            [access_token] => 8011ba67005567d60036d584000000010000076890be1ac6f737f12cdff7bf9bdf123d
+            [refresh_token] => 7090e167005567d60036d58400000001000007b2b71914928009a496329d0971fa1dc2
+            [expires_in] => 1740247426773
+            [domain] => cassoft.bitrix24.ru
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+        )
+
+    [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [app] => hr_pro
+    [type] => support
+    [user_id] => 1
+)

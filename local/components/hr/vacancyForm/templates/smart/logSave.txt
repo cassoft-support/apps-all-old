@@ -1,0 +1,168 @@
+21.05.2024MSK17:52
+Array
+(
+    [sort] => Array
+        (
+            [0] => 1.jpg
+        )
+
+    [authParams] => {"access_token":"29c34c6600576b72006797b20000000c000007cc5b3e5c38c7b685e2d924bea964b122","refresh_token":"1942746600576b72006797b20000000c00000708a283370a69898f1aeec9b1d36bada1","expires_in":1716306813418,"domain":"logistics-pro.bitrix24.ru","member_id":"137f3595ca3a2c72c95bd79acb765bef"}
+    [app] => logistics_pro
+    [smartElId] => 306
+    [smartId] => 8
+    [entityTypeId] => 162
+)
+Array
+(
+    [access_token] => 29c34c6600576b72006797b20000000c000007cc5b3e5c38c7b685e2d924bea964b122
+    [refresh_token] => 1942746600576b72006797b20000000c00000708a283370a69898f1aeec9b1d36bada1
+    [expires_in] => 1716306813418
+    [domain] => logistics-pro.bitrix24.ru
+    [member_id] => 137f3595ca3a2c72c95bd79acb765bef
+)
+logistics_proArray
+(
+    [DOMAIN] => logistics-pro.bitrix24.ru
+    [member_id] => 137f3595ca3a2c72c95bd79acb765bef
+    [AUTH_ID] => 29c34c6600576b72006797b20000000c000007cc5b3e5c38c7b685e2d924bea964b122
+    [REFRESH_ID] => 1942746600576b72006797b20000000c00000708a283370a69898f1aeec9b1d36bada1
+)
+Array
+(
+    [ufCrm8CsScanDoc] => Array
+        (
+            [0] => 3334|https://cdn-ru.bitrix24.ru/b27193526/disk/d89/d89b60801594b5d3a1c006063ac89d72/6a44a39edf1c482e3ab1ed4ef594993d
+        )
+
+)
+Array
+(
+    [item] => Array
+        (
+            [id] => 306
+            [xmlId] => 
+            [title] => Договор №48 - ООО "Перевозкин1"
+            [createdBy] => 1
+            [updatedBy] => 12
+            [movedBy] => 1
+            [createdTime] => 2024-04-10T10:42:17+03:00
+            [updatedTime] => 2024-05-21T17:52:48+03:00
+            [movedTime] => 2024-05-21T17:52:06+03:00
+            [categoryId] => 12
+            [opened] => N
+            [stageId] => DT162_12:PREPARATION
+            [previousStageId] => DT162_12:3
+            [begindate] => 2024-04-10T03:00:00+03:00
+            [closedate] => 2025-04-11T03:00:00+03:00
+            [companyId] => 48
+            [contactId] => 0
+            [opportunity] => 0
+            [isManualOpportunity] => N
+            [taxValue] => 0
+            [currencyId] => RUB
+            [mycompanyId] => 6
+            [sourceId] => CALL
+            [sourceDescription] => 
+            [webformId] => 0
+            [ufCrm8CsScanDocForm] => 
+            [ufCrm8_1714728535139] => 
+            [ufCrm_8_CS_1C_UNLOAD] => N
+            [ufCrm8CsProviderPay] => 
+            [ufCrm8CsMycompanyPay] => 
+            [ufCrm8CsMessageChannel] => 
+            [ufCrm8CsDateCheck] => 
+            [ufCrm8CsTracStatus] => 
+            [ufCrm8CsTracer] => 
+            [ufCrm8CsTracDate] => 
+            [ufCrm8CsTracAddress] => 
+            [ufCrm8CsTracStatusFull] => 
+            [ufCrm8CsTracDateUpdate] => 
+            [ufCrm8CsTracForm] => 
+            [ufCrm8CsTracDateClose] => 
+            [ufCrm8CsTracInfo] => 
+            [ufCrm8CsTracHistory] => 
+            [ufCrm8CsTracPrice] => 
+            [ufCrm8CsDateChange] => 1716303126
+            [ufCrm8CsTypeDt] => BDO
+            [ufCrm8CsTracCompany] => 
+            [ufCrm8CsCar] => 
+            [ufCrm8CsDriversOne] => 
+            [ufCrm8CsDriversTwo] => 
+            [ufCrm8CsPath] => 
+            [ufCrm8CsPrepayment] => 
+            [ufCrm8CsPostponement] => 
+            [ufCrm8CsWorkday] => 
+            [ufCrm8CsDatePlanLoading] => 
+            [ufCrm8CsDatePlanUnloading] => 
+            [ufCrm8CsTypePay] => BANK_PAY
+            [ufCrm8CsVat] => NOVAT
+            [ufCrm8CsTypeLoading] => 
+            [ufCrm8CsTypeUnload] => 
+            [ufCrm8CsDownloadAddress] => 
+            [ufCrm8CsUnloadingAddress] => 
+            [ufCrm8CsNameCargo] => 
+            [ufCrm8CsWeight] => 
+            [ufCrm8CsVolume] => 
+            [ufCrm8CsNumberApp] => 
+            [ufCrm8CsDatePlanLoadingTo] => 
+            [ufCrm8CsDatePlanUnloadingTo] => 
+            [ufCrm8CsCommentClient] => 
+            [ufCrm8CsContactClient] => 
+            [ufCrm8CsCompanyClient] => 
+            [ufCrm8CsBasisDoc] => 
+            [ufCrm8CsAppsBasisDoc] => Array
+                (
+                    [0] => 308
+                    [1] => 310
+                    [2] => 316
+                    [3] => 320
+                    [4] => 328
+                    [5] => 330
+                    [6] => 348
+                )
+
+            [ufCrm8CsIdDoc] => 48
+            [ufCrm8CsCommentProvider] => 
+            [ufCrm8CsProviderType] => 
+            [ufCrm8CsProviderContact] => 
+            [ufCrm8CsCardOwner] => 
+            [ufCrm8CsCardNumber] => 
+            [ufCrm8CsConditionsPay] => 
+            [ufCrm8CsNegativeClose] => 
+            [ufCrm8CsNoCloseDebt] => N
+            [ufCrm8CsTemplateClient] => N
+            [ufCrm8CsTemplateInternational] => N
+            [ufCrm8CsScanDoc] => Array
+                (
+                    [0] => 3334|https://cdn-ru.bitrix24.ru/b27193526/disk/d89/d89b60801594b5d3a1c006063ac89d72/6a44a39edf1c482e3ab1ed4ef594993d
+                )
+
+            [ufCrm8CsLoadAddressShort] => 
+            [ufCrm8CsUnloadAddressShort] => 
+            [ufCrm8CsGenerateDoc] => 
+            [assignedById] => 12
+            [lastActivityBy] => 1
+            [lastActivityTime] => 2024-05-21T17:52:07+03:00
+            [parentId2] => 534
+            [parentId31] => 
+            [parentId130] => 482
+            [parentId155] => 
+            [parentId157] => 
+            [parentId176] => 
+            [utmSource] => 
+            [utmMedium] => 
+            [utmCampaign] => 
+            [utmContent] => 
+            [utmTerm] => 
+            [observers] => Array
+                (
+                )
+
+            [contactIds] => Array
+                (
+                )
+
+            [entityTypeId] => 162
+        )
+
+)

@@ -1,0 +1,37 @@
+---------------------30.10.2025MSK10:52:25
+Array
+(
+    [DOMAIN] => avega.brokci.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5ebc1ee988e4e3ef412fe952bcdec89f
+    [AUTH_ID] => 492703690054c69e005029a000000072201c0747cc87e9502e99ee97fa12bcc1bb9329
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 39a62a690054c69e005029a000000072201c0727aba0ef596712b11fc61e0dc22169b3
+    [member_id] => fe8460d3a2d25aa3019490f2bab1c740
+    [status] => S
+    [PLACEMENT] => USERFIELD_TYPE
+    [PLACEMENT_OPTIONS] => {&quot;MODE&quot;:&quot;view&quot;,&quot;ENTITY_ID&quot;:&quot;CRM_DEAL&quot;,&quot;FIELD_NAME&quot;:&quot;UF_CRM_1738073921981&quot;,&quot;ENTITY_VALUE_ID&quot;:&quot;19525&quot;,&quot;VALUE&quot;:null,&quot;MULTIPLE&quot;:&quot;N&quot;,&quot;MANDATORY&quot;:&quot;N&quot;,&quot;XML_ID&quot;:null,&quot;ENTITY_DATA&quot;:{&quot;entityTypeId&quot;:2,&quot;entityId&quot;:&quot;19525&quot;,&quot;module&quot;:&quot;crm&quot;}}
+    [id] => 19525
+    [app] => scan_doc
+    [type] => deal
+    [CACHE_TYPE] => A
+    [~DOMAIN] => avega.brokci.ru
+    [~PROTOCOL] => 1
+    [~LANG] => ru
+    [~APP_SID] => 5ebc1ee988e4e3ef412fe952bcdec89f
+    [~AUTH_ID] => 492703690054c69e005029a000000072201c0747cc87e9502e99ee97fa12bcc1bb9329
+    [~AUTH_EXPIRES] => 3600
+    [~REFRESH_ID] => 39a62a690054c69e005029a000000072201c0727aba0ef596712b11fc61e0dc22169b3
+    [~member_id] => fe8460d3a2d25aa3019490f2bab1c740
+    [~status] => S
+    [~PLACEMENT] => USERFIELD_TYPE
+    [~PLACEMENT_OPTIONS] => {"MODE":"view","ENTITY_ID":"CRM_DEAL","FIELD_NAME":"UF_CRM_1738073921981","ENTITY_VALUE_ID":"19525","VALUE":null,"MULTIPLE":"N","MANDATORY":"N","XML_ID":null,"ENTITY_DATA":{"entityTypeId":2,"entityId":"19525","module":"crm"}}
+    [~id] => 19525
+    [~app] => scan_doc
+    [~type] => deal
+    [~CACHE_TYPE] => A
+)
+
+arPhoto
+

@@ -1,0 +1,38 @@
+---------------------28.08.2025MSK00:24:31
+Array
+(
+    [event] => ONCRMDEALADD
+    [event_handler_id] => 533
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 441
+                )
+
+        )
+
+    [ts] => 1756329871
+    [auth] => Array
+        (
+            [access_token] => 9f85af6800579b1a0073d9ee00000afb0000077c81356be70b5e75fc92e30bd6ad0dbc
+            [expires] => 1756333471
+            [expires_in] => 3600
+            [scope] => crm,placement,user_basic,entity,userfieldconfig
+            [domain] => alexstar.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://alexstar.bitrix24.ru/rest/
+            [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+            [user_id] => 2811
+            [application_token] => bce81b49b8cb383b67633065b9b0edca
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 2
+)
+

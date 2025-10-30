@@ -1,0 +1,92 @@
+---------------------23.10.2025MSK19:56:06
+Array
+(
+    [webhookType] => offersMessages
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chatId] => 183074696
+                    [offerId] => 317413114
+                    [createdAt] => 2025-10-23T16:56:05.510873+00:00
+                    [updatedAt] => 2025-10-23T16:56:05.615795+00:00
+                    [messages] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [messageId] => 6480bbd783d4d24f53de9a5e12e9b85cf83bcd91e5b2b68d56d57767842e486a
+                                    [userId] => 129176569
+                                    [userRole] => initiator
+                                    [direction] => in
+                                    [content] => Array
+                                        (
+                                            [text] => Добрый день-  ищу агентов для сотрудничества, продаю доходные апартаменты  формата ГАБ- цена ниже застройщика, большой объем  (около 130 штук)
+Если интересно, напишите мне на вотсап 8 903 714 83 42  Михаил (Собственник)
+                                            [offers] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                    [createdAt] => 2025-10-23T16:56:05.615795+00:00
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [userId] => 129176569
+                    [name] => Михаил Подснежный
+                    [firstName] => Михаил
+                    [lastName] => Подснежный 
+                    [avatar] => Array
+                        (
+                            [images] => Array
+                                (
+                                    [small] => https://www.cian.ru/avatar.axd?i=129176569&t=2&p=1
+                                    [big] => https://www.cian.ru/avatar.axd?i=129176569&t=2&p=2
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [offers] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 317413114
+                    [userId] => 101936179
+                    [url] => https://cian.ru/sale/flat/317413114/
+                    [title] => 2-комн. ап., 48,2 м², 2/6 этаж
+                    [address] => Москва, 2-й Гончарный переулок, 3
+                    [publishedUserId] => 101936179
+                    [mainPhoto] => Array
+                        (
+                            [miniUrl] => https://images.cdn-cian.ru/images/kvartira-moskva-2y-goncharnyy-pereulok-2486159918-3.jpg
+                            [url] => https://images.cdn-cian.ru/images/kvartira-moskva-2y-goncharnyy-pereulok-2486159918-1.jpg
+                        )
+
+                    [price] => 22 654 000 ₽
+                )
+
+        )
+
+)
+
+memberId
+43f7c5be8cd66aa16eb77d9f4b23464e
+rest
+Array
+(
+    [ID] => 62
+)
+

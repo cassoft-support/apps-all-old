@@ -1,0 +1,33 @@
+---------------------24.10.2025MSK11:28:12
+Array
+(
+    [event] => ONCRMINVOICEUPDATE
+    [event_handler_id] => 1306
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 23042
+                )
+
+        )
+
+    [ts] => 1761294492
+    [auth] => Array
+        (
+            [access_token] => ac46fb68005d64e600457fa600002e740000075fd7309f4737a8345067311403eb20ff
+            [expires] => 1761298092
+            [expires_in] => 3600
+            [scope] => user_brief,crm,entity
+            [domain] => b24-rlsdyj.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://b24-rlsdyj.bitrix24.ru/rest/
+            [member_id] => 081164e47161805576a4b1b330a8c2e5
+            [user_id] => 11892
+            [application_token] => 55de18f9ebee014497b18c0172196472
+        )
+
+    [app] => gas_mix
+)
+

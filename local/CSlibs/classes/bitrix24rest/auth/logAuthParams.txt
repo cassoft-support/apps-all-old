@@ -1,0 +1,136 @@
+---------------------30.10.2025MSK10:53:41
+Array
+(
+    [event] => ONCRMCONTACTUPDATE
+    [event_handler_id] => 119
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 31521
+                )
+
+        )
+
+    [ts] => 1761810820
+    [auth] => Array
+        (
+            [access_token] => 95270369005d64e6003681b800000074000006692f736263f2730ab20bbe16656b9b5a
+            [expires] => 1761814421
+            [expires_in] => 3600
+            [scope] => user_brief,crm,entity
+            [domain] => portal.center-dpo.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://portal.center-dpo.ru/rest/
+            [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+            [user_id] => 116
+            [application_token] => 2450fc02881f82cd2c21b8c51b96d250
+        )
+
+)
+
+member
+30dc8f05dc46a5cce6f6b44abaf8262e
+client
+Array
+(
+    [ID] => 108
+    [UF_CS_CLIENT_PORTAL_MEMBER_ID] => 30dc8f05dc46a5cce6f6b44abaf8262e
+    [UF_CS_CLIENT_PORTAL_DOMEN] => portal.center-dpo.ru
+    [UF_CS_CLIENT_PORTAL_ACCESS_TOKEN] => 2eaa6b68005d64e6003681b80000007400000709abd336f29a307d456584f3354772da
+    [UF_CS_CLIENT_PORTAL_REFRESH_TOKEN] => 1e299368005d64e6003681b800000074000007a9b2fd3845743d521499c4a84c88cb7d
+    [UF_DATE_UP] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2025-07-07 13:06:40.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_DATA_CLOSE] => 
+    [UF_ACTIVE] => 1
+    [UF_CS_FOLDER] => CAZh8gGYPWtFI
+    [UF_ID_OLD] => 
+    [UF_MAIN] => 0
+)
+
+main
+
+appParams
+Array
+(
+    [ID] => 8
+    [UF_APP_NAME] => change_assigned
+    [UF_NAME] => Смена ответственного
+    [UF_PATCH] => 
+    [UF_HANDLER] => 
+    [UF_INDEX] => 
+    [UF_REDIRECT_URL] => 
+    [UF_B24_APPLICATION_SECRET] => IQ6pWIE0GtT4IgjuqNfrJVMlNIPiAxX8HtvZVg3pxZhs9RO3at
+    [UF_B24_APPLICATION_ID] => app.630739ad57e836.13714206
+    [UF_B24_APPLICATION_SCOPE] => Array
+        (
+            [1] => 1
+            [2] => 2
+        )
+
+    [UF_ACCESSES] => 
+    [UF_ENTITY] => Array
+        (
+        )
+
+    [UF_SMART] => Array
+        (
+        )
+
+    [UF_FIELDS_USER] => Array
+        (
+        )
+
+    [UF_FIELDS_QUOTE] => Array
+        (
+        )
+
+    [UF_FIELDS_REQUISITE] => Array
+        (
+        )
+
+    [UF_PLACEMENT] => Array
+        (
+        )
+
+    [UF_EVENT] => Array
+        (
+        )
+
+    [UF_ID_WAPPI] => 
+    [UF_TOKEN_WAPPI] => 
+    [UF_HH_ID] => 
+    [UF_HH_KEY] => 
+    [UF_USER_FIELD_TYPE] => Array
+        (
+        )
+
+    [UF_FIELDS_LEAD] => Array
+        (
+        )
+
+    [UF_FIELDS_DEAL] => Array
+        (
+        )
+
+    [UF_FIELDS_CONTACT] => Array
+        (
+        )
+
+    [UF_FIELDS_COMPANY] => Array
+        (
+        )
+
+)
+

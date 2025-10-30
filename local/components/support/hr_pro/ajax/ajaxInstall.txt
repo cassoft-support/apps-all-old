@@ -1,0 +1,10 @@
+30.07.2023MSK15:34
+Array
+(
+    [Array] => 
+)
+Array
+(
+    [error] => no_install_app
+    [error_information] => error install app, pls install local application 
+)

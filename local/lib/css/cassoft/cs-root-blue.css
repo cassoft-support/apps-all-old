@@ -1,0 +1,13 @@
+:root {
+    --main-bg-color-hover: <?=$arResult["SETTINGS"]["COLOR"]["main-bg-color-hover"]?>;
+    --main-bg-color: #058df0;
+    /* #3bc8f5       #0069c4;*/
+    --primary-gradient: linear-gradient(135deg, <?=$arResult["SETTINGS"]["COLOR"]["main-bg-color"]?> 69.91%, <?=$arResult["SETTINGS"]["COLOR"]["primary-gradient"]?>);
+    --primary-gradient-webkit: -webkit-linear-gradient(135deg, <?=$arResult["SETTINGS"]["COLOR"]["main-bg-color"]?> 69.91%, <?=$arResult["SETTINGS"]["COLOR"]["primary-gradient"]?>);
+    --main-font-color: #444;
+    --main-font-family: "Roboto", Helvetica, Arial, sans-serif;
+    --filter-conteiner-bg-img: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9)), url(<?=$arResult["SETTINGS"]["COLOR"]["filter-conteiner-bg-img"]?>);
+    --main-bru: rgba(10, 218, 236, 0.25);
+    --ui-btn-radius: calc(var(--ui-btn-height) / 2);
+    --ui-btn-height: 34px;
+}

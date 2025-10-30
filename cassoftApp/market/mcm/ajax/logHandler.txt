@@ -1,0 +1,22 @@
+---------------------05.07.2025MSK16:00:47
+Array
+(
+    [DOMAIN] => cassoft.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a495519aaa10008fce55c3e8f9b5e237
+    [AUTH_ID] => 0f30696800579b0e0036d5840000000100000763894fd51f9b40151c55128471edf285
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ffae906800579b0e0036d58400000001000007dd437846bb6d0585dafd3d776e070e42
+    [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [status] => S
+    [PLACEMENT] => SETTING_CONNECTOR
+    [PLACEMENT_OPTIONS] => {"CONNECTOR":"cs_mcm_telegram","LINE":"3","STATUS":true,"ACTIVE_STATUS":true,"CONNECTION_STATUS":true,"REGISTER_STATUS":true,"ERROR_STATUS":false}
+)
+
+rest
+Array
+(
+    [ID] => 4
+)
+

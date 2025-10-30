@@ -1,0 +1,35 @@
+---------------------30.10.2025MSK08:44:27
+start
+REQUEST
+Array
+(
+    [event] => ONCRMDYNAMICITEMADD
+    [event_handler_id] => 2961
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 1639
+                    [ENTITY_TYPE_ID] => 31
+                )
+
+        )
+
+    [ts] => 1761803065
+    [auth] => Array
+        (
+            [access_token] => 4b090369005567d60036d58400000011000007846a533e705f81e6dffd2d294c7c0ae1
+            [expires] => 1761806667
+            [expires_in] => 3600
+            [scope] => crm,entity,user_brief,user.userfield,placement,userfieldconfig,im,disk,ai_admin
+            [domain] => cassoft.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://cassoft.bitrix24.ru/rest/
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [user_id] => 17
+            [application_token] => fb274d8e5eeec7c09b5e2030c9de0014
+        )
+
+)
+

@@ -1,0 +1,781 @@
+PaySystemArray
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 2
+                    [NAME] => CS-Modulbank-invoice
+                    [CODE] => cs_modulbank_invoice
+                    [SORT] => 100
+                    [SETTINGS] => Array
+                        (
+                            [CURRENCY] => RUB
+                            [FORM_DATA] => Array
+                                (
+                                    [ACTION_URI] => https://city.brokci.ru/pub/cassoftApp/cloudReceiptsMB/tools/modulbankInvoice.php
+                                    [METHOD] => POST
+                                    [PARAMS] => Array
+                                        (
+                                            [merchant] => MERCHANT
+                                            [member] => MEMBER
+                                            [sum] => PAYMENT_SHOULD_PAY
+                                            [customer] => PAYMENT_BUYER_ID
+                                            [PAYMENT_ID] => PAYMENT_ID
+                                            [ORDER_ID] => ORDER_ID
+                                            [ACCOUNT_NUMBER] => ACCOUNT_NUMBER
+                                            [DATE_INSERT] => PAYMENT_DATE_INSERT
+                                        )
+
+                                )
+
+                            [CODES] => Array
+                                (
+                                    [MERCHANT] => Array
+                                        (
+                                            [NAME] => Идентификатор магазина
+                                            [DESCRIPTION] => Идентификатор магазина клиента в системе Modulbank
+                                            [SORT] => 10
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => VALUE
+                                                    [PROVIDER_VALUE] => 
+                                                )
+
+                                        )
+
+                                    [MEMBER] => Array
+                                        (
+                                            [NAME] => Идентификатор клиента
+                                            [DESCRIPTION] => Идентификатор клиента на портале
+                                            [SORT] => 100
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => VALUE
+                                                    [PROVIDER_VALUE] => 1e1aab0688dc45667e186743770eb63d
+                                                )
+
+                                        )
+
+                                    [PAYMENT_ID] => Array
+                                        (
+                                            [NAME] => Номер оплаты
+                                            [SORT] => 200
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => ID
+                                                )
+
+                                        )
+
+                                    [ORDER_ID] => Array
+                                        (
+                                            [NAME] => Код оплаты
+                                            [SORT] => 300
+                                            [GROUP] => ORDER
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => ORDER
+                                                    [PROVIDER_VALUE] => ID
+                                                )
+
+                                        )
+
+                                    [ACCOUNT_NUMBER] => Array
+                                        (
+                                            [NAME] => Номер платежа
+                                            [SORT] => 400
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => ACCOUNT_NUMBER
+                                                )
+
+                                        )
+
+                                    [PAYMENT_SHOULD_PAY] => Array
+                                        (
+                                            [NAME] => Сумма оплаты
+                                            [SORT] => 500
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => SUM
+                                                )
+
+                                        )
+
+                                    [PAYMENT_DATE_INSERT] => Array
+                                        (
+                                            [NAME] => Дата оплаты
+                                            [SORT] => 600
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => DATE_BILL_DATE
+                                                )
+
+                                        )
+
+                                    [PAYMENT_BUYER_ID] => Array
+                                        (
+                                            [NAME] => Код плательщика
+                                            [SORT] => 700
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => ORDER
+                                                    [PROVIDER_VALUE] => USER_ID
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [ID] => 4
+                    [NAME] => CS-Modulbank-order
+                    [CODE] => cs_modulbank_order
+                    [SORT] => 100
+                    [SETTINGS] => Array
+                        (
+                            [CURRENCY] => RUB
+                            [FORM_DATA] => Array
+                                (
+                                    [ACTION_URI] => https://city.brokci.ru/pub/cassoftApp/cloudReceiptsMB/tools/modulbankOrder.php
+                                    [METHOD] => POST
+                                    [PARAMS] => Array
+                                        (
+                                            [merchant] => MERCHANT
+                                            [member] => MEMBER
+                                            [sum] => PAYMENT_SHOULD_PAY
+                                            [customer] => PAYMENT_BUYER_ID
+                                            [PAYMENT_ID] => PAYMENT_ID
+                                            [ORDER_ID] => ORDER_ID
+                                            [ACCOUNT_NUMBER] => ACCOUNT_NUMBER
+                                            [DATE_INSERT] => PAYMENT_DATE_INSERT
+                                        )
+
+                                )
+
+                            [CODES] => Array
+                                (
+                                    [MERCHANT] => Array
+                                        (
+                                            [NAME] => Идентификатор магазина
+                                            [DESCRIPTION] => Идентификатор магазина клиента в системе Modulbank
+                                            [SORT] => 10
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => VALUE
+                                                    [PROVIDER_VALUE] => 
+                                                )
+
+                                        )
+
+                                    [MEMBER] => Array
+                                        (
+                                            [NAME] => Идентификатор клиента
+                                            [DESCRIPTION] => Идентификатор клиента на портале
+                                            [SORT] => 100
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => VALUE
+                                                    [PROVIDER_VALUE] => 1e1aab0688dc45667e186743770eb63d
+                                                )
+
+                                        )
+
+                                    [PAYMENT_ID] => Array
+                                        (
+                                            [NAME] => Номер оплаты
+                                            [SORT] => 200
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => ID
+                                                )
+
+                                        )
+
+                                    [ORDER_ID] => Array
+                                        (
+                                            [NAME] => Код оплаты
+                                            [SORT] => 300
+                                            [GROUP] => ORDER
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => ORDER
+                                                    [PROVIDER_VALUE] => ID
+                                                )
+
+                                        )
+
+                                    [ACCOUNT_NUMBER] => Array
+                                        (
+                                            [NAME] => Номер платежа
+                                            [SORT] => 400
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => ACCOUNT_NUMBER
+                                                )
+
+                                        )
+
+                                    [PAYMENT_SHOULD_PAY] => Array
+                                        (
+                                            [NAME] => Сумма оплаты
+                                            [SORT] => 500
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => SUM
+                                                )
+
+                                        )
+
+                                    [PAYMENT_DATE_INSERT] => Array
+                                        (
+                                            [NAME] => Дата оплаты
+                                            [SORT] => 600
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => DATE_BILL_DATE
+                                                )
+
+                                        )
+
+                                    [PAYMENT_BUYER_ID] => Array
+                                        (
+                                            [NAME] => Код плательщика
+                                            [SORT] => 700
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => ORDER
+                                                    [PROVIDER_VALUE] => USER_ID
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1685178748.6981
+            [finish] => 1685178748.7387
+            [duration] => 0.040617942810059
+            [processing] => 0.0039670467376709
+            [date_start] => 2023-05-27T12:12:28+03:00
+            [date_finish] => 2023-05-27T12:12:28+03:00
+            [operating_reset_at] => 1685179348
+            [operating] => 0
+        )
+
+)
+обновление обработчика
+Array
+(
+    [result] => 1
+    [time] => Array
+        (
+            [start] => 1685178748.7935
+            [finish] => 1685178748.8389
+            [duration] => 0.045399904251099
+            [processing] => 0.0062680244445801
+            [date_start] => 2023-05-27T12:12:28+03:00
+            [date_finish] => 2023-05-27T12:12:28+03:00
+            [operating_reset_at] => 1685179348
+            [operating] => 0
+        )
+
+)
+Array
+(
+    [result] => 1
+    [time] => Array
+        (
+            [start] => 1685178748.9718
+            [finish] => 1685178749.0163
+            [duration] => 0.044449090957642
+            [processing] => 0.0049240589141846
+            [date_start] => 2023-05-27T12:12:28+03:00
+            [date_finish] => 2023-05-27T12:12:29+03:00
+            [operating_reset_at] => 1685179349
+            [operating] => 0
+        )
+
+)
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 2
+                    [NAME] => CS-Modulbank-invoice
+                    [CODE] => cs_modulbank_invoice
+                    [SORT] => 100
+                    [SETTINGS] => Array
+                        (
+                            [CURRENCY] => RUB
+                            [FORM_DATA] => Array
+                                (
+                                    [ACTION_URI] => https://city.brokci.ru/pub/cassoftApp/cloudReceiptsMB/tools/modulbankInvoice.php
+                                    [METHOD] => POST
+                                    [PARAMS] => Array
+                                        (
+                                            [merchant] => MERCHANT
+                                            [member] => MEMBER
+                                            [sum] => PAYMENT_SHOULD_PAY
+                                            [customer] => PAYMENT_BUYER_ID
+                                            [PAYMENT_ID] => PAYMENT_ID
+                                            [ORDER_ID] => ORDER_ID
+                                            [ACCOUNT_NUMBER] => ACCOUNT_NUMBER
+                                            [DATE_INSERT] => PAYMENT_DATE_INSERT
+                                        )
+
+                                )
+
+                            [CODES] => Array
+                                (
+                                    [MERCHANT] => Array
+                                        (
+                                            [NAME] => Идентификатор магазина
+                                            [DESCRIPTION] => Идентификатор магазина клиента в системе Modulbank
+                                            [SORT] => 10
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => VALUE
+                                                    [PROVIDER_VALUE] => 
+                                                )
+
+                                        )
+
+                                    [MEMBER] => Array
+                                        (
+                                            [NAME] => Идентификатор клиента
+                                            [DESCRIPTION] => Идентификатор клиента на портале
+                                            [SORT] => 100
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => VALUE
+                                                    [PROVIDER_VALUE] => 1e1aab0688dc45667e186743770eb63d
+                                                )
+
+                                        )
+
+                                    [PAYMENT_ID] => Array
+                                        (
+                                            [NAME] => Номер оплаты
+                                            [SORT] => 200
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => ID
+                                                )
+
+                                        )
+
+                                    [ORDER_ID] => Array
+                                        (
+                                            [NAME] => Код оплаты
+                                            [SORT] => 300
+                                            [GROUP] => ORDER
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => ORDER
+                                                    [PROVIDER_VALUE] => ID
+                                                )
+
+                                        )
+
+                                    [ACCOUNT_NUMBER] => Array
+                                        (
+                                            [NAME] => Номер платежа
+                                            [SORT] => 400
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => ACCOUNT_NUMBER
+                                                )
+
+                                        )
+
+                                    [PAYMENT_SHOULD_PAY] => Array
+                                        (
+                                            [NAME] => Сумма оплаты
+                                            [SORT] => 500
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => SUM
+                                                )
+
+                                        )
+
+                                    [PAYMENT_DATE_INSERT] => Array
+                                        (
+                                            [NAME] => Дата оплаты
+                                            [SORT] => 600
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => DATE_BILL_DATE
+                                                )
+
+                                        )
+
+                                    [PAYMENT_BUYER_ID] => Array
+                                        (
+                                            [NAME] => Код плательщика
+                                            [SORT] => 700
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => ORDER
+                                                    [PROVIDER_VALUE] => USER_ID
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [ID] => 4
+                    [NAME] => CS-Modulbank-order
+                    [CODE] => cs_modulbank_order
+                    [SORT] => 100
+                    [SETTINGS] => Array
+                        (
+                            [CURRENCY] => RUB
+                            [FORM_DATA] => Array
+                                (
+                                    [ACTION_URI] => https://city.brokci.ru/pub/cassoftApp/cloudReceiptsMB/tools/modulbankOrder.php
+                                    [METHOD] => POST
+                                    [PARAMS] => Array
+                                        (
+                                            [merchant] => MERCHANT
+                                            [member] => MEMBER
+                                            [sum] => PAYMENT_SHOULD_PAY
+                                            [customer] => PAYMENT_BUYER_ID
+                                            [PAYMENT_ID] => PAYMENT_ID
+                                            [ORDER_ID] => ORDER_ID
+                                            [ACCOUNT_NUMBER] => ACCOUNT_NUMBER
+                                            [DATE_INSERT] => PAYMENT_DATE_INSERT
+                                        )
+
+                                )
+
+                            [CODES] => Array
+                                (
+                                    [MERCHANT] => Array
+                                        (
+                                            [NAME] => Идентификатор магазина
+                                            [DESCRIPTION] => Идентификатор магазина клиента в системе Modulbank
+                                            [SORT] => 10
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => VALUE
+                                                    [PROVIDER_VALUE] => 
+                                                )
+
+                                        )
+
+                                    [MEMBER] => Array
+                                        (
+                                            [NAME] => Идентификатор клиента
+                                            [DESCRIPTION] => Идентификатор клиента на портале
+                                            [SORT] => 100
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => VALUE
+                                                    [PROVIDER_VALUE] => 1e1aab0688dc45667e186743770eb63d
+                                                )
+
+                                        )
+
+                                    [PAYMENT_ID] => Array
+                                        (
+                                            [NAME] => Номер оплаты
+                                            [SORT] => 200
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => ID
+                                                )
+
+                                        )
+
+                                    [ORDER_ID] => Array
+                                        (
+                                            [NAME] => Код оплаты
+                                            [SORT] => 300
+                                            [GROUP] => ORDER
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => ORDER
+                                                    [PROVIDER_VALUE] => ID
+                                                )
+
+                                        )
+
+                                    [ACCOUNT_NUMBER] => Array
+                                        (
+                                            [NAME] => Номер платежа
+                                            [SORT] => 400
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => ACCOUNT_NUMBER
+                                                )
+
+                                        )
+
+                                    [PAYMENT_SHOULD_PAY] => Array
+                                        (
+                                            [NAME] => Сумма оплаты
+                                            [SORT] => 500
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => SUM
+                                                )
+
+                                        )
+
+                                    [PAYMENT_DATE_INSERT] => Array
+                                        (
+                                            [NAME] => Дата оплаты
+                                            [SORT] => 600
+                                            [GROUP] => PAYMENT
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => PAYMENT
+                                                    [PROVIDER_VALUE] => DATE_BILL_DATE
+                                                )
+
+                                        )
+
+                                    [PAYMENT_BUYER_ID] => Array
+                                        (
+                                            [NAME] => Код плательщика
+                                            [SORT] => 700
+                                            [DEFAULT] => Array
+                                                (
+                                                    [PROVIDER_KEY] => ORDER
+                                                    [PROVIDER_VALUE] => USER_ID
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1685178749.1501
+            [finish] => 1685178749.1976
+            [duration] => 0.047502040863037
+            [processing] => 0.0032329559326172
+            [date_start] => 2023-05-27T12:12:29+03:00
+            [date_finish] => 2023-05-27T12:12:29+03:00
+            [operating_reset_at] => 1685179349
+            [operating] => 0
+        )
+
+)
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 14
+                    [PERSON_TYPE_ID] => 6
+                    [NAME] => Modulbank(Физическое лицо)
+                    [PSA_NAME] => Modulbank(Физическое лицо)
+                    [SORT] => 100
+                    [DESCRIPTION] => Платежная система Модульбанк
+                    [ACTION_FILE] => cs_modulbank_order
+                    [RESULT_FILE] => 
+                    [NEW_WINDOW] => N
+                    [PS_MODE] => 
+                    [HAVE_PAYMENT] => N
+                    [HAVE_ACTION] => N
+                    [HAVE_RESULT] => N
+                    [HAVE_PREPAY] => N
+                    [HAVE_PRICE] => N
+                    [HAVE_RESULT_RECEIVE] => Y
+                    [ENCODING] => 
+                    [ACTIVE] => Y
+                    [ALLOW_EDIT_PAYMENT] => Y
+                    [IS_CASH] => N
+                    [AUTO_CHANGE_1C] => N
+                    [CAN_PRINT_CHECK] => N
+                    [ENTITY_REGISTRY_TYPE] => ORDER
+                    [XML_ID] => 
+                    [LOGOTYPE] => 116304
+                    [TARIFF] => 
+                )
+
+            [1] => Array
+                (
+                    [ID] => 16
+                    [PERSON_TYPE_ID] => 8
+                    [NAME] => Modulbank(Юридическое лицо)
+                    [PSA_NAME] => Modulbank(Юридическое лицо)
+                    [SORT] => 100
+                    [DESCRIPTION] => Платежная система Модульбанк
+                    [ACTION_FILE] => cs_modulbank_order
+                    [RESULT_FILE] => 
+                    [NEW_WINDOW] => N
+                    [PS_MODE] => 
+                    [HAVE_PAYMENT] => N
+                    [HAVE_ACTION] => N
+                    [HAVE_RESULT] => N
+                    [HAVE_PREPAY] => N
+                    [HAVE_PRICE] => N
+                    [HAVE_RESULT_RECEIVE] => Y
+                    [ENCODING] => 
+                    [ACTIVE] => Y
+                    [ALLOW_EDIT_PAYMENT] => Y
+                    [IS_CASH] => N
+                    [AUTO_CHANGE_1C] => N
+                    [CAN_PRINT_CHECK] => N
+                    [ENTITY_REGISTRY_TYPE] => ORDER
+                    [XML_ID] => 
+                    [LOGOTYPE] => 116306
+                    [TARIFF] => 
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1685178749.279
+            [finish] => 1685178749.3231
+            [duration] => 0.044066190719604
+            [processing] => 0.0068411827087402
+            [date_start] => 2023-05-27T12:12:29+03:00
+            [date_finish] => 2023-05-27T12:12:29+03:00
+            [operating_reset_at] => 1685179349
+            [operating] => 0
+        )
+
+)
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 18
+                    [PERSON_TYPE_ID] => 2
+                    [NAME] => Modulbank(CRM_COMPANY)
+                    [PSA_NAME] => Modulbank(CRM_COMPANY)
+                    [SORT] => 100
+                    [DESCRIPTION] => Платежная система Модульбанк
+                    [ACTION_FILE] => cs_modulbank_invoice
+                    [RESULT_FILE] => 
+                    [NEW_WINDOW] => N
+                    [PS_MODE] => 
+                    [HAVE_PAYMENT] => N
+                    [HAVE_ACTION] => N
+                    [HAVE_RESULT] => N
+                    [HAVE_PREPAY] => N
+                    [HAVE_PRICE] => N
+                    [HAVE_RESULT_RECEIVE] => Y
+                    [ENCODING] => 
+                    [ACTIVE] => Y
+                    [ALLOW_EDIT_PAYMENT] => Y
+                    [IS_CASH] => N
+                    [AUTO_CHANGE_1C] => N
+                    [CAN_PRINT_CHECK] => N
+                    [ENTITY_REGISTRY_TYPE] => CRM_INVOICE
+                    [XML_ID] => 
+                    [LOGOTYPE] => 116308
+                    [TARIFF] => 
+                )
+
+            [1] => Array
+                (
+                    [ID] => 20
+                    [PERSON_TYPE_ID] => 4
+                    [NAME] => Modulbank(CRM_CONTACT)
+                    [PSA_NAME] => Modulbank(CRM_CONTACT)
+                    [SORT] => 100
+                    [DESCRIPTION] => Платежная система Модульбанк
+                    [ACTION_FILE] => cs_modulbank_invoice
+                    [RESULT_FILE] => 
+                    [NEW_WINDOW] => N
+                    [PS_MODE] => 
+                    [HAVE_PAYMENT] => N
+                    [HAVE_ACTION] => N
+                    [HAVE_RESULT] => N
+                    [HAVE_PREPAY] => N
+                    [HAVE_PRICE] => N
+                    [HAVE_RESULT_RECEIVE] => Y
+                    [ENCODING] => 
+                    [ACTIVE] => Y
+                    [ALLOW_EDIT_PAYMENT] => Y
+                    [IS_CASH] => N
+                    [AUTO_CHANGE_1C] => N
+                    [CAN_PRINT_CHECK] => N
+                    [ENTITY_REGISTRY_TYPE] => CRM_INVOICE
+                    [XML_ID] => 
+                    [LOGOTYPE] => 116310
+                    [TARIFF] => 
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1685178749.3962
+            [finish] => 1685178749.4383
+            [duration] => 0.042037963867188
+            [processing] => 0.0034439563751221
+            [date_start] => 2023-05-27T12:12:29+03:00
+            [date_finish] => 2023-05-27T12:12:29+03:00
+            [operating_reset_at] => 1685179349
+            [operating] => 0
+        )
+
+)

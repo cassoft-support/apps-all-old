@@ -1,0 +1,16 @@
+---------------------23.10.2025MSK16:55:19
+Array
+(
+    [DOMAIN] => 1983.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4d5a9c94ff0feeb08bd6855127848d55
+    [AUTH_ID] => d741fa6800543a28007d300e000000060000078cc6564bc66b700d400b723ff712a3a5
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c7c0216900543a28007d300e000000060000076e5653ed7e0dc33688eee07b0cc501a6
+    [member_id] => fc8c33f2a71aea8e680c1df897819548
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"6\/"}
+)
+

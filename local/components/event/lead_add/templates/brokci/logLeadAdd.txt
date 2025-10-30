@@ -1,0 +1,101 @@
+---------------------01.09.2024MSK12:59:52
+start
+reg
+Array
+(
+    [event] => ONCRMLEADADD
+    [event_handler_id] => 142
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 4
+                )
+
+        )
+
+    [ts] => 1725184790
+    [auth] => Array
+        (
+            [access_token] => 2849d4660059140800708260000000040000069435466f7f22cdc2228c2a81502d7efa
+            [expires] => 1725188392
+            [expires_in] => 3600
+            [scope] => crm,entity,im,user_basic,user.userfield,disk,imopenlines,placement,mobile,catalog,userfieldconfig,documentgenerator,pull,messageservice,imbot,bizproc,task,landing,sale,rpa
+            [domain] => b24-wjby2m.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => F
+            [client_endpoint] => https://b24-wjby2m.bitrix24.ru/rest/
+            [member_id] => 4ba178595ff6ed06e24b15ac94fb4293
+            [user_id] => 4
+            [application_token] => daf5d4b92d8e0171ba8cbc651e517e86
+        )
+
+)
+
+params
+Array
+(
+    [event] => ONCRMLEADADD
+    [event_handler_id] => 142
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 4
+                )
+
+        )
+
+    [ts] => 1725184790
+    [auth] => Array
+        (
+            [access_token] => 2849d4660059140800708260000000040000069435466f7f22cdc2228c2a81502d7efa
+            [expires] => 1725188392
+            [expires_in] => 3600
+            [scope] => crm,entity,im,user_basic,user.userfield,disk,imopenlines,placement,mobile,catalog,userfieldconfig,documentgenerator,pull,messageservice,imbot,bizproc,task,landing,sale,rpa
+            [domain] => b24-wjby2m.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => F
+            [client_endpoint] => https://b24-wjby2m.bitrix24.ru/rest/
+            [member_id] => 4ba178595ff6ed06e24b15ac94fb4293
+            [user_id] => 4
+            [application_token] => daf5d4b92d8e0171ba8cbc651e517e86
+        )
+
+    [app] => brokci
+    [leadId] => 4
+    [CACHE_TYPE] => A
+    [~event] => ONCRMLEADADD
+    [~event_handler_id] => 142
+    [~data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 4
+                )
+
+        )
+
+    [~ts] => 1725184790
+    [~auth] => Array
+        (
+            [access_token] => 2849d4660059140800708260000000040000069435466f7f22cdc2228c2a81502d7efa
+            [expires] => 1725188392
+            [expires_in] => 3600
+            [scope] => crm,entity,im,user_basic,user.userfield,disk,imopenlines,placement,mobile,catalog,userfieldconfig,documentgenerator,pull,messageservice,imbot,bizproc,task,landing,sale,rpa
+            [domain] => b24-wjby2m.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => F
+            [client_endpoint] => https://b24-wjby2m.bitrix24.ru/rest/
+            [member_id] => 4ba178595ff6ed06e24b15ac94fb4293
+            [user_id] => 4
+            [application_token] => daf5d4b92d8e0171ba8cbc651e517e86
+        )
+
+    [~app] => brokci
+    [~leadId] => 4
+    [~CACHE_TYPE] => A
+)
+
+lead
+ - id is not defined or invalid.

@@ -1,0 +1,38 @@
+---------------------30.10.2025MSK10:51:40
+Array
+(
+    [event] => ONCRMLEADADD
+    [event_handler_id] => 141
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 1563
+                )
+
+        )
+
+    [ts] => 1761810699
+    [auth] => Array
+        (
+            [access_token] => 1b27036900579b0e007cc02e0000000100000679fb64776953308cd9a38ca24bc30397
+            [expires] => 1761814299
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement,rpa,mobile,disk,userfieldconfig,contact_center,bizproc
+            [domain] => b24-4uyk7x.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://b24-4uyk7x.bitrix24.ru/rest/
+            [member_id] => 97ec0b40792b93bac6f3d227569d3c64
+            [user_id] => 1
+            [application_token] => c2a5a5a41d57451df40c0a71cda33691
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 16
+)
+

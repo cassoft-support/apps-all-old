@@ -1,0 +1,101 @@
+---------------------30.12.2024MSK11:12:52
+start
+reg
+Array
+(
+    [event] => ONCRMLEADADD
+    [event_handler_id] => 67
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 8803
+                )
+
+        )
+
+    [ts] => 1735546372
+    [auth] => Array
+        (
+            [access_token] => 14647267005567d6006edb080000003b000006574d5b28eb6e5e11411e645b03a3baa5
+            [expires] => 1735549972
+            [expires_in] => 3600
+            [scope] => crm,entity,user_brief,user.userfield,placement,userfieldconfig,im,disk
+            [domain] => beregone.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => F
+            [client_endpoint] => https://beregone.bitrix24.ru/rest/
+            [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+            [user_id] => 59
+            [application_token] => 4140ff96e738f4be9af95147ba256581
+        )
+
+)
+
+params
+Array
+(
+    [event] => ONCRMLEADADD
+    [event_handler_id] => 67
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 8803
+                )
+
+        )
+
+    [ts] => 1735546372
+    [auth] => Array
+        (
+            [access_token] => 14647267005567d6006edb080000003b000006574d5b28eb6e5e11411e645b03a3baa5
+            [expires] => 1735549972
+            [expires_in] => 3600
+            [scope] => crm,entity,user_brief,user.userfield,placement,userfieldconfig,im,disk
+            [domain] => beregone.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => F
+            [client_endpoint] => https://beregone.bitrix24.ru/rest/
+            [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+            [user_id] => 59
+            [application_token] => 4140ff96e738f4be9af95147ba256581
+        )
+
+    [app] => hr_pro
+    [leadId] => 8803
+    [CACHE_TYPE] => A
+    [~event] => ONCRMLEADADD
+    [~event_handler_id] => 67
+    [~data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 8803
+                )
+
+        )
+
+    [~ts] => 1735546372
+    [~auth] => Array
+        (
+            [access_token] => 14647267005567d6006edb080000003b000006574d5b28eb6e5e11411e645b03a3baa5
+            [expires] => 1735549972
+            [expires_in] => 3600
+            [scope] => crm,entity,user_brief,user.userfield,placement,userfieldconfig,im,disk
+            [domain] => beregone.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => F
+            [client_endpoint] => https://beregone.bitrix24.ru/rest/
+            [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+            [user_id] => 59
+            [application_token] => 4140ff96e738f4be9af95147ba256581
+        )
+
+    [~app] => hr_pro
+    [~leadId] => 8803
+    [~CACHE_TYPE] => A
+)
+
+lead
+ - id is not defined or invalid.

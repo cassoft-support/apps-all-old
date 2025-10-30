@@ -1,0 +1,60 @@
+25.07.2024 12:00Array
+(
+    [user_id] => 50
+    [type] => transfer
+    [app] => brokci
+    [auth] => Array
+        (
+            [access_token] => 9a2ca26600591408006f6c58000000320000079d79e7a4940967ef2ca586941c55da35
+            [refresh_token] => 8aabc96600591408006f6c58000000320000077302f833f59a2fc421ba139f435836b9
+            [expires_in] => 1721904286764
+            [domain] => titan56.bitrix24.ru
+            [member_id] => da3da4defaec65d28af1da4c5ee5d015
+        )
+
+)
+Array
+(
+    [user_id] => 50
+    [type] => transfer
+    [app] => brokci
+    [auth] => Array
+        (
+            [access_token] => 9a2ca26600591408006f6c58000000320000079d79e7a4940967ef2ca586941c55da35
+            [refresh_token] => 8aabc96600591408006f6c58000000320000077302f833f59a2fc421ba139f435836b9
+            [expires_in] => 1721904286764
+            [domain] => titan56.bitrix24.ru
+            [member_id] => da3da4defaec65d28af1da4c5ee5d015
+        )
+
+)
+Array
+(
+    [user_id] => 50
+    [type] => transfer
+    [app] => brokci
+    [auth] => Array
+        (
+            [access_token] => 9a2ca26600591408006f6c58000000320000079d79e7a4940967ef2ca586941c55da35
+            [refresh_token] => 8aabc96600591408006f6c58000000320000077302f833f59a2fc421ba139f435836b9
+            [expires_in] => 1721904286764
+            [domain] => titan56.bitrix24.ru
+            [member_id] => da3da4defaec65d28af1da4c5ee5d015
+        )
+
+)
+Array
+(
+    [user_id] => 50
+    [type] => transfer
+    [app] => brokci
+    [auth] => Array
+        (
+            [access_token] => 9a2ca26600591408006f6c58000000320000079d79e7a4940967ef2ca586941c55da35
+            [refresh_token] => 8aabc96600591408006f6c58000000320000077302f833f59a2fc421ba139f435836b9
+            [expires_in] => 1721904286764
+            [domain] => titan56.bitrix24.ru
+            [member_id] => da3da4defaec65d28af1da4c5ee5d015
+        )
+
+)

@@ -1,0 +1,48 @@
+compDashboard
+Array
+(
+    [DOMAIN] => stayproperty.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d9d941a393440aca4f79945b145bc3b8
+    [AUTH_ID] => 2888a2660052d9b60057f8620000090e00000711412b51237a07e6755e287b15e2a069
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1807ca660052d9b60057f8620000090e000007886f88bc0550ba92aa1ae6ba2802d8ab
+    [member_id] => 986202eae13f5a77690fd2e208d23890
+    [status] => F
+    [PLACEMENT] => CRM_DEAL_DETAIL_TAB
+    [PLACEMENT_OPTIONS] => {&quot;ID&quot;:&quot;74288&quot;}
+    [app] => stayproperty
+    [tab] => CRM_DEAL_DETAIL_TAB
+    [deal_id] => 74288
+    [CACHE_TYPE] => A
+    [~DOMAIN] => stayproperty.bitrix24.ru
+    [~PROTOCOL] => 1
+    [~LANG] => ru
+    [~APP_SID] => d9d941a393440aca4f79945b145bc3b8
+    [~AUTH_ID] => 2888a2660052d9b60057f8620000090e00000711412b51237a07e6755e287b15e2a069
+    [~AUTH_EXPIRES] => 3600
+    [~REFRESH_ID] => 1807ca660052d9b60057f8620000090e000007886f88bc0550ba92aa1ae6ba2802d8ab
+    [~member_id] => 986202eae13f5a77690fd2e208d23890
+    [~status] => F
+    [~PLACEMENT] => CRM_DEAL_DETAIL_TAB
+    [~PLACEMENT_OPTIONS] => {"ID":"74288"}
+    [~app] => stayproperty
+    [~tab] => CRM_DEAL_DETAIL_TAB
+    [~deal_id] => 74288
+    [~CACHE_TYPE] => A
+)
+Array
+(
+    [DOMAIN] => stayproperty.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d9d941a393440aca4f79945b145bc3b8
+    [AUTH_ID] => 2888a2660052d9b60057f8620000090e00000711412b51237a07e6755e287b15e2a069
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1807ca660052d9b60057f8620000090e000007886f88bc0550ba92aa1ae6ba2802d8ab
+    [member_id] => 986202eae13f5a77690fd2e208d23890
+    [status] => F
+    [PLACEMENT] => CRM_DEAL_DETAIL_TAB
+    [PLACEMENT_OPTIONS] => {"ID":"74288"}
+)

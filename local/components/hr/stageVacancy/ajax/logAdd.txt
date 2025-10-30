@@ -1,0 +1,25 @@
+addArray
+(
+    [UserAutPlan] => "{\"DOMAIN\":\"logistics-pro.bitrix24.ru\",\"PROTOCOL\":\"1\",\"LANG\":\"ru\",\"APP_SID\":\"63c06fa6792c44a0b58c2b4219a6b2ef\",\"AUTH_ID\":\"c2b7a26500576b72006797b200000008000007e1dd92d18b87d57a38db8a163d08e8f1\",\"AUTH_EXPIRES\":\"3600\",\"REFRESH_ID\":\"b236ca6500576b72006797b200000008000007a516a4eee752ce983a9d0127dac0c6a6\",\"member_id\":\"137f3595ca3a2c72c95bd79acb765bef\",\"status\":\"F\",\"PLACEMENT\":\"DEFAULT\",\"PLACEMENT_OPTIONS\":\"{\\\"any\\\":\\\"4\\\\\\\/\\\"}\"}"
+    [NAME] => активная
+    [CS_TYPE_STAGE] => action
+    [CS_COLOR] => #32ec6a
+)
+{"DOMAIN":"logistics-pro.bitrix24.ru","PROTOCOL":"1","LANG":"ru","APP_SID":"63c06fa6792c44a0b58c2b4219a6b2ef","AUTH_ID":"c2b7a26500576b72006797b200000008000007e1dd92d18b87d57a38db8a163d08e8f1","AUTH_EXPIRES":"3600","REFRESH_ID":"b236ca6500576b72006797b200000008000007a516a4eee752ce983a9d0127dac0c6a6","member_id":"137f3595ca3a2c72c95bd79acb765bef","status":"F","PLACEMENT":"DEFAULT","PLACEMENT_OPTIONS":"{\"any\":\"4\\\/\"}"}Array
+(
+    [ENTITY] => stage_fav
+    [MODIFIED_BY] => 
+    [NAME] => активная
+    [PROPERTY_VALUES] => Array
+        (
+            [CS_TYPE_STAGE] => action
+            [CS_COLOR] => #32ec6a
+            [CS_CODE] => aktivnaya
+        )
+
+)
+Array
+(
+    [error] => curl_error
+    [error_information] => Could not resolve host: {entity.item.add.json; Unknown error
+)

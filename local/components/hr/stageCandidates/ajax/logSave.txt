@@ -1,0 +1,18 @@
+startArray
+(
+    [map] => Array
+        (
+            [UserAutStage] => "{\"DOMAIN\":\"gorizont-ru.bitrix24.ru\",\"PROTOCOL\":\"1\",\"LANG\":\"ru\",\"APP_SID\":\"4814149d6f38352ba0096900b1014e16\",\"AUTH_ID\":\"93406264005d44560059a47a0000000c000007fd98198c83dbb5c91e9da75b44365d72\",\"AUTH_EXPIRES\":\"3600\",\"REFRESH_ID\":\"83bf8964005d44560059a47a0000000c0000071cb71d9f2be719b57faa0b72ff1d3764\",\"member_id\":\"54f17a89344db2b08c183c4e688e9874\",\"status\":\"F\",\"PLACEMENT\":\"DEFAULT\",\"PLACEMENT_OPTIONS\":\"{\\\"any\\\":\\\"12\\\\\\\/\\\"}\"}"
+            [ID] => 746
+            [NAME] => Бронь
+            [CS_TYPE_STAGE] => new_action
+            [CS_COLOR] => #c99a18
+        )
+
+    [UserAutStage] => "{\"DOMAIN\":\"gorizont-ru.bitrix24.ru\",\"PROTOCOL\":\"1\",\"LANG\":\"ru\",\"APP_SID\":\"4814149d6f38352ba0096900b1014e16\",\"AUTH_ID\":\"93406264005d44560059a47a0000000c000007fd98198c83dbb5c91e9da75b44365d72\",\"AUTH_EXPIRES\":\"3600\",\"REFRESH_ID\":\"83bf8964005d44560059a47a0000000c0000071cb71d9f2be719b57faa0b72ff1d3764\",\"member_id\":\"54f17a89344db2b08c183c4e688e9874\",\"status\":\"F\",\"PLACEMENT\":\"DEFAULT\",\"PLACEMENT_OPTIONS\":\"{\\\"any\\\":\\\"12\\\\\\\/\\\"}\"}"
+)
+Array
+(
+    [error] => curl_error
+    [error_information] => Could not resolve host: {entity.item.update.json; Unknown error
+)

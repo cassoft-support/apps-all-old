@@ -1,0 +1,147 @@
+---------------------08.06.2025MSK17:15:59
+Array
+(
+    [profile] => 8c1aad94-6b9c
+    [options] => {"CONNECTOR":"cs_mcm_telegram","LINE":"3","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+    [app] => mcm
+    [id] => 
+    [auth] => Array
+        (
+            [access_token] => 28a9456800579b0e0036d5840000000100000728605a54cefab697af5ede902ec34ed0
+            [refresh_token] => 18286d6800579b0e0036d58400000001000007e0936f65de3fa9a7e4e73d821a5a573b
+            [expires_in] => 1749395753923
+            [domain] => cassoft.bitrix24.ru
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+        )
+
+)
+
+options
+Array
+(
+    [CONNECTOR] => cs_mcm_telegram
+    [LINE] => 3
+    [STATUS] => 
+    [ACTIVE_STATUS] => 1
+    [CONNECTION_STATUS] => 
+    [REGISTER_STATUS] => 
+    [ERROR_STATUS] => 
+)
+
+activate
+Array
+(
+    [0] => 1
+)
+
+elID
+Array
+(
+    [ID] => 59
+    [UF_MEMBER_ID] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [UF_PROFILE_ID] => 8c1aad94-6b9c
+    [UF_PROFILE_NAME] => Otdel_prodazh
+    [UF_CS_CODE] => cQ96ZhEaIdQeFhGn
+    [UF_DATE_CREATE] => 1749383020
+    [UF_DATE_CLOSE] => 1751975020
+    [UF_DATE_CLOSE_FACT] => 
+    [UF_ACTIVE] => Y
+    [UF_RESOURCE] => wappi
+    [UF_TYPE] => Telegram
+    [UF_LINE_B24] => 
+    [UF_CONNECTOR] => 
+    [UF_STATUS_B24] => 
+    [UF_DOMAIN] => https://cassoft.bitrix24.ru
+    [UF_NAME] => Отдел продаж
+)
+
+elUp
+59
+resSetupGet
+Array
+(
+    [0] => Array
+        (
+            [ID] => 5903
+            [TIMESTAMP_X] => 2025-06-08T16:41:50+03:00
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 2025-06-08T14:43:43+03:00
+            [CREATED_BY] => 1
+            [ACTIVE] => Y
+            [DATE_ACTIVE_FROM] => 2025-06-08T14:43:42+03:00
+            [DATE_ACTIVE_TO] => 
+            [SORT] => 500
+            [NAME] => Otdel_prodazh
+            [PREVIEW_PICTURE] => 
+            [PREVIEW_TEXT] => 
+            [DETAIL_PICTURE] => 
+            [DETAIL_TEXT] => 
+            [CODE] => 
+            [ENTITY] => setup_messager
+            [SECTION] => 
+            [PROPERTY_VALUES] => Array
+                (
+                    [CS_COLOR] => 
+                    [CS_BACKGROUND_COLOR] => 
+                    [CS_BACKGROUND_IMG] => 
+                    [CS_API_WHATSAPP] => 
+                    [CS_LINE_WHATSAPP] => 
+                    [CS_ADMIN] => []
+                    [CHAT_APP_EMAIL] => 
+                    [CHAT_APP_PASSWORD] => 
+                    [CS_TELEGRAM_SHOP] => 
+                    [CS_TELEGRAM_GROUP] => 
+                    [CS_KEY_TELEGRAM] => 
+                    [CS_BOT_TELEGRAM] => 
+                    [CS_KEY_CIAN] => 
+                    [CS_CIAN_CONNECT] => 
+                    [CS_KEY_DC] => 
+                    [CS_DC_CONNECT] => 
+                    [CS_KEY_AVITO] => 
+                    [CS_AVITO_CONNECT] => 
+                    [CS_TELEGRAM_CONNECT] => 
+                    [CS_CIAN_LINE] => 
+                    [CS_DC_LINE] => 
+                    [CS_TELEGRAM_LINE] => 
+                    [CHAT_APP_ID] => 
+                    [CS_MCM_CONNECT] => 
+                    [CS_CONNECTOR] => 
+                    [CS_LINE] => 
+                    [CS_STATUS] => 
+                    [CS_PROFILE_ID] => 8c1aad94-6b9c
+                    [CS_PROFILE_NAME] => Otdel_prodazh
+                    [CS_CODE] => cQ96ZhEaIdQeFhGn
+                    [CS_DATE_CREATE] => 1749383020
+                    [CS_DATE_CLOSE] => 1751975020
+                    [CS_DATE_CLOSE_FACT] => 
+                    [CS_RESOURCE] => wappi
+                    [CS_TYPE] => Telegram
+                    [CS_USERS] => ["1"]
+                )
+
+        )
+
+)
+
+paramsUp
+Array
+(
+    [ENTITY] => setup_messager
+    [ID] => 5903
+    [PROPERTY_VALUES] => Array
+        (
+            [CS_LINE] => 3
+            [CS_CONNECTOR] => cs_mcm_telegram
+            [CS_STATUS] => 1
+        )
+
+)
+
+resSetupUp
+Array
+(
+    [0] => 1
+)
+
+resSetupUp[0]
+1

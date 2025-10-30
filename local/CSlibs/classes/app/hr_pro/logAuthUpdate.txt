@@ -1,0 +1,21 @@
+---------------------15.09.2025MSK14:16:42
+Array
+(
+    [grant_type] => refresh_token
+    [refresh_token] => 
+)
+
+responseData
+Array
+(
+    [error] => invalid_request
+    [error_description] => token not found
+)
+
+responseData
+Array
+(
+    [error] => invalid_request
+    [error_description] => token not found
+)
+

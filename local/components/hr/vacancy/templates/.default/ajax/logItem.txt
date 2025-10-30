@@ -1,0 +1,2240 @@
+---------------------19.05.2025MSK11:23:43
+
+item
+Array
+(
+)
+
+guide
+Array
+(
+    [resume_access_type] => Array
+        (
+            [0] => Array
+                (
+                    [key] => no_one
+                    [name] => Не видно никому
+                )
+
+            [1] => Array
+                (
+                    [key] => whitelist
+                    [name] => Видно выбранным работодателям
+                )
+
+            [2] => Array
+                (
+                    [key] => blacklist
+                    [name] => Скрыто от выбранных работодателей
+                )
+
+            [3] => Array
+                (
+                    [key] => clients
+                    [name] => Видно всем работодателям, зарегистрированным на hh.ru
+                )
+
+            [4] => Array
+                (
+                    [key] => everyone
+                    [name] => видно всему интернету
+                )
+
+            [5] => Array
+                (
+                    [key] => direct
+                    [name] => доступно только по прямой ссылке
+                )
+
+        )
+
+    [vacancy_search_order] => Array
+        (
+            [0] => Array
+                (
+                    [key] => publication_time
+                    [name] => по дате
+                )
+
+            [1] => Array
+                (
+                    [key] => salary_desc
+                    [name] => по убыванию дохода
+                )
+
+            [2] => Array
+                (
+                    [key] => salary_asc
+                    [name] => по возрастанию дохода
+                )
+
+            [3] => Array
+                (
+                    [key] => relevance
+                    [name] => по соответствию
+                )
+
+            [4] => Array
+                (
+                    [key] => distance
+                    [name] => по удалённости
+                )
+
+        )
+
+    [vacancy_search_fields] => Array
+        (
+            [0] => Array
+                (
+                    [key] => name
+                    [name] => в названии вакансии
+                )
+
+            [1] => Array
+                (
+                    [key] => company_name
+                    [name] => в названии компании
+                )
+
+            [2] => Array
+                (
+                    [key] => description
+                    [name] => в описании вакансии
+                )
+
+        )
+
+    [gender] => Array
+        (
+            [0] => Array
+                (
+                    [key] => male
+                    [name] => Мужской
+                )
+
+            [1] => Array
+                (
+                    [key] => female
+                    [name] => Женский
+                )
+
+        )
+
+    [preferred_contact_type] => Array
+        (
+            [0] => Array
+                (
+                    [key] => home
+                    [name] => Домашний телефон
+                )
+
+            [1] => Array
+                (
+                    [key] => work
+                    [name] => Рабочий телефон
+                )
+
+            [2] => Array
+                (
+                    [key] => cell
+                    [name] => Мобильный телефон
+                )
+
+            [3] => Array
+                (
+                    [key] => email
+                    [name] => Эл. почта
+                )
+
+        )
+
+    [travel_time] => Array
+        (
+            [0] => Array
+                (
+                    [key] => any
+                    [name] => Не имеет значения
+                )
+
+            [1] => Array
+                (
+                    [key] => less_than_hour
+                    [name] => Не более часа
+                )
+
+            [2] => Array
+                (
+                    [key] => from_hour_to_one_and_half
+                    [name] => Не более полутора часов
+                )
+
+        )
+
+    [relocation_type] => Array
+        (
+            [0] => Array
+                (
+                    [key] => no_relocation
+                    [name] => не могу переехать
+                )
+
+            [1] => Array
+                (
+                    [key] => relocation_possible
+                    [name] => могу переехать
+                )
+
+            [2] => Array
+                (
+                    [key] => relocation_desirable
+                    [name] => хочу переехать
+                )
+
+        )
+
+    [business_trip_readiness] => Array
+        (
+            [0] => Array
+                (
+                    [key] => ready
+                    [name] => готов к командировкам
+                )
+
+            [1] => Array
+                (
+                    [key] => sometimes
+                    [name] => готов к редким командировкам
+                )
+
+            [2] => Array
+                (
+                    [key] => never
+                    [name] => не готов к командировкам
+                )
+
+        )
+
+    [resume_contacts_site_type] => Array
+        (
+            [0] => Array
+                (
+                    [key] => personal
+                    [name] => Другой сайт
+                )
+
+            [1] => Array
+                (
+                    [key] => moi_krug
+                    [name] => Мой круг
+                )
+
+            [2] => Array
+                (
+                    [key] => livejournal
+                    [name] => LiveJournal
+                )
+
+            [3] => Array
+                (
+                    [key] => linkedin
+                    [name] => LinkedIn
+                )
+
+            [4] => Array
+                (
+                    [key] => freelance
+                    [name] => Free-lance
+                )
+
+            [5] => Array
+                (
+                    [key] => skype
+                    [name] => Skype
+                )
+
+        )
+
+    [employer_type] => Array
+        (
+            [0] => Array
+                (
+                    [key] => company
+                    [name] => Организация
+                )
+
+            [1] => Array
+                (
+                    [key] => agency
+                    [name] => Кадровое агентство
+                )
+
+            [2] => Array
+                (
+                    [key] => project_director
+                    [name] => Проект
+                )
+
+            [3] => Array
+                (
+                    [key] => private_recruiter
+                    [name] => Частный рекрутер
+                )
+
+            [4] => Array
+                (
+                    [key] => private_individual
+                    [name] => Частное лицо
+                )
+
+            [5] => Array
+                (
+                    [key] => self_employed
+                    [name] => Самозанятый
+                )
+
+        )
+
+    [employer_relation] => Array
+        (
+            [0] => Array
+                (
+                    [key] => blacklisted
+                    [name] => Скрыт из поиска вакансий
+                )
+
+        )
+
+    [negotiations_state] => Array
+        (
+            [0] => Array
+                (
+                    [key] => response
+                    [name] => Отклик
+                )
+
+            [1] => Array
+                (
+                    [key] => invitation
+                    [name] => Приглашение
+                )
+
+            [2] => Array
+                (
+                    [key] => discard
+                    [name] => Отказ
+                )
+
+            [3] => Array
+                (
+                    [key] => hidden
+                    [name] => Скрытый
+                )
+
+        )
+
+    [applicant_negotiation_status] => Array
+        (
+            [0] => Array
+                (
+                    [key] => all
+                    [name] => Все
+                )
+
+            [1] => Array
+                (
+                    [key] => active
+                    [name] => Активные
+                )
+
+            [2] => Array
+                (
+                    [key] => invitations
+                    [name] => Активные приглашения
+                )
+
+            [3] => Array
+                (
+                    [key] => response
+                    [name] => Активные отклики
+                )
+
+            [4] => Array
+                (
+                    [key] => discard
+                    [name] => Отказ
+                )
+
+            [5] => Array
+                (
+                    [key] => archived
+                    [name] => Архивированные
+                )
+
+            [6] => Array
+                (
+                    [key] => non_archived
+                    [name] => Все, кроме архивированных
+                )
+
+            [7] => Array
+                (
+                    [key] => deleted
+                    [name] => Скрытые
+                )
+
+        )
+
+    [negotiations_participant_type] => Array
+        (
+            [0] => Array
+                (
+                    [key] => applicant
+                    [name] => Соискатель
+                )
+
+            [1] => Array
+                (
+                    [key] => employer
+                    [name] => Работодатель
+                )
+
+        )
+
+    [negotiations_order] => Array
+        (
+            [0] => Array
+                (
+                    [key] => updated_at
+                    [name] => по дате обновления
+                )
+
+            [1] => Array
+                (
+                    [key] => created_at
+                    [name] => по дате добавления
+                )
+
+        )
+
+    [resume_moderation_note] => Array
+        (
+            [0] => Array
+                (
+                    [key] => bad
+                    [name] => Резюме составлено небрежно.
+                )
+
+            [1] => Array
+                (
+                    [key] => block_full_name
+                    [name] => В резюме отсутствует полное имя кандидата.
+                )
+
+            [2] => Array
+                (
+                    [key] => bad_description
+                    [name] => Укажите желаемую позицию, чтобы повысить свои шансы найти работу.
+                )
+
+            [3] => Array
+                (
+                    [key] => block_no_education_place_or_date
+                    [name] => Отсутствуют данные об учебном заведении и дате его окончания.
+                )
+
+            [4] => Array
+                (
+                    [key] => bad_education
+                    [name] => Плохо описано образование.
+                )
+
+            [5] => Array
+                (
+                    [key] => bad_education_student
+                    [name] => Укажите полное название учебного заведения, факультет и планируемый год окончания.
+                )
+
+            [6] => Array
+                (
+                    [key] => block_no_function
+                    [name] => Опишите подробнее свои обязанности и функции.
+                )
+
+            [7] => Array
+                (
+                    [key] => block_work_place
+                    [name] => Не указан опыт работы за последнее время
+                )
+
+            [8] => Array
+                (
+                    [key] => no_company_name
+                    [name] => Укажите названия мест работы.
+                )
+
+            [9] => Array
+                (
+                    [key] => no_company_description
+                    [name] => Укажите сферу деятельности компаний, в которых Вы работали.
+                )
+
+            [10] => Array
+                (
+                    [key] => no_position
+                    [name] => Плохо описаны занимаемые должности.
+                )
+
+            [11] => Array
+                (
+                    [key] => no_date
+                    [name] => Отсутствуют даты начала и окончания работы.
+                )
+
+            [12] => Array
+                (
+                    [key] => bad_function
+                    [name] => Плохо описаны функции и обязанности.
+                )
+
+            [13] => Array
+                (
+                    [key] => not_enough_information
+                    [name] => Укажите больше дополнительной информации: владение иностранными языками, знание компьютерных программ и др.
+                )
+
+            [14] => Array
+                (
+                    [key] => lot_information
+                    [name] => Слишком много дополнительной информации.
+                )
+
+            [15] => Array
+                (
+                    [key] => no_recommendation
+                    [name] => Вы не предоставили ни одну рекомендацию.
+                )
+
+            [16] => Array
+                (
+                    [key] => careless_additional_information
+                    [name] => Обратите внимание на раздел «Ключевые навыки». Укажите в нём сведения, которые выгодно отличат Вас в качестве претендента на желаемую позицию. Проверьте орфографию и опечатки.
+                )
+
+            [17] => Array
+                (
+                    [key] => careless_photo
+                    [name] => Рекомендуем Вам изменить фотографию для резюме. Лучше размещать фотографии, где Вы изображены в деловом или повседневном костюме.
+                )
+
+            [18] => Array
+                (
+                    [key] => careless_key_skill_information
+                    [name] => Отредактируйте раздел «Ключевые навыки» Вашего резюме, поскольку указанная информация не вполне соответствует формату и/или содержит опечатки.
+                )
+
+            [19] => Array
+                (
+                    [key] => incorrect_phone_number
+                    [name] => В резюме указан несуществующий номер телефона. Если номер корректен, свяжитесь со службой поддержки
+                )
+
+            [20] => Array
+                (
+                    [key] => block_obscenity
+                    [name] => Мат в резюме
+                )
+
+            [21] => Array
+                (
+                    [key] => block_obscenity_name
+                    [name] => Мат в ФИО
+                )
+
+            [22] => Array
+                (
+                    [key] => block_obscenity_title
+                    [name] => Мат в названии должности
+                )
+
+            [23] => Array
+                (
+                    [key] => block_obscenity_experience
+                    [name] => Мат в разделе "Опыт работы"
+                )
+
+            [24] => Array
+                (
+                    [key] => block_obscenity_skills
+                    [name] => Мат в поле "О себе"
+                )
+
+            [25] => Array
+                (
+                    [key] => block_obscenity_key_skills
+                    [name] => Мат в ключевых навыках
+                )
+
+            [26] => Array
+                (
+                    [key] => block_obscenity_education
+                    [name] => Мат в разделе "Образование"
+                )
+
+            [27] => Array
+                (
+                    [key] => block_obscenity_recommendation
+                    [name] => Мат в разделе "Рекомендации"
+                )
+
+            [28] => Array
+                (
+                    [key] => block_experience_in_one_place
+                    [name] => Укажите опыт отдельно для каждой компании
+                )
+
+            [29] => Array
+                (
+                    [key] => experience_caps
+                    [name] => При описании опыта работы проследите, что ЗАГЛАВНЫЕ БУКВЫ использованы только в начале предложений или для имен собственных
+                )
+
+            [30] => Array
+                (
+                    [key] => experience_multilang
+                    [name] => Опыт работы должен быть описан на одном языке
+                )
+
+            [31] => Array
+                (
+                    [key] => experience_spelling
+                    [name] => Исправьте орфографические ошибки в описании опыта работы
+                )
+
+            [32] => Array
+                (
+                    [key] => block_experience_in_additional_information
+                    [name] => Опишите опыт работы в соответствующих полях
+                )
+
+            [33] => Array
+                (
+                    [key] => additional_information_caps
+                    [name] => При заполнении поля "О себе" проследите, что ЗАГЛАВНЫЕ БУКВЫ использованы только в начале предложений или для имен собственных
+                )
+
+            [34] => Array
+                (
+                    [key] => additional_information_multilang
+                    [name] => Поле "О себе" должно быть написано на одном языке
+                )
+
+            [35] => Array
+                (
+                    [key] => additional_information_spelling
+                    [name] => Исправьте орфографические ошибки в поле "О себе"
+                )
+
+        )
+
+    [vacancy_relation] => Array
+        (
+            [0] => Array
+                (
+                    [key] => favorited
+                    [name] => В избранном
+                )
+
+            [1] => Array
+                (
+                    [key] => got_response
+                    [name] => Вы отправили резюме
+                )
+
+            [2] => Array
+                (
+                    [key] => got_invitation
+                    [name] => Вас пригласили
+                )
+
+            [3] => Array
+                (
+                    [key] => got_rejection
+                    [name] => Вам отказали
+                )
+
+            [4] => Array
+                (
+                    [key] => blacklisted
+                    [name] => Скрыта из поиска
+                )
+
+            [5] => Array
+                (
+                    [key] => got_question
+                    [name] => Вы задали вопрос по вакансии
+                )
+
+        )
+
+    [resume_status] => Array
+        (
+            [0] => Array
+                (
+                    [key] => not_published
+                    [name] => не опубликовано
+                )
+
+            [1] => Array
+                (
+                    [key] => published
+                    [name] => опубликовано
+                )
+
+            [2] => Array
+                (
+                    [key] => blocked
+                    [name] => заблокирован
+                )
+
+            [3] => Array
+                (
+                    [key] => on_moderation
+                    [name] => на модерации
+                )
+
+        )
+
+    [resume_search_logic] => Array
+        (
+            [0] => Array
+                (
+                    [key] => all
+                    [name] => Все слова встречаются
+                )
+
+            [1] => Array
+                (
+                    [key] => any
+                    [name] => Любое из слов встречается
+                )
+
+            [2] => Array
+                (
+                    [key] => phrase
+                    [name] => Точная фраза встречается
+                )
+
+            [3] => Array
+                (
+                    [key] => except
+                    [name] => Не встречаются
+                )
+
+        )
+
+    [resume_search_fields] => Array
+        (
+            [0] => Array
+                (
+                    [key] => everywhere
+                    [name] => везде
+                )
+
+            [1] => Array
+                (
+                    [key] => title
+                    [name] => в названии резюме
+                )
+
+            [2] => Array
+                (
+                    [key] => education
+                    [name] => в образовании
+                )
+
+            [3] => Array
+                (
+                    [key] => skills
+                    [name] => в ключевых навыках
+                )
+
+            [4] => Array
+                (
+                    [key] => experience
+                    [name] => в опыте работы
+                )
+
+            [5] => Array
+                (
+                    [key] => experience_company
+                    [name] => в компаниях и отраслях
+                )
+
+            [6] => Array
+                (
+                    [key] => experience_position
+                    [name] => в должностях
+                )
+
+            [7] => Array
+                (
+                    [key] => experience_description
+                    [name] => в обязанностях
+                )
+
+        )
+
+    [messaging_status] => Array
+        (
+            [0] => Array
+                (
+                    [key] => archived
+                    [name] => Вакансия отправлена в архив
+                )
+
+            [1] => Array
+                (
+                    [key] => ok
+                    [name] => Переписка доступна
+                )
+
+            [2] => Array
+                (
+                    [key] => disabled_by_employer
+                    [name] => Работодатель отключил переписку
+                )
+
+            [3] => Array
+                (
+                    [key] => in_a_row_limit
+                    [name] => Вы отправили 5 сообщений подряд. Дождитесь ответа, чтобы написать еще
+                )
+
+            [4] => Array
+                (
+                    [key] => overall_limit
+                    [name] => Превышено число сообщений в переписке
+                )
+
+            [5] => Array
+                (
+                    [key] => no_invitation
+                    [name] => Переписка доступна только после приглашения
+                )
+
+            [6] => Array
+                (
+                    [key] => resume_deleted
+                    [name] => Резюме удалено
+                )
+
+            [7] => Array
+                (
+                    [key] => prohibited
+                    [name] => Переписка недоступна
+                )
+
+        )
+
+    [employer_active_vacancies_order] => Array
+        (
+            [0] => Array
+                (
+                    [key] => name_asc
+                    [name] => по заголовку
+                )
+
+            [1] => Array
+                (
+                    [key] => name_desc
+                    [name] => по заголовку, в обратном порядке
+                )
+
+            [2] => Array
+                (
+                    [key] => expiration_date_asc
+                    [name] => по дате
+                )
+
+            [3] => Array
+                (
+                    [key] => expiration_date_desc
+                    [name] => по убыванию даты
+                )
+
+            [4] => Array
+                (
+                    [key] => unseen_responses_asc
+                    [name] => по возрастанию количества непросмотренных откликов
+                )
+
+            [5] => Array
+                (
+                    [key] => unseen_responses_desc
+                    [name] => по убыванию количества непросмотренных откликов
+                )
+
+        )
+
+    [employer_archived_vacancies_order] => Array
+        (
+            [0] => Array
+                (
+                    [key] => name_asc
+                    [name] => по заголовку
+                )
+
+            [1] => Array
+                (
+                    [key] => name_desc
+                    [name] => по заголовку, в обратном порядке
+                )
+
+            [2] => Array
+                (
+                    [key] => archive_time_asc
+                    [name] => по дате архивации
+                )
+
+            [3] => Array
+                (
+                    [key] => archive_time_desc
+                    [name] => по убыванию даты архивации
+                )
+
+        )
+
+    [employer_hidden_vacancies_order] => Array
+        (
+            [0] => Array
+                (
+                    [key] => name_asc
+                    [name] => по заголовку
+                )
+
+            [1] => Array
+                (
+                    [key] => name_desc
+                    [name] => по заголовку, в обратном порядке
+                )
+
+            [2] => Array
+                (
+                    [key] => archive_time_asc
+                    [name] => по дате архивации
+                )
+
+            [3] => Array
+                (
+                    [key] => archive_time_desc
+                    [name] => по убыванию даты архивации
+                )
+
+        )
+
+    [applicant_comments_order] => Array
+        (
+            [0] => Array
+                (
+                    [key] => creation_time_desc
+                    [name] => по убыванию даты публикации
+                )
+
+            [1] => Array
+                (
+                    [key] => creation_time_asc
+                    [name] => по дате публикации
+                )
+
+        )
+
+    [vacancy_not_prolonged_reason] => Array
+        (
+            [0] => Array
+                (
+                    [key] => vacancy_archived
+                    [name] => Нельзя поднять архивную или заблокированную вакансию
+                )
+
+            [1] => Array
+                (
+                    [key] => vacancy_not_premoderated
+                    [name] => Вакансия не прошла модерацию
+                )
+
+            [2] => Array
+                (
+                    [key] => standard_plus_cannot_be_closed
+                    [name] => Вакансия "Стандарт Плюс" не может быть закрытой.
+                )
+
+            [3] => Array
+                (
+                    [key] => standard_plus_publication_is_updated_automatically
+                    [name] => «Стандарт плюс» автоматически поднимается раз в 3 дня
+                )
+
+            [4] => Array
+                (
+                    [key] => pfp_publication_is_updated_automatically
+                    [name] => Вакансии с оплатой за контакты в откликах автоматически поднимаются раз в 3 дня
+                )
+
+            [5] => Array
+                (
+                    [key] => too_early_to_prolongate_free_publication
+                    [name] => С последнего поднятия бесплатной вакансии прошло меньше 1 минуты
+                )
+
+            [6] => Array
+                (
+                    [key] => too_early_to_prolongate_standard_publication
+                    [name] => С последнего поднятия прошло меньше 1 минуты
+                )
+
+            [7] => Array
+                (
+                    [key] => free_prolongation_not_available
+                    [name] => Не получится поднять бесплатную вакансию
+                )
+
+            [8] => Array
+                (
+                    [key] => not_enough_quotas
+                    [name] => Не хватает квот
+                )
+
+            [9] => Array
+                (
+                    [key] => not_enough_purchased_services
+                    [name] => Вакансия не может быть обновлена. Недостаточно купленных услуг.
+                )
+
+            [10] => Array
+                (
+                    [key] => not_enough_division_services
+                    [name] => Закончились услуги на отдел
+                )
+
+            [11] => Array
+                (
+                    [key] => vacancy_publication_disabled_in_area
+                    [name] => Для размещения вакансий в странах Прибалтики обратитесь к персональному менеджеру
+                )
+
+            [12] => Array
+                (
+                    [key] => unknown
+                    [name] => Не получится поднять вакансию
+                )
+
+        )
+
+    [resume_hidden_fields] => Array
+        (
+            [0] => Array
+                (
+                    [key] => names_and_photo
+                    [name] => ФИО и фотографию
+                )
+
+            [1] => Array
+                (
+                    [key] => phones
+                    [name] => Все указанные в резюме телефоны
+                )
+
+            [2] => Array
+                (
+                    [key] => email
+                    [name] => Электронную почту
+                )
+
+            [3] => Array
+                (
+                    [key] => other_contacts
+                    [name] => Прочие контакты (Skype, соцсети)
+                )
+
+            [4] => Array
+                (
+                    [key] => experience
+                    [name] => Все места работы
+                )
+
+        )
+
+    [phone_call_status] => Array
+        (
+            [0] => Array
+                (
+                    [key] => pick_successful
+                    [name] => Установка соединения
+                )
+
+            [1] => Array
+                (
+                    [key] => calling
+                    [name] => Звонок
+                )
+
+            [2] => Array
+                (
+                    [key] => did_not_connect
+                    [name] => Абонент временно недоступен
+                )
+
+            [3] => Array
+                (
+                    [key] => call_in_progress
+                    [name] => Телефонный разговор
+                )
+
+            [4] => Array
+                (
+                    [key] => call_error
+                    [name] => Техническая ошибка
+                )
+
+            [5] => Array
+                (
+                    [key] => call_ended
+                    [name] => Телефонный разговор завершен
+                )
+
+        )
+
+    [vacancy_label] => Array
+        (
+            [0] => Array
+                (
+                    [key] => with_address
+                    [name] => Только с адресом
+                )
+
+            [1] => Array
+                (
+                    [key] => accept_handicapped
+                    [name] => Только доступные для людей с инвалидностью
+                )
+
+            [2] => Array
+                (
+                    [key] => not_from_agency
+                    [name] => Без вакансий агентств
+                )
+
+            [3] => Array
+                (
+                    [key] => accept_kids
+                    [name] => Только доступные для соискателей от 14 лет
+                )
+
+            [4] => Array
+                (
+                    [key] => accredited_it
+                    [name] => Только аккредитованные ИТ-компании
+                )
+
+            [5] => Array
+                (
+                    [key] => low_performance
+                    [name] => Только вакансии, у которых меньше 10 откликов
+                )
+
+            [6] => Array
+                (
+                    [key] => internship
+                    [name] => Стажировка
+                )
+
+            [7] => Array
+                (
+                    [key] => night_shifts
+                    [name] => Вечерние или ночные смены
+                )
+
+        )
+
+    [experience] => Array
+        (
+            [0] => Array
+                (
+                    [key] => noExperience
+                    [name] => Нет опыта
+                )
+
+            [1] => Array
+                (
+                    [key] => between1And3
+                    [name] => От 1 года до 3 лет
+                )
+
+            [2] => Array
+                (
+                    [key] => between3And6
+                    [name] => От 3 до 6 лет
+                )
+
+            [3] => Array
+                (
+                    [key] => moreThan6
+                    [name] => Более 6 лет
+                )
+
+        )
+
+    [employment] => Array
+        (
+            [0] => Array
+                (
+                    [key] => full
+                    [name] => Полная занятость
+                )
+
+            [1] => Array
+                (
+                    [key] => part
+                    [name] => Частичная занятость
+                )
+
+            [2] => Array
+                (
+                    [key] => project
+                    [name] => Проектная работа
+                )
+
+            [3] => Array
+                (
+                    [key] => volunteer
+                    [name] => Волонтерство
+                )
+
+            [4] => Array
+                (
+                    [key] => probation
+                    [name] => Стажировка
+                )
+
+        )
+
+    [schedule] => Array
+        (
+            [0] => Array
+                (
+                    [key] => fullDay
+                    [name] => Полный день
+                )
+
+            [1] => Array
+                (
+                    [key] => shift
+                    [name] => Сменный график
+                )
+
+            [2] => Array
+                (
+                    [key] => flexible
+                    [name] => Гибкий график
+                )
+
+            [3] => Array
+                (
+                    [key] => remote
+                    [name] => Удаленная работа
+                )
+
+            [4] => Array
+                (
+                    [key] => flyInFlyOut
+                    [name] => Вахтовый метод
+                )
+
+        )
+
+    [education_level] => Array
+        (
+            [0] => Array
+                (
+                    [key] => secondary
+                    [name] => Среднее
+                )
+
+            [1] => Array
+                (
+                    [key] => special_secondary
+                    [name] => Среднее специальное
+                )
+
+            [2] => Array
+                (
+                    [key] => unfinished_higher
+                    [name] => Неоконченное высшее
+                )
+
+            [3] => Array
+                (
+                    [key] => higher
+                    [name] => Высшее
+                )
+
+            [4] => Array
+                (
+                    [key] => bachelor
+                    [name] => Бакалавр
+                )
+
+            [5] => Array
+                (
+                    [key] => master
+                    [name] => Магистр
+                )
+
+            [6] => Array
+                (
+                    [key] => candidate
+                    [name] => Кандидат наук
+                )
+
+            [7] => Array
+                (
+                    [key] => doctor
+                    [name] => Доктор наук
+                )
+
+        )
+
+    [currency] => Array
+        (
+            [0] => Array
+                (
+                    [key] => 
+                    [name] => Манаты
+                )
+
+            [1] => Array
+                (
+                    [key] => 
+                    [name] => Белорусские рубли
+                )
+
+            [2] => Array
+                (
+                    [key] => 
+                    [name] => Евро
+                )
+
+            [3] => Array
+                (
+                    [key] => 
+                    [name] => Грузинский лари
+                )
+
+            [4] => Array
+                (
+                    [key] => 
+                    [name] => Кыргызский сом
+                )
+
+            [5] => Array
+                (
+                    [key] => 
+                    [name] => Тенге
+                )
+
+            [6] => Array
+                (
+                    [key] => 
+                    [name] => Рубли
+                )
+
+            [7] => Array
+                (
+                    [key] => 
+                    [name] => Гривны
+                )
+
+            [8] => Array
+                (
+                    [key] => 
+                    [name] => Доллары
+                )
+
+            [9] => Array
+                (
+                    [key] => 
+                    [name] => Узбекский сум
+                )
+
+        )
+
+    [vacancy_billing_type] => Array
+        (
+            [0] => Array
+                (
+                    [key] => free
+                    [name] => Бесплатная
+                )
+
+            [1] => Array
+                (
+                    [key] => standard
+                    [name] => Стандарт
+                )
+
+            [2] => Array
+                (
+                    [key] => standard_plus
+                    [name] => Стандарт плюс
+                )
+
+            [3] => Array
+                (
+                    [key] => premium
+                    [name] => Премиум
+                )
+
+        )
+
+    [applicant_comment_access_type] => Array
+        (
+            [0] => Array
+                (
+                    [key] => coworkers
+                    [name] => Виден мне и моим коллегам
+                )
+
+            [1] => Array
+                (
+                    [key] => owner
+                    [name] => Виден только мне
+                )
+
+        )
+
+    [vacancy_cluster] => Array
+        (
+            [0] => Array
+                (
+                    [key] => area
+                    [name] => Регион
+                )
+
+            [1] => Array
+                (
+                    [key] => metro
+                    [name] => Метро
+                )
+
+            [2] => Array
+                (
+                    [key] => salary
+                    [name] => Уровень дохода
+                )
+
+            [3] => Array
+                (
+                    [key] => industry
+                    [name] => Отрасль компании
+                )
+
+            [4] => Array
+                (
+                    [key] => sub_industry
+                    [name] => Сфера компании
+                )
+
+            [5] => Array
+                (
+                    [key] => experience
+                    [name] => Опыт работы
+                )
+
+            [6] => Array
+                (
+                    [key] => employment
+                    [name] => Тип занятости
+                )
+
+            [7] => Array
+                (
+                    [key] => schedule
+                    [name] => График работы
+                )
+
+            [8] => Array
+                (
+                    [key] => label
+                    [name] => Исключение
+                )
+
+            [9] => Array
+                (
+                    [key] => professional_role
+                    [name] => Профессиональная роль
+                )
+
+            [10] => Array
+                (
+                    [key] => district
+                    [name] => Район
+                )
+
+            [11] => Array
+                (
+                    [key] => education
+                    [name] => Образование
+                )
+
+            [12] => Array
+                (
+                    [key] => accept_temporary
+                    [name] => оформление по ГПХ или по совместительству
+                )
+
+            [13] => Array
+                (
+                    [key] => salary_frequency
+                    [name] => Частота выплат
+                )
+
+        )
+
+    [driver_license_types] => Array
+        (
+            [0] => Array
+                (
+                    [key] => A
+                    [name] => 
+                )
+
+            [1] => Array
+                (
+                    [key] => B
+                    [name] => 
+                )
+
+            [2] => Array
+                (
+                    [key] => C
+                    [name] => 
+                )
+
+            [3] => Array
+                (
+                    [key] => D
+                    [name] => 
+                )
+
+            [4] => Array
+                (
+                    [key] => E
+                    [name] => 
+                )
+
+            [5] => Array
+                (
+                    [key] => BE
+                    [name] => 
+                )
+
+            [6] => Array
+                (
+                    [key] => CE
+                    [name] => 
+                )
+
+            [7] => Array
+                (
+                    [key] => DE
+                    [name] => 
+                )
+
+            [8] => Array
+                (
+                    [key] => TM
+                    [name] => 
+                )
+
+            [9] => Array
+                (
+                    [key] => TB
+                    [name] => 
+                )
+
+        )
+
+    [language_level] => Array
+        (
+            [0] => Array
+                (
+                    [key] => a1
+                    [name] => A1 — Начальный
+                )
+
+            [1] => Array
+                (
+                    [key] => a2
+                    [name] => A2 — Элементарный
+                )
+
+            [2] => Array
+                (
+                    [key] => b1
+                    [name] => B1 — Средний
+                )
+
+            [3] => Array
+                (
+                    [key] => b2
+                    [name] => B2 — Средне-продвинутый
+                )
+
+            [4] => Array
+                (
+                    [key] => c1
+                    [name] => C1 — Продвинутый
+                )
+
+            [5] => Array
+                (
+                    [key] => c2
+                    [name] => C2 — В совершенстве
+                )
+
+            [6] => Array
+                (
+                    [key] => l1
+                    [name] => Родной
+                )
+
+        )
+
+    [working_days] => Array
+        (
+            [0] => Array
+                (
+                    [key] => only_saturday_and_sunday
+                    [name] => По субботам и воскресеньям
+                )
+
+        )
+
+    [working_time_intervals] => Array
+        (
+            [0] => Array
+                (
+                    [key] => from_four_to_six_hours_in_a_day
+                    [name] => Можно сменами по 4-6 часов в день
+                )
+
+        )
+
+    [working_time_modes] => Array
+        (
+            [0] => Array
+                (
+                    [key] => start_after_sixteen
+                    [name] => С началом дня после 16:00
+                )
+
+        )
+
+    [vacancy_type] => Array
+        (
+            [0] => Array
+                (
+                    [key] => direct
+                    [name] => Рекламная
+                )
+
+            [1] => Array
+                (
+                    [key] => anonymous
+                    [name] => Анонимная
+                )
+
+            [2] => Array
+                (
+                    [key] => closed
+                    [name] => Закрытая
+                )
+
+            [3] => Array
+                (
+                    [key] => open
+                    [name] => Открытая
+                )
+
+        )
+
+    [job_search_statuses_applicant] => Array
+        (
+            [0] => Array
+                (
+                    [key] => active_search
+                    [name] => Активно ищу работу
+                )
+
+            [1] => Array
+                (
+                    [key] => looking_for_offers
+                    [name] => Рассматриваю предложения
+                )
+
+            [2] => Array
+                (
+                    [key] => not_looking_for_job
+                    [name] => Не ищу работу
+                )
+
+            [3] => Array
+                (
+                    [key] => has_job_offer
+                    [name] => Предложили работу, пока думаю
+                )
+
+            [4] => Array
+                (
+                    [key] => accepted_job_offer
+                    [name] => Уже выхожу на новое место
+                )
+
+        )
+
+    [job_search_statuses_employer] => Array
+        (
+            [0] => Array
+                (
+                    [key] => active_search
+                    [name] => Активно ищет работу
+                )
+
+            [1] => Array
+                (
+                    [key] => looking_for_offers
+                    [name] => Рассматривает предложения
+                )
+
+            [2] => Array
+                (
+                    [key] => not_looking_for_job
+                    [name] => Не ищет работу
+                )
+
+            [3] => Array
+                (
+                    [key] => has_job_offer
+                    [name] => Предложили работу, решает
+                )
+
+            [4] => Array
+                (
+                    [key] => accepted_job_offer
+                    [name] => Вышел на новое место
+                )
+
+        )
+
+    [employment_form] => Array
+        (
+            [0] => Array
+                (
+                    [key] => FULL
+                    [name] => Полная
+                )
+
+            [1] => Array
+                (
+                    [key] => PART
+                    [name] => Частичная
+                )
+
+            [2] => Array
+                (
+                    [key] => PROJECT
+                    [name] => Проект или разовое задание
+                )
+
+            [3] => Array
+                (
+                    [key] => FLY_IN_FLY_OUT
+                    [name] => Вахта
+                )
+
+        )
+
+    [work_format] => Array
+        (
+            [0] => Array
+                (
+                    [key] => ON_SITE
+                    [name] => На месте работодателя
+                )
+
+            [1] => Array
+                (
+                    [key] => REMOTE
+                    [name] => Удалённо
+                )
+
+            [2] => Array
+                (
+                    [key] => HYBRID
+                    [name] => Гибрид
+                )
+
+            [3] => Array
+                (
+                    [key] => FIELD_WORK
+                    [name] => Разъездной
+                )
+
+        )
+
+    [working_hours] => Array
+        (
+            [0] => Array
+                (
+                    [key] => HOURS_2
+                    [name] => 2 часа
+                )
+
+            [1] => Array
+                (
+                    [key] => HOURS_3
+                    [name] => 3 часа
+                )
+
+            [2] => Array
+                (
+                    [key] => HOURS_4
+                    [name] => 4 часа
+                )
+
+            [3] => Array
+                (
+                    [key] => HOURS_5
+                    [name] => 5 часов
+                )
+
+            [4] => Array
+                (
+                    [key] => HOURS_6
+                    [name] => 6 часов
+                )
+
+            [5] => Array
+                (
+                    [key] => HOURS_7
+                    [name] => 7 часов
+                )
+
+            [6] => Array
+                (
+                    [key] => HOURS_8
+                    [name] => 8 часов
+                )
+
+            [7] => Array
+                (
+                    [key] => HOURS_9
+                    [name] => 9 часов
+                )
+
+            [8] => Array
+                (
+                    [key] => HOURS_10
+                    [name] => 10 часов
+                )
+
+            [9] => Array
+                (
+                    [key] => HOURS_11
+                    [name] => 11 часов
+                )
+
+            [10] => Array
+                (
+                    [key] => HOURS_12
+                    [name] => 12 часов
+                )
+
+            [11] => Array
+                (
+                    [key] => HOURS_24
+                    [name] => 24 часа
+                )
+
+            [12] => Array
+                (
+                    [key] => FLEXIBLE
+                    [name] => По договорённости
+                )
+
+            [13] => Array
+                (
+                    [key] => OTHER
+                    [name] => Другое
+                )
+
+        )
+
+    [fly_in_fly_out_duration] => Array
+        (
+            [0] => Array
+                (
+                    [key] => DAYS_15
+                    [name] => 15
+                )
+
+            [1] => Array
+                (
+                    [key] => DAYS_20
+                    [name] => 20
+                )
+
+            [2] => Array
+                (
+                    [key] => DAYS_30
+                    [name] => 30
+                )
+
+            [3] => Array
+                (
+                    [key] => DAYS_40
+                    [name] => 40
+                )
+
+            [4] => Array
+                (
+                    [key] => DAYS_45
+                    [name] => 45
+                )
+
+            [5] => Array
+                (
+                    [key] => DAYS_60
+                    [name] => 60
+                )
+
+            [6] => Array
+                (
+                    [key] => DAYS_90
+                    [name] => 90
+                )
+
+            [7] => Array
+                (
+                    [key] => DAYS_120
+                    [name] => 120
+                )
+
+            [8] => Array
+                (
+                    [key] => DAYS_180
+                    [name] => 180
+                )
+
+            [9] => Array
+                (
+                    [key] => OTHER
+                    [name] => Другое
+                )
+
+        )
+
+    [work_schedule_by_days] => Array
+        (
+            [0] => Array
+                (
+                    [key] => SIX_ON_ONE_OFF
+                    [name] => 6/1
+                )
+
+            [1] => Array
+                (
+                    [key] => FIVE_ON_TWO_OFF
+                    [name] => 5/2
+                )
+
+            [2] => Array
+                (
+                    [key] => FOUR_ON_FOUR_OFF
+                    [name] => 4/4
+                )
+
+            [3] => Array
+                (
+                    [key] => FOUR_ON_THREE_OFF
+                    [name] => 4/3
+                )
+
+            [4] => Array
+                (
+                    [key] => FOUR_ON_TWO_OFF
+                    [name] => 4/2
+                )
+
+            [5] => Array
+                (
+                    [key] => THREE_ON_THREE_OFF
+                    [name] => 3/3
+                )
+
+            [6] => Array
+                (
+                    [key] => THREE_ON_TWO_OFF
+                    [name] => 3/2
+                )
+
+            [7] => Array
+                (
+                    [key] => TWO_ON_TWO_OFF
+                    [name] => 2/2
+                )
+
+            [8] => Array
+                (
+                    [key] => TWO_ON_ONE_OFF
+                    [name] => 2/1
+                )
+
+            [9] => Array
+                (
+                    [key] => ONE_ON_THREE_OFF
+                    [name] => 1/3
+                )
+
+            [10] => Array
+                (
+                    [key] => ONE_ON_TWO_OFF
+                    [name] => 1/2
+                )
+
+            [11] => Array
+                (
+                    [key] => WEEKEND
+                    [name] => По выходным
+                )
+
+            [12] => Array
+                (
+                    [key] => FLEXIBLE
+                    [name] => Свободный
+                )
+
+            [13] => Array
+                (
+                    [key] => OTHER
+                    [name] => Другое
+                )
+
+        )
+
+    [salary_range_mode] => Array
+        (
+            [0] => Array
+                (
+                    [key] => MONTH
+                    [name] => За месяц
+                )
+
+            [1] => Array
+                (
+                    [key] => SHIFT
+                    [name] => За смену
+                )
+
+            [2] => Array
+                (
+                    [key] => HOUR
+                    [name] => За час
+                )
+
+            [3] => Array
+                (
+                    [key] => FLY_IN_FLY_OUT
+                    [name] => За вахту
+                )
+
+            [4] => Array
+                (
+                    [key] => SERVICE
+                    [name] => За услугу
+                )
+
+        )
+
+    [salary_range_frequency] => Array
+        (
+            [0] => Array
+                (
+                    [key] => DAILY
+                    [name] => Ежедневно
+                )
+
+            [1] => Array
+                (
+                    [key] => WEEKLY
+                    [name] => Раз в неделю
+                )
+
+            [2] => Array
+                (
+                    [key] => TWICE_PER_MONTH
+                    [name] => Два раза в месяц
+                )
+
+            [3] => Array
+                (
+                    [key] => MONTHLY
+                    [name] => Раз в месяц
+                )
+
+            [4] => Array
+                (
+                    [key] => PER_PROJECT
+                    [name] => За проект
+                )
+
+        )
+
+    [resume_search_label] => Array
+        (
+            [0] => Array
+                (
+                    [key] => only_with_photo
+                    [name] => Только с фотографией
+                )
+
+            [1] => Array
+                (
+                    [key] => only_with_salary
+                    [name] => Не показывать резюме без зарплаты
+                )
+
+            [2] => Array
+                (
+                    [key] => only_with_age
+                    [name] => Не показывать резюме без указания возраста
+                )
+
+            [3] => Array
+                (
+                    [key] => only_with_gender
+                    [name] => Не показывать резюме без указания пола
+                )
+
+            [4] => Array
+                (
+                    [key] => only_with_vehicle
+                    [name] => Есть личный автомобиль
+                )
+
+            [5] => Array
+                (
+                    [key] => exclude_viewed_by_user_id
+                    [name] => Скрыть резюме, просмотренные мной
+                )
+
+            [6] => Array
+                (
+                    [key] => exclude_viewed_by_employer_id
+                    [name] => Скрыть резюме, просмотренные всей компанией
+                )
+
+            [7] => Array
+                (
+                    [key] => only_in_responses
+                    [name] => Показать только из откликов и приглашений
+                )
+
+        )
+
+    [resume_search_relocation] => Array
+        (
+            [0] => Array
+                (
+                    [key] => living_or_relocation
+                    [name] => Живут в указанном регионе или готовы переехать в него
+                )
+
+            [1] => Array
+                (
+                    [key] => living
+                    [name] => Живут в указанном регионе
+                )
+
+            [2] => Array
+                (
+                    [key] => living_but_relocation
+                    [name] => Живут в указанном регионе и готовы к переезду куда-либо
+                )
+
+            [3] => Array
+                (
+                    [key] => relocation
+                    [name] => Не живут в указанном регионе, но готовы переехать в него
+                )
+
+        )
+
+    [resume_search_order] => Array
+        (
+            [0] => Array
+                (
+                    [key] => publication_time
+                    [name] => по дате изменения
+                )
+
+            [1] => Array
+                (
+                    [key] => salary_desc
+                    [name] => по убыванию зарплат
+                )
+
+            [2] => Array
+                (
+                    [key] => salary_asc
+                    [name] => по возрастанию зарплаты
+                )
+
+            [3] => Array
+                (
+                    [key] => relevance
+                    [name] => по соответствию
+                )
+
+        )
+
+    [resume_search_experience_period] => Array
+        (
+            [0] => Array
+                (
+                    [key] => all_time
+                    [name] => За всё время работы
+                )
+
+            [1] => Array
+                (
+                    [key] => last_year
+                    [name] => За последний год
+                )
+
+            [2] => Array
+                (
+                    [key] => last_three_years
+                    [name] => За последние 3 года
+                )
+
+            [3] => Array
+                (
+                    [key] => last_six_years
+                    [name] => За последние 6 лет
+                )
+
+        )
+
+)
+

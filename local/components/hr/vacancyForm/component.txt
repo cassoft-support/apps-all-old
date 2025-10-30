@@ -1,0 +1,32 @@
+18.02.2024MSK19:19
+Array
+(
+    [DOMAIN] => logistics-pro.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 4ad07de8a5d0c95e011941cde8c392d6
+    [AUTH_ID] => 363cd26500576b72006797b2000000080000072b96cc0d421daa3b7bc1ad7e1a72169e
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 26bbf96500576b72006797b2000000080000076252e611a6e8106e451eaa4985d09650
+    [member_id] => 137f3595ca3a2c72c95bd79acb765bef
+    [status] => F
+    [PLACEMENT] => USERFIELD_TYPE
+    [PLACEMENT_OPTIONS] => {&quot;MODE&quot;:&quot;view&quot;,&quot;ENTITY_ID&quot;:&quot;CRM_8&quot;,&quot;FIELD_NAME&quot;:&quot;UF_CRM_8_CS_SCAN_DOC_FORM&quot;,&quot;ENTITY_VALUE_ID&quot;:&quot;114&quot;,&quot;VALUE&quot;:null,&quot;MULTIPLE&quot;:&quot;N&quot;,&quot;MANDATORY&quot;:&quot;N&quot;,&quot;XML_ID&quot;:&quot;CS_SCAN_DOC_FORM&quot;}
+    [id] => 114
+    [app] => logistics_pro
+    [CACHE_TYPE] => A
+    [~DOMAIN] => logistics-pro.bitrix24.ru
+    [~PROTOCOL] => 1
+    [~LANG] => ru
+    [~APP_SID] => 4ad07de8a5d0c95e011941cde8c392d6
+    [~AUTH_ID] => 363cd26500576b72006797b2000000080000072b96cc0d421daa3b7bc1ad7e1a72169e
+    [~AUTH_EXPIRES] => 3600
+    [~REFRESH_ID] => 26bbf96500576b72006797b2000000080000076252e611a6e8106e451eaa4985d09650
+    [~member_id] => 137f3595ca3a2c72c95bd79acb765bef
+    [~status] => F
+    [~PLACEMENT] => USERFIELD_TYPE
+    [~PLACEMENT_OPTIONS] => {"MODE":"view","ENTITY_ID":"CRM_8","FIELD_NAME":"UF_CRM_8_CS_SCAN_DOC_FORM","ENTITY_VALUE_ID":"114","VALUE":null,"MULTIPLE":"N","MANDATORY":"N","XML_ID":"CS_SCAN_DOC_FORM"}
+    [~id] => 114
+    [~app] => logistics_pro
+    [~CACHE_TYPE] => A
+)

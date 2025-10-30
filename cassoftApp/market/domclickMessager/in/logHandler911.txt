@@ -1,0 +1,84 @@
+---------------------30.10.2025MSK10:13:04
+Array
+(
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chat_id] => 69030ffaba1a5b00011c2af8
+                    [agent_id] => 10495940
+                    [offer_id] => 2065744756
+                )
+
+        )
+
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6903100046bd1e0001926ca5
+                    [message] => Ещё продается?
+                    [time] => 1761808384603
+                    [user_id] => 52109127
+                    [chat_id] => 69030ffaba1a5b00011c2af8
+                    [message_type] => message
+                    [system_message_action] => 
+                    [read_by] => 
+                    [source] => ui
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 10495940
+                    [display_name] => Алексей Устюгов
+                    [roles] => Array
+                        (
+                            [0] => SELLER
+                        )
+
+                    [role_description] => Продавец
+                )
+
+            [1] => Array
+                (
+                    [user_id] => 52109127
+                    [display_name] => Мария
+                    [roles] => Array
+                        (
+                            [0] => BUYER
+                        )
+
+                    [role_description] => Покупатель
+                )
+
+        )
+
+    [offers] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2065744756
+                    [external_id] => 1156958
+                    [title] => 2-комн. кв., 58.0 м², 3/5 этаж
+                    [address] => Россия, Тюменская область, Ялуторовск, Свободы, 238
+                    [url] => https://domclick.ru/card/sale__flat__2065744756
+                    [img_url] => https://img.dmclk.ru/c100x100/vitrina/07/a1/07a10e9fde473f51af91d6d227edae14ad0c341e.png
+                    [price] => 4550000
+                )
+
+        )
+
+)
+
+memberId
+911cba31b2243463bf73e5725fb8e723
+rest
+Array
+(
+    [ID] => 67
+)
+

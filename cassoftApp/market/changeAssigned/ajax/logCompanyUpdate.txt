@@ -1,0 +1,32 @@
+---------------------30.10.2025MSK10:53:34
+Array
+(
+    [event] => ONCRMCOMPANYUPDATE
+    [event_handler_id] => 3738
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 13268
+                )
+
+        )
+
+    [ts] => 1761810789
+    [auth] => Array
+        (
+            [domain] => cp.tehnoparts.ru
+            [client_endpoint] => https://cp.tehnoparts.ru/rest/
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [member_id] => 82ad88735da229b163a1dd4dec008641
+            [application_token] => c58b65cfadde1a615ec41aa160be2458
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 109
+)
+

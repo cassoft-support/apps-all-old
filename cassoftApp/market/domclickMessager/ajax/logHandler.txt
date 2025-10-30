@@ -1,0 +1,22 @@
+---------------------23.10.2025MSK16:53:30
+Array
+(
+    [DOMAIN] => 1983.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d265ce3a86f21a009a68f6320782a4fe
+    [AUTH_ID] => 6941fa6800543a28007d300e00000006000007302636c00bcdce686f84d0bb07fe7404
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 59c0216900543a28007d300e0000000600000763296f452befc5b5765f3f33dc955a23
+    [member_id] => fc8c33f2a71aea8e680c1df897819548
+    [status] => S
+    [PLACEMENT] => SETTING_CONNECTOR
+    [PLACEMENT_OPTIONS] => {"CONNECTOR":"cs_domclick_connector","LINE":"18","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+)
+
+rest
+Array
+(
+    [ID] => 80
+)
+

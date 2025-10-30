@@ -1,0 +1,61 @@
+---------------------19.06.2025MSK16:32:01
+Array
+(
+    [PROP] => Array
+        (
+            [CS_ADMIN] => ["136"]
+            [CS_TOKEN_DADATA] => 
+            [CS_KEY_DADATA] => 
+            [CS_API_WHATSAPP] => 
+            [CS_LINE_WHATSAPP] => 
+            [CS_COLOR] => 
+            [CS_BACKGROUND_COLOR] => 
+            [CS_BACKGROUND_IMG] => 
+            [CS_TELEGRAM_SHOP] => 
+            [CS_TELEGRAM_GROUP] => 
+            [CS_KEY_TELEGRAM] => 
+            [CS_BOT_TELEGRAM] => 
+            [CS_HH_KEY] => {"200":{"access_token":"USERU3NSJ8VLDFDAORKIDBLPQ43BCNBNGC7P1OVE7QE0LA9P4LTMKEJ2U487TI64","refresh_token":"USERMU043I9EI2VNIG751S29VEUEKGTF199IP3DIJE2C8KB6NDE5B8NCMCMJ64KC","date_close":1751548793}}
+            [CS_HH_ID] => 
+            [CS_RR_KEY] => 
+            [CS_KEY_CDEK] => 
+            [CS_ACCOUNT_CDEK] => 
+            [CS_VK_ACCESS_TOKEN] => 
+            [CS_VK_GROUP_ID] => 
+            [CS_ACTIVE_VK] => 
+            [CS_RECRUITER] => null
+            [CS_KEY_SMSRU] => 
+            [CS_CHAT_BUY] => 
+            [CS_CHAT_SUPPORT] => 
+            [CS_API_WAZZUP] => 
+        )
+
+    [ID] => 4
+    [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+)
+
+params
+Array
+(
+    [code] => NVS95R3QBPETK0AOP5Q13V9B3IBCL0AULIHP3AR9OBL4J98B221PB492SP4M0QVU
+    [user_id] => 200
+    [auth] => Array
+        (
+            [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+        )
+
+    [app] => hr_pro
+    [tempList] => codeAdd
+    [CACHE_TYPE] => A
+    [~code] => NVS95R3QBPETK0AOP5Q13V9B3IBCL0AULIHP3AR9OBL4J98B221PB492SP4M0QVU
+    [~user_id] => 200
+    [~auth] => Array
+        (
+            [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+        )
+
+    [~app] => hr_pro
+    [~tempList] => codeAdd
+    [~CACHE_TYPE] => A
+)
+

@@ -1,0 +1,42 @@
+---------------------27.06.2025MSK10:57:51
+Array
+(
+    [DOMAIN] => alexstar.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a227e731536af009695c15455057cfe5
+    [AUTH_ID] => fe5c5e6800579b100073d9ee0000077b0000072dcca857fc7643296993b6eba085ae1d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => eedb856800579b100073d9ee0000077b000007e7f1dfc87b4ebf31bcd8f6dc928159ae
+    [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"75\/"}
+    [app] => auto_ru
+    [FOLDER] => CAEejz7EeBUXo
+)
+
+REQUEST
+Array
+(
+    [DOMAIN] => alexstar.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a227e731536af009695c15455057cfe5
+    [AUTH_ID] => fe5c5e6800579b100073d9ee0000077b0000072dcca857fc7643296993b6eba085ae1d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => eedb856800579b100073d9ee0000077b000007e7f1dfc87b4ebf31bcd8f6dc928159ae
+    [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"75\/"}
+    [app] => auto_ru
+    [FOLDER] => CAEejz7EeBUXo
+)
+
+clientsApp
+Array
+(
+    [ID] => 10
+)
+

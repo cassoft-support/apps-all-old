@@ -1,0 +1,11 @@
+addComponent
+Array
+(
+    [country] => 1
+    [member_id] => 54f17a89344db2b08c183c4e688e9874
+    [app] => devPro
+    [type] => objectStage
+    [reg] => {"DOMAIN":"gorizont-ru.bitrix24.ru","PROTOCOL":"1","LANG":"ru","APP_SID":"04fe8f42df30e374b2a0763cbef8b21e","AUTH_ID":"78a5bb64005d44560059a47a0000000c000007f5ada52c40959a2888e3c63a49eaf28b","AUTH_EXPIRES":"3600","REFRESH_ID":"6824e364005d44560059a47a0000000c000007f81a135e48b84386ef7177582bfe88b3","member_id":"54f17a89344db2b08c183c4e688e9874","status":"F","PLACEMENT":"DEFAULT","PLACEMENT_OPTIONS":"{\"any\":\"12\\\/\"}"}
+    [user_id] => 12
+    [domain] => gorizont-ru.bitrix24.ru
+)

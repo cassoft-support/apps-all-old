@@ -1,0 +1,38 @@
+---------------------22.05.2025MSK17:36:47
+start
+REQUEST
+Array
+(
+    [DOMAIN] => ecoferma56.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 60a670865a9fcb43db736a997ec7c513
+    [AUTH_ID] => 8f442f68005567d6002bb69000000001201c07c3bb55d1d7cd2a2faf935d552ac21dcd
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 7fc35668005567d6002bb69000000001201c078d0c019cdbbd58efd59f728742b78e40
+    [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [status] => S
+    [PLACEMENT] => USERFIELD_TYPE
+    [PLACEMENT_OPTIONS] => {"MODE":"view","ENTITY_ID":"CRM_10","FIELD_NAME":"UF_CRM_10_CS_CANDIDATES_FORM","ENTITY_VALUE_ID":"2","VALUE":null,"MULTIPLE":"N","MANDATORY":"N","XML_ID":"CS_CANDIDATES_FORM","ENTITY_DATA":{"entityTypeId":161,"entityId":"2","module":"crm"}}
+)
+
+option
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_10
+    [FIELD_NAME] => UF_CRM_10_CS_CANDIDATES_FORM
+    [ENTITY_VALUE_ID] => 2
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => CS_CANDIDATES_FORM
+    [ENTITY_DATA] => Array
+        (
+            [entityTypeId] => 161
+            [entityId] => 2
+            [module] => crm
+        )
+
+)
+

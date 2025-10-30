@@ -1,0 +1,24 @@
+---------------------23.07.2024MSK10:43:49------------------
+params
+Array
+(
+    [req] => Array
+        (
+            [DOMAIN] => beregone.bitrix24.ru
+            [PROTOCOL] => 1
+            [LANG] => ru
+            [APP_SID] => 94fe4e321caa9258157c79f4046b4d7c
+            [AUTH_ID] => 456d9f66005567d6006edb080000000b000007a621ddddfccd65d3338039de4e4492c4
+            [AUTH_EXPIRES] => 3600
+            [REFRESH_ID] => 35ecc666005567d6006edb080000000b000007979fbeda07aaa095fe11c2d92bb6d86f
+            [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+            [status] => F
+            [PLACEMENT] => REST_APP_URI
+            [PLACEMENT_OPTIONS] => "{\u0022smartId\u0022:\u0022761\u0022,\u0022app\u0022:\u0022hr_pro\u0022,\u0022appType\u0022:\u0022candidates\u0022,\u0022candidateId\u0022:\u0022779\u0022}"
+        )
+
+    [app] => hr_pro
+    [smartId] => 761
+    [candidateId] => 779
+)
+

@@ -1,0 +1,23 @@
+---------------------30.10.2025MSK10:53:40
+Array
+(
+    [CS_DEAL] => {"contact":true,"company":true,"invoice":true,"quote":false}
+    [CS_LEAD] => {"contact":true,"company":true,"quote":false}
+    [CS_CONTACT] => {"lead":false,"deal":false,"company":false,"invoice":false,"quote":false}
+    [CS_COMPANY] => {"lead":false,"deal":false,"contact":false,"invoice":false,"quote":false}
+    [CS_QUOTE] => {"lead":false,"deal":false,"contact":false,"company":false,"invoice":false}
+    [CS_SMART] => 
+    [CS_INVOICE] => 
+    [CS_COMMENT_ADD] => 1
+)
+
+resCompanySetup
+Array
+(
+    [lead] => 
+    [deal] => 
+    [company] => 
+    [invoice] => 
+    [quote] => 
+)
+

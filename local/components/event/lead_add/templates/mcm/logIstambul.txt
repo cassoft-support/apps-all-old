@@ -1,0 +1,2918 @@
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 524
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760620264
+            [text] => Создан новый лид - Тест отправки в новую группу Стамбул
+ Имя: имя
+ тел: +79878787878
+Мессенджер: 
+Пожелания: 
+Комментарий: 
+Регион интереса: Стамбул
+Страна: Россия
+Город: 
+Язык: Русский
+Источник:
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 55
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146548/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 62
+                            [length] => 3
+                            [type] => bold
+                        )
+
+                    [2] => Array
+                        (
+                            [offset] => 72
+                            [length] => 12
+                            [type] => phone_number
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 530
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760669098
+            [text] => Создан новый лид - Заявка Bhar Albhar
+ Имя: Bhar Albhar
+ тел: 97455834346
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 37
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146568/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 44
+                            [length] => 11
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 531
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760756269
+            [text] => Создан новый лид - Заявка mohka
+ Имя: mohka
+ тел: 905367380095
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 31
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146622/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 38
+                            [length] => 5
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 532
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760772396
+            [text] => Создан новый лид - Заявка Nur Münir
+ Имя: Nur Münir
+ тел: 905312279978
+Мессенджер: Telegram
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 35
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146628/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 42
+                            [length] => 9
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 533
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760789708
+            [text] => Создан новый лид - Заявка Adnan Alamoudi
+ Имя: Adnan Alamoudi
+ тел: 966504653490
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 40
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146654/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 47
+                            [length] => 14
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 534
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760796297
+            [text] => Создан новый лид - Заявка Imad Awad
+ Имя: Imad Awad
+ тел: 966544433998
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 35
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146660/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 42
+                            [length] => 9
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 535
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760816825
+            [text] => Создан новый лид - Заявка Ibrahim
+ Имя: Ibrahim
+ тел: 905334568993
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 33
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146668/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 40
+                            [length] => 7
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 536
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760820739
+            [text] => Создан новый лид - Заявка عبدالله العامودي
+ Имя: عبدالله العامودي
+ тел: 966504653448
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 42
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146676/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 49
+                            [length] => 16
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 537
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760866672
+            [text] => Создан новый лид - Заявка Taha Kamel
+ Имя: Taha Kamel
+ тел: 966555772538
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 36
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146699/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 43
+                            [length] => 10
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 538
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760875217
+            [text] => Создан новый лид - Заявка Abdullah Ghazal
+ Имя: Abdullah Ghazal
+ тел: 966547934008
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 41
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146704/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 48
+                            [length] => 15
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 539
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760910903
+            [text] => Создан новый лид - Заявка Abdemoneim Abderahman Abdelsalam Ahmed
+ Имя: Abdemoneim Abderahman Abdelsalam Ahmed
+ тел: 60177750092
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 64
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146724/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 71
+                            [length] => 38
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 540
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760964065
+            [text] => Создан новый лид - Заявка Meshal al rashoodi ()
+ Имя: Meshal al rashoodi
+ тел: 905550715550
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 47
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146746/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 54
+                            [length] => 18
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 541
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760971149
+            [text] => Создан новый лид - Заявка Kader Sadouki ()
+ Имя: Kader Sadouki
+ тел: 905314936081
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 42
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146750/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 49
+                            [length] => 13
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 542
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760977257
+            [text] => Создан новый лид - Заявка أنور عبد القادر ()
+ Имя: أنور عبد القادر
+ тел: 905343355907
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 44
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146756/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 51
+                            [length] => 15
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 543
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760982645
+            [text] => Создан новый лид - Заявка Abeer Aswad Marashi ()
+ Имя: Abeer Aswad Marashi
+ тел: 905380235285
+Мессенджер: Telegram
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 48
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146758/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 55
+                            [length] => 19
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 544
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1760989967
+            [text] => Создан новый лид - Заявка Ahmed Hussein ()
+ Имя: Ahmed Hussein
+ тел: 905525864711
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 42
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146768/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 49
+                            [length] => 13
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 545
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761017015
+            [text] => Создан новый лид - Заявка Saleh ()
+ Имя: Saleh
+ тел: 971509993503
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 34
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146774/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 41
+                            [length] => 5
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 546
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761023601
+            [text] => Создан новый лид - Заявка محمد الظفيري ()
+ Имя: محمد الظفيري
+ тел: 971503727666
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 41
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146780/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 48
+                            [length] => 12
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 547
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761041415
+            [text] => Создан новый лид - Заявка Amera Sy Стамбул
+ Имя: Amera Sy
+ тел: 905349675833
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 42
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146794/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 49
+                            [length] => 8
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 548
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761045084
+            [text] => Создан новый лид - Заявка Salah Abdullah Стамбул
+ Имя: Salah Abdullah
+ тел: 966555884646
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 48
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146798/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 55
+                            [length] => 14
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 549
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761074380
+            [text] => Создан новый лид - Заявка Magde Kamel Стамбул
+ Имя: Magde Kamel
+ тел: 966534312511
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 45
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146834/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 52
+                            [length] => 11
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 550
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761079022
+            [text] => Создан новый лид - Заявка هبه سعد محفوظ محفوظ Стамбул
+ Имя: هبه سعد محفوظ محفوظ
+ тел: 905533577881
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 53
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146840/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 60
+                            [length] => 19
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 551
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761103383
+            [text] => Создан новый лид - Заявка injured123 Стамбул
+ Имя: injured123
+ тел: 966561139200
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 44
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146846/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 51
+                            [length] => 10
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 552
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761109718
+            [text] => Создан новый лид - Заявка Rakan Стамбул
+ Имя: Rakan
+ тел: 966566885883
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 39
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146848/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 46
+                            [length] => 5
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 553
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761127778
+            [text] => Создан новый лид - Заявка Razan Bitar Стамбул
+ Имя: Razan Bitar
+ тел: 963991130304
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 45
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146862/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 52
+                            [length] => 11
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 554
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761144266
+            [text] => Создан новый лид - Заявка Eng Emad Стамбул
+ Имя: Eng Emad
+ тел: 9647750147864
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 42
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146878/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 49
+                            [length] => 8
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 555
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761202955
+            [text] => Создан новый лид - Заявка حمزة عمر الاحمد Стамбул
+ Имя: حمزة عمر الاحمد
+ тел: 905393695390
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 49
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146896/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 56
+                            [length] => 15
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 556
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761234708
+            [text] => Создан новый лид - Заявка Alya Стамбул
+ Имя: Alya
+ тел: 966548437776
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 38
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146918/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 45
+                            [length] => 4
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 557
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761275513
+            [text] => Создан новый лид - Заявка Salim BAKIR Стамбул
+ Имя: Salim BAKIR
+ тел: 905458723185
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 45
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146940/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 52
+                            [length] => 11
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 558
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761288683
+            [text] => Создан новый лид - Заявка A Ahmed Usman Стамбул
+ Имя: A Ahmed Usman
+ тел: 966552862519
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 47
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146946/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 54
+                            [length] => 13
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 559
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761300881
+            [text] => Создан новый лид - Заявка Manal ghandorah Стамбул
+ Имя: Manal ghandorah
+ тел: 966545252852
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 49
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146962/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 56
+                            [length] => 15
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 560
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761334637
+            [text] => Создан новый лид - Заявка Ehab Mehder Стамбул
+ Имя: Ehab Mehder
+ тел: 966503532022
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 45
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146978/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 52
+                            [length] => 11
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 561
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761340007
+            [text] => Создан новый лид - Заявка فهد العجيل Стамбул
+ Имя: فهد العجيل
+ тел: 966506928060
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 44
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146980/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 51
+                            [length] => 10
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 562
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761359756
+            [text] => Создан новый лид - Заявка ياسين خضر Стамбул
+ Имя: ياسين خضر
+ тел: 966502441300
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 43
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146986/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 50
+                            [length] => 9
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 563
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761378820
+            [text] => Создан новый лид - Заявка Sarah Altonji Стамбул
+ Имя: Sarah Altonji
+ тел: 905378409325
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 47
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/146990/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 54
+                            [length] => 13
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 564
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761386166
+            [text] => Создан новый лид - Заявка علوي قاسم المسبحي Стамбул
+ Имя: علوي قاسم المسبحي
+ тел: 966503804701
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 51
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147000/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 58
+                            [length] => 17
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 565
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761387618
+            [text] => Создан новый лид - Заявка Bushra Fahad Стамбул
+ Имя: Bushra Fahad
+ тел: 966501112663
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 46
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147002/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 53
+                            [length] => 12
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 566
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761420821
+            [text] => Создан новый лид - Заявка Hatice Стамбул
+ Имя: Hatice
+ тел: 05382877481
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 40
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147024/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 47
+                            [length] => 6
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 567
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761426675
+            [text] => Создан новый лид - Заявка Gamal Yasin Стамбул
+ Имя: Gamal Yasin
+ тел: 201155430971
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 45
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147028/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 52
+                            [length] => 11
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 580
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761755461
+            [text] => Создан новый лид - Заявка Ang Pogi Стамбул
+ Имя: Ang Pogi
+ тел: 966576524493
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 42
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147224/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 49
+                            [length] => 8
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+resSendDub
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 581
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -4944463929
+                    [title] => LEADS İSTANBUL | STAY PROPERTY
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                    [accepted_gift_types] => Array
+                        (
+                            [unlimited_gifts] => 
+                            [limited_gifts] => 
+                            [unique_gifts] => 
+                            [premium_subscription] => 
+                        )
+
+                )
+
+            [date] => 1761759408
+            [text] => Создан новый лид - Заявка ربيع العلي Стамбул
+ Имя: ربيع العلي
+ тел: 905316920418
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Комментарий: Потребности - DS | AR | Стамбул | Zeytinkule | Banner
+Регион интереса: Стамбул
+Страна: 
+Город: 
+Язык: Шведский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 44
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/147236/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 51
+                            [length] => 10
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+

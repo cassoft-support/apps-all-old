@@ -1,0 +1,124 @@
+---------------------30.10.2025MSK07:57:27
+Array
+(
+    [workflow_id] => 6902f03664fbc5.53903514
+    [code] => mcm_robot_send
+    [document_id] => Array
+        (
+            [0] => crm
+            [1] => CCrmDocumentLead
+            [2] => LEAD_3101
+        )
+
+    [document_type] => Array
+        (
+            [0] => crm
+            [1] => CCrmDocumentLead
+            [2] => LEAD
+        )
+
+    [event_token] => 6902f03664fbc5.53903514|A4230_89474_20961_31561|9w8J8s4edMUI5W2pGmhuazj9BVl0bf4v.dc27d30cdeb2014e9cd3855efa9768ef6c9d76df23789fdbb1b8ec4042d82ca4
+    [properties] => Array
+        (
+            [text] => 79134518565, спасибо что обратились в нашу компанию, в ближайшее время с вами свяжется наш менеджер.
+            [user] => user_17
+            [profile] => Array
+                (
+                    [0] => Отдел продаж
+                )
+
+            [number] => 79134518565, 
+            [open_line] => Y
+        )
+
+    [use_subscription] => Y
+    [timeout_duration] => 0
+    [ts] => 1761800246
+    [auth] => Array
+        (
+            [access_token] => 47fe026900579b0e0036d58400000001000000ef9ac4fcd0b304c91100f110bbb5ed28
+            [expires] => 1761803847
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement,rpa,mobile,disk,userfieldconfig,contact_center,bizproc
+            [domain] => cassoft.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://cassoft.bitrix24.ru/rest/
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [user_id] => 1
+            [refresh_token] => 377d2a6900579b0e0036d584000000010000006f8de9f83f8aae84d38b0a7a63d2076d
+            [application_token] => 1f50bf124d75322df4fe9cff3d38f5d5
+        )
+
+    [app] => mcm
+    [tempList] => robot
+    [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [CACHE_TYPE] => A
+    [~workflow_id] => 6902f03664fbc5.53903514
+    [~code] => mcm_robot_send
+    [~document_id] => Array
+        (
+            [0] => crm
+            [1] => CCrmDocumentLead
+            [2] => LEAD_3101
+        )
+
+    [~document_type] => Array
+        (
+            [0] => crm
+            [1] => CCrmDocumentLead
+            [2] => LEAD
+        )
+
+    [~event_token] => 6902f03664fbc5.53903514|A4230_89474_20961_31561|9w8J8s4edMUI5W2pGmhuazj9BVl0bf4v.dc27d30cdeb2014e9cd3855efa9768ef6c9d76df23789fdbb1b8ec4042d82ca4
+    [~properties] => Array
+        (
+            [text] => 79134518565, спасибо что обратились в нашу компанию, в ближайшее время с вами свяжется наш менеджер.
+            [user] => user_17
+            [profile] => Array
+                (
+                    [0] => Отдел продаж
+                )
+
+            [number] => 79134518565, 
+            [open_line] => Y
+        )
+
+    [~use_subscription] => Y
+    [~timeout_duration] => 0
+    [~ts] => 1761800246
+    [~auth] => Array
+        (
+            [access_token] => 47fe026900579b0e0036d58400000001000000ef9ac4fcd0b304c91100f110bbb5ed28
+            [expires] => 1761803847
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement,rpa,mobile,disk,userfieldconfig,contact_center,bizproc
+            [domain] => cassoft.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://cassoft.bitrix24.ru/rest/
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [user_id] => 1
+            [refresh_token] => 377d2a6900579b0e0036d584000000010000006f8de9f83f8aae84d38b0a7a63d2076d
+            [application_token] => 1f50bf124d75322df4fe9cff3d38f5d5
+        )
+
+    [~app] => mcm
+    [~tempList] => robot
+    [~member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [~CACHE_TYPE] => A
+)
+
+paramsGet
+Array
+(
+    [ENTITY] => setup_messager
+    [FILTER] => Array
+        (
+            [PROPERTY_CS_CODE] => Отдел продаж
+        )
+
+)
+
+resSetupGet
+

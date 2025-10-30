@@ -1,0 +1,17 @@
+23.09.2025MSK08:26
+Array
+(
+    [auth] => Array
+        (
+            [access_token] => 6f3dd268005d64e6007b3e84000000ff000007b8dd9768b128bae134c2c07585d2bff1
+            [refresh_token] => 5fbcf968005d64e6007b3e84000000ff000007d7c78c1c0a549990d512d1f30e908de5
+            [expires_in] => 1758608767438
+            [domain] => b24-w08861.bitrix24.ru
+            [member_id] => 72ce3bb42209d2a0857ca0b6b59525ad
+        )
+
+    [member_id] => 72ce3bb42209d2a0857ca0b6b59525ad
+    [app] => change_assigned
+    [type] => support
+    [user_id] => 255
+)

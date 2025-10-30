@@ -1,0 +1,81 @@
+---------------------04.02.2025MSK09:29:21
+Array
+(
+    [DOMAIN] => app-cassoft.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 29558c71db207bf8d15cc2664ed6fcb7
+    [AUTH_ID] => d1c1a16700579b0e0074c1240000000c000007c751210cc6996e60710a638628d0e9aa
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c140c96700579b0e0074c1240000000c00000730fec31d2d0143d71bfcc47213a6882c
+    [member_id] => b52a9e034640cdbe192eb721d7288263
+    [status] => S
+    [PLACEMENT] => SETTING_CONNECTOR
+    [PLACEMENT_OPTIONS] => {&quot;CONNECTOR&quot;:&quot;cs_mcm_whatsapp&quot;,&quot;LINE&quot;:&quot;2&quot;,&quot;STATUS&quot;:false,&quot;ACTIVE_STATUS&quot;:true,&quot;CONNECTION_STATUS&quot;:false,&quot;REGISTER_STATUS&quot;:false,&quot;ERROR_STATUS&quot;:false}
+    [app] => mcm
+    [CACHE_TYPE] => A
+    [~DOMAIN] => app-cassoft.bitrix24.ru
+    [~PROTOCOL] => 1
+    [~LANG] => ru
+    [~APP_SID] => 29558c71db207bf8d15cc2664ed6fcb7
+    [~AUTH_ID] => d1c1a16700579b0e0074c1240000000c000007c751210cc6996e60710a638628d0e9aa
+    [~AUTH_EXPIRES] => 3600
+    [~REFRESH_ID] => c140c96700579b0e0074c1240000000c00000730fec31d2d0143d71bfcc47213a6882c
+    [~member_id] => b52a9e034640cdbe192eb721d7288263
+    [~status] => S
+    [~PLACEMENT] => SETTING_CONNECTOR
+    [~PLACEMENT_OPTIONS] => {"CONNECTOR":"cs_mcm_whatsapp","LINE":"2","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+    [~app] => mcm
+    [~CACHE_TYPE] => A
+)
+
+resSetup
+Array
+(
+    [ID] => 34
+    [TIMESTAMP_X] => 2025-02-03T18:47:33+03:00
+    [MODIFIED_BY] => 12
+    [DATE_CREATE] => 2025-02-03T18:47:33+03:00
+    [CREATED_BY] => 12
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => setup
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => setup_messager
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [CS_COLOR] => 
+            [CS_BACKGROUND_COLOR] => 
+            [CS_BACKGROUND_IMG] => 
+            [CS_API_WHATSAPP] => 
+            [CS_LINE_WHATSAPP] => 
+            [CS_ADMIN] => 
+            [CHAT_APP_EMAIL] => 
+            [CHAT_APP_PASSWORD] => 
+            [CS_TELEGRAM_SHOP] => 
+            [CS_TELEGRAM_GROUP] => 
+            [CS_KEY_TELEGRAM] => 
+            [CS_BOT_TELEGRAM] => 
+            [CS_KEY_CIAN] => 
+            [CS_CIAN_CONNECT] => 
+            [CS_KEY_DC] => 
+            [CS_DC_CONNECT] => 
+            [CS_KEY_AVITO] => 
+            [CS_AVITO_CONNECT] => 
+            [CS_TELEGRAM_CONNECT] => 
+            [CS_CIAN_LINE] => 
+            [CS_DC_LINE] => 
+            [CS_TELEGRAM_LINE] => 
+            [CHAT_APP_ID] => 
+            [CS_MCM_CONNECT] => 
+        )
+
+)
+

@@ -1,0 +1,65 @@
+---------------------29.10.2025MSK20:14:17
+Array
+(
+    [event] => ONIMCONNECTORMESSAGEADD
+    [event_handler_id] => 176
+    [data] => Array
+        (
+            [CONNECTOR] => cs_domclick_connector
+            [LINE] => 9
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 102099
+                                    [message_id] => 1037434
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 0
+                                    [text] => Благодарим Вас за интерес к нашему предложению! Для оперативного ответа просьба написать свой номер телефона.
+                                    [params] => Array
+                                        (
+                                            [CLASS] => bx-messenger-content-item-ol-output
+                                        )
+
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 69024b682081cb00019d3341
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [ts] => 1761758057
+    [auth] => Array
+        (
+            [access_token] => 7959026900543a28005029a00000006a0000066fc412f43d816a96cc63c14854d6e7f4
+            [expires] => 1761761657
+            [expires_in] => 3600
+            [scope] => crm,imopenlines,im,user_brief,imbot,entity
+            [domain] => avega.brokci.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => S
+            [client_endpoint] => https://avega.brokci.ru/rest/
+            [member_id] => fe8460d3a2d25aa3019490f2bab1c740
+            [user_id] => 106
+            [application_token] => a1a9d60a166b5ccaa5c952fcae56446a
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 38
+)
+

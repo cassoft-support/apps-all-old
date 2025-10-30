@@ -1,0 +1,1166 @@
+---------------------13.04.2025MSK15:40:08
+Array
+(
+    [DOMAIN] => brokci.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 394d49c1f121c1ca056dc0cec4638749
+    [AUTH_ID] => aebefb670052d240005a33fe00000008000007d026706f81e654d2fbf028f863620b12
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 9e3d23680052d240005a33fe00000008000007aabcbb5efdb65820359ae6bc7f95bb1b
+    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"54\/"}
+    [app] => tasks_pro
+    [FOLDER] => CAEFXCcOXxX3c
+)
+
+REQUEST
+Array
+(
+    [DOMAIN] => brokci.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 394d49c1f121c1ca056dc0cec4638749
+    [AUTH_ID] => aebefb670052d240005a33fe00000008000007d026706f81e654d2fbf028f863620b12
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 9e3d23680052d240005a33fe00000008000007aabcbb5efdb65820359ae6bc7f95bb1b
+    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"54\/"}
+    [app] => tasks_pro
+    [FOLDER] => CAEFXCcOXxX3c
+)
+
+clientsApp
+
+params
+Array
+(
+    [UF_CS_CLIENT_PORTAL_MEMBER_ID] => 350f96d46411bd6439bd5372cd90fec3
+    [UF_CS_CLIENT_PORTAL_DOMEN] => brokci.bitrix24.ru
+    [UF_CS_CLIENT_PORTAL_DOMAIN] => brokci.bitrix24.ru
+    [UF_CS_CLIENT_PORTAL_ACCESS_TOKEN] => aebefb670052d240005a33fe00000008000007d026706f81e654d2fbf028f863620b12
+    [UF_CS_CLIENT_PORTAL_REFRESH_TOKEN] => 9e3d23680052d240005a33fe00000008000007aabcbb5efdb65820359ae6bc7f95bb1b
+    [UF_DATE_UP] => 13.04.2025MSK15:40:08
+    [UF_ACTIVE] => 1
+    [UF_CS_FOLDER] => CAEFXCcOXxX3c
+)
+
+authAppAdd
+Bitrix\Main\ORM\Data\AddResult Object
+(
+    [isSuccess:protected] => 1
+    [errors:protected] => Bitrix\Main\ErrorCollection Object
+        (
+            [values:protected] => Array
+                (
+                )
+
+        )
+
+    [data:protected] => Array
+        (
+            [UF_CS_CLIENT_PORTAL_MEMBER_ID] => 350f96d46411bd6439bd5372cd90fec3
+            [UF_CS_CLIENT_PORTAL_DOMEN] => brokci.bitrix24.ru
+            [UF_CS_CLIENT_PORTAL_ACCESS_TOKEN] => aebefb670052d240005a33fe00000008000007d026706f81e654d2fbf028f863620b12
+            [UF_CS_CLIENT_PORTAL_REFRESH_TOKEN] => 9e3d23680052d240005a33fe00000008000007aabcbb5efdb65820359ae6bc7f95bb1b
+            [UF_DATE_UP] => Bitrix\Main\Type\DateTime Object
+                (
+                    [value:protected] => DateTime Object
+                        (
+                            [date] => 2025-04-13 15:40:08.000000
+                            [timezone_type] => 3
+                            [timezone] => Europe/Moscow
+                        )
+
+                    [userTimeEnabled:protected] => 
+                )
+
+            [UF_DATA_CLOSE] => 
+            [UF_ACTIVE] => 1
+            [UF_CS_FOLDER] => CAEFXCcOXxX3c
+            [UF_ID_OLD] => 
+            [UF_MAIN] => 0
+        )
+
+    [wereErrorsChecked:protected] => 
+    [object:protected] => EO_AppTasksProAccess Object
+        (
+            [_entity:protected] => Bitrix\Main\ORM\Entity Object
+                (
+                    [className:protected] => \AppTasksProAccessTable
+                    [module:protected] => 
+                    [name:protected] => AppTasksProAccess
+                    [connectionName:protected] => default
+                    [dbTableName:protected] => app_tasks_pro_access
+                    [primary:protected] => Array
+                        (
+                            [0] => ID
+                        )
+
+                    [autoIncrement:protected] => ID
+                    [uf_id:protected] => 
+                    [isUts:protected] => 
+                    [isUtm:protected] => 
+                    [fields:protected] => Array
+                        (
+                            [ID] => Bitrix\Main\ORM\Fields\IntegerField Object
+                                (
+                                    [name:protected] => ID
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [data_type] => integer
+                                            [primary] => 1
+                                            [autocomplete] => 1
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => 
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppTasksProAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppTasksProAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_tasks_pro_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_TASKS_PRO_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 1
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 1
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 
+                                    [is_binary:protected] => 
+                                    [column_name:protected] => ID
+                                    [default_value:protected] => 
+                                    [size:protected] => 4
+                                )
+
+                            [UF_CS_CLIENT_PORTAL_MEMBER_ID] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_CS_CLIENT_PORTAL_MEMBER_ID
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppTasksProAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppTasksProAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_tasks_pro_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_TASKS_PRO_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [column_name:protected] => UF_CS_CLIENT_PORTAL_MEMBER_ID
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_CS_CLIENT_PORTAL_DOMEN] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_CS_CLIENT_PORTAL_DOMEN
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppTasksProAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppTasksProAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_tasks_pro_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_TASKS_PRO_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [column_name:protected] => UF_CS_CLIENT_PORTAL_DOMEN
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_CS_CLIENT_PORTAL_ACCESS_TOKEN] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_CS_CLIENT_PORTAL_ACCESS_TOKEN
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppTasksProAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppTasksProAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_tasks_pro_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_TASKS_PRO_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [column_name:protected] => UF_CS_CLIENT_PORTAL_ACCESS_TOKEN
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_CS_CLIENT_PORTAL_REFRESH_TOKEN] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_CS_CLIENT_PORTAL_REFRESH_TOKEN
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppTasksProAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppTasksProAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_tasks_pro_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_TASKS_PRO_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [column_name:protected] => UF_CS_CLIENT_PORTAL_REFRESH_TOKEN
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_DATE_UP] => Bitrix\Main\ORM\Fields\DatetimeField Object
+                                (
+                                    [name:protected] => UF_DATE_UP
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppTasksProAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppTasksProAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_tasks_pro_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_TASKS_PRO_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [column_name:protected] => UF_DATE_UP
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [useTimezone:protected] => 
+                                )
+
+                            [UF_DATA_CLOSE] => Bitrix\Main\ORM\Fields\DatetimeField Object
+                                (
+                                    [name:protected] => UF_DATA_CLOSE
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppTasksProAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppTasksProAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_tasks_pro_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_TASKS_PRO_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [column_name:protected] => UF_DATA_CLOSE
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [useTimezone:protected] => 
+                                )
+
+                            [UF_ACTIVE] => Bitrix\Main\ORM\Fields\BooleanField Object
+                                (
+                                    [name:protected] => UF_ACTIVE
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                            [values] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 1
+                                                )
+
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [0] => Bitrix\Main\ORM\Fields\BooleanField Object
+ *RECURSION*
+                                                    [1] => normalizeValue
+                                                )
+
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [0] => Bitrix\Main\ORM\Fields\BooleanField Object
+ *RECURSION*
+                                                    [1] => normalizeValue
+                                                )
+
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppTasksProAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppTasksProAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_tasks_pro_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_TASKS_PRO_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [column_name:protected] => UF_ACTIVE
+                                    [default_value:protected] => 1
+                                    [values:protected] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 1
+                                        )
+
+                                )
+
+                            [UF_CS_FOLDER] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_CS_FOLDER
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppTasksProAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppTasksProAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_tasks_pro_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_TASKS_PRO_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [column_name:protected] => UF_CS_FOLDER
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_ID_OLD] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_ID_OLD
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppTasksProAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppTasksProAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_tasks_pro_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_TASKS_PRO_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [column_name:protected] => UF_ID_OLD
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_MAIN] => Bitrix\Main\ORM\Fields\BooleanField Object
+                                (
+                                    [name:protected] => UF_MAIN
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                            [values] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 1
+                                                )
+
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [0] => Bitrix\Main\ORM\Fields\BooleanField Object
+ *RECURSION*
+                                                    [1] => normalizeValue
+                                                )
+
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [0] => Bitrix\Main\ORM\Fields\BooleanField Object
+ *RECURSION*
+                                                    [1] => normalizeValue
+                                                )
+
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppTasksProAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppTasksProAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_tasks_pro_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_TASKS_PRO_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [column_name:protected] => UF_MAIN
+                                    [default_value:protected] => 0
+                                    [values:protected] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 1
+                                        )
+
+                                )
+
+                        )
+
+                    [fieldsMap:protected] => Array
+                        (
+                            [ID] => Array
+                                (
+                                    [data_type] => integer
+                                    [primary] => 1
+                                    [autocomplete] => 1
+                                )
+
+                        )
+
+                    [u_fields:protected] => 
+                    [code:protected] => 
+                    [references:protected] => Array
+                        (
+                        )
+
+                    [isClone:protected] => 
+                )
+
+            [_state:protected] => 0
+            [_actualValues:protected] => Array
+                (
+                    [ID] => 2
+                )
+
+            [_currentValues:protected] => Array
+                (
+                    [UF_CS_CLIENT_PORTAL_MEMBER_ID] => 350f96d46411bd6439bd5372cd90fec3
+                    [UF_CS_CLIENT_PORTAL_DOMEN] => brokci.bitrix24.ru
+                    [UF_CS_CLIENT_PORTAL_ACCESS_TOKEN] => aebefb670052d240005a33fe00000008000007d026706f81e654d2fbf028f863620b12
+                    [UF_CS_CLIENT_PORTAL_REFRESH_TOKEN] => 9e3d23680052d240005a33fe00000008000007aabcbb5efdb65820359ae6bc7f95bb1b
+                    [UF_DATE_UP] => Bitrix\Main\Type\DateTime Object
+                        (
+                            [value:protected] => DateTime Object
+                                (
+                                    [date] => 2025-04-13 15:40:08.000000
+                                    [timezone_type] => 3
+                                    [timezone] => Europe/Moscow
+                                )
+
+                            [userTimeEnabled:protected] => 
+                        )
+
+                    [UF_DATA_CLOSE] => 
+                    [UF_ACTIVE] => 1
+                    [UF_CS_FOLDER] => CAEFXCcOXxX3c
+                    [UF_ID_OLD] => 
+                    [UF_MAIN] => 
+                )
+
+            [_runtimeValues:protected] => Array
+                (
+                )
+
+            [_customData:protected] => 
+            [_onPrimarySetListeners:protected] => Array
+                (
+                )
+
+            [_authContext:protected] => 
+            [_savingInProgress:protected] => 
+        )
+
+    [primary:protected] => Array
+        (
+            [ID] => 2
+        )
+
+)
+

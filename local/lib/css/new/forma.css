@@ -1,0 +1,124 @@
+.cs_filter_item, .cs-input-container {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.cs_filter_input_block, .cs-input-block {
+    max-width: 320px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    max-height: 42px;
+    align-items: center;
+}
+
+.cs_filter_input_block_text, .cs-input-block__text {
+    display: block;
+    box-sizing: border-box;
+    padding: 10px 9px;
+    max-height: 42px;
+    max-width: 100%;
+    width: 100%;
+    outline: 0;
+    border: var(--el-br);
+    border-radius: var(--el-br-radius);
+    background-color: var(--el-bg-color);
+    color: var(--el-font-color);
+    font: var(--el-font);
+    /*  transition: 220ms all ease;*/
+}
+
+.cs_filter_item_label, .cs-input-label {
+    display: block;
+    font-weight: var(--lb-font-weight);
+    font-size: var(--lb-font);
+    color: var(--lb-font-color);
+    left: 20px;
+    line-height: 14px;
+    pointer-events: none;
+    position: absolute;
+    transform-origin: 0 50%;
+    transition: transform 200ms, color 200ms;
+    top: 10px;
+    background: #fff;
+}
+
+.cs-input-block:focus {
+    border: var(--el-br__focus);
+    padding: 9px;
+}
+
+.cs-input-block:focus ~ .cs-input-label,
+.cs-input-block:not(:placeholder-shown) ~ .cs-input-label {
+    transform: translateY(-18px) translateX(10px) scale(0.9);
+}
+
+.cs-input-block:not(:placeholder-shown) ~ .cs-input-label {
+    color: var(--lb-font-color__val);
+}
+
+.cs-input-block:focus ~ .cs-input-label {
+    color: var(--lb-font-color__focus);
+}
+
+.range_from {
+    border-radius: 4px 0 0 4px;
+}
+
+.range_to {
+    border-radius: 0 4px 4px 0;
+}
+
+.warning {
+    color: red;
+    font-size: 18px;
+}
+
+/*         select */
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+    width: 320px;
+    border: var(--el-br);
+    border-radius: var(--el-br-radius);
+    background-color: var(--el-bg-color__focus);
+    outline: 0;
+}
+
+.select2-container--default .select2-selection--multiple.select2-selection--clearable {
+    width: 320px;
+    padding-right: 5px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__display ~ .cs-input-label {
+    color: red;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__display {
+    cursor: default;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: var(--el-font-color);
+    font: var(--el-font);
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #fff;
+    border: var(--el-br);
+    border-radius: var(--el-br-radius);
+    background-color: var(--el-bg-color);
+    box-sizing: border-box;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 0;
+    padding-left: 20px;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: bottom;
+    white-space: nowrap;
+}

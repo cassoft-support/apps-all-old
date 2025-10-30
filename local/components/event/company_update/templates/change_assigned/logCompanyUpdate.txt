@@ -1,0 +1,465 @@
+---------------------30.10.2025MSK10:53:34
+Array
+(
+    [lead] => 
+    [deal] => 1
+    [contact] => 1
+    [invoice] => 
+    [quote] => 
+)
+
+resElement
+Array
+(
+    [ID] => 13268
+    [COMPANY_TYPE] => 5
+    [TITLE] => ЗАКУПАЙ РФ площадка
+    [LOGO] => 
+    [LEAD_ID] => 45328
+    [HAS_PHONE] => Y
+    [HAS_EMAIL] => Y
+    [HAS_IMOL] => N
+    [ASSIGNED_BY_ID] => 77
+    [CREATED_BY_ID] => 77
+    [MODIFY_BY_ID] => 0
+    [BANKING_DETAILS] => 
+    [INDUSTRY] => 
+    [REVENUE] => 
+    [CURRENCY_ID] => RUB
+    [EMPLOYEES] => 
+    [COMMENTS] => Портал Закупай
+    [DATE_CREATE] => 2024-07-22T17:13:39+07:00
+    [DATE_MODIFY] => 2025-10-30T14:53:33+07:00
+    [OPENED] => Y
+    [IS_MY_COMPANY] => N
+    [ORIGINATOR_ID] => email-tracker
+    [ORIGIN_ID] => 9
+    [ORIGIN_VERSION] => 
+    [LAST_ACTIVITY_TIME] => 2025-10-30T14:53:27+07:00
+    [ADDRESS] => 
+    [ADDRESS_2] => 
+    [ADDRESS_CITY] => 
+    [ADDRESS_POSTAL_CODE] => 
+    [ADDRESS_REGION] => 
+    [ADDRESS_PROVINCE] => 
+    [ADDRESS_COUNTRY] => 
+    [ADDRESS_COUNTRY_CODE] => 
+    [ADDRESS_LOC_ADDR_ID] => 
+    [ADDRESS_LEGAL] => 
+    [REG_ADDRESS] => 
+    [REG_ADDRESS_2] => 
+    [REG_ADDRESS_CITY] => 
+    [REG_ADDRESS_POSTAL_CODE] => 
+    [REG_ADDRESS_REGION] => 
+    [REG_ADDRESS_PROVINCE] => 
+    [REG_ADDRESS_COUNTRY] => 
+    [REG_ADDRESS_COUNTRY_CODE] => 
+    [REG_ADDRESS_LOC_ADDR_ID] => 
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [PARENT_ID_149] => 
+    [LAST_ACTIVITY_BY] => 77
+    [UF_CRM_60B0B42605870] => 77
+    [UF_CRM_1622194773892] => Array
+        (
+            [id] => 2886118
+            [showUrl] => /bitrix/components/bitrix/crm.company.show/show_file.php?ownerId=13268&fieldName=UF_CRM_1622194773892&dynamic=Y&fileId=2886118
+            [downloadUrl] => /bitrix/components/bitrix/crm.company.show/show_file.php?auth=8e270369005d64e600558d8c00000012000007a534e39229f39a0c109031a8dbb6e2bb&ownerId=13268&fieldName=UF_CRM_1622194773892&dynamic=Y&fileId=2886118
+        )
+
+    [UF_CRM_1622194939485] => 3510
+    [UF_CRM_1622195595886] => 0
+    [UF_CRM_1622522560404] => 
+    [UF_CRM_1626060214344] => 0
+    [UF_CRM_1626065903450] => 
+    [UF_CRM_1626090410] => 
+    [UF_CRM_1629794174481] => 0
+    [UF_CRM_612707DE0FD94] => 0
+    [UF_CRM_1633318240] => OTHER
+    [UF_CRM_1633368369] => Array
+        (
+        )
+
+    [UF_CRM_1634198479] => Array
+        (
+        )
+
+    [UF_CRM_6167FEC58D10D] => 771
+    [UF_CRM_1634224817] => 1036
+    [UF_CRM_1634225156] => Array
+        (
+        )
+
+    [UF_CRM_1634225298] => Array
+        (
+        )
+
+    [UF_CRM_1634283753073] => 
+    [UF_CRM_1634494707108] => 
+    [UF_CRM_1638333670] => 0
+    [UF_CRM_1642049392] => 
+    [UF_CRM_1642994436] => 
+    [UF_CRM_1643178514] => 77
+    [UF_CRM_1643862957] => 
+    [UF_CRM_1643863722] => 0
+    [UF_CRM_1652928584] => 0
+    [UF_CRM_1655717904] => 0
+    [UF_CRM_1659070450] => 0
+    [UF_CRM_636B56635EFC0] => 0
+    [UF_CRM_COMPANY_3805294014957] => 0
+    [UF_CRM_COMPANY_3805294015098] => 
+    [UF_CRM_COMPANY_3805392743924] => 
+    [UF_CRM_1672111677] => 
+    [UF_CRM_63AACD1D353D3] => 
+    [UF_CRM_63C9178C64E9B] => 
+    [UF_CRM_63CA24DE1EB90] => Array
+        (
+        )
+
+    [UF_CRM_63CE5B0697B68] => 
+    [UF_CRM_1679559176] => Array
+        (
+        )
+
+    [UF_CRM_1680251970] => Array
+        (
+        )
+
+    [UF_CRM_OLCHATWASTATS] => 
+    [UF_CRM_65A8C69673F27] => 
+    [UF_CRM_1707202353] => 0
+    [UF_CRM_COMPANY_3844535061951] => 
+    [UF_CRM_COMPANY_3844535061958] => 
+    [UF_CRM_COMPANY_3844535061960] => 0
+    [UF_CRM_COMPANY_3844535061962] => 0
+    [UF_CRM_COMPANY_3844535210382] => 
+    [UF_CRM_COMPANY_3844535210384] => 
+    [UF_CRM_COMPANY_3844535210386] => 0
+    [UF_CRM_COMPANY_3844535210388] => 
+    [UF_CRM_COMPANY_3844535210390] => 0
+    [UF_CRM_COMPANY_3844535210392] => 
+    [UF_CRM_SW24_LASTACTIVITY] => 2025-10-30T07:00:00+07:00
+    [UF_CRM_68B97B0B66474] => 
+    [UF_CRM_68B97B0B7F1E4] => 
+    [UF_CRM_COMPANY_3897234411888] => 
+    [UF_CRM_COMPANY_3897234605371] => 
+    [UF_CRM_1663208568] => 
+    [UF_CRM_1661328187] => 2444
+    [EMAIL] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 173099
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => bt@sel-be.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+            [1] => Array
+                (
+                    [ID] => 176490
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => ar@sel-be.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+            [2] => Array
+                (
+                    [ID] => 177418
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => no-reply@cynteka.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+            [3] => Array
+                (
+                    [ID] => 192282
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => marketing@cynteka.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+            [4] => Array
+                (
+                    [ID] => 209830
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => marketing@sel-be.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+            [5] => Array
+                (
+                    [ID] => 248182
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => zakupay@sel-be.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+        )
+
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 175771
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => +78124071074
+                    [TYPE_ID] => PHONE
+                )
+
+            [1] => Array
+                (
+                    [ID] => 176906
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => +79633205907
+                    [TYPE_ID] => PHONE
+                )
+
+            [2] => Array
+                (
+                    [ID] => 187314
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => +79600326827
+                    [TYPE_ID] => PHONE
+                )
+
+        )
+
+)
+
+company
+Array
+(
+    [ID] => 13268
+    [COMPANY_TYPE] => 5
+    [TITLE] => ЗАКУПАЙ РФ площадка
+    [LOGO] => 
+    [LEAD_ID] => 45328
+    [HAS_PHONE] => Y
+    [HAS_EMAIL] => Y
+    [HAS_IMOL] => N
+    [ASSIGNED_BY_ID] => 77
+    [CREATED_BY_ID] => 77
+    [MODIFY_BY_ID] => 0
+    [BANKING_DETAILS] => 
+    [INDUSTRY] => 
+    [REVENUE] => 
+    [CURRENCY_ID] => RUB
+    [EMPLOYEES] => 
+    [COMMENTS] => Портал Закупай
+    [DATE_CREATE] => 2024-07-22T17:13:39+07:00
+    [DATE_MODIFY] => 2025-10-30T14:53:33+07:00
+    [OPENED] => Y
+    [IS_MY_COMPANY] => N
+    [ORIGINATOR_ID] => email-tracker
+    [ORIGIN_ID] => 9
+    [ORIGIN_VERSION] => 
+    [LAST_ACTIVITY_TIME] => 2025-10-30T14:53:27+07:00
+    [ADDRESS] => 
+    [ADDRESS_2] => 
+    [ADDRESS_CITY] => 
+    [ADDRESS_POSTAL_CODE] => 
+    [ADDRESS_REGION] => 
+    [ADDRESS_PROVINCE] => 
+    [ADDRESS_COUNTRY] => 
+    [ADDRESS_COUNTRY_CODE] => 
+    [ADDRESS_LOC_ADDR_ID] => 
+    [ADDRESS_LEGAL] => 
+    [REG_ADDRESS] => 
+    [REG_ADDRESS_2] => 
+    [REG_ADDRESS_CITY] => 
+    [REG_ADDRESS_POSTAL_CODE] => 
+    [REG_ADDRESS_REGION] => 
+    [REG_ADDRESS_PROVINCE] => 
+    [REG_ADDRESS_COUNTRY] => 
+    [REG_ADDRESS_COUNTRY_CODE] => 
+    [REG_ADDRESS_LOC_ADDR_ID] => 
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [PARENT_ID_149] => 
+    [LAST_ACTIVITY_BY] => 77
+    [UF_CRM_60B0B42605870] => 77
+    [UF_CRM_1622194773892] => Array
+        (
+            [id] => 2886118
+            [showUrl] => /bitrix/components/bitrix/crm.company.show/show_file.php?ownerId=13268&fieldName=UF_CRM_1622194773892&dynamic=Y&fileId=2886118
+            [downloadUrl] => /bitrix/components/bitrix/crm.company.show/show_file.php?auth=8e270369005d64e600558d8c00000012000007a534e39229f39a0c109031a8dbb6e2bb&ownerId=13268&fieldName=UF_CRM_1622194773892&dynamic=Y&fileId=2886118
+        )
+
+    [UF_CRM_1622194939485] => 3510
+    [UF_CRM_1622195595886] => 0
+    [UF_CRM_1622522560404] => 
+    [UF_CRM_1626060214344] => 0
+    [UF_CRM_1626065903450] => 
+    [UF_CRM_1626090410] => 
+    [UF_CRM_1629794174481] => 0
+    [UF_CRM_612707DE0FD94] => 0
+    [UF_CRM_1633318240] => OTHER
+    [UF_CRM_1633368369] => Array
+        (
+        )
+
+    [UF_CRM_1634198479] => Array
+        (
+        )
+
+    [UF_CRM_6167FEC58D10D] => 771
+    [UF_CRM_1634224817] => 1036
+    [UF_CRM_1634225156] => Array
+        (
+        )
+
+    [UF_CRM_1634225298] => Array
+        (
+        )
+
+    [UF_CRM_1634283753073] => 
+    [UF_CRM_1634494707108] => 
+    [UF_CRM_1638333670] => 0
+    [UF_CRM_1642049392] => 
+    [UF_CRM_1642994436] => 
+    [UF_CRM_1643178514] => 77
+    [UF_CRM_1643862957] => 
+    [UF_CRM_1643863722] => 0
+    [UF_CRM_1652928584] => 0
+    [UF_CRM_1655717904] => 0
+    [UF_CRM_1659070450] => 0
+    [UF_CRM_636B56635EFC0] => 0
+    [UF_CRM_COMPANY_3805294014957] => 0
+    [UF_CRM_COMPANY_3805294015098] => 
+    [UF_CRM_COMPANY_3805392743924] => 
+    [UF_CRM_1672111677] => 
+    [UF_CRM_63AACD1D353D3] => 
+    [UF_CRM_63C9178C64E9B] => 
+    [UF_CRM_63CA24DE1EB90] => Array
+        (
+        )
+
+    [UF_CRM_63CE5B0697B68] => 
+    [UF_CRM_1679559176] => Array
+        (
+        )
+
+    [UF_CRM_1680251970] => Array
+        (
+        )
+
+    [UF_CRM_OLCHATWASTATS] => 
+    [UF_CRM_65A8C69673F27] => 
+    [UF_CRM_1707202353] => 0
+    [UF_CRM_COMPANY_3844535061951] => 
+    [UF_CRM_COMPANY_3844535061958] => 
+    [UF_CRM_COMPANY_3844535061960] => 0
+    [UF_CRM_COMPANY_3844535061962] => 0
+    [UF_CRM_COMPANY_3844535210382] => 
+    [UF_CRM_COMPANY_3844535210384] => 
+    [UF_CRM_COMPANY_3844535210386] => 0
+    [UF_CRM_COMPANY_3844535210388] => 
+    [UF_CRM_COMPANY_3844535210390] => 0
+    [UF_CRM_COMPANY_3844535210392] => 
+    [UF_CRM_SW24_LASTACTIVITY] => 2025-10-30T07:00:00+07:00
+    [UF_CRM_68B97B0B66474] => 
+    [UF_CRM_68B97B0B7F1E4] => 
+    [UF_CRM_COMPANY_3897234411888] => 
+    [UF_CRM_COMPANY_3897234605371] => 
+    [UF_CRM_1663208568] => 
+    [UF_CRM_1661328187] => 2444
+    [EMAIL] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 173099
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => bt@sel-be.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+            [1] => Array
+                (
+                    [ID] => 176490
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => ar@sel-be.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+            [2] => Array
+                (
+                    [ID] => 177418
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => no-reply@cynteka.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+            [3] => Array
+                (
+                    [ID] => 192282
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => marketing@cynteka.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+            [4] => Array
+                (
+                    [ID] => 209830
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => marketing@sel-be.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+            [5] => Array
+                (
+                    [ID] => 248182
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => zakupay@sel-be.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+        )
+
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 175771
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => +78124071074
+                    [TYPE_ID] => PHONE
+                )
+
+            [1] => Array
+                (
+                    [ID] => 176906
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => +79633205907
+                    [TYPE_ID] => PHONE
+                )
+
+            [2] => Array
+                (
+                    [ID] => 187314
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => +79600326827
+                    [TYPE_ID] => PHONE
+                )
+
+        )
+
+)
+
+user
+[B]компании[/B] ID13268: [URL=/crm/company/details/13268/]ЗАКУПАЙ РФ площадка[/URL] пользователем  
+deal
+Изменено deal-0
+t
+Array
+(
+)
+
+contact
+Изменено contact-0

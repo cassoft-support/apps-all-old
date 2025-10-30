@@ -1,0 +1,24 @@
+---------------------30.10.2025MSK10:53:37
+deal
+filter
+Array
+(
+    [companyId] => 13268
+    [closed] => N
+)
+
+typeId
+2
+name
+[B]компании[/B] ID13268: [URL=/crm/company/details/13268/]ЗАКУПАЙ РФ площадка[/URL] пользователем  
+commentAdd
+
+resElement
+Array
+(
+    [items] => Array
+        (
+        )
+
+)
+

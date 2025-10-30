@@ -1,0 +1,44 @@
+addArray
+(
+    [UserAutPlan] => {"access_tokenReq":"2179ca6200591408005a33fe00000008000007f5f0b0818a8d99f4c00d6aab7b78f925","client_endpointReq":"https:\/\/brokci.bitrix24.ru\/rest\/","application_tokenReq":"4a9b1d1cfcc7354b42f78e48c0ae11e4","member_idReq":"350f96d46411bd6439bd5372cd90fec3","domenReq":"brokci.bitrix24.ru","refresh_tokenReq":"bff6f16200591408005a33fe000000080000077a7ab0ff5ed8dde1446f42b37724b941"}
+    [NAME] => Новая стадия
+    [CS_TYPE_STAGE] => action
+    [CS_COLOR] => #cf1717
+)
+Array
+(
+    [access_tokenReq] => 2179ca6200591408005a33fe00000008000007f5f0b0818a8d99f4c00d6aab7b78f925
+    [client_endpointReq] => https://brokci.bitrix24.ru/rest/
+    [application_tokenReq] => 4a9b1d1cfcc7354b42f78e48c0ae11e4
+    [member_idReq] => 350f96d46411bd6439bd5372cd90fec3
+    [domenReq] => brokci.bitrix24.ru
+    [refresh_tokenReq] => bff6f16200591408005a33fe000000080000077a7ab0ff5ed8dde1446f42b37724b941
+)
+8Array
+(
+    [ENTITY] => stage_fav
+    [MODIFIED_BY] => 8
+    [NAME] => Новая стадия
+    [PROPERTY_VALUES] => Array
+        (
+            [CS_TYPE_STAGE] => action
+            [CS_COLOR] => #cf1717
+            [CS_CODE] => Novaya stadiya
+        )
+
+)
+Array
+(
+    [result] => 150
+    [time] => Array
+        (
+            [start] => 1657433158.1127
+            [finish] => 1657433158.2037
+            [duration] => 0.091000080108643
+            [processing] => 0.04268217086792
+            [date_start] => 2022-07-10T09:05:58+03:00
+            [date_finish] => 2022-07-10T09:05:58+03:00
+            [operating] => 0.04263710975647
+        )
+
+)

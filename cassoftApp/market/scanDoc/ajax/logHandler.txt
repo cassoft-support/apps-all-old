@@ -1,0 +1,22 @@
+---------------------07.01.2025MSK16:09:37
+Array
+(
+    [DOMAIN] => app-cassoft.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => e9998bd537f255f9eb9458423e2658f1
+    [AUTH_ID] => a0357d6700580e620074c12400000001000007e0428cee6666a488dad749133369a8e2
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 90b4a46700580e620074c12400000001000007d39c24da5b3fbbd44de46d05166d0a5c
+    [member_id] => b52a9e034640cdbe192eb721d7288263
+    [status] => S
+    [PLACEMENT] => SETTING_CONNECTOR
+    [PLACEMENT_OPTIONS] => {"CONNECTOR":"cs_cian_connector","LINE":"2","STATUS":true,"ACTIVE_STATUS":true,"CONNECTION_STATUS":true,"REGISTER_STATUS":true,"ERROR_STATUS":false}
+)
+
+rest
+Array
+(
+    [ID] => 1
+)
+

@@ -1,0 +1,49 @@
+---------------------15.09.2025MSK14:16:42
+Array
+(
+    [app] => hr_pro
+    [result] => Array
+        (
+            [id] => notification278667topic47413340234760718993
+            [payload] => Array
+                (
+                    [topic_id] => 4741334023
+                    [resume_id] => c2f8fe71000b6f1b98001f4d2c775877787937
+                    [vacancy_id] => 125096204
+                    [employer_id] => 2051372
+                    [negotiation_date] => 2025-09-10T04:50:31+0300
+                    [chat_id] => 4760718993
+                )
+
+            [subscription_id] => 278667
+            [action_type] => NEW_NEGOTIATION_VACANCY
+            [user_id] => 156209206
+        )
+
+    [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [userId] => 200
+    [CACHE_TYPE] => A
+    [~app] => hr_pro
+    [~result] => Array
+        (
+            [id] => notification278667topic47413340234760718993
+            [payload] => Array
+                (
+                    [topic_id] => 4741334023
+                    [resume_id] => c2f8fe71000b6f1b98001f4d2c775877787937
+                    [vacancy_id] => 125096204
+                    [employer_id] => 2051372
+                    [negotiation_date] => 2025-09-10T04:50:31+0300
+                    [chat_id] => 4760718993
+                )
+
+            [subscription_id] => 278667
+            [action_type] => NEW_NEGOTIATION_VACANCY
+            [user_id] => 156209206
+        )
+
+    [~member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [~userId] => 200
+    [~CACHE_TYPE] => A
+)
+

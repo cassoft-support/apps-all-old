@@ -1,0 +1,619 @@
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3007
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #1cc476
+            [CS_TYPE_STAGE] => Активная  стадия
+            [NAME] => Подборка отправлена
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3005
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #14e136
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3005
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #14e136
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3005
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #14e136
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3005
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #14e136
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3005
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #14e136
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3005
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #14e136
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3005
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #14e136
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3005
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #14e136
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3007
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #1cc476
+            [CS_TYPE_STAGE] => Активная  стадия
+            [NAME] => Подборка отправлена
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3009
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #5cf609
+            [CS_TYPE_STAGE] => Активная  стадия
+            [NAME] => Показ произведен
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3005
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #149de1
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 3009
+            [MODIFIED_BY] => Черкасов Андрей Сергеевич
+            [DATE_MODIFIED] => 07.07.2022
+            [CS_COLOR] => #09daf6
+            [CS_TYPE_STAGE] => Активная  стадия
+            [NAME] => Показ произведен
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 150
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 10.07.2022
+            [CS_COLOR] => #cf1717
+            [CS_TYPE_STAGE] => Активная  стадия
+            [NAME] => Новая стадия
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 134
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 10.07.2022
+            [CS_COLOR] => #149de1
+            [CS_TYPE_STAGE] => 
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 146
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 10.07.2022
+            [CS_COLOR] => #f7e522
+            [CS_TYPE_STAGE] => 
+            [NAME] => Отказ
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 148
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 10.07.2022
+            [CS_COLOR] => #e01515
+            [CS_TYPE_STAGE] => 
+            [NAME] => Объект не активен
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 144
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 10.07.2022
+            [CS_COLOR] => #0cbb38
+            [CS_TYPE_STAGE] => 
+            [NAME] => Успех (Сдали/продали)
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 142
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 10.07.2022
+            [CS_COLOR] => #1fd154
+            [CS_TYPE_STAGE] => 
+            [NAME] => Регистрация договора
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 138
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 10.07.2022
+            [CS_COLOR] => #09daf6
+            [CS_TYPE_STAGE] => 
+            [NAME] => Показ произведен
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 140
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 10.07.2022
+            [CS_COLOR] => #1de60f
+            [CS_TYPE_STAGE] => 
+            [NAME] => Аванс/задаток/бронь
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 136
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 10.07.2022
+            [CS_COLOR] => #18abc9
+            [CS_TYPE_STAGE] => 
+            [NAME] => Подборка отправлена
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 778
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 20.08.2022
+            [CS_COLOR] => #18abc9
+            [CS_TYPE_STAGE] => Активная  стадия
+            [NAME] => Подборка отправлена
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 776
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 20.08.2022
+            [CS_COLOR] => #149de1
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 796
+            [NAME] => ЖК Солнечный
+            [DATE_MODIFIED] => 21.08.2022
+            [company_id] => 6
+            [build_begin] => 2022-08-20
+            [build_end] => 
+            [city] => 2
+            [type_rc] => Высотные ЖК
+            [class_rc] => Эконом
+            [lat] => 24234
+            [long] => 765656
+            [avito_code] => 2544
+            [cian_code] => 476
+            [yandex_code] => 
+        )
+
+    [UserAutC] => {"access_tokenReq":"62c10163005d4456005a33fe000000080000077a8a60f3d8029740e8c26c7a99e1fdb1","client_endpointReq":"https:\/\/brokci.bitrix24.ru\/rest\/","application_tokenReq":"554a766f3fbe77d64b4b420ffaa8cc80","member_idReq":"350f96d46411bd6439bd5372cd90fec3","domenReq":"brokci.bitrix24.ru","refresh_tokenReq":"7f1f2863005d4456005a33fe00000008000007f21be3542a04ce59fa588402c8d4ff66","adm_access_token":"8fa00063005d4456005a33fe00000008000007259d177f25d68a533c7944576453b9ff"}
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 180
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 31.07.2022
+            [CS_COLOR] => #149de1
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 180
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 30.08.2022
+            [CS_COLOR] => #149de1
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 180
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 30.08.2022
+            [CS_COLOR] => #149de1
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 182
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 04.09.2022
+            [CS_COLOR] => #18abc9
+            [CS_TYPE_STAGE] => Активная  стадия
+            [NAME] => Подборка отправлена
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 184
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 04.09.2022
+            [CS_COLOR] => #09daf6
+            [CS_TYPE_STAGE] => Активная  стадия
+            [NAME] => Показ произведен
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 64
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 29.09.2022
+            [CS_COLOR] => #149de1
+            [CS_TYPE_STAGE] => Начальная стадия
+            [NAME] => Новые
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 70
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 29.09.2022
+            [CS_COLOR] => #1de60f
+            [CS_TYPE_STAGE] => Активная  стадия
+            [NAME] => Аванс/задаток/бронь
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 1568
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 05.10.2022
+            [CS_COLOR] => #0cbb38
+            [CS_TYPE_STAGE] => 
+            [NAME] => Не для продажи
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 744
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 05.10.2022
+            [CS_COLOR] => #149de1
+            [CS_TYPE_STAGE] => 
+            [NAME] => Активная продажа
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 1560
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 10.11.2022
+            [CS_COLOR] => #18abc9
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => Бронь
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 746
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 07.12.2022
+            [CS_COLOR] => #18abc9
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => Бронь
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 746
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 07.12.2022
+            [CS_COLOR] => #18abc9
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => Бронь
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 746
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 07.12.2022
+            [CS_COLOR] => #18abc9
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => Бронь
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 760
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 07.12.2022
+            [CS_COLOR] => 
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => Контракт
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 750
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 07.12.2022
+            [CS_COLOR] => #1de60f
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => На регистрации
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 744
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 07.12.2022
+            [CS_COLOR] => #149de1
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => Активная продажа
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 744
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 07.12.2022
+            [CS_COLOR] => #149de1
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => Активная продажа
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 746
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 07.12.2022
+            [CS_COLOR] => #18abc9
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => Бронь
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 746
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 07.12.2022
+            [CS_COLOR] => #18abc9
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => Бронь
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 748
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 07.12.2022
+            [CS_COLOR] => #09daf6
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => На оформлении
+        )
+
+)
+Array
+(
+    [value] => Array
+        (
+            [ID] => 746
+            [MODIFIED_BY] => Черкасов Андрей 
+            [DATE_MODIFIED] => 07.12.2022
+            [CS_COLOR] => #18abc9
+            [CS_TYPE_STAGE] => 
+            [CS_STAGE_DEAL] => 
+            [NAME] => Бронь
+        )
+
+)

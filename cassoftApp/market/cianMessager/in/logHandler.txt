@@ -1,0 +1,47 @@
+---------------------30.10.2025MSK10:50:28
+Array
+(
+    [webhookType] => chatsReadability
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chatId] => 185138597
+                    [agentUserId] => 97757943
+                    [userId] => 17863792
+                    [readAt] => 2025-10-30T07:50:27.612705+00:00
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [userId] => 17863792
+                    [name] => Юлия
+                    [firstName] => Юлия
+                    [avatar] => Array
+                        (
+                            [images] => Array
+                                (
+                                    [small] => https://www.cian.ru/avatar.axd?i=17863792&t=2&p=1
+                                    [big] => https://www.cian.ru/avatar.axd?i=17863792&t=2&p=2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+memberId
+40f287600657090b84be97fde274e15e
+rest
+Array
+(
+    [ID] => 80
+)
+

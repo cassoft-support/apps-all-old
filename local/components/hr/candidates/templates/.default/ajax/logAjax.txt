@@ -1,0 +1,27 @@
+---------------------31.05.2025MSK18:21:05
+deal_Fields
+params
+Array
+(
+    [req] => Array
+        (
+            [auth] => Array
+                (
+                    [access_token] => 5d2c3b68005567d60036d58400000001000007ce69676f37f8146d698f4a17660d335c
+                    [refresh_token] => 4dab6268005567d60036d584000000010000070d09eb76b7093947a743712198e09c6f
+                    [expires_in] => 1748708446177
+                    [domain] => cassoft.bitrix24.ru
+                    [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+                )
+
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [app] => hr_pro
+            [type] => candidates
+            [user_id] => 1
+        )
+
+    [app] => hr_pro
+    [smartId] => 
+    [candidateId] => 
+)
+

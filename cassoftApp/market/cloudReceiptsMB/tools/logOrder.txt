@@ -1,0 +1,26 @@
+orderArray
+(
+    [merchant] => 
+    [member] => 350f96d46411bd6439bd5372cd90fec3
+    [sum] => 33
+    [customer] => 6
+    [PAYMENT_ID] => 16
+    [ORDER_ID] => 2
+    [ACCOUNT_NUMBER] => 2/5
+    [DATE_INSERT] => 22.04.2023
+    [BX_PAYSYSTEM_ID] => 64
+    [BX_RETURN_URL] => https://b24-snm26s.bitrix24.shop/oformleniezakaza/?orderId=2&access=bbb4704446ce405cfb3b1f3b134a97d3&paymentId=16&user_lang=ru
+)
+Array
+(
+    [merchant] => 
+    [member] => 350f96d46411bd6439bd5372cd90fec3
+    [sum] => 33
+    [customer] => 6
+    [PAYMENT_ID] => 16
+    [ORDER_ID] => 2
+    [ACCOUNT_NUMBER] => 2/5
+    [DATE_INSERT] => 22.04.2023
+    [BX_PAYSYSTEM_ID] => 64
+    [BX_RETURN_URL] => https://b24-snm26s.bitrix24.shop/oformleniezakaza/?orderId=2&access=bbb4704446ce405cfb3b1f3b134a97d3&paymentId=16&user_lang=ru
+)

@@ -1,0 +1,256 @@
+---------------------13.08.2025MSK17:29:57
+Array
+(
+    [event] => ONIMCONNECTORMESSAGEADD
+    [event_handler_id] => 527
+    [data] => Array
+        (
+            [CONNECTOR] => cs_auto_ru
+            [LINE] => 15
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 4869
+                                    [message_id] => 186407
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 2355
+                                    [text] => Добрый день, меня зовут Владислав, к сожалению данный авто уже выкупили, но мы можем найти что-то подобное)
+в целом, рынок VW Passat примерно 2.3-2.5 млн, напишите, пожалуйста, ваш номер телефона, чтобы я мог связаться с вами и найти авто по вашему запросу
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => c2d49583d5a0a35326ed6c64e226083e
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [ts] => 1755095397
+    [auth] => Array
+        (
+            [access_token] => 75af9c6800579b100073d9ee0000093300000798c463e61c40b05f6a602e8b6b7d061c
+            [expires] => 1755098997
+            [expires_in] => 3600
+            [scope] => crm,im,department,imopenlines,entity,user_brief,user,imbot,placement
+            [domain] => alexstar.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://alexstar.bitrix24.ru/rest/
+            [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+            [user_id] => 2355
+            [application_token] => 294032ec2f42dd81bcb2fdef5b7c2854
+        )
+
+    [app] => mcm
+    [app_code] => auto_ru
+    [tempList] => sendOut
+    [CACHE_TYPE] => A
+    [~event] => ONIMCONNECTORMESSAGEADD
+    [~event_handler_id] => 527
+    [~data] => Array
+        (
+            [CONNECTOR] => cs_auto_ru
+            [LINE] => 15
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 4869
+                                    [message_id] => 186407
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 2355
+                                    [text] => Добрый день, меня зовут Владислав, к сожалению данный авто уже выкупили, но мы можем найти что-то подобное)
+в целом, рынок VW Passat примерно 2.3-2.5 млн, напишите, пожалуйста, ваш номер телефона, чтобы я мог связаться с вами и найти авто по вашему запросу
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => c2d49583d5a0a35326ed6c64e226083e
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [~ts] => 1755095397
+    [~auth] => Array
+        (
+            [access_token] => 75af9c6800579b100073d9ee0000093300000798c463e61c40b05f6a602e8b6b7d061c
+            [expires] => 1755098997
+            [expires_in] => 3600
+            [scope] => crm,im,department,imopenlines,entity,user_brief,user,imbot,placement
+            [domain] => alexstar.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://alexstar.bitrix24.ru/rest/
+            [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+            [user_id] => 2355
+            [application_token] => 294032ec2f42dd81bcb2fdef5b7c2854
+        )
+
+    [~app] => mcm
+    [~app_code] => auto_ru
+    [~tempList] => sendOut
+    [~CACHE_TYPE] => A
+)
+
+params
+Array
+(
+    [ENTITY] => setup_messager
+    [filter] => Array
+        (
+            [PROPERTY_CS_LINE] => 15
+            [PROPERTY_CS_CONNECTOR] => cs_auto_ru
+        )
+
+)
+
+resSetup
+Array
+(
+    [CS_COLOR] => 
+    [CS_BACKGROUND_COLOR] => 
+    [CS_BACKGROUND_IMG] => 
+    [CS_API_WHATSAPP] => 
+    [CS_LINE_WHATSAPP] => 
+    [CS_ADMIN] => 
+    [CHAT_APP_EMAIL] => 
+    [CHAT_APP_PASSWORD] => 
+    [CS_TELEGRAM_SHOP] => 
+    [CS_TELEGRAM_GROUP] => 
+    [CS_KEY_TELEGRAM] => 
+    [CS_BOT_TELEGRAM] => 
+    [CS_KEY_CIAN] => 
+    [CS_CIAN_CONNECT] => 
+    [CS_KEY_DC] => 
+    [CS_DC_CONNECT] => 
+    [CS_KEY_AVITO] => 
+    [CS_AVITO_CONNECT] => 
+    [CS_TELEGRAM_CONNECT] => 
+    [CS_CIAN_LINE] => 
+    [CS_DC_LINE] => 
+    [CS_TELEGRAM_LINE] => 
+    [CHAT_APP_ID] => 
+    [CS_MCM_CONNECT] => 
+    [CS_CONNECTOR] => cs_auto_ru
+    [CS_LINE] => 15
+    [CS_STATUS] => 1
+    [CS_PROFILE_ID] => iuA7xaVoRc0kPeJI
+    [CS_PROFILE_NAME] => AutoRuLine15
+    [CS_CODE] => iuA7xaVoRc0kPeJI
+    [CS_DATE_CREATE] => 2025-06-11T13:02:15.476Z
+    [CS_DATE_CLOSE] => 
+    [CS_DATE_CLOSE_FACT] => 
+    [CS_RESOURCE] => AutoRu
+    [CS_TYPE] => AutoRu
+    [CS_USERS] => 
+    [CS_PHONE] => 
+    [CS_KEY_AUTO] => 
+    [CS_KEY_USERS] => 
+    [CS_BLOCK_USERS] => 
+    [CS_BLOCK_GROUPS] => 
+    [CS_BLOCK_BOTS] => 
+    [CS_BLOCK_GROUPS_ALL] => 
+)
+
+user
+Array
+(
+    [ID] => 2355
+    [XML_ID] => 64537670
+    [ACTIVE] => 1
+    [NAME] => Владислав
+    [LAST_NAME] => Лопухов
+    [LAST_LOGIN] => 2025-08-13T17:23:44+03:00
+    [DATE_REGISTER] => 2025-07-08T03:00:00+03:00
+    [TIME_ZONE] => Europe/Moscow
+    [IS_ONLINE] => Y
+    [TIMESTAMP_X] => Array
+        (
+        )
+
+    [LAST_ACTIVITY_DATE] => Array
+        (
+        )
+
+    [PERSONAL_GENDER] => 
+    [PERSONAL_BIRTHDAY] => 
+    [PERSONAL_PHOTO] => https://cdn-ru.bitrix24.ru/b31819350/main/827/8278c13ead7172018f36e83607c34c33/avatar.png
+    [PERSONAL_MOBILE] => +79803652488
+    [UF_EMPLOYMENT_DATE] => 
+    [UF_DEPARTMENT] => Array
+        (
+            [0] => 5
+        )
+
+    [USER_TYPE] => employee
+)
+
+dataMes
+Array
+(
+    [sender] => Array
+        (
+            [name] => Владислав
+        )
+
+    [recipient] => Array
+        (
+            [id] => c2d49583d5a0a35326ed6c64e226083e
+        )
+
+    [message] => Array
+        (
+            [type] => text
+            [id] => 186407
+            [text] => Добрый день, меня зовут Владислав, к сожалению данный авто уже выкупили, но мы можем найти что-то подобное)
+в целом, рынок VW Passat примерно 2.3-2.5 млн, напишите, пожалуйста, ваш номер телефона, чтобы я мог связаться с вами и найти авто по вашему запросу
+
+            [file] => 
+        )
+
+)
+
+url
+https://chat-api-ext.vertis.yandex.net/api/1.0/aggregators/auto/hook?token=DVApro123
+response
+{
+}
+result
+Array
+(
+)
+
+result2
+Array
+(
+)
+
+resultDelivery
+Array
+(
+    [SUCCESS] => 1
+    [DATA] => Array
+        (
+        )
+
+)
+

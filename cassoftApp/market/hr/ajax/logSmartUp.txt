@@ -1,0 +1,29 @@
+---------------------30.10.2025MSK10:08:51
+start
+REQUEST
+Array
+(
+    [event] => ONCRMDYNAMICITEMUPDATE
+    [event_handler_id] => 2959
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 1609
+                    [ENTITY_TYPE_ID] => 31
+                )
+
+        )
+
+    [ts] => 1761808130
+    [auth] => Array
+        (
+            [domain] => cassoft.bitrix24.ru
+            [client_endpoint] => https://cassoft.bitrix24.ru/rest/
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [application_token] => fb274d8e5eeec7c09b5e2030c9de0014
+        )
+
+)
+

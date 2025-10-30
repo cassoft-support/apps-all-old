@@ -1,0 +1,84 @@
+---------------------30.10.2025MSK06:18:49
+Array
+(
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chat_id] => 68fc84f8e02fdc0001a4624e
+                    [agent_id] => 40022547
+                    [offer_id] => 2068616567
+                )
+
+        )
+
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6902d91951bf3e0001c9bfed
+                    [message] => Здравствуйте! Мне понравилась ваша квартира. Готовы ли вы обсудить цену 6 080 000 на просмотре?
+                    [time] => 1761794329548
+                    [user_id] => 43941695
+                    [chat_id] => 68fc84f8e02fdc0001a4624e
+                    [message_type] => message
+                    [system_message_action] => 
+                    [read_by] => 
+                    [source] => ui
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 40022547
+                    [display_name] => Новостройка От-Застройщика
+                    [roles] => Array
+                        (
+                            [0] => SELLER
+                        )
+
+                    [role_description] => Продавец
+                )
+
+            [1] => Array
+                (
+                    [user_id] => 43941695
+                    [display_name] => Тимур
+                    [roles] => Array
+                        (
+                            [0] => BUYER
+                        )
+
+                    [role_description] => Покупатель
+                )
+
+        )
+
+    [offers] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2068616567
+                    [external_id] => 43327
+                    [title] => 2-комн. кв., 64.0 м², 3/17 этаж
+                    [address] => Россия, Оренбург, 20-й микрорайон м-н, улица Гаранькина, 21
+                    [url] => https://domclick.ru/card/sale__flat__2068616567
+                    [img_url] => https://img.dmclk.ru/c100x100/vitrina/30/16/3016b29033e09fce7161b1488173cdfb89de1b3a.jpg
+                    [price] => 6400000
+                )
+
+        )
+
+)
+
+memberId
+fe8460d3a2d25aa3019490f2bab1c740
+rest
+Array
+(
+    [ID] => 38
+)
+

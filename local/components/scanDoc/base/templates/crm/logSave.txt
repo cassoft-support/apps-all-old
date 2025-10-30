@@ -1,0 +1,38 @@
+---------------------23.10.2025MSK23:05:01
+Array
+(
+    [sort] => Array
+        (
+            [0] => 4feaadee-96fb-539b-85c4-cb32dcbd9c3f.jpg
+        )
+
+    [authParams] => {"access_token":"6698fa680054c69e007b964e000000010000073d78d6d05703ac8b1729a21236072b22","refresh_token":"561722690054c69e007b964e0000000100000712bd9bd9dcc7d4ee917c79d18cae7e9b","expires_in":1761253484391,"domain":"grad-ex.bitrix24.ru","member_id":"696b0529a13937e238b8ff34b687afc3"}
+    [app] => scan_doc
+    [id] => 146
+    [type] => deal
+    [smartId] => 
+    [entityTypeId] => 
+)
+
+paramAuth
+Array
+(
+    [access_token] => 6698fa680054c69e007b964e000000010000073d78d6d05703ac8b1729a21236072b22
+    [refresh_token] => 561722690054c69e007b964e0000000100000712bd9bd9dcc7d4ee917c79d18cae7e9b
+    [expires_in] => 1761253484391
+    [domain] => grad-ex.bitrix24.ru
+    [member_id] => 696b0529a13937e238b8ff34b687afc3
+)
+
+paramsUp
+Array
+(
+    [UF_CRM_CS_SCAN_DOC] => [{"photo_id":3562,"photo_link":"https:\/\/cdn-ru.bitrix24.ru\/b34903036\/disk\/19b\/19b1b97322c4d333f98f080008196983\/58be8b53a5476207946f76d30e77f479.jpg"}]
+)
+
+elUp
+Array
+(
+    [0] => 1
+)
+

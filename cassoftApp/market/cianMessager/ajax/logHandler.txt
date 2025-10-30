@@ -1,0 +1,22 @@
+---------------------30.10.2025MSK07:53:17
+Array
+(
+    [DOMAIN] => b24-zna5xh.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 9f27c6d876df610f9211345c2b170836
+    [AUTH_ID] => 49fd026900580e62007d6e700000000b40380769b76e40762bd4a74b6e59f22b7f815d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 397c2a6900580e62007d6e700000000b40380708b9e5ac542ccc73b284ca34e12807b5
+    [member_id] => 31b0811c635106a3c586a82be5b718a4
+    [status] => S
+    [PLACEMENT] => SETTING_CONNECTOR
+    [PLACEMENT_OPTIONS] => {"CONNECTOR":"cs_cian_connector","LINE":"1","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+)
+
+rest
+Array
+(
+    [ID] => 124
+)
+

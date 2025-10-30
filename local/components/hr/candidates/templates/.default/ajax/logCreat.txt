@@ -1,0 +1,16 @@
+---------------------21.07.2024MSK18:17:02------------------
+post
+Array
+(
+    [auth] => Array
+        (
+            [access_token] => 42229d66005567d6006edb080000000b00000740d3c7a68adb06d891c87abc9c0c5990
+            [refresh_token] => 32a1c466005567d6006edb080000000b0000075b186b58361538d9437dcabed933f4e2
+            [expires_in] => 1721575177478
+            [domain] => beregone.bitrix24.ru
+            [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+        )
+
+    [app] => hr_pro
+)
+

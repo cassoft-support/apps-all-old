@@ -1,0 +1,81 @@
+---------------------27.01.2025MSK09:30:20
+Array
+(
+    [auth] => {"access_token":"ef3597670054c69e007557d6000000050000076b19e0aca9160cf29782c63647f7c6c5","refresh_token":"dfb4be670054c69e007557d600000005000007d658d13d8882d6278d0012f8c2095541","expires_in":1737963011891,"domain":"test-cassoft.bitrix24.ru","member_id":"2972f316bff165550327e710a4052241"}
+    [app] => scan_doc
+    [smartElId] => 1
+    [smartId] => 5
+    [entityTypeId] => 1036
+)
+
+paramAuth
+Array
+(
+    [access_token] => ef3597670054c69e007557d6000000050000076b19e0aca9160cf29782c63647f7c6c5
+    [refresh_token] => dfb4be670054c69e007557d600000005000007d658d13d8882d6278d0012f8c2095541
+    [expires_in] => 1737963011891
+    [domain] => test-cassoft.bitrix24.ru
+    [member_id] => 2972f316bff165550327e710a4052241
+)
+
+paramsUp
+Array
+(
+    [ufCrm5CsScanDoc] => []
+)
+
+smartUp
+Array
+(
+    [item] => Array
+        (
+            [id] => 1
+            [xmlId] => 
+            [title] => Список #1
+            [createdBy] => 5
+            [updatedBy] => 5
+            [movedBy] => 5
+            [createdTime] => 2025-01-26T18:53:24+03:00
+            [updatedTime] => 2025-01-27T09:30:22+03:00
+            [movedTime] => 2025-01-26T18:53:24+03:00
+            [categoryId] => 11
+            [opened] => N
+            [previousStageId] => 
+            [begindate] => 2025-01-26T03:00:00+03:00
+            [closedate] => 2025-02-02T03:00:00+03:00
+            [companyId] => 0
+            [contactId] => 0
+            [opportunity] => 0
+            [isManualOpportunity] => N
+            [taxValue] => 0
+            [currencyId] => RUB
+            [opportunityAccount] => 0
+            [taxValueAccount] => 0
+            [accountCurrencyId] => RUB
+            [mycompanyId] => 0
+            [sourceId] => CALL
+            [sourceDescription] => 
+            [webformId] => 0
+            [ufCrm5CsScanDoc] => []
+            [ufCrm5CsScanDocForm] => 
+            [assignedById] => 5
+            [lastActivityBy] => 5
+            [lastActivityTime] => 2025-01-26T18:53:24+03:00
+            [utmSource] => 
+            [utmMedium] => 
+            [utmCampaign] => 
+            [utmContent] => 
+            [utmTerm] => 
+            [observers] => Array
+                (
+                )
+
+            [contactIds] => Array
+                (
+                )
+
+            [entityTypeId] => 1036
+        )
+
+)
+

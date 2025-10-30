@@ -1,0 +1,17 @@
+---------------------19.07.2024MSK10:36:39------------------
+REQUEST
+Array
+(
+    [DOMAIN] => hr-pro.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 04c7d93d902b7194fc05f508d154dcc8
+    [AUTH_ID] => 97259a66005567d6006f7ede000000080000071fa36d16c636ec167fe2428bc68e3bb5
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 87a4c166005567d6006f7ede000000080000072bfb4e47741c043ff3ab94c14b043f10
+    [member_id] => 05c9bd1dead2f2abc725c74e6fc51513
+    [status] => F
+    [PLACEMENT] => USERFIELD_TYPE
+    [PLACEMENT_OPTIONS] => {"MODE":"edit","ENTITY_ID":"CRM_32","FIELD_NAME":"UF_CRM_32_CS_VACANCY_FORM","ENTITY_VALUE_ID":"2","VALUE":null,"MULTIPLE":"N","MANDATORY":"N","XML_ID":"CS_VACANCY_FORM"}
+)
+

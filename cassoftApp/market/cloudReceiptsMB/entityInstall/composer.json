@@ -1,0 +1,13 @@
+{
+    "require": {
+        "monolog/monolog": "^2.4",
+        "mesilov/bitrix24-php-sdk": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cassoft\\Services\\": "/home/bitrix/www/local/lib/classes/Services/",
+            "Cloud\\App\\": "/home/bitrix/www/local/lib/classes/Cloud/App/",
+            "Cloud\\Bitrix24Api\\": "/home/bitrix/www/local/lib/classes/Cloud/Bitrix24Api/"
+        }
+    }
+}

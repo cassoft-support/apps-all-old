@@ -1,0 +1,84 @@
+---------------------31.05.2025MSK12:14:56
+Array
+(
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chat_id] => 683ac890cbbdb90001200e2b
+                    [agent_id] => 46686636
+                    [offer_id] => 2064912408
+                )
+
+        )
+
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 683ac8905af12d000139c0b5
+                    [message] => Здравствуйте! Мне понравилась ваша квартира. Готовы ли вы обсудить цену 3 560 000 на просмотре?
+                    [time] => 1748682896566
+                    [user_id] => 48535779
+                    [chat_id] => 683ac890cbbdb90001200e2b
+                    [message_type] => message
+                    [system_message_action] => 
+                    [read_by] => 
+                    [source] => ui
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 46686636
+                    [display_name] => Данила Денисов
+                    [roles] => Array
+                        (
+                            [0] => SELLER
+                        )
+
+                    [role_description] => Продавец
+                )
+
+            [1] => Array
+                (
+                    [user_id] => 48535779
+                    [display_name] => Покупатель
+                    [roles] => Array
+                        (
+                            [0] => BUYER
+                        )
+
+                    [role_description] => 
+                )
+
+        )
+
+    [offers] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2064912408
+                    [external_id] => 96499195
+                    [title] => 3-комн. кв., 58.3 м², 5/5 этаж
+                    [address] => Россия, Калужская область, Жуков, Юбилейная улица, 6
+                    [url] => https://domclick.ru/card/sale__flat__2064912408
+                    [img_url] => https://img.dmclk.ru/c100x100/vitrina/93/eb/93ebf9fd5ba316c9c8fd8d79e875fa393b97ce80.jpg
+                    [price] => 3750000
+                )
+
+        )
+
+)
+
+memberId
+5b6ee28f8ede77d1c2046d750152e546
+rest
+Array
+(
+    [ID] => 43
+)
+

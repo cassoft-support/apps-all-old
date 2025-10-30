@@ -1,0 +1,174 @@
+Array
+(
+    [0] => 1920
+    [1] => 1149
+    [2] => 2
+    [3] => width="1920" height="1149"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1920
+    [1] => 872
+    [2] => 2
+    [3] => width="1920" height="872"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1920
+    [1] => 1149
+    [2] => 2
+    [3] => width="1920" height="1149"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1920
+    [1] => 872
+    [2] => 2
+    [3] => width="1920" height="872"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1920
+    [1] => 3415
+    [2] => 2
+    [3] => width="1920" height="3415"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 319
+    [1] => 255
+    [2] => 3
+    [3] => width="319" height="255"
+    [bits] => 8
+    [mime] => image/png
+)
+Array
+(
+    [0] => 384
+    [1] => 512
+    [2] => 3
+    [3] => width="384" height="512"
+    [bits] => 8
+    [mime] => image/png
+)
+Array
+(
+    [0] => 944
+    [1] => 1180
+    [2] => 2
+    [3] => width="944" height="1180"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1180
+    [1] => 944
+    [2] => 3
+    [3] => width="1180" height="944"
+    [bits] => 8
+    [mime] => image/png
+)
+Array
+(
+    [0] => 944
+    [1] => 1180
+    [2] => 2
+    [3] => width="944" height="1180"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 944
+    [1] => 1180
+    [2] => 2
+    [3] => width="944" height="1180"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 512
+    [1] => 384
+    [2] => 2
+    [3] => width="512" height="384"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1500
+    [1] => 844
+    [2] => 2
+    [3] => width="1500" height="844"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 430
+    [1] => 600
+    [2] => 2
+    [3] => width="430" height="600"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 288
+    [1] => 116
+    [2] => 3
+    [3] => width="288" height="116"
+    [bits] => 8
+    [mime] => image/png
+)
+Array
+(
+    [0] => 800
+    [1] => 755
+    [2] => 3
+    [3] => width="800" height="755"
+    [bits] => 8
+    [mime] => image/png
+)
+Array
+(
+    [0] => 1058
+    [1] => 774
+    [2] => 3
+    [3] => width="1058" height="774"
+    [bits] => 8
+    [mime] => image/png
+)
+Array
+(
+    [0] => 320
+    [1] => 305
+    [2] => 2
+    [3] => width="320" height="305"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)

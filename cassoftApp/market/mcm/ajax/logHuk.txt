@@ -1,0 +1,44 @@
+---------------------05.10.2025MSK21:59:08
+Array
+(
+    [DOMAIN] => mcm-dev.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 2636c85a9991ae7bac02af6706d8f387
+    [AUTH_ID] => c1cde26800579b0e007aaa04000000010000070aba138e7b443cb6e516fafa2b0cd10d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b14c0a6900579b0e007aaa0400000001000007653eea9ae5b2b5e4ffb569aca37674c1
+    [member_id] => 00b48e28d7bbc96d2d0b14a861870d06
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"12\/"}
+    [app] => mcm
+    [FOLDER] => CAoinBCjyH3/o
+    [user] => 1
+)
+
+REQUEST
+Array
+(
+    [DOMAIN] => mcm-dev.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 2636c85a9991ae7bac02af6706d8f387
+    [AUTH_ID] => c1cde26800579b0e007aaa04000000010000070aba138e7b443cb6e516fafa2b0cd10d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => b14c0a6900579b0e007aaa0400000001000007653eea9ae5b2b5e4ffb569aca37674c1
+    [member_id] => 00b48e28d7bbc96d2d0b14a861870d06
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"12\/"}
+    [app] => mcm
+    [FOLDER] => CAoinBCjyH3/o
+    [user] => 1
+)
+
+clientsApp
+Array
+(
+    [ID] => 15
+)
+

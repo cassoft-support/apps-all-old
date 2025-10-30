@@ -1,0 +1,186 @@
+date
+transaction_id=79rSHmXCkbG8Pjpv9h0vAL&amount=2500.00&original_amount=2500.00&order_id=14425844&state=COMPLETE&testing=1&pan_mask=513691%2A%2A%2A%2A%2A%2A1434&client_email=cas%40cassoft.ru&client_phone=%2B7+993+900-35-79&client_id=7c91d0bf5fb9f2b084ae3a6cb334e14d&payment_method=card&created_datetime=2025-06-14+05%3A25%3A09&currency=RUB&payment_type=single_payment&merchant=c7dd9e09-6676-4dcb-b187-fcc414e8b608&salt=F2CB06105CC5AE0655CC4D09CAB0C458&unix_timestamp=1749878715&signature=ef4c1b733605212110a995020e3191a415a0d90e
+resultData
+Array
+(
+    [transaction_id] => 79rSHmXCkbG8Pjpv9h0vAL
+    [amount] => 2500.00
+    [original_amount] => 2500.00
+    [order_id] => 14425844
+    [state] => COMPLETE
+    [testing] => 1
+    [pan_mask] => 513691******1434
+    [client_email] => cas@cassoft.ru
+    [client_phone] => +7 993 900-35-79
+    [client_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [payment_method] => card
+    [created_datetime] => 2025-06-14 05:25:09
+    [currency] => RUB
+    [payment_type] => single_payment
+    [merchant] => c7dd9e09-6676-4dcb-b187-fcc414e8b608
+    [salt] => F2CB06105CC5AE0655CC4D09CAB0C458
+    [unix_timestamp] => 1749878715
+    [signature] => ef4c1b733605212110a995020e3191a415a0d90e
+)
+
+resData
+
+result
+Array
+(
+)
+
+date
+
+resultData
+Array
+(
+)
+
+resData
+
+result
+Array
+(
+)
+
+date
+
+resultData
+Array
+(
+)
+
+resData
+
+result
+Array
+(
+)
+
+date
+transaction_id=TX8R903H2CMgbNMCLxnkYi&amount=2500.00&original_amount=2500.00&order_id=14425845&state=COMPLETE&testing=1&pan_mask=513691%2A%2A%2A%2A%2A%2A1434&client_email=cas%40cassoft.ru&client_phone=%2B7+993+900-35-79&client_id=7c91d0bf5fb9f2b084ae3a6cb334e14d&payment_method=card&created_datetime=2025-06-14+06%3A03%3A23&currency=RUB&payment_type=single_payment&merchant=c7dd9e09-6676-4dcb-b187-fcc414e8b608&salt=75FABE0C8D4B27727CAE7631F00776F2&unix_timestamp=1749881009&signature=3ce887a0b8608f0318659ab0a2d87fc33d9fc93b
+resultData
+Array
+(
+    [transaction_id] => TX8R903H2CMgbNMCLxnkYi
+    [amount] => 2500.00
+    [original_amount] => 2500.00
+    [order_id] => 14425845
+    [state] => COMPLETE
+    [testing] => 1
+    [pan_mask] => 513691******1434
+    [client_email] => cas@cassoft.ru
+    [client_phone] => +7 993 900-35-79
+    [client_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [payment_method] => card
+    [created_datetime] => 2025-06-14 06:03:23
+    [currency] => RUB
+    [payment_type] => single_payment
+    [merchant] => c7dd9e09-6676-4dcb-b187-fcc414e8b608
+    [salt] => 75FABE0C8D4B27727CAE7631F00776F2
+    [unix_timestamp] => 1749881009
+    [signature] => 3ce887a0b8608f0318659ab0a2d87fc33d9fc93b
+)
+
+memberId
+7c91d0bf5fb9f2b084ae3a6cb334e14d
+rest
+Array
+(
+    [ID] => 4
+)
+
+date
+transaction_id=mWUn7uodepJx68sxJH6ibS&amount=2500.00&original_amount=2500.00&order_id=14425846&state=COMPLETE&testing=1&pan_mask=513691%2A%2A%2A%2A%2A%2A1434&client_email=cas%40cassoft.ru&client_phone=%2B7+993+900-35-79&client_id=7c91d0bf5fb9f2b084ae3a6cb334e14d&payment_method=card&created_datetime=2025-06-14+06%3A08%3A13&currency=RUB&payment_type=single_payment&merchant=c7dd9e09-6676-4dcb-b187-fcc414e8b608&salt=AFE2D489292E98C4241A1AD741D3B678&unix_timestamp=1749881299&signature=c1d7d5e209659bc1537c3d4244439e3991ea2d4e
+resultData
+Array
+(
+    [transaction_id] => mWUn7uodepJx68sxJH6ibS
+    [amount] => 2500.00
+    [original_amount] => 2500.00
+    [order_id] => 14425846
+    [state] => COMPLETE
+    [testing] => 1
+    [pan_mask] => 513691******1434
+    [client_email] => cas@cassoft.ru
+    [client_phone] => +7 993 900-35-79
+    [client_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [payment_method] => card
+    [created_datetime] => 2025-06-14 06:08:13
+    [currency] => RUB
+    [payment_type] => single_payment
+    [merchant] => c7dd9e09-6676-4dcb-b187-fcc414e8b608
+    [salt] => AFE2D489292E98C4241A1AD741D3B678
+    [unix_timestamp] => 1749881299
+    [signature] => c1d7d5e209659bc1537c3d4244439e3991ea2d4e
+)
+
+memberId
+7c91d0bf5fb9f2b084ae3a6cb334e14d
+rest
+Array
+(
+    [ID] => 4
+)
+
+date
+
+resultData
+Array
+(
+)
+
+memberId
+
+date
+
+resultData
+Array
+(
+)
+
+memberId
+
+date
+
+resultData
+Array
+(
+)
+
+memberId
+
+date
+transaction_id=bC5qaiS4pdeKCYjKNyCGCO&amount=10.00&original_amount=10.00&order_id=144258462&state=COMPLETE&testing=1&pan_mask=513691%2A%2A%2A%2A%2A%2A1434&client_email=cas%40cassoft.ru&client_name=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D0%BE%D0%B2&client_id=00b48e28d7bbc96d2d0b14a861870d06&payment_method=card&created_datetime=2025-08-24+08%3A45%3A10&currency=RUB&payment_type=single_payment&merchant=c7dd9e09-6676-4dcb-b187-fcc414e8b608&salt=4B05D01AF219C37165813A72AC03B35D&unix_timestamp=1756025115&signature=1eaa85590c95afa768490c19bee1ad41f528631a
+resultData
+Array
+(
+    [transaction_id] => bC5qaiS4pdeKCYjKNyCGCO
+    [amount] => 10.00
+    [original_amount] => 10.00
+    [order_id] => 144258462
+    [state] => COMPLETE
+    [testing] => 1
+    [pan_mask] => 513691******1434
+    [client_email] => cas@cassoft.ru
+    [client_name] => АндрейЧеркасов
+    [client_id] => 00b48e28d7bbc96d2d0b14a861870d06
+    [payment_method] => card
+    [created_datetime] => 2025-08-24 08:45:10
+    [currency] => RUB
+    [payment_type] => single_payment
+    [merchant] => c7dd9e09-6676-4dcb-b187-fcc414e8b608
+    [salt] => 4B05D01AF219C37165813A72AC03B35D
+    [unix_timestamp] => 1756025115
+    [signature] => 1eaa85590c95afa768490c19bee1ad41f528631a
+)
+
+memberId
+00b48e28d7bbc96d2d0b14a861870d06
+rest
+Array
+(
+    [ID] => 15
+)
+

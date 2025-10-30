@@ -1,0 +1,191 @@
+---------------------30.10.2025MSK07:53:17
+Array
+(
+    [DOMAIN] => b24-zna5xh.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 9f27c6d876df610f9211345c2b170836
+    [AUTH_ID] => 49fd026900580e62007d6e700000000b40380769b76e40762bd4a74b6e59f22b7f815d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 397c2a6900580e62007d6e700000000b40380708b9e5ac542ccc73b284ca34e12807b5
+    [member_id] => 31b0811c635106a3c586a82be5b718a4
+    [status] => S
+    [PLACEMENT] => SETTING_CONNECTOR
+    [PLACEMENT_OPTIONS] => {&quot;CONNECTOR&quot;:&quot;cs_cian_connector&quot;,&quot;LINE&quot;:&quot;1&quot;,&quot;STATUS&quot;:false,&quot;ACTIVE_STATUS&quot;:true,&quot;CONNECTION_STATUS&quot;:false,&quot;REGISTER_STATUS&quot;:false,&quot;ERROR_STATUS&quot;:false}
+    [app] => cian_messager
+    [CACHE_TYPE] => A
+    [~DOMAIN] => b24-zna5xh.bitrix24.ru
+    [~PROTOCOL] => 1
+    [~LANG] => ru
+    [~APP_SID] => 9f27c6d876df610f9211345c2b170836
+    [~AUTH_ID] => 49fd026900580e62007d6e700000000b40380769b76e40762bd4a74b6e59f22b7f815d
+    [~AUTH_EXPIRES] => 3600
+    [~REFRESH_ID] => 397c2a6900580e62007d6e700000000b40380708b9e5ac542ccc73b284ca34e12807b5
+    [~member_id] => 31b0811c635106a3c586a82be5b718a4
+    [~status] => S
+    [~PLACEMENT] => SETTING_CONNECTOR
+    [~PLACEMENT_OPTIONS] => {"CONNECTOR":"cs_cian_connector","LINE":"1","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+    [~app] => cian_messager
+    [~CACHE_TYPE] => A
+)
+
+options
+
+resSetupT
+Array
+(
+    [0] => Array
+        (
+            [ID] => 5
+            [TIMESTAMP_X] => 2025-10-30T07:51:04+03:00
+            [MODIFIED_BY] => 11
+            [DATE_CREATE] => 2025-10-30T07:51:04+03:00
+            [CREATED_BY] => 11
+            [ACTIVE] => Y
+            [DATE_ACTIVE_FROM] => 
+            [DATE_ACTIVE_TO] => 
+            [SORT] => 500
+            [NAME] => setup
+            [PREVIEW_PICTURE] => 
+            [PREVIEW_TEXT] => 
+            [DETAIL_PICTURE] => 
+            [DETAIL_TEXT] => 
+            [CODE] => 
+            [ENTITY] => setup_messager
+            [SECTION] => 
+            [PROPERTY_VALUES] => Array
+                (
+                    [CS_COLOR] => 
+                    [CS_BACKGROUND_COLOR] => 
+                    [CS_BACKGROUND_IMG] => 
+                    [CS_API_WHATSAPP] => 
+                    [CS_LINE_WHATSAPP] => 
+                    [CS_ADMIN] => 
+                    [CHAT_APP_EMAIL] => 
+                    [CHAT_APP_PASSWORD] => 
+                    [CS_TELEGRAM_SHOP] => 
+                    [CS_TELEGRAM_GROUP] => 
+                    [CS_KEY_TELEGRAM] => 
+                    [CS_BOT_TELEGRAM] => 
+                    [CS_KEY_CIAN] => 
+                    [CS_CIAN_CONNECT] => 
+                    [CS_KEY_DC] => 
+                    [CS_DC_CONNECT] => 
+                    [CS_KEY_AVITO] => 
+                    [CS_AVITO_CONNECT] => 
+                    [CS_TELEGRAM_CONNECT] => 
+                    [CS_CIAN_LINE] => 1
+                    [CS_DC_LINE] => 
+                    [CS_TELEGRAM_LINE] => 
+                    [CHAT_APP_ID] => 
+                    [CS_MCM_CONNECT] => 
+                    [CS_CONNECTOR] => 
+                    [CS_LINE] => 
+                    [CS_STATUS] => 
+                    [CS_PROFILE_ID] => 
+                    [CS_PROFILE_NAME] => 
+                    [CS_CODE] => 
+                    [CS_DATE_CREATE] => 
+                    [CS_DATE_CLOSE] => 
+                    [CS_DATE_CLOSE_FACT] => 
+                    [CS_RESOURCE] => 
+                    [CS_TYPE] => 
+                    [CS_USERS] => 
+                    [CS_PHONE] => 
+                    [CS_KEY_AUTO] => 
+                    [CS_KEY_USERS] => 
+                    [CS_BLOCK_USERS] => 
+                    [CS_BLOCK_GROUPS] => 
+                    [CS_BLOCK_BOTS] => 
+                    [CS_BLOCK_GROUPS_ALL] => 
+                    [matching_fields] => 
+                    [events] => 
+                    [CS_KEY_FIELDS] => 
+                )
+
+        )
+
+)
+
+resSetup
+Array
+(
+    [ID] => 5
+    [TIMESTAMP_X] => 2025-10-30T07:51:04+03:00
+    [MODIFIED_BY] => 11
+    [DATE_CREATE] => 2025-10-30T07:51:04+03:00
+    [CREATED_BY] => 11
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => setup
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => setup_messager
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [CS_COLOR] => 
+            [CS_BACKGROUND_COLOR] => 
+            [CS_BACKGROUND_IMG] => 
+            [CS_API_WHATSAPP] => 
+            [CS_LINE_WHATSAPP] => 
+            [CS_ADMIN] => 
+            [CHAT_APP_EMAIL] => 
+            [CHAT_APP_PASSWORD] => 
+            [CS_TELEGRAM_SHOP] => 
+            [CS_TELEGRAM_GROUP] => 
+            [CS_KEY_TELEGRAM] => 
+            [CS_BOT_TELEGRAM] => 
+            [CS_KEY_CIAN] => 
+            [CS_CIAN_CONNECT] => 
+            [CS_KEY_DC] => 
+            [CS_DC_CONNECT] => 
+            [CS_KEY_AVITO] => 
+            [CS_AVITO_CONNECT] => 
+            [CS_TELEGRAM_CONNECT] => 
+            [CS_CIAN_LINE] => 1
+            [CS_DC_LINE] => 
+            [CS_TELEGRAM_LINE] => 
+            [CHAT_APP_ID] => 
+            [CS_MCM_CONNECT] => 
+            [CS_CONNECTOR] => 
+            [CS_LINE] => 
+            [CS_STATUS] => 
+            [CS_PROFILE_ID] => 
+            [CS_PROFILE_NAME] => 
+            [CS_CODE] => 
+            [CS_DATE_CREATE] => 
+            [CS_DATE_CLOSE] => 
+            [CS_DATE_CLOSE_FACT] => 
+            [CS_RESOURCE] => 
+            [CS_TYPE] => 
+            [CS_USERS] => 
+            [CS_PHONE] => 
+            [CS_KEY_AUTO] => 
+            [CS_KEY_USERS] => 
+            [CS_BLOCK_USERS] => 
+            [CS_BLOCK_GROUPS] => 
+            [CS_BLOCK_BOTS] => 
+            [CS_BLOCK_GROUPS_ALL] => 
+            [matching_fields] => 
+            [events] => 
+            [CS_KEY_FIELDS] => 
+        )
+
+)
+
+resConnector
+Array
+(
+    [LINE] => 9
+    [CONNECTOR] => cs_cian_connector
+    [ERROR] => 
+    [CONFIGURED] => 
+    [STATUS] => 
+)
+

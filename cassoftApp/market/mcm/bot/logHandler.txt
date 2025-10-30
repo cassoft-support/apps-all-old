@@ -1,0 +1,40 @@
+2025-05-29T09:45:39+03:00
+событие
+message
+{"assistant_id":"asst_JfG7BTz68sd9rcAmNOP9DIS7","chat_id":"79955003579","profile_id":"c40b7054-9f50","task_result":"\"name\": \"Иван\"\n\"company\": \"Союз\"\n\"specialization\": \"ракеты стоит\"\n\"needs\": \"управление продажами\"\n\"result\": \"Получены параметры клиента\"","json_result":{"name":"Иван","company":"Союз","specialization":"ракеты стоит","needs":"управление продажами","result":"Получены параметры клиента"}}
+headers
+Array
+(
+    [Host] => app.cassoft.ru
+    [X-Forwarded-Proto] => https
+    [X-Forwarded-Port] => 443
+    [Connection] => close
+    [Content-Length] => 550
+    [content-type] => application/json
+    [accept] => application/json
+    [user-agent] => WapiAssistant
+    [accept-encoding] => gzip
+)
+
+result
+Array
+(
+    [assistant_id] => asst_JfG7BTz68sd9rcAmNOP9DIS7
+    [chat_id] => 79955003579
+    [profile_id] => c40b7054-9f50
+    [task_result] => "name": "Иван"
+"company": "Союз"
+"specialization": "ракеты стоит"
+"needs": "управление продажами"
+"result": "Получены параметры клиента"
+    [json_result] => Array
+        (
+            [name] => Иван
+            [company] => Союз
+            [specialization] => ракеты стоит
+            [needs] => управление продажами
+            [result] => Получены параметры клиента
+        )
+
+)
+

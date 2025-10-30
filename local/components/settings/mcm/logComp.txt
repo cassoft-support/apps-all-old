@@ -1,0 +1,224 @@
+---------------------05.07.2025MSK16:00:47
+Array
+(
+    [DOMAIN] => cassoft.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a495519aaa10008fce55c3e8f9b5e237
+    [AUTH_ID] => 0f30696800579b0e0036d5840000000100000763894fd51f9b40151c55128471edf285
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => ffae906800579b0e0036d58400000001000007dd437846bb6d0585dafd3d776e070e42
+    [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [status] => S
+    [PLACEMENT] => SETTING_CONNECTOR
+    [PLACEMENT_OPTIONS] => {&quot;CONNECTOR&quot;:&quot;cs_mcm_telegram&quot;,&quot;LINE&quot;:&quot;3&quot;,&quot;STATUS&quot;:true,&quot;ACTIVE_STATUS&quot;:true,&quot;CONNECTION_STATUS&quot;:true,&quot;REGISTER_STATUS&quot;:true,&quot;ERROR_STATUS&quot;:false}
+    [app] => mcm
+    [CACHE_TYPE] => A
+    [~DOMAIN] => cassoft.bitrix24.ru
+    [~PROTOCOL] => 1
+    [~LANG] => ru
+    [~APP_SID] => a495519aaa10008fce55c3e8f9b5e237
+    [~AUTH_ID] => 0f30696800579b0e0036d5840000000100000763894fd51f9b40151c55128471edf285
+    [~AUTH_EXPIRES] => 3600
+    [~REFRESH_ID] => ffae906800579b0e0036d58400000001000007dd437846bb6d0585dafd3d776e070e42
+    [~member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [~status] => S
+    [~PLACEMENT] => SETTING_CONNECTOR
+    [~PLACEMENT_OPTIONS] => {"CONNECTOR":"cs_mcm_telegram","LINE":"3","STATUS":true,"ACTIVE_STATUS":true,"CONNECTION_STATUS":true,"REGISTER_STATUS":true,"ERROR_STATUS":false}
+    [~app] => mcm
+    [~CACHE_TYPE] => A
+)
+
+option
+Array
+(
+    [CONNECTOR] => cs_mcm_telegram
+    [LINE] => 3
+    [STATUS] => 1
+    [ACTIVE_STATUS] => 1
+    [CONNECTION_STATUS] => 1
+    [REGISTER_STATUS] => 1
+    [ERROR_STATUS] => 
+)
+
+profileLine
+Array
+(
+    [0] => Array
+        (
+            [ID] => 59
+            [UF_MEMBER_ID] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [UF_PROFILE_ID] => 8c1aad94-6b9c
+            [UF_PROFILE_NAME] => Otdel_prodazh
+            [UF_CS_CODE] => cQ96ZhEaIdQeFhGn
+            [UF_DATE_CREATE] => 1749383020
+            [UF_DATE_CLOSE] => 1751975020
+            [UF_DATE_CLOSE_FACT] => 
+            [UF_ACTIVE] => Y
+            [UF_RESOURCE] => wappi
+            [UF_TYPE] => Telegram
+            [UF_LINE_B24] => 3
+            [UF_CONNECTOR] => cs_mcm_telegram
+            [UF_STATUS_B24] => 1
+            [UF_DOMAIN] => https://cassoft.bitrix24.ru
+            [UF_NAME] => Отдел продаж
+        )
+
+)
+
+profileLine
+Array
+(
+    [0] => Array
+        (
+            [ID] => 10
+            [UF_MEMBER_ID] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [UF_PROFILE_ID] => c40b7054-9f50
+            [UF_PROFILE_NAME] => cs_613
+            [UF_CS_CODE] => nivWEGkdo82edNF8
+            [UF_DATE_CREATE] => 1745482640
+            [UF_DATE_CLOSE] => 1748074640
+            [UF_DATE_CLOSE_FACT] => 
+            [UF_ACTIVE] => Y
+            [UF_RESOURCE] => wappi
+            [UF_TYPE] => whatsapp
+            [UF_LINE_B24] => 3
+            [UF_CONNECTOR] => cs_mcm_whatsapp
+            [UF_STATUS_B24] => 1
+            [UF_DOMAIN] => cassoft.bitrix24.ru
+            [UF_NAME] => cs 613
+        )
+
+    [1] => Array
+        (
+            [ID] => 20
+            [UF_MEMBER_ID] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [UF_PROFILE_ID] => cefda638-42f2
+            [UF_PROFILE_NAME] => Prosto
+            [UF_CS_CODE] => ZcT9Z7dTCTvXvs1w
+            [UF_DATE_CREATE] => 1747385026
+            [UF_DATE_CLOSE] => 1749977026
+            [UF_DATE_CLOSE_FACT] => 
+            [UF_ACTIVE] => Y
+            [UF_RESOURCE] => wappi
+            [UF_TYPE] => Whatsapp
+            [UF_LINE_B24] => 1
+            [UF_CONNECTOR] => cs_mcm_whatsapp
+            [UF_STATUS_B24] => 1
+            [UF_DOMAIN] => https://cassoft.bitrix24.ru
+            [UF_NAME] => Просто
+        )
+
+    [2] => Array
+        (
+            [ID] => 33
+            [UF_MEMBER_ID] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [UF_PROFILE_ID] => 5cbe4970-08a4
+            [UF_PROFILE_NAME] => Otdel_prodazh_telegram
+            [UF_CS_CODE] => adKpFcM8WLRY311s
+            [UF_DATE_CREATE] => 1748094368
+            [UF_DATE_CLOSE] => 1750686368
+            [UF_DATE_CLOSE_FACT] => 
+            [UF_ACTIVE] => Y
+            [UF_RESOURCE] => wappi
+            [UF_TYPE] => Telegram
+            [UF_LINE_B24] => 
+            [UF_CONNECTOR] => 
+            [UF_STATUS_B24] => 
+            [UF_DOMAIN] => https://cassoft.bitrix24.ru
+            [UF_NAME] => Отдел продаж телеграм
+        )
+
+    [3] => Array
+        (
+            [ID] => 34
+            [UF_MEMBER_ID] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [UF_PROFILE_ID] => 08def31f-5997
+            [UF_PROFILE_NAME] => eueue
+            [UF_CS_CODE] => IP4gVX9KSdC7N1uW
+            [UF_DATE_CREATE] => 1748094936
+            [UF_DATE_CLOSE] => 1750686936
+            [UF_DATE_CLOSE_FACT] => 
+            [UF_ACTIVE] => Y
+            [UF_RESOURCE] => wappi
+            [UF_TYPE] => Telegram
+            [UF_LINE_B24] => 
+            [UF_CONNECTOR] => 
+            [UF_STATUS_B24] => 
+            [UF_DOMAIN] => https://cassoft.bitrix24.ru
+            [UF_NAME] => еуеуе
+        )
+
+    [4] => Array
+        (
+            [ID] => 35
+            [UF_MEMBER_ID] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [UF_PROFILE_ID] => b2ff4645-0200
+            [UF_PROFILE_NAME] => uyuuyu
+            [UF_CS_CODE] => 7oJoGRD9EKTggTDx
+            [UF_DATE_CREATE] => 1748095032
+            [UF_DATE_CLOSE] => 1750687032
+            [UF_DATE_CLOSE_FACT] => 
+            [UF_ACTIVE] => Y
+            [UF_RESOURCE] => wappi
+            [UF_TYPE] => Whatsapp
+            [UF_LINE_B24] => 
+            [UF_CONNECTOR] => 
+            [UF_STATUS_B24] => 
+            [UF_DOMAIN] => https://cassoft.bitrix24.ru
+            [UF_NAME] => уйууйу
+        )
+
+    [5] => Array
+        (
+            [ID] => 36
+            [UF_MEMBER_ID] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [UF_PROFILE_ID] => ab305422-e275
+            [UF_PROFILE_NAME] => Otdel_prodazh_(79939003579)
+            [UF_CS_CODE] => 5jyGqXJhtkvknVCR
+            [UF_DATE_CREATE] => 1748095827
+            [UF_DATE_CLOSE] => 1750687827
+            [UF_DATE_CLOSE_FACT] => 
+            [UF_ACTIVE] => Y
+            [UF_RESOURCE] => wappi
+            [UF_TYPE] => Telegram
+            [UF_LINE_B24] => 
+            [UF_CONNECTOR] => 
+            [UF_STATUS_B24] => 
+            [UF_DOMAIN] => https://cassoft.bitrix24.ru
+            [UF_NAME] => Отдел продаж (79939003579)
+        )
+
+    [6] => Array
+        (
+            [ID] => 59
+            [UF_MEMBER_ID] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+            [UF_PROFILE_ID] => 8c1aad94-6b9c
+            [UF_PROFILE_NAME] => Otdel_prodazh
+            [UF_CS_CODE] => cQ96ZhEaIdQeFhGn
+            [UF_DATE_CREATE] => 1749383020
+            [UF_DATE_CLOSE] => 1751975020
+            [UF_DATE_CLOSE_FACT] => 
+            [UF_ACTIVE] => Y
+            [UF_RESOURCE] => wappi
+            [UF_TYPE] => Telegram
+            [UF_LINE_B24] => 3
+            [UF_CONNECTOR] => cs_mcm_telegram
+            [UF_STATUS_B24] => 1
+            [UF_DOMAIN] => https://cassoft.bitrix24.ru
+            [UF_NAME] => Отдел продаж
+        )
+
+)
+
+arResult
+Array
+(
+    [options] => {"CONNECTOR":"cs_mcm_telegram","LINE":"3","STATUS":true,"ACTIVE_STATUS":true,"CONNECTION_STATUS":true,"REGISTER_STATUS":true,"ERROR_STATUS":false}
+    [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [app] => mcm
+    [deactive] => 
+    [active] => display:none;
+    [profileId] => 
+)
+

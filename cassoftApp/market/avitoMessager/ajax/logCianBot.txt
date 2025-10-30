@@ -1,0 +1,88 @@
+---------------------17.01.2025MSK07:54:59
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [event_handler_id] => 340
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [1828] => Array
+                        (
+                            [access_token] => b2f0896700580e62005d376e0000072400000627d93744f567724cb2ea1e9d7e3db08f
+                            [expires] => 1737093298
+                            [expires_in] => 3600
+                            [scope] => crm,messageservice,entity,user_basic,imopenlines,im,imbot
+                            [domain] => cbn.bitrix24.ru
+                            [server_endpoint] => https://oauth.bitrix.info/rest/
+                            [status] => S
+                            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                            [member_id] => d17d1d15669be52925cf091ae22002d4
+                            [refresh_token] => a26fb16700580e62005d376e00000724000006f4ad982dcfcc9739d302ccd860fea423
+                            [user_id] => 1828
+                            [client_id] => app.61950a6ad4cfd7.21433277
+                            [application_token] => 0a8a29776c00931a03af397bf0917a23
+                            [AUTH] => Array
+                                (
+                                    [access_token] => b2f0896700580e62005d376e0000072400000627d93744f567724cb2ea1e9d7e3db08f
+                                    [expires] => 1737093298
+                                    [expires_in] => 3600
+                                    [scope] => crm,messageservice,entity,user_basic,imopenlines,im,imbot
+                                    [domain] => cbn.bitrix24.ru
+                                    [server_endpoint] => https://oauth.bitrix.info/rest/
+                                    [status] => S
+                                    [client_endpoint] => https://cbn.bitrix24.ru/rest/
+                                    [member_id] => d17d1d15669be52925cf091ae22002d4
+                                    [refresh_token] => a26fb16700580e62005d376e00000724000006f4ad982dcfcc9739d302ccd860fea423
+                                    [user_id] => 1828
+                                    [client_id] => app.61950a6ad4cfd7.21433277
+                                    [application_token] => 0a8a29776c00931a03af397bf0917a23
+                                )
+
+                            [BOT_ID] => 1828
+                            [BOT_CODE] => cs_cian_bot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => L
+                    [MESSAGE_TYPE] => L
+                    [BOT_ID] => 1828
+                    [USER_ID] => 0
+                    [CHAT_ID] => 3566
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => cs_cian_connector|24|109049053|1820
+                    [ACCESS_HISTORY] => 1
+                    [DIALOG_ID] => chat3566
+                    [LANGUAGE] => ru
+                )
+
+        )
+
+    [ts] => 1737089698
+    [auth] => Array
+        (
+            [access_token] => b2f0896700580e62005d376e000001f40000061df79f2885064a826754e459c852c3a1
+            [expires] => 1737093298
+            [expires_in] => 3600
+            [scope] => crm,messageservice,entity,user_basic,imopenlines,im,imbot
+            [domain] => cbn.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => S
+            [client_endpoint] => https://cbn.bitrix24.ru/rest/
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+            [user_id] => 500
+            [application_token] => 0a8a29776c00931a03af397bf0917a23
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 3
+)
+

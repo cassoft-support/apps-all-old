@@ -1,0 +1,16 @@
+---------------------24.10.2025MSK00:13:08
+Array
+(
+    [DOMAIN] => vsexorosho.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 67c12b7f1fae6452323cc03103a28a6e
+    [AUTH_ID] => 73a8fa680054c69e006ddeee0000000b201c079a914a1f17cc9e6de944db6d000a9e4b
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 632722690054c69e006ddeee0000000b201c07d5760cb17b467410724a6557ca51dc51
+    [member_id] => 7ee5241afd1c2af42be9a87f3fc4a32e
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME":"Y","IFRAME_TYPE":"SIDE_SLIDER","any":"417\/"}
+)
+

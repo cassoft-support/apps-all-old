@@ -1,0 +1,171 @@
+---------------------02.09.2024MSK16:33:31
+Array
+(
+    [event] => ONCRMLEADADD
+    [event_handler_id] => 2294
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 154260
+                )
+
+        )
+
+    [ts] => 1725284010
+    [auth] => Array
+        (
+            [access_token] => bbccd56600576b72005048a4000002520000068a5af8a61264d240fae7f40fd39e0729
+            [expires] => 1725287611
+            [expires_in] => 3600
+            [scope] => crm,entity,im,task,user.userfield,user,calendar,mailservice,telephony,disk,bizproc,imbot,lists,call,imopenlines,placement,messageservice,pull,mobile,documentgenerator,catalog,rpa,userfieldconfig,delivery,pay_system,landing
+            [domain] => darial.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => F
+            [client_endpoint] => https://darial.bitrix24.ru/rest/
+            [member_id] => 905f1783e5c7174c4bb1dad4bc420aab
+            [user_id] => 594
+            [application_token] => b489cd7ec210a5299ef9e4269204cfb5
+        )
+
+    [app] => logistics_pro
+    [CACHE_TYPE] => A
+    [~event] => ONCRMLEADADD
+    [~event_handler_id] => 2294
+    [~data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 154260
+                )
+
+        )
+
+    [~ts] => 1725284010
+    [~auth] => Array
+        (
+            [access_token] => bbccd56600576b72005048a4000002520000068a5af8a61264d240fae7f40fd39e0729
+            [expires] => 1725287611
+            [expires_in] => 3600
+            [scope] => crm,entity,im,task,user.userfield,user,calendar,mailservice,telephony,disk,bizproc,imbot,lists,call,imopenlines,placement,messageservice,pull,mobile,documentgenerator,catalog,rpa,userfieldconfig,delivery,pay_system,landing
+            [domain] => darial.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => F
+            [client_endpoint] => https://darial.bitrix24.ru/rest/
+            [member_id] => 905f1783e5c7174c4bb1dad4bc420aab
+            [user_id] => 594
+            [application_token] => b489cd7ec210a5299ef9e4269204cfb5
+        )
+
+    [~app] => logistics_pro
+    [~CACHE_TYPE] => A
+)
+
+lead
+Array
+(
+    [ID] => 154260
+    [TITLE] => Входящий вызов 79289729569
+    [HONORIFIC] => 
+    [NAME] => 
+    [SECOND_NAME] => 
+    [LAST_NAME] => 
+    [COMPANY_TITLE] => 
+    [COMPANY_ID] => 
+    [CONTACT_ID] => 
+    [IS_RETURN_CUSTOMER] => N
+    [BIRTHDATE] => 
+    [SOURCE_ID] => CALL
+    [SOURCE_DESCRIPTION] => Звонок поступил на номер: Приложение: Облачная АТС Билайн Бизнес.
+    [STATUS_ID] => IN_PROCESS
+    [STATUS_DESCRIPTION] => 
+    [POST] => 
+    [COMMENTS] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [HAS_PHONE] => Y
+    [HAS_EMAIL] => N
+    [HAS_IMOL] => N
+    [ASSIGNED_BY_ID] => 606
+    [CREATED_BY_ID] => 594
+    [MODIFY_BY_ID] => 594
+    [DATE_CREATE] => 2024-09-02T16:33:30+03:00
+    [DATE_MODIFY] => 2024-09-02T16:33:31+03:00
+    [DATE_CLOSED] => 
+    [STATUS_SEMANTIC_ID] => P
+    [OPENED] => N
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 1
+    [MOVED_TIME] => 2024-09-02T16:33:30+03:00
+    [ADDRESS] => 
+    [ADDRESS_2] => 
+    [ADDRESS_CITY] => 
+    [ADDRESS_POSTAL_CODE] => 
+    [ADDRESS_REGION] => 
+    [ADDRESS_PROVINCE] => 
+    [ADDRESS_COUNTRY] => 
+    [ADDRESS_COUNTRY_CODE] => 
+    [ADDRESS_LOC_ADDR_ID] => 
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [PARENT_ID_138] => 
+    [LAST_ACTIVITY_BY] => 606
+    [LAST_ACTIVITY_TIME] => 2024-09-02T16:32:33+03:00
+    [UF_CRM_1659702064] => 
+    [UF_CRM_INSTAGRAM_WZ] => 
+    [UF_CRM_VK_WZ] => 
+    [UF_CRM_TELEGRAMUSERNAME_WZ] => 
+    [UF_CRM_TELEGRAMID_WZ] => 
+    [UF_CRM_AVITO_WZ] => 
+    [UF_CRM_TIPPEREVOZKI] => 
+    [UF_CRM_TIPGRUZA] => 
+    [UF_CRM_TIPGRUZA2] => 
+    [UF_CRM_KUDA] => 
+    [UF_CRM_KOLICHESTVOTO] => 
+    [UF_CRM_IMYA] => 
+    [UF_CRM_TRANID] => 
+    [UF_CRM_FORMNAME] => 
+    [UF_CRM_TYPEP] => 
+    [UF_CRM_TYPEG] => 
+    [UF_CRM_OTKUDA] => 
+    [UF_CRM_KOL] => 
+    [UF_CRM_1685008008] => 
+    [UF_CRM_1685008025] => 
+    [UF_CRM_A_W_GROUP_ID] => 
+    [UF_CRM_A_T_GROUP_ID] => 
+    [UF_CRM_1685079904] => 
+    [UF_CRM_1639586397] => Array
+        (
+        )
+
+    [UF_CRM_1641978306] => 
+    [UF_CRM_1641978319] => 
+    [UF_CRM_1642691410] => Array
+        (
+        )
+
+    [UF_CRM_LEAD_1683127200216] => 
+    [UF_CRM_LEAD_1683127244651] => 
+    [UF_CRM_LEAD_1683127263203] => 
+    [UF_CRM_646F2C54E0999] => 
+    [UF_CRM_646F2C5513A78] => 
+    [UF_CRM_646F2C552CA57] => 
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 621180
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => 79289729569
+                    [TYPE_ID] => PHONE
+                )
+
+        )
+
+)
+

@@ -1,0 +1,36 @@
+.btn-container{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-items: flex-start;
+  margin: 10px;
+}
+.btn-container a{
+  text-decoration: none;
+}
+ .btn-container-link{
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  background: var(--main-bg-color);
+  color: #ffff;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 7px 15px;
+    border-radius: 25px;
+}
+.btn-container-link i{
+  font-size: 1.0rem;
+    margin-right: 10px;
+}
+.la-check-circle:before {
+  margin-right: 5px;
+}
+.btn-container-title{
+  font-size: 0.9rem;
+}
+
+

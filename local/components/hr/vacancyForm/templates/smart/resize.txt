@@ -1,0 +1,21 @@
+Img22
+Array
+(
+    [0] => 1024
+    [1] => 572
+    [2] => 2
+    [3] => width="1024" height="572"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)
+Array
+(
+    [0] => 1024
+    [1] => 572
+    [2] => 2
+    [3] => width="1024" height="572"
+    [bits] => 8
+    [channels] => 3
+    [mime] => image/jpeg
+)

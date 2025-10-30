@@ -1,0 +1,41 @@
+09.06.2024MSK11:05
+Array
+(
+    [sort] => Array
+        (
+            [0] => blank-akta-vypolnennyh-rabot-okazannyh-uslug-primer-zapolnenija.png
+            [1] => akt-ob-otkaze-rabotnika-podpisat-uvedomlenie.png
+        )
+
+    [authParams] => {"access_token":"05706566005567de005f20c00000004b000007a247a3fc3a79febeb71470ffe430c211","refresh_token":"f5ee8c66005567de005f20c00000004b0000076041a878752369913e87ba8cf6bac753","expires_in":1717923844505,"domain":"sellerden.bitrix24.ru","member_id":"6655936493adaa30bfcf7acdba7fa92a"}
+    [app] => fulfillment
+    [deal_id] => 39189
+)
+Array
+(
+    [access_token] => 05706566005567de005f20c00000004b000007a247a3fc3a79febeb71470ffe430c211
+    [refresh_token] => f5ee8c66005567de005f20c00000004b0000076041a878752369913e87ba8cf6bac753
+    [expires_in] => 1717923844505
+    [domain] => sellerden.bitrix24.ru
+    [member_id] => 6655936493adaa30bfcf7acdba7fa92a
+)
+fulfillmentArray
+(
+    [DOMAIN] => sellerden.bitrix24.ru
+    [member_id] => 6655936493adaa30bfcf7acdba7fa92a
+    [AUTH_ID] => 05706566005567de005f20c00000004b000007a247a3fc3a79febeb71470ffe430c211
+    [REFRESH_ID] => f5ee8c66005567de005f20c00000004b0000076041a878752369913e87ba8cf6bac753
+)
+Array
+(
+    [UF_CRM_CS_SCAN_DOC] => Array
+        (
+            [0] => 105849|https://cdn-ru.bitrix24.ru/b23465156/disk/037/0375331227b4e12a7364b4e3493a1f98/1685e55e16ac5d80538862c797e4086b
+            [1] => 105851|https://cdn-ru.bitrix24.ru/b23465156/disk/ece/ecec85d6420a93cf2b9673477d2ac957/63e6fc5cc4cb17b920cd1393779f9b53
+        )
+
+)
+Array
+(
+    [0] => 1
+)

@@ -1,0 +1,80 @@
+---------------------16.01.2025MSK18:50:00
+Array
+(
+    [DOMAIN] => cbn.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => a24687b6bf294c6a5e65a7ef8f5cb4b3
+    [AUTH_ID] => b838896700580e62005d376e000001f40000076fcc479585b62641d9c62a90937edfd1
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a8b7b06700580e62005d376e000001f4000007a73a78be913cecbb188b7377ce942f17
+    [member_id] => d17d1d15669be52925cf091ae22002d4
+    [status] => S
+    [PLACEMENT] => SETTING_CONNECTOR
+    [PLACEMENT_OPTIONS] => {&quot;CONNECTOR&quot;:&quot;cs_cian_connector&quot;,&quot;LINE&quot;:&quot;24&quot;,&quot;STATUS&quot;:true,&quot;ACTIVE_STATUS&quot;:true,&quot;CONNECTION_STATUS&quot;:true,&quot;REGISTER_STATUS&quot;:true,&quot;ERROR_STATUS&quot;:false}
+    [app] => cian_messager
+    [CACHE_TYPE] => A
+    [~DOMAIN] => cbn.bitrix24.ru
+    [~PROTOCOL] => 1
+    [~LANG] => ru
+    [~APP_SID] => a24687b6bf294c6a5e65a7ef8f5cb4b3
+    [~AUTH_ID] => b838896700580e62005d376e000001f40000076fcc479585b62641d9c62a90937edfd1
+    [~AUTH_EXPIRES] => 3600
+    [~REFRESH_ID] => a8b7b06700580e62005d376e000001f4000007a73a78be913cecbb188b7377ce942f17
+    [~member_id] => d17d1d15669be52925cf091ae22002d4
+    [~status] => S
+    [~PLACEMENT] => SETTING_CONNECTOR
+    [~PLACEMENT_OPTIONS] => {"CONNECTOR":"cs_cian_connector","LINE":"24","STATUS":true,"ACTIVE_STATUS":true,"CONNECTION_STATUS":true,"REGISTER_STATUS":true,"ERROR_STATUS":false}
+    [~app] => cian_messager
+    [~CACHE_TYPE] => A
+)
+
+resSetup
+Array
+(
+    [ID] => 21580
+    [TIMESTAMP_X] => 2025-01-16T18:49:50+03:00
+    [MODIFIED_BY] => 500
+    [DATE_CREATE] => 2025-01-16T18:49:10+03:00
+    [CREATED_BY] => 500
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => setup
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => setup_messager
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [CS_COLOR] => 
+            [CS_BACKGROUND_COLOR] => 
+            [CS_BACKGROUND_IMG] => 
+            [CS_API_WHATSAPP] => 
+            [CS_LINE_WHATSAPP] => 
+            [CS_ADMIN] => 
+            [CHAT_APP_EMAIL] => 
+            [CHAT_APP_PASSWORD] => 
+            [CS_TELEGRAM_SHOP] => 
+            [CS_TELEGRAM_GROUP] => 
+            [CS_KEY_TELEGRAM] => 
+            [CS_BOT_TELEGRAM] => 
+            [CS_KEY_CIAN] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjk0MzEyMTA1fQ.UV2wc6VYtj_p2cwVuw0ideULYY2Jutxrp5wBeZ40ge8
+            [CS_CIAN_CONNECT] => 1
+            [CS_KEY_DC] => 
+            [CS_DC_CONNECT] => 
+            [CS_KEY_AVITO] => 
+            [CS_AVITO_CONNECT] => 
+            [CS_TELEGRAM_CONNECT] => 
+            [CS_CIAN_LINE] => 24
+            [CS_DC_LINE] => 
+            [CS_TELEGRAM_LINE] => 
+            [CHAT_APP_ID] => 
+        )
+
+)
+

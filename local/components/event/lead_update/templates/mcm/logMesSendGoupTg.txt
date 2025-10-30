@@ -1,0 +1,144 @@
+---------------------22.05.2025MSK16:24:12
+Array
+(
+    [chat_id] => -1002338360376
+    [text] => <a href="https://stayproperty.bitrix24.ru/crm/lead/details/137988/">Создан новый лид - Заявка Mostafa Abo El-EninMostafa Abo El-Enin1</a>
+ Имя: <strong>Mostafa Abo El-EninMostafa Abo El-Enin</strong>
+ тел: <a href="tel:15879174684">15879174684</a>
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Дубай | Damac Islands
+Комментарий: Потребности - DS | EN | Дубай | Damac Islands
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+
+    [parse_mode] => HTML
+    [disable_web_page_preview] => true
+)
+
+responseData
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 9
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1747920252
+            [text] => Создан новый лид - Заявка Mostafa Abo El-EninMostafa Abo El-Enin1
+ Имя: Mostafa Abo El-EninMostafa Abo El-Enin
+ тел: 15879174684
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Дубай | Damac Islands
+Комментарий: Потребности - DS | EN | Дубай | Damac Islands
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 65
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/137988/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 72
+                            [length] => 38
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+
+responseData
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 10
+            [from] => Array
+                (
+                    [id] => 5830465058
+                    [is_bot] => 1
+                    [first_name] => Stayproperty
+                    [username] => stayproperty_bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => -1002338360376
+                    [title] => LEADS DUBAI | STAY PROPERTY
+                    [type] => supergroup
+                )
+
+            [date] => 1747920252
+            [text] => Создан новый лид - Заявка Mostafa Abo El-EninMostafa Abo El-Enin1
+ Имя: Mostafa Abo El-EninMostafa Abo El-Enin
+ тел: 15879174684
+Мессенджер: Whatsapp
+Пожелания: Потребности - DS | EN | Дубай | Damac Islands
+Комментарий: Потребности - DS | EN | Дубай | Damac Islands
+Регион интереса: ОАЭ
+Страна: 
+Город: 
+Язык: Английский
+Источник: Facebook + Insta lead
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 65
+                            [type] => text_link
+                            [url] => https://stayproperty.bitrix24.ru/crm/lead/details/137988/
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 72
+                            [length] => 38
+                            [type] => bold
+                        )
+
+                )
+
+            [link_preview_options] => Array
+                (
+                    [is_disabled] => 1
+                )
+
+        )
+
+)
+

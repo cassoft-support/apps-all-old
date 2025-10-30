@@ -1,0 +1,1355 @@
+---------------------23.10.2025MSK16:52:28
+Array
+(
+    [DOMAIN] => 1983.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 52b43d13c13e4960b5a7b0d96108b7c5
+    [AUTH_ID] => 1d41fa6800543a28007d300e000000060000076c97d090a04061e6e199991d7f940078
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0dc0216900543a28007d300e00000006000007a7bcc64ec86bb597747814507ab02f55
+    [member_id] => fc8c33f2a71aea8e680c1df897819548
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"6\/"}
+    [app] => domclick_messager
+    [FOLDER] => CAScMsUnTN9L.
+    [user] => 6
+)
+
+REQUEST
+Array
+(
+    [DOMAIN] => 1983.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 52b43d13c13e4960b5a7b0d96108b7c5
+    [AUTH_ID] => 1d41fa6800543a28007d300e000000060000076c97d090a04061e6e199991d7f940078
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0dc0216900543a28007d300e00000006000007a7bcc64ec86bb597747814507ab02f55
+    [member_id] => fc8c33f2a71aea8e680c1df897819548
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"6\/"}
+    [app] => domclick_messager
+    [FOLDER] => CAScMsUnTN9L.
+    [user] => 6
+)
+
+clientsApp
+
+params
+Array
+(
+    [UF_CS_CLIENT_PORTAL_MEMBER_ID] => fc8c33f2a71aea8e680c1df897819548
+    [UF_CS_CLIENT_PORTAL_DOMEN] => 1983.bitrix24.ru
+    [UF_CS_CLIENT_PORTAL_DOMAIN] => 1983.bitrix24.ru
+    [UF_CS_CLIENT_PORTAL_ACCESS_TOKEN] => 1d41fa6800543a28007d300e000000060000076c97d090a04061e6e199991d7f940078
+    [UF_CS_CLIENT_PORTAL_REFRESH_TOKEN] => 0dc0216900543a28007d300e00000006000007a7bcc64ec86bb597747814507ab02f55
+    [UF_DATE_UP] => 23.10.2025MSK16:52:28
+    [UF_ACTIVE] => 1
+    [UF_CS_FOLDER] => CAScMsUnTN9L.
+)
+
+authAppAdd
+Bitrix\Main\ORM\Data\AddResult Object
+(
+    [isSuccess:protected] => 1
+    [errors:protected] => Bitrix\Main\ErrorCollection Object
+        (
+            [values:protected] => Array
+                (
+                )
+
+        )
+
+    [data:protected] => Array
+        (
+            [UF_CS_CLIENT_PORTAL_MEMBER_ID] => fc8c33f2a71aea8e680c1df897819548
+            [UF_CS_CLIENT_PORTAL_DOMEN] => 1983.bitrix24.ru
+            [UF_CS_CLIENT_PORTAL_ACCESS_TOKEN] => 1d41fa6800543a28007d300e000000060000076c97d090a04061e6e199991d7f940078
+            [UF_CS_CLIENT_PORTAL_REFRESH_TOKEN] => 0dc0216900543a28007d300e00000006000007a7bcc64ec86bb597747814507ab02f55
+            [UF_DATE_UP] => Bitrix\Main\Type\DateTime Object
+                (
+                    [value:protected] => DateTime Object
+                        (
+                            [date] => 2025-10-23 16:52:28.000000
+                            [timezone_type] => 3
+                            [timezone] => Europe/Moscow
+                        )
+
+                    [userTimeEnabled:protected] => 
+                )
+
+            [UF_DATA_CLOSE] => 
+            [UF_ACTIVE] => 1
+            [UF_CS_FOLDER] => CAScMsUnTN9L.
+            [UF_ID_OLD] => 
+            [UF_MAIN] => 0
+            [UF_CS_CLIENT_PORTAL_DOMAIN] => 1983.bitrix24.ru
+            [UF_APP] => 
+        )
+
+    [wereErrorsChecked:protected] => 
+    [object:protected] => EO_AppDomclickMessagerAccess Object
+        (
+            [_entity:protected] => Bitrix\Main\ORM\Entity Object
+                (
+                    [className:protected] => \AppDomclickMessagerAccessTable
+                    [module:protected] => 
+                    [name:protected] => AppDomclickMessagerAccess
+                    [connectionName:protected] => default
+                    [dbTableName:protected] => app_domclick_messager_access
+                    [primary:protected] => Array
+                        (
+                            [0] => ID
+                        )
+
+                    [autoIncrement:protected] => ID
+                    [uf_id:protected] => 
+                    [isUts:protected] => 
+                    [isUtm:protected] => 
+                    [fields:protected] => Array
+                        (
+                            [ID] => Bitrix\Main\ORM\Fields\IntegerField Object
+                                (
+                                    [name:protected] => ID
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [data_type] => integer
+                                            [primary] => 1
+                                            [autocomplete] => 1
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => 
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 1
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 1
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => ID
+                                    [default_value:protected] => 
+                                    [size:protected] => 4
+                                )
+
+                            [UF_CS_CLIENT_PORTAL_MEMBER_ID] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_CS_CLIENT_PORTAL_MEMBER_ID
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_CS_CLIENT_PORTAL_MEMBER_ID
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_CS_CLIENT_PORTAL_DOMEN] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_CS_CLIENT_PORTAL_DOMEN
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_CS_CLIENT_PORTAL_DOMEN
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_CS_CLIENT_PORTAL_ACCESS_TOKEN] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_CS_CLIENT_PORTAL_ACCESS_TOKEN
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_CS_CLIENT_PORTAL_ACCESS_TOKEN
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_CS_CLIENT_PORTAL_REFRESH_TOKEN] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_CS_CLIENT_PORTAL_REFRESH_TOKEN
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_CS_CLIENT_PORTAL_REFRESH_TOKEN
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_DATE_UP] => Bitrix\Main\ORM\Fields\DatetimeField Object
+                                (
+                                    [name:protected] => UF_DATE_UP
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_DATE_UP
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [useTimezone:protected] => 
+                                )
+
+                            [UF_DATA_CLOSE] => Bitrix\Main\ORM\Fields\DatetimeField Object
+                                (
+                                    [name:protected] => UF_DATA_CLOSE
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_DATA_CLOSE
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [useTimezone:protected] => 
+                                )
+
+                            [UF_ACTIVE] => Bitrix\Main\ORM\Fields\BooleanField Object
+                                (
+                                    [name:protected] => UF_ACTIVE
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                            [values] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 1
+                                                )
+
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [0] => Bitrix\Main\ORM\Fields\BooleanField Object
+ *RECURSION*
+                                                    [1] => normalizeValue
+                                                )
+
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [0] => Bitrix\Main\ORM\Fields\BooleanField Object
+ *RECURSION*
+                                                    [1] => normalizeValue
+                                                )
+
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_ACTIVE
+                                    [default_value:protected] => 1
+                                    [values:protected] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 1
+                                        )
+
+                                )
+
+                            [UF_CS_FOLDER] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_CS_FOLDER
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_CS_FOLDER
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_ID_OLD] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_ID_OLD
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_ID_OLD
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_MAIN] => Bitrix\Main\ORM\Fields\BooleanField Object
+                                (
+                                    [name:protected] => UF_MAIN
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                            [values] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 1
+                                                )
+
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [0] => Bitrix\Main\ORM\Fields\BooleanField Object
+ *RECURSION*
+                                                    [1] => normalizeValue
+                                                )
+
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [0] => Bitrix\Main\ORM\Fields\BooleanField Object
+ *RECURSION*
+                                                    [1] => normalizeValue
+                                                )
+
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_MAIN
+                                    [default_value:protected] => 0
+                                    [values:protected] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 1
+                                        )
+
+                                )
+
+                            [UF_CS_CLIENT_PORTAL_DOMAIN] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_CS_CLIENT_PORTAL_DOMAIN
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_CS_CLIENT_PORTAL_DOMAIN
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                            [UF_APP] => Bitrix\Main\ORM\Fields\StringField Object
+                                (
+                                    [name:protected] => UF_APP
+                                    [dataType:protected] => 
+                                    [initialParameters:protected] => Array
+                                        (
+                                            [required] => 
+                                        )
+
+                                    [title:protected] => 
+                                    [validation:protected] => 
+                                    [validators:protected] => 
+                                    [additionalValidators:protected] => Array
+                                        (
+                                        )
+
+                                    [fetchDataModification:protected] => 
+                                    [fetchDataModifiers:protected] => 
+                                    [additionalFetchDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [saveDataModification:protected] => 
+                                    [saveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [additionalSaveDataModifiers:protected] => Array
+                                        (
+                                        )
+
+                                    [isSerialized:protected] => 
+                                    [parentField:protected] => 
+                                    [entity:protected] => Bitrix\Main\ORM\Entity Object
+                                        (
+                                            [className:protected] => \AppDomclickMessagerAccessTable
+                                            [module:protected] => 
+                                            [name:protected] => AppDomclickMessagerAccess
+                                            [connectionName:protected] => default
+                                            [dbTableName:protected] => app_domclick_messager_access
+                                            [primary:protected] => Array
+                                                (
+                                                    [0] => ID
+                                                )
+
+                                            [autoIncrement:protected] => ID
+                                            [uf_id:protected] => 
+                                            [isUts:protected] => 
+                                            [isUtm:protected] => 
+                                            [fields:protected] => Array
+ *RECURSION*
+                                            [fieldsMap:protected] => Array
+                                                (
+                                                    [ID] => Array
+                                                        (
+                                                            [data_type] => integer
+                                                            [primary] => 1
+                                                            [autocomplete] => 1
+                                                        )
+
+                                                )
+
+                                            [u_fields:protected] => 
+                                            [code:protected] => APP_DOMCLICK_MESSAGER_ACCESS
+                                            [references:protected] => Array
+                                                (
+                                                )
+
+                                            [isClone:protected] => 1
+                                        )
+
+                                    [connection:protected] => 
+                                    [is_primary:protected] => 
+                                    [is_unique:protected] => 
+                                    [is_required:protected] => 
+                                    [is_autocomplete:protected] => 
+                                    [is_private:protected] => 
+                                    [is_nullable:protected] => 1
+                                    [is_binary:protected] => 
+                                    [is_fulltext:protected] => 
+                                    [column_name:protected] => UF_APP
+                                    [default_value:protected] => 
+                                    [format:protected] => 
+                                    [size:protected] => 
+                                )
+
+                        )
+
+                    [fieldsMap:protected] => Array
+                        (
+                            [ID] => Array
+                                (
+                                    [data_type] => integer
+                                    [primary] => 1
+                                    [autocomplete] => 1
+                                )
+
+                        )
+
+                    [u_fields:protected] => 
+                    [code:protected] => 
+                    [references:protected] => Array
+                        (
+                        )
+
+                    [isClone:protected] => 
+                )
+
+            [_state:protected] => 0
+            [_actualValues:protected] => Array
+                (
+                    [ID] => 80
+                )
+
+            [_currentValues:protected] => Array
+                (
+                    [UF_CS_CLIENT_PORTAL_MEMBER_ID] => fc8c33f2a71aea8e680c1df897819548
+                    [UF_CS_CLIENT_PORTAL_DOMEN] => 1983.bitrix24.ru
+                    [UF_CS_CLIENT_PORTAL_ACCESS_TOKEN] => 1d41fa6800543a28007d300e000000060000076c97d090a04061e6e199991d7f940078
+                    [UF_CS_CLIENT_PORTAL_REFRESH_TOKEN] => 0dc0216900543a28007d300e00000006000007a7bcc64ec86bb597747814507ab02f55
+                    [UF_DATE_UP] => Bitrix\Main\Type\DateTime Object
+                        (
+                            [value:protected] => DateTime Object
+                                (
+                                    [date] => 2025-10-23 16:52:28.000000
+                                    [timezone_type] => 3
+                                    [timezone] => Europe/Moscow
+                                )
+
+                            [userTimeEnabled:protected] => 
+                        )
+
+                    [UF_DATA_CLOSE] => 
+                    [UF_ACTIVE] => 1
+                    [UF_CS_FOLDER] => CAScMsUnTN9L.
+                    [UF_ID_OLD] => 
+                    [UF_MAIN] => 
+                    [UF_CS_CLIENT_PORTAL_DOMAIN] => 1983.bitrix24.ru
+                    [UF_APP] => 
+                )
+
+            [_runtimeValues:protected] => Array
+                (
+                )
+
+            [_customData:protected] => 
+            [_onPrimarySetListeners:protected] => Array
+                (
+                )
+
+            [_authContext:protected] => 
+            [_savingInProgress:protected] => 
+        )
+
+    [primary:protected] => Array
+        (
+            [ID] => 80
+        )
+
+)
+

@@ -1,0 +1,16 @@
+---------------------29.05.2025MSK09:46:31
+Array
+(
+    [DOMAIN] => uniqueapart.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 640f0839725774fb24bd1e96a25b8a9e
+    [AUTH_ID] => d510386800543a28005bfcf40000bb174038074246c9b61cac53259c247776cf52224d
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => c58f5f6800543a28005bfcf40000bb1740380713633a577f9b6f93bf125d2bcdb53529
+    [member_id] => b566d9a587178188dc8bb4980ebbaa81
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"IFRAME_TYPE":"SIDE_SLIDER","any":"167\/","current_fieldset":"SOCSERV"}
+)
+

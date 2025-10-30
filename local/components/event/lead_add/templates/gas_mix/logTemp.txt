@@ -1,0 +1,112 @@
+---------------------01.02.2025MSK22:49:33
+start
+lead
+Array
+(
+    [ID] => 85537
+    [TITLE] => Лид #85537
+    [HONORIFIC] => 
+    [NAME] => 
+    [SECOND_NAME] => 
+    [LAST_NAME] => 
+    [COMPANY_TITLE] => 
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 136559
+    [IS_RETURN_CUSTOMER] => Y
+    [BIRTHDATE] => 
+    [SOURCE_ID] => CALL
+    [SOURCE_DESCRIPTION] => 
+    [STATUS_ID] => NEW
+    [STATUS_DESCRIPTION] => 
+    [POST] => 
+    [COMMENTS] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [HAS_PHONE] => N
+    [HAS_EMAIL] => N
+    [HAS_IMOL] => N
+    [ASSIGNED_BY_ID] => 3003
+    [CREATED_BY_ID] => 3003
+    [MODIFY_BY_ID] => 3003
+    [DATE_CREATE] => 2025-02-01T22:49:32+03:00
+    [DATE_MODIFY] => 2025-02-01T22:49:32+03:00
+    [DATE_CLOSED] => 
+    [STATUS_SEMANTIC_ID] => P
+    [OPENED] => Y
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 3003
+    [MOVED_TIME] => 2025-02-01T22:49:32+03:00
+    [ADDRESS] => 
+    [ADDRESS_2] => 
+    [ADDRESS_CITY] => 
+    [ADDRESS_POSTAL_CODE] => 
+    [ADDRESS_REGION] => 
+    [ADDRESS_PROVINCE] => 
+    [ADDRESS_COUNTRY] => 
+    [ADDRESS_COUNTRY_CODE] => 
+    [ADDRESS_LOC_ADDR_ID] => 
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [PARENT_ID_161] => 
+    [LAST_ACTIVITY_BY] => 3003
+    [LAST_ACTIVITY_TIME] => 2025-02-01T22:49:32+03:00
+    [UF_CRM_A_W_GROUP_ID] => 
+    [UF_CRM_1668592581] => 
+    [UF_CRM_TEXTAREA] => 
+    [UF_CRM_TRANID] => 
+    [UF_CRM_COOKIES] => 
+    [UF_CRM_MGO_CC_ENTRY_ID] => 
+    [UF_CRM_MGO_CC_CHANNEL_TYPE] => 
+    [UF_CRM_MGO_CC_RESULT] => 
+    [UF_CRM_MGO_CC_ENTRY_POINT] => 
+    [UF_CRM_MGO_CC_CREATE] => 
+    [UF_CRM_MGO_CC_END] => 
+    [UF_CRM_MGO_CC_TAG_ID] => 
+    [UF_CRM_A_T_GROUP_ID] => 
+    [UF_CRM_1675096164] => 
+    [UF_CRM_1675096910235] => 
+    [UF_CRM_1690881080087] => 
+    [UF_CRM_1690881116643] => 
+    [UF_CRM_1692607207169] => 
+    [UF_CRM_1692883255527] => 
+    [UF_CRM_1692883297026] => 
+    [UF_CRM_1692883381935] => 
+    [UF_CRM_1692883469072] => 
+    [UF_CRM_1692884144353] => 
+    [UF_CRM_1693304443152] => 
+    [UF_CRM_1696603957909] => 
+    [UF_CRM_DELIVERY] => 
+    [UF_CRM_PAYMENTSYSTEM] => 
+    [UF_CRM_INN] => 
+    [UF_CRM_KPP] => 
+    [UF_CRM_BIK] => 
+    [UF_CRM_BANKNAME] => 
+    [UF_CRM_BANKACCOUNT] => 
+    [UF_CRM_CORACCOUNT] => 
+    [UF_CRM_ORDERID] => 
+    [UF_CRM_PAYMENTID] => 
+    [UF_CRM_SUBTOTAL] => 
+    [UF_CRM_PRODUCT] => 
+    [UF_CRM_FORMNAME] => 
+    [UF_CRM_DELIVERYPRICE] => 
+    [UF_CRM_DELIVERYADDRE] => 
+    [UF_CRM_INSTAGRAM_WZ] => 
+    [UF_CRM_VK_WZ] => 
+    [UF_CRM_AVITO_WZ] => 
+    [UF_CRM_TELEGRAMUSERNAME_WZ] => 
+    [UF_CRM_TELEGRAMID_WZ] => 
+    [UF_CRM_INPUT] => 
+    [UF_CRM_LITR] => 
+    [UF_CRM_CS_SCAN_DOC] => Array
+        (
+        )
+
+    [UF_CRM_CS_SCAN_DOC_FORM] => 
+    [UF_CRM_1733481425814] => 
+)
+

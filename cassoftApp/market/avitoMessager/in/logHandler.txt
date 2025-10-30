@@ -1,0 +1,44 @@
+---------------------17.01.2025MSK07:56:37
+Array
+(
+    [webhookType] => chatsReadability
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chatId] => 109049053
+                    [agentUserId] => 119601072
+                    [userId] => 15070312
+                    [readAt] => 2025-01-17T04:56:37.123452+00:00
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [userId] => 15070312
+                    [name] => 15070312
+                    [avatar] => Array
+                        (
+                            [images] => Array
+                                (
+                                    [small] => https://www.cian.ru/avatar.axd?i=15070312&t=2&p=1
+                                    [big] => https://www.cian.ru/avatar.axd?i=15070312&t=2&p=2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 2
+)
+

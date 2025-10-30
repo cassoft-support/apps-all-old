@@ -1,0 +1,72 @@
+---------------------15.01.2025MSK19:02:45
+Array
+(
+    [key] => eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOjEwMTgsImNvbXBhbnlfaWQiOjM0ODIyNCwiaWF0IjoxNzMyNzgyNzUxfQ.fi8Y7hnKbllMNR-NCYsiy5a2ME_yvN2K2zUHauFi4mDCyQOS2AnEh8VYPJcH47CWexFCT_Wtdql0MZHt_8Jvu_lpYBFtVn7a-iqsXTyGMLsaXsU307KjXl-9xxU-c7mcyl-gEfGjpK6cQmcSZunjuROJ4fTYm3qczJvUxSZvca-sWOfH7PRz5pdGS13MFDi1oVZJ5sH1YBg4reivj-EphZ87UzMXKM9Ic6FV2AWWRaOIcBSDF1z8pgaMoHBwzj5r0CRMSLSg6iKZOONqjTgmsl6g2e7lJ3inIvmqRT0XPGdPP6niDXW4VX6OwlCC3mgwpRuifK3z3EJpu0DAr2OeSA
+    [options] => {"CONNECTOR":"cs_domclick_connector","LINE":"10","STATUS":true,"ACTIVE_STATUS":true,"CONNECTION_STATUS":true,"REGISTER_STATUS":true,"ERROR_STATUS":false}
+    [app] => domclick_messager
+    [id] => 21488
+    [auth] => Array
+        (
+            [access_token] => cae8876700543a28005d376e000001f4000007bcda20f8e996173cdad3365edfb3665a
+            [refresh_token] => ba67af6700543a28005d376e000001f40000075f63ec60630c9320e3efc47f72396a12
+            [expires_in] => 1736960203891
+            [domain] => cbn.bitrix24.ru
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+        )
+
+)
+
+data
+Array
+(
+    [url] => https://app.cassoft.ru/cassoftApp/market/domclickMessager/in/d17d1d15669be52925cf091ae22002d4.php
+)
+
+res
+Array
+(
+    [success] => 1
+    [result] => Array
+        (
+            [url] => https://app.cassoft.ru/cassoftApp/market/domclickMessager/in/d17d1d15669be52925cf091ae22002d4.php
+            [description] => CS domclick
+            [types] => Array
+                (
+                    [0] => new_messages
+                )
+
+            [is_disabled] => 1
+            [created_at] => 2025-01-15T15:50:00.674943
+            [updated_at] => 2025-01-15T16:02:45.452877
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+options
+Array
+(
+    [CONNECTOR] => cs_domclick_connector
+    [LINE] => 10
+    [STATUS] => 1
+    [ACTIVE_STATUS] => 1
+    [CONNECTION_STATUS] => 1
+    [REGISTER_STATUS] => 1
+    [ERROR_STATUS] => 
+)
+
+activate
+Array
+(
+    [0] => 1
+)
+
+resSetupUp
+Array
+(
+    [0] => 1
+)
+

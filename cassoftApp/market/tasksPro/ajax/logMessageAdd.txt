@@ -1,0 +1,66 @@
+---------------------04.02.2025MSK14:58:05
+Array
+(
+    [event] => ONIMCONNECTORMESSAGEADD
+    [event_handler_id] => 482
+    [data] => Array
+        (
+            [CONNECTOR] => cs_mcm_whatsapp
+            [LINE] => 2
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 46
+                                    [message_id] => 522
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 0
+                                    [text] => Добро пожаловать в Открытую линию компании [b]![/b]
+Вам ответит первый освободившийся оператор.
+                                    [params] => Array
+                                        (
+                                            [CLASS] => bx-messenger-content-item-ol-output
+                                        )
+
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 120363040301651218@g.us
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [ts] => 1738670285
+    [auth] => Array
+        (
+            [access_token] => dd0ea26700579b0e0074c1240000000c000006247160a5b49f08c7714d6762fc47e889
+            [expires] => 1738673885
+            [expires_in] => 3600
+            [scope] => crm,im,entity,user,user_basic,user_brief,task,user.userfield,calendar,imbot,imopenlines,messageservice,pull,placement
+            [domain] => app-cassoft.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => S
+            [client_endpoint] => https://app-cassoft.bitrix24.ru/rest/
+            [member_id] => b52a9e034640cdbe192eb721d7288263
+            [user_id] => 12
+            [application_token] => dc2c967827f08ef08cacb34dd3a610d6
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 1
+)
+

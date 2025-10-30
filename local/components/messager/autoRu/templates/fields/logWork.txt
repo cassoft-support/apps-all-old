@@ -1,0 +1,33 @@
+---------------------26.04.2025MSK10:59:49
+Array
+(
+    [DOMAIN] => cassoft.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 57400627ba5888f437e3b69793a77e93
+    [AUTH_ID] => 84a00c6800579b0e0036d58400000001000007695a1b91182a3a50039ada9c0cd1d6b7
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 741f346800579b0e0036d584000000010000073dad5deb8b7e2fcf057098c424550ab7
+    [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [status] => S
+    [PLACEMENT] => USERFIELD_TYPE
+    [PLACEMENT_OPTIONS] => {&quot;MODE&quot;:&quot;view&quot;,&quot;ENTITY_ID&quot;:&quot;CRM_LEAD&quot;,&quot;FIELD_NAME&quot;:&quot;UF_CRM_CS_MCM_FORM&quot;,&quot;ENTITY_VALUE_ID&quot;:&quot;2403&quot;,&quot;VALUE&quot;:null,&quot;MULTIPLE&quot;:&quot;N&quot;,&quot;MANDATORY&quot;:&quot;N&quot;,&quot;XML_ID&quot;:&quot;CS_MCM_FORM&quot;,&quot;ENTITY_DATA&quot;:{&quot;entityTypeId&quot;:1,&quot;entityId&quot;:&quot;2403&quot;,&quot;module&quot;:&quot;crm&quot;}}
+    [app] => mcm
+    [tempList] => work
+    [CACHE_TYPE] => A
+    [~DOMAIN] => cassoft.bitrix24.ru
+    [~PROTOCOL] => 1
+    [~LANG] => ru
+    [~APP_SID] => 57400627ba5888f437e3b69793a77e93
+    [~AUTH_ID] => 84a00c6800579b0e0036d58400000001000007695a1b91182a3a50039ada9c0cd1d6b7
+    [~AUTH_EXPIRES] => 3600
+    [~REFRESH_ID] => 741f346800579b0e0036d584000000010000073dad5deb8b7e2fcf057098c424550ab7
+    [~member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [~status] => S
+    [~PLACEMENT] => USERFIELD_TYPE
+    [~PLACEMENT_OPTIONS] => {"MODE":"view","ENTITY_ID":"CRM_LEAD","FIELD_NAME":"UF_CRM_CS_MCM_FORM","ENTITY_VALUE_ID":"2403","VALUE":null,"MULTIPLE":"N","MANDATORY":"N","XML_ID":"CS_MCM_FORM","ENTITY_DATA":{"entityTypeId":1,"entityId":"2403","module":"crm"}}
+    [~app] => mcm
+    [~tempList] => work
+    [~CACHE_TYPE] => A
+)
+

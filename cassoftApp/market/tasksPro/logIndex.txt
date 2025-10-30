@@ -1,0 +1,16 @@
+---------------------08.09.2025MSK06:00:43
+Array
+(
+    [DOMAIN] => ecoferma56.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 5dcdfe448535d240039e25e82b68a878
+    [AUTH_ID] => ea54be680052d240002bb69000000001201c071e9fceabc0487aed0ae817824075f823
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => dad3e5680052d240002bb69000000001201c071bb6e0ddaf513d000382038fe8fd25d1
+    [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"id":"94"}
+)
+

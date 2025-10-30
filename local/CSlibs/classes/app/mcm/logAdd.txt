@@ -1,0 +1,76 @@
+---------------------22.10.2025MSK09:12:34
+Array
+(
+    [member_id] => 97ec0b40792b93bac6f3d227569d3c64
+    [domain] => https://b24-4uyk7x.bitrix24.ru
+    [type] => Whatsapp
+    [profile_name] => Канал 1
+    [fn] => profileAdd
+)
+
+profile
+Kanal_1
+fileName
+/cassoftApp/market/mcm/in/97ec0b40792b93bac6f3d227569d3c64_Kanal_1.php
+add
+Файл /cassoftApp/market/mcm/in/97ec0b40792b93bac6f3d227569d3c64_Kanal_1.php успешно создан и в него записана информация
+2025-10-22T09:12:38+03:00
+Array
+(
+    [profile_id] => 7b1e945b-bcfe
+    [status] => done
+    [time] => 2025-10-22T09:12:38+03:00
+    [timestamp] => 1761113558
+)
+
+params
+Array
+(
+    [UF_DATE_CREATE] => 1761113558
+    [UF_DATE_CLOSE] => 1763705558
+    [UF_CS_CODE] => zpgbU91m589XVWzL
+    [UF_PROFILE_NAME] => Kanal_1
+    [UF_PROFILE_ID] => 7b1e945b-bcfe
+    [UF_MEMBER_ID] => 97ec0b40792b93bac6f3d227569d3c64
+    [UF_DOMAIN] => https://b24-4uyk7x.bitrix24.ru
+    [UF_ACTIVE] => Y
+    [UF_RESOURCE] => wappi
+    [UF_TYPE] => Whatsapp
+    [UF_NAME] => Канал 1
+)
+
+profileAdd
+66
+2025-10-22T09:12:41+03:00
+Array
+(
+    [0] => authorization_status
+    [1] => incoming_message
+    [2] => delivery_status
+    [3] => outgoing_message_phone
+    [4] => outgoing_message_api
+    [5] => incoming_call
+    [6] => application_status
+)
+
+2025-10-22T09:12:41+03:00
+Array
+(
+    [status] => done
+    [timestamp] => 1761113561
+    [time] => 2025-10-22T09:12:41+03:00
+    [uuid] => 7b1e945b-bcfe
+)
+
+result
+Array
+(
+    [profile_id] => 7b1e945b-bcfe
+    [date_creat] => 1761113558
+    [date_close] => 1763705558
+    [type] => Whatsapp
+    [profile_name] => Kanal_1
+    [cs_code] => zpgbU91m589XVWzL
+    [name] => Канал 1
+)
+

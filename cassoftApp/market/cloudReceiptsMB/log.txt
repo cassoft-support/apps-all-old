@@ -1,0 +1,15 @@
+app
+Array
+(
+    [DOMAIN] => nordcleaning.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => fa2c719edd5d8c3bf00da547ab4a5d16
+    [AUTH_ID] => 4df672640043eea60055a19e00000fc0403807597a10d9733a47036bb405aea5db7e0a
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 3d759a640043eea60055a19e00000fc0403807f366ae40020aa4f2b0e66aded1ca4198
+    [member_id] => 1e1aab0688dc45667e186743770eb63d
+    [status] => P
+    [PLACEMENT] => CRM_DEAL_DETAIL_TAB
+    [PLACEMENT_OPTIONS] => {"ID":"29470"}
+)

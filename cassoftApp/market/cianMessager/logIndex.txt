@@ -1,0 +1,16 @@
+---------------------30.10.2025MSK07:49:39
+Array
+(
+    [DOMAIN] => b24-zna5xh.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => 90de58cd1a8423368ff0d97a5e76502e
+    [AUTH_ID] => 73fc026900580e62007d6e700000000b403807a4f1c26841dc07fbf32a2ff4651c99cc
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 637b2a6900580e62007d6e700000000b40380784184841a55982b0817c60fd26e7c100
+    [member_id] => 31b0811c635106a3c586a82be5b718a4
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"3\/"}
+)
+

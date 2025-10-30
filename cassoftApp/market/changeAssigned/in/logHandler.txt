@@ -1,0 +1,84 @@
+---------------------17.01.2025MSK09:14:03
+Array
+(
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chat_id] => 6789f34122768200017a1ca5
+                    [agent_id] => 3886668
+                    [offer_id] => 2062603805
+                )
+
+        )
+
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6789f52b22768200017a1dd8
+                    [message] => trtrrtrt
+                    [time] => 1737094443059
+                    [user_id] => 34185
+                    [chat_id] => 6789f34122768200017a1ca5
+                    [message_type] => message
+                    [system_message_action] => 
+                    [read_by] => 
+                    [source] => ui
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 34185
+                    [display_name] => Андрей
+                    [roles] => Array
+                        (
+                            [0] => BUYER
+                        )
+
+                    [role_description] => Покупатель
+                )
+
+            [1] => Array
+                (
+                    [user_id] => 3886668
+                    [display_name] => Анна Михайловская
+                    [roles] => Array
+                        (
+                            [0] => SELLER
+                        )
+
+                    [role_description] => Продавец
+                )
+
+        )
+
+    [offers] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2062603805
+                    [external_id] => 858
+                    [title] => Дом, 120.0 м², 10.0 сот.
+                    [address] => Россия, Южно-Сахалинск, с. Новая Деревня
+                    [url] => https://domclick.ru/card/sale__house__2062603805
+                    [img_url] => https://img.dmclk.ru/c100x100/vitrina/5a/24/5a246b1bee6afc3850aa99121f4008a9e2a13c12.jpg
+                    [price] => 9700000
+                )
+
+        )
+
+)
+
+memberId
+d17d1d15669be52925cf091ae22002d4
+rest
+Array
+(
+    [ID] => 33
+)
+

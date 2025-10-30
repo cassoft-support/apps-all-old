@@ -1,0 +1,17 @@
+---------------------20.07.2024MSK18:21:45------------------
+REQUEST
+Array
+(
+    [DOMAIN] => beregone.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d5e721cb79003026ebc0183fb6aab2a1
+    [AUTH_ID] => 18e49b66005567d6006edb080000000b00000760543c5ac9cc067ccd0eb8364ef1c985
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 0863c366005567d6006edb080000000b0000074f99780ba8903ef66cb0bf1819aaf439
+    [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+    [status] => F
+    [PLACEMENT] => USERFIELD_TYPE
+    [PLACEMENT_OPTIONS] => {"MODE":"edit","ENTITY_ID":"CRM_9","FIELD_NAME":"UF_CRM_9_CS_SCAN_DOC_FORM","ENTITY_VALUE_ID":"3","VALUE":null,"MULTIPLE":"N","MANDATORY":"N","XML_ID":"CS_SCAN_DOC_FORM"}
+)
+

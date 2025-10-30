@@ -1,0 +1,1 @@
+export { default } from "file:///var/www/www-root/data/www/app.cassoft.ru/cs-app/mcm/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

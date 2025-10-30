@@ -1,0 +1,5 @@
+deleteArray
+(
+    [id] => 800
+    [UserAutC] => {"access_tokenReq":"bff00163005d4456005a33fe0000000800000758aa4d527dd47a3d6721e50d10815720","client_endpointReq":"https:\/\/brokci.bitrix24.ru\/rest\/","application_tokenReq":"18759fac77383094f6e6b9240b921047","member_idReq":"350f96d46411bd6439bd5372cd90fec3","domenReq":"brokci.bitrix24.ru","refresh_tokenReq":"7f1f2863005d4456005a33fe00000008000007f21be3542a04ce59fa588402c8d4ff66","adm_access_token":"8fa00063005d4456005a33fe00000008000007259d177f25d68a533c7944576453b9ff"}
+)

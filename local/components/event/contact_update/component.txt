@@ -1,0 +1,31 @@
+30.10.2025MSK10:53
+Array
+(
+    [event] => ONCRMCONTACTUPDATE
+    [event_handler_id] => 119
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 31521
+                )
+
+        )
+
+    [ts] => 1761810820
+    [auth] => Array
+        (
+            [access_token] => 95270369005d64e6003681b800000074000006692f736263f2730ab20bbe16656b9b5a
+            [expires] => 1761814421
+            [expires_in] => 3600
+            [scope] => user_brief,crm,entity
+            [domain] => portal.center-dpo.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://portal.center-dpo.ru/rest/
+            [member_id] => 30dc8f05dc46a5cce6f6b44abaf8262e
+            [user_id] => 116
+            [application_token] => 2450fc02881f82cd2c21b8c51b96d250
+        )
+
+)

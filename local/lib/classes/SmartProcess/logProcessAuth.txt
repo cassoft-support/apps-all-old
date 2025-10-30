@@ -1,0 +1,1476 @@
+300000
+smartArray
+(
+    [id] => 466
+    [xmlId] => 
+    [title] => Эксп.№518/ Доставка груза г Санкт-Петербург - г Москва (молоко)
+    [createdBy] => 1
+    [updatedBy] => 22
+    [movedBy] => 22
+    [createdTime] => 2024-04-02T07:21:40+03:00
+    [updatedTime] => 2024-04-02T07:51:09+03:00
+    [movedTime] => 2024-04-02T07:51:09+03:00
+    [categoryId] => 34
+    [opened] => N
+    [stageId] => DT130_34:NEW
+    [previousStageId] => DT130_34:PERFORMER
+    [begindate] => 2024-04-02T03:00:00+03:00
+    [closedate] => 2024-04-09T03:00:00+03:00
+    [companyId] => 0
+    [contactId] => 470
+    [opportunity] => 2000
+    [isManualOpportunity] => Y
+    [taxValue] => 0
+    [currencyId] => RUB
+    [mycompanyId] => 6
+    [sourceId] => CALL
+    [sourceDescription] => 
+    [webformId] => 0
+    [ufCrm18CsClientPay] => 
+    [ufCrm18CsClient] => 14
+    [ufCrm18CsProviderPay] => 338
+    [ufCrm18CsDateLoading] => 
+    [ufCrm18CsDateUnloading] => 
+    [ufCrm18CsNumber] => 
+    [ufCrm18CsNameDoc] => 
+    [ufCrm18CsProviderContactForm] => 
+    [ufCrm18CsDateChange] => 1712033308
+    [ufCrm18CsClientDateDoc] => 
+    [ufCrm18CsDrivers] => Array
+        (
+            [0] => 496
+        )
+
+    [ufCrm18CsComment] => 
+    [ufCrm18CsProvider] => C_470
+    [ufCrm_18_CS_1C_UNLOAD] => Y
+    [ufCrm18CsCar] => 2848
+    [ufCrm18CsMycompanyPay] => 
+    [ufCrm18CsMessageChannel] => 
+    [ufCrm18CsDateCheck] => 02.04.2024MSK07:48:26
+    [ufCrm18CsDateCheckReq] => 
+    [ufCrm18CsDatePlanLoading] => 2024-04-10T07:26:00+03:00
+    [ufCrm18CsDatePlanUnloading] => 2024-04-10T07:26:00+03:00
+    [ufCrm18CsVat] => 
+    [ufCrm18CsTypeDt] => BDO
+    [ufCrm18CsTypeDoc] => ACT
+    [ufCrm18CsTypeDog] => DOC_ONE
+    [ufCrm18CsTypePay] => CASH_PAY
+    [ufCrm18CsPrepayment] => 
+    [ufCrm18CsPostponement] => 
+    [ufCrm18CsWorkday] => 
+    [ufCrm18CsDatePlanLoadingTo] => 2024-04-09T07:26:00+03:00
+    [ufCrm18CsDatePlanUnloadingTo] => 2024-04-09T07:26:00+03:00
+    [ufCrm18CsIdDoc] => 
+    [ufCrm18CsProviderType] => individual
+    [ufCrm18CsProviderContact] => 496
+    [ufCrm18CsCardOwner] => 
+    [ufCrm18CsCardNumber] => 
+    [ufCrm18CsConditionsPay] => BEFORE
+    [ufCrm18CsTemplateClient] => N
+    [ufCrm18CsTemplateInternational] => N
+    [ufCrm18CsActive] => N
+    [ufCrm18CsCopy] => 
+    [ufCrm18CsScanDoc] => Array
+        (
+        )
+
+    [assignedById] => 22
+    [lastActivityBy] => 1
+    [lastActivityTime] => 2024-04-02T07:48:28+03:00
+    [parentId2] => 518
+    [parentId146] => 472
+    [parentId155] => 
+    [parentId157] => 
+    [parentId162] => 
+    [parentId176] => 
+    [utmSource] => 
+    [utmMedium] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [observers] => Array
+        (
+            [0] => 22
+        )
+
+    [contactIds] => Array
+        (
+            [0] => 470
+        )
+
+    [entityTypeId] => 130
+)
+
+individualArray
+(
+    [ID] => 470
+    [POST] => 
+    [COMMENTS] => 
+    [HONORIFIC] => 
+    [NAME] => Кирилл
+    [SECOND_NAME] => Кириллович
+    [LAST_NAME] => Кириллов
+    [PHOTO] => 
+    [LEAD_ID] => 
+    [TYPE_ID] => CS_PROVIDER
+    [SOURCE_ID] => 
+    [SOURCE_DESCRIPTION] => 
+    [COMPANY_ID] => 
+    [BIRTHDATE] => 1998-02-02T03:00:00+03:00
+    [EXPORT] => N
+    [HAS_PHONE] => Y
+    [HAS_EMAIL] => N
+    [HAS_IMOL] => N
+    [DATE_CREATE] => 2024-03-26T13:41:26+03:00
+    [DATE_MODIFY] => 2024-03-26T13:41:26+03:00
+    [ASSIGNED_BY_ID] => 22
+    [CREATED_BY_ID] => 22
+    [MODIFY_BY_ID] => 22
+    [OPENED] => N
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [ORIGIN_VERSION] => 
+    [FACE_ID] => 
+    [LAST_ACTIVITY_TIME] => 2024-03-26T13:41:25+03:00
+    [ADDRESS] => 
+    [ADDRESS_2] => 
+    [ADDRESS_CITY] => 
+    [ADDRESS_POSTAL_CODE] => 
+    [ADDRESS_REGION] => 
+    [ADDRESS_PROVINCE] => 
+    [ADDRESS_COUNTRY] => 
+    [ADDRESS_LOC_ADDR_ID] => 
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [PARENT_ID_129] => 
+    [PARENT_ID_130] => 
+    [PARENT_ID_155] => 
+    [PARENT_ID_162] => 
+    [PARENT_ID_176] => 
+    [PARENT_ID_191] => 
+    [LAST_ACTIVITY_BY] => 22
+    [UF_CRM_CONTACT_3834244795900] => 
+    [UF_CRM_655AF449D4355] => 
+    [UF_CRM_CS_MESSAGE_CHANNEL] => 
+    [UF_CRM_CS_DRIVER] => 0
+    [UF_CRM_CS_DATE_CHECK] => 
+    [UF_CRM_CS_1C_UNLOAD] => 0
+    [UF_CRM_6578326B688FF] => 
+    [UF_CRM_CS_SCAN_DOC] => 
+    [UF_CRM_CS_NEGATIVE_CHECK] => 
+    [UF_CRM_CS_MAIN_CONTACT] => 456
+    [UF_CRM_1708957400843] => 
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 712
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => +7 (953) 465-32-45
+                    [TYPE_ID] => PHONE
+                )
+
+        )
+
+)
+parentSmart - parentId146
+paramSmartArray
+(
+    [entityTypeId] => 146
+    [fields] => Array
+        (
+            [title] => Проверка физ. лица Кирилл Кириллович Кириллов/ №470
+            [parentId2] => 518
+            [parentId130] => 466
+            [parentId7] => 470
+            [companyId] => 0
+            [contactId] => 470
+            [assignedById] => 12
+            [categoryId] => 48
+            [ufCrm24CsCar] => 2848
+            [ufCrm24CsDrivers] => Array
+                (
+                    [0] => 496
+                )
+
+            [ufCrm24CsLimit] => 300000|RUB
+            [opportunity] => 300000
+            [ufCrm24CsProviderCheck] => 
+            [ufCrm24CsProviderDateCheck] => 
+            [ufCrm24CsCarCheck] => 
+            [ufCrm24CsCarDateCheck] => 
+            [ufCrm24CsDriverCheckOne] => N
+            [ufCrm24CsDriverDateCheckOne] => 
+            [ufCrm24CsDriverCheckTwo] => N
+            [ufCrm24CsDriverDateCheckTwo] => 
+            [ufCrm'.24.'CsDrivers] => Array
+                (
+                    [0] => 496
+                )
+
+            [ufCrm'.24.'CsDriversDateCheckOn] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+)
+
+individualUp
+Array
+(
+    [0] => 1
+)
+
+smartUp
+Array
+(
+    [item] => Array
+        (
+            [id] => 466
+            [xmlId] => 
+            [title] => Эксп.№518/ Доставка груза г Санкт-Петербург - г Москва (молоко)
+            [createdBy] => 1
+            [updatedBy] => 1
+            [movedBy] => 1
+            [createdTime] => 2024-04-02T07:21:40+03:00
+            [updatedTime] => 2024-04-02T07:51:12+03:00
+            [movedTime] => 2024-04-02T07:51:10+03:00
+            [categoryId] => 34
+            [opened] => N
+            [stageId] => DT130_34:PERFORMER
+            [previousStageId] => DT130_34:NEW
+            [begindate] => 2024-04-02T03:00:00+03:00
+            [closedate] => 2024-04-09T03:00:00+03:00
+            [companyId] => 0
+            [contactId] => 470
+            [opportunity] => 2000
+            [isManualOpportunity] => Y
+            [taxValue] => 0
+            [currencyId] => RUB
+            [mycompanyId] => 6
+            [sourceId] => CALL
+            [sourceDescription] => 
+            [webformId] => 0
+            [ufCrm18CsClientPay] => 
+            [ufCrm18CsClient] => 14
+            [ufCrm18CsProviderPay] => 338
+            [ufCrm18CsDateLoading] => 
+            [ufCrm18CsDateUnloading] => 
+            [ufCrm18CsNumber] => 
+            [ufCrm18CsNameDoc] => 
+            [ufCrm18CsProviderContactForm] => 
+            [ufCrm18CsDateChange] => 1712033470
+            [ufCrm18CsClientDateDoc] => 
+            [ufCrm18CsDrivers] => Array
+                (
+                    [0] => 496
+                )
+
+            [ufCrm18CsComment] => 
+            [ufCrm18CsProvider] => C_470
+            [ufCrm_18_CS_1C_UNLOAD] => Y
+            [ufCrm18CsCar] => 2848
+            [ufCrm18CsMycompanyPay] => 
+            [ufCrm18CsMessageChannel] => 
+            [ufCrm18CsDateCheck] => 02.04.2024MSK07:48:26
+            [ufCrm18CsDateCheckReq] => 
+            [ufCrm18CsDatePlanLoading] => 2024-04-10T07:26:00+03:00
+            [ufCrm18CsDatePlanUnloading] => 2024-04-10T07:26:00+03:00
+            [ufCrm18CsVat] => 
+            [ufCrm18CsTypeDt] => BDO
+            [ufCrm18CsTypeDoc] => ACT
+            [ufCrm18CsTypeDog] => DOC_ONE
+            [ufCrm18CsTypePay] => CASH_PAY
+            [ufCrm18CsPrepayment] => 
+            [ufCrm18CsPostponement] => 
+            [ufCrm18CsWorkday] => 
+            [ufCrm18CsDatePlanLoadingTo] => 2024-04-09T07:26:00+03:00
+            [ufCrm18CsDatePlanUnloadingTo] => 2024-04-09T07:26:00+03:00
+            [ufCrm18CsIdDoc] => 
+            [ufCrm18CsProviderType] => individual
+            [ufCrm18CsProviderContact] => 496
+            [ufCrm18CsCardOwner] => 
+            [ufCrm18CsCardNumber] => 
+            [ufCrm18CsConditionsPay] => BEFORE
+            [ufCrm18CsTemplateClient] => N
+            [ufCrm18CsTemplateInternational] => N
+            [ufCrm18CsActive] => N
+            [ufCrm18CsCopy] => 
+            [ufCrm18CsScanDoc] => Array
+                (
+                )
+
+            [assignedById] => 22
+            [lastActivityBy] => 1
+            [lastActivityTime] => 2024-04-02T07:51:11+03:00
+            [parentId2] => 518
+            [parentId146] => 474
+            [parentId155] => 
+            [parentId157] => 
+            [parentId162] => 
+            [parentId176] => 
+            [utmSource] => 
+            [utmMedium] => 
+            [utmCampaign] => 
+            [utmContent] => 
+            [utmTerm] => 
+            [observers] => Array
+                (
+                    [0] => 22
+                )
+
+            [contactIds] => Array
+                (
+                    [0] => 470
+                )
+
+            [entityTypeId] => 130
+        )
+
+)
+
+entityTypeId
+130
+id
+466
+params
+Array
+(
+    [parentId146] => 474
+)
+Array
+(
+    [ufCrm130CsDateChange] => 1712033472
+)
+testItem
+Array
+(
+    [item] => Array
+        (
+            [id] => 466
+            [xmlId] => 
+            [title] => Эксп.№518/ Доставка груза г Санкт-Петербург - г Москва (молоко)
+            [createdBy] => 1
+            [updatedBy] => 1
+            [movedBy] => 1
+            [createdTime] => 2024-04-02T07:21:40+03:00
+            [updatedTime] => 2024-04-02T07:51:12+03:00
+            [movedTime] => 2024-04-02T07:51:10+03:00
+            [categoryId] => 34
+            [opened] => N
+            [stageId] => DT130_34:PERFORMER
+            [previousStageId] => DT130_34:NEW
+            [begindate] => 2024-04-02T03:00:00+03:00
+            [closedate] => 2024-04-09T03:00:00+03:00
+            [companyId] => 0
+            [contactId] => 470
+            [opportunity] => 2000
+            [isManualOpportunity] => Y
+            [taxValue] => 0
+            [currencyId] => RUB
+            [mycompanyId] => 6
+            [sourceId] => CALL
+            [sourceDescription] => 
+            [webformId] => 0
+            [ufCrm18CsClientPay] => 
+            [ufCrm18CsClient] => 14
+            [ufCrm18CsProviderPay] => 338
+            [ufCrm18CsDateLoading] => 
+            [ufCrm18CsDateUnloading] => 
+            [ufCrm18CsNumber] => 
+            [ufCrm18CsNameDoc] => 
+            [ufCrm18CsProviderContactForm] => 
+            [ufCrm18CsDateChange] => 1712033470
+            [ufCrm18CsClientDateDoc] => 
+            [ufCrm18CsDrivers] => Array
+                (
+                    [0] => 496
+                )
+
+            [ufCrm18CsComment] => 
+            [ufCrm18CsProvider] => C_470
+            [ufCrm_18_CS_1C_UNLOAD] => Y
+            [ufCrm18CsCar] => 2848
+            [ufCrm18CsMycompanyPay] => 
+            [ufCrm18CsMessageChannel] => 
+            [ufCrm18CsDateCheck] => 02.04.2024MSK07:48:26
+            [ufCrm18CsDateCheckReq] => 
+            [ufCrm18CsDatePlanLoading] => 2024-04-10T07:26:00+03:00
+            [ufCrm18CsDatePlanUnloading] => 2024-04-10T07:26:00+03:00
+            [ufCrm18CsVat] => 
+            [ufCrm18CsTypeDt] => BDO
+            [ufCrm18CsTypeDoc] => ACT
+            [ufCrm18CsTypeDog] => DOC_ONE
+            [ufCrm18CsTypePay] => CASH_PAY
+            [ufCrm18CsPrepayment] => 
+            [ufCrm18CsPostponement] => 
+            [ufCrm18CsWorkday] => 
+            [ufCrm18CsDatePlanLoadingTo] => 2024-04-09T07:26:00+03:00
+            [ufCrm18CsDatePlanUnloadingTo] => 2024-04-09T07:26:00+03:00
+            [ufCrm18CsIdDoc] => 
+            [ufCrm18CsProviderType] => individual
+            [ufCrm18CsProviderContact] => 496
+            [ufCrm18CsCardOwner] => 
+            [ufCrm18CsCardNumber] => 
+            [ufCrm18CsConditionsPay] => BEFORE
+            [ufCrm18CsTemplateClient] => N
+            [ufCrm18CsTemplateInternational] => N
+            [ufCrm18CsActive] => N
+            [ufCrm18CsCopy] => 
+            [ufCrm18CsScanDoc] => Array
+                (
+                )
+
+            [assignedById] => 22
+            [lastActivityBy] => 1
+            [lastActivityTime] => 2024-04-02T07:51:12+03:00
+            [parentId2] => 518
+            [parentId146] => 474
+            [parentId155] => 
+            [parentId157] => 
+            [parentId162] => 
+            [parentId176] => 
+            [utmSource] => 
+            [utmMedium] => 
+            [utmCampaign] => 
+            [utmContent] => 
+            [utmTerm] => 
+            [observers] => Array
+                (
+                    [0] => 22
+                )
+
+            [contactIds] => Array
+                (
+                    [0] => 470
+                )
+
+            [entityTypeId] => 130
+        )
+
+)
+300000Array
+(
+    [entityTypeId] => 146
+    [fields] => Array
+        (
+            [title] => Проверка компании САЙГАК ООО/ №400
+            [parentId2] => 520
+            [parentId130] => 468
+            [parentId7] => 400
+            [companyId] => 400
+            [contactId] => 0
+            [assignedById] => 12
+            [categoryId] => 48
+            [ufCrm24CsCar] => 2702
+            [ufCrm24CsDrivers] => Array
+                (
+                    [0] => 492
+                )
+
+            [ufCrm24CsLimit] => 300000|RUB
+            [opportunity] => 300000
+            [ufCrm24CsProviderCheck] => Y
+            [ufCrm24CsProviderDateCheck] => 29.03.2024MSK23:51:33
+            [ufCrm24CsCarCheck] => Y
+            [ufCrm24CsCarDateCheck] => 29.03.2024MSK23:51:30
+            [ufCrm24CsDriverCheckOne] => N
+            [ufCrm24CsDriverDateCheckOne] => 
+            [ufCrm24CsDriverCheckTwo] => N
+            [ufCrm24CsDriverDateCheckTwo] => 
+            [ufCrm'.24.'CsDrivers] => Array
+                (
+                    [0] => 492
+                )
+
+            [ufCrm'.24.'CsDriversDateCheckOn] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+)
+Array
+(
+    [ufCrm130CsDateChange] => 1712210666
+)
+Array
+(
+    [item] => Array
+        (
+            [id] => 468
+            [xmlId] => 
+            [title] => Эксп.№468/Доставка груза г Санкт-Петербург - г Москва (молоко) (копия экспедирования №466)
+            [createdBy] => 1
+            [updatedBy] => 1
+            [movedBy] => 1
+            [createdTime] => 2024-04-02T07:37:19+03:00
+            [updatedTime] => 2024-04-04T09:04:26+03:00
+            [movedTime] => 2024-04-04T09:04:23+03:00
+            [categoryId] => 34
+            [opened] => N
+            [stageId] => DT130_34:PERFORMER
+            [previousStageId] => DT130_34:NEW
+            [begindate] => 2024-04-02T03:00:00+03:00
+            [closedate] => 2024-04-09T03:00:00+03:00
+            [companyId] => 400
+            [contactId] => 0
+            [opportunity] => 2000
+            [isManualOpportunity] => Y
+            [taxValue] => 0
+            [currencyId] => RUB
+            [mycompanyId] => 6
+            [sourceId] => CALL
+            [sourceDescription] => 
+            [webformId] => 0
+            [ufCrm18CsClientPay] => 
+            [ufCrm18CsClient] => 14
+            [ufCrm18CsProviderPay] => 316
+            [ufCrm18CsDateLoading] => 
+            [ufCrm18CsDateUnloading] => 
+            [ufCrm18CsNumber] => 
+            [ufCrm18CsNameDoc] => 
+            [ufCrm18CsProviderContactForm] => 
+            [ufCrm18CsDateChange] => 1712210663
+            [ufCrm18CsClientDateDoc] => 
+            [ufCrm18CsDrivers] => Array
+                (
+                    [0] => 492
+                )
+
+            [ufCrm18CsComment] => 
+            [ufCrm18CsProvider] => CO_400
+            [ufCrm_18_CS_1C_UNLOAD] => Y
+            [ufCrm18CsCar] => 2702
+            [ufCrm18CsMycompanyPay] => 
+            [ufCrm18CsMessageChannel] => 0
+            [ufCrm18CsDateCheck] => 
+            [ufCrm18CsDateCheckReq] => 
+            [ufCrm18CsDatePlanLoading] => 
+            [ufCrm18CsDatePlanUnloading] => 
+            [ufCrm18CsVat] => 
+            [ufCrm18CsTypeDt] => BDO
+            [ufCrm18CsTypeDoc] => ACT
+            [ufCrm18CsTypeDog] => DOC_ONE
+            [ufCrm18CsTypePay] => CASH_PAY
+            [ufCrm18CsPrepayment] => 
+            [ufCrm18CsPostponement] => 
+            [ufCrm18CsWorkday] => 
+            [ufCrm18CsDatePlanLoadingTo] => 
+            [ufCrm18CsDatePlanUnloadingTo] => 
+            [ufCrm18CsIdDoc] => 
+            [ufCrm18CsProviderType] => company
+            [ufCrm18CsProviderContact] => 454
+            [ufCrm18CsCardOwner] => 
+            [ufCrm18CsCardNumber] => 
+            [ufCrm18CsConditionsPay] => BEFORE
+            [ufCrm18CsTemplateClient] => N
+            [ufCrm18CsTemplateInternational] => N
+            [ufCrm18CsActive] => Y
+            [ufCrm18CsCopy] => 466
+            [ufCrm18CsScanDoc] => Array
+                (
+                )
+
+            [assignedById] => 1
+            [lastActivityBy] => 1
+            [lastActivityTime] => 2024-04-02T07:37:19+03:00
+            [parentId2] => 520
+            [parentId146] => 476
+            [parentId155] => 
+            [parentId157] => 
+            [parentId162] => 
+            [parentId176] => 
+            [utmSource] => 
+            [utmMedium] => 
+            [utmCampaign] => 
+            [utmContent] => 
+            [utmTerm] => 
+            [observers] => Array
+                (
+                )
+
+            [contactIds] => Array
+                (
+                )
+
+            [entityTypeId] => 130
+        )
+
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712210741
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712210755
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712210768
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712211028
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712211171
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712211173
+)
+Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+52606Array
+(
+    [ufCrm8CsDateChange] => 1712212606
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712213303
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712213323
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712213326
+)
+Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+52608Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+42610Array
+(
+    [ufCrm18CsDateChange] => 1712213659
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712213686
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712213688
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712213690
+)
+Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+52612Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+42Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+44614616Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+48618Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+48620Array
+(
+    [ufCrm18CsDateChange] => 1712304033
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712304061
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712304064
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712304069
+)
+Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+98622Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+42624Array
+(
+    [ufCrm18CsDateChange] => 1712306977
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712307075
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712307077
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712307081
+)
+Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+52626Генерация договораГенерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+42Array
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+44628630Array
+(
+    [ufCrm18CsDateChange] => 1712307356
+)
+300000Array
+(
+    [entityTypeId] => 146
+    [fields] => Array
+        (
+            [title] => Проверка компании ООО "Перевозкин1"/ №48
+            [parentId2] => 528
+            [parentId130] => 476
+            [parentId7] => 48
+            [companyId] => 48
+            [contactId] => 0
+            [assignedById] => 12
+            [categoryId] => 48
+            [ufCrm24CsCar] => 1670
+            [ufCrm24CsDrivers] => Array
+                (
+                    [0] => 48
+                )
+
+            [ufCrm24CsLimit] => 300000|RUB
+            [opportunity] => 300000
+            [isManualOpportunity] => Y
+            [ufCrm24CsProviderCheck] => Y
+            [ufCrm24CsProviderDateCheck] => 19.12.2023
+            [ufCrm24CsCarCheck] => 
+            [ufCrm24CsCarDateCheck] => 
+            [ufCrm24CsDriverCheckOne] => N
+            [ufCrm24CsDriverDateCheckOne] => 
+            [ufCrm24CsDriverCheckTwo] => N
+            [ufCrm24CsDriverDateCheckTwo] => 
+            [ufCrm'.24.'CsDrivers] => Array
+                (
+                    [0] => 48
+                )
+
+            [ufCrm'.24.'CsDriversDateCheckOn] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+)
+Array
+(
+    [ufCrm130CsDateChange] => 1712307448
+)
+Array
+(
+    [item] => Array
+        (
+            [id] => 476
+            [xmlId] => 
+            [title] => Эксп.№528/ Доставка груза г Рудня - г Бодайбо (Мусор)
+            [createdBy] => 1
+            [updatedBy] => 1
+            [movedBy] => 1
+            [createdTime] => 2024-04-05T11:55:18+03:00
+            [updatedTime] => 2024-04-05T11:57:28+03:00
+            [movedTime] => 2024-04-05T11:57:26+03:00
+            [categoryId] => 34
+            [opened] => N
+            [stageId] => DT130_34:PERFORMER
+            [previousStageId] => DT130_34:NEW
+            [begindate] => 2024-04-05T03:00:00+03:00
+            [closedate] => 2024-04-12T03:00:00+03:00
+            [companyId] => 48
+            [contactId] => 0
+            [opportunity] => 44
+            [isManualOpportunity] => Y
+            [taxValue] => 0
+            [currencyId] => RUB
+            [mycompanyId] => 6
+            [sourceId] => CALL
+            [sourceDescription] => 
+            [webformId] => 0
+            [ufCrm18CsClientPay] => 
+            [ufCrm18CsClient] => 412
+            [ufCrm18CsProviderPay] => 42
+            [ufCrm18CsDateLoading] => 
+            [ufCrm18CsDateUnloading] => 
+            [ufCrm18CsNumber] => 
+            [ufCrm18CsNameDoc] => 
+            [ufCrm18CsProviderContactForm] => 
+            [ufCrm18CsDateChange] => 1712307445
+            [ufCrm18CsClientDateDoc] => 
+            [ufCrm18CsDrivers] => Array
+                (
+                    [0] => 48
+                )
+
+            [ufCrm18CsComment] => 
+            [ufCrm18CsProvider] => CO_48
+            [ufCrm_18_CS_1C_UNLOAD] => Y
+            [ufCrm18CsCar] => 1670
+            [ufCrm18CsMycompanyPay] => 
+            [ufCrm18CsMessageChannel] => 
+            [ufCrm18CsDateCheck] => 
+            [ufCrm18CsDateCheckReq] => 
+            [ufCrm18CsDatePlanLoading] => 2024-04-05T11:58:00+03:00
+            [ufCrm18CsDatePlanUnloading] => 2024-04-05T11:58:00+03:00
+            [ufCrm18CsVat] => NOVAT
+            [ufCrm18CsTypeDt] => BDO
+            [ufCrm18CsTypeDoc] => ACT
+            [ufCrm18CsTypeDog] => DOC_ONE
+            [ufCrm18CsTypePay] => BANK_PAY
+            [ufCrm18CsPrepayment] => 
+            [ufCrm18CsPostponement] => 4
+            [ufCrm18CsWorkday] => C
+            [ufCrm18CsDatePlanLoadingTo] => 2024-04-05T11:58:00+03:00
+            [ufCrm18CsDatePlanUnloadingTo] => 2024-04-05T11:58:00+03:00
+            [ufCrm18CsIdDoc] => 
+            [ufCrm18CsProviderType] => company
+            [ufCrm18CsProviderContact] => 50
+            [ufCrm18CsCardOwner] => 
+            [ufCrm18CsCardNumber] => 
+            [ufCrm18CsConditionsPay] => AFTER
+            [ufCrm18CsTemplateClient] => N
+            [ufCrm18CsTemplateInternational] => N
+            [ufCrm18CsActive] => N
+            [ufCrm18CsCopy] => 
+            [ufCrm18CsScanDoc] => Array
+                (
+                )
+
+            [assignedById] => 12
+            [lastActivityBy] => 1
+            [lastActivityTime] => 2024-04-05T11:57:26+03:00
+            [parentId2] => 528
+            [parentId146] => 480
+            [parentId155] => 
+            [parentId157] => 
+            [parentId162] => 
+            [parentId176] => 
+            [utmSource] => 
+            [utmMedium] => 
+            [utmCampaign] => 
+            [utmContent] => 
+            [utmTerm] => 
+            [observers] => Array
+                (
+                    [0] => 12
+                )
+
+            [contactIds] => Array
+                (
+                )
+
+            [entityTypeId] => 130
+        )
+
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712307499
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712307542
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712497908
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712497924
+)
+300000Array
+(
+    [entityTypeId] => 146
+    [fields] => Array
+        (
+            [title] => Проверка компании ЧИХ-ПЫХ ООО/ №416
+            [parentId2] => 530
+            [parentId130] => 478
+            [parentId7] => 416
+            [companyId] => 416
+            [contactId] => 0
+            [assignedById] => 12
+            [categoryId] => 48
+            [ufCrm24CsCar] => 2880
+            [ufCrm24CsDrivers] => Array
+                (
+                    [0] => 500
+                )
+
+            [ufCrm24CsLimit] => 300000|RUB
+            [opportunity] => 300000
+            [isManualOpportunity] => Y
+            [ufCrm24CsProviderCheck] => 
+            [ufCrm24CsProviderDateCheck] => 
+            [ufCrm24CsCarCheck] => 
+            [ufCrm24CsCarDateCheck] => 
+            [ufCrm24CsDriverCheckOne] => N
+            [ufCrm24CsDriverDateCheckOne] => 
+            [ufCrm24CsDriverCheckTwo] => N
+            [ufCrm24CsDriverDateCheckTwo] => 
+            [ufCrm'.24.'CsDrivers] => Array
+                (
+                    [0] => 500
+                )
+
+            [ufCrm'.24.'CsDriversDateCheckOn] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+)
+Array
+(
+    [ufCrm130CsDateChange] => 1712497970
+)
+Array
+(
+    [item] => Array
+        (
+            [id] => 478
+            [xmlId] => 
+            [title] => Эксп.№530/ Доставка груза г Москва - г Тула (ывавп)
+            [createdBy] => 1
+            [updatedBy] => 1
+            [movedBy] => 1
+            [createdTime] => 2024-04-07T16:42:25+03:00
+            [updatedTime] => 2024-04-07T16:52:49+03:00
+            [movedTime] => 2024-04-07T16:52:48+03:00
+            [categoryId] => 34
+            [opened] => N
+            [stageId] => DT130_34:PERFORMER
+            [previousStageId] => DT130_34:NEW
+            [begindate] => 2024-04-07T03:00:00+03:00
+            [closedate] => 2024-04-14T03:00:00+03:00
+            [companyId] => 416
+            [contactId] => 0
+            [opportunity] => 2344
+            [isManualOpportunity] => Y
+            [taxValue] => 0
+            [currencyId] => RUB
+            [mycompanyId] => 6
+            [sourceId] => CALL
+            [sourceDescription] => 
+            [webformId] => 0
+            [ufCrm18CsClientPay] => 
+            [ufCrm18CsClient] => 414
+            [ufCrm18CsProviderPay] => 370
+            [ufCrm18CsDateLoading] => 
+            [ufCrm18CsDateUnloading] => 
+            [ufCrm18CsNumber] => 
+            [ufCrm18CsNameDoc] => 
+            [ufCrm18CsProviderContactForm] => 
+            [ufCrm18CsDateChange] => 1712497967
+            [ufCrm18CsClientDateDoc] => 
+            [ufCrm18CsDrivers] => Array
+                (
+                    [0] => 500
+                )
+
+            [ufCrm18CsComment] => 
+            [ufCrm18CsProvider] => CO_416
+            [ufCrm_18_CS_1C_UNLOAD] => Y
+            [ufCrm18CsCar] => 2880
+            [ufCrm18CsMycompanyPay] => 
+            [ufCrm18CsMessageChannel] => 
+            [ufCrm18CsDateCheck] => 
+            [ufCrm18CsDateCheckReq] => 
+            [ufCrm18CsDatePlanLoading] => 2024-04-08T16:52:00+03:00
+            [ufCrm18CsDatePlanUnloading] => 2024-04-17T16:52:00+03:00
+            [ufCrm18CsVat] => VAT0
+            [ufCrm18CsTypeDt] => EDO
+            [ufCrm18CsTypeDoc] => UFD
+            [ufCrm18CsTypeDog] => DOC_LONG
+            [ufCrm18CsTypePay] => BANK_PAY
+            [ufCrm18CsPrepayment] => 
+            [ufCrm18CsPostponement] => 
+            [ufCrm18CsWorkday] => 
+            [ufCrm18CsDatePlanLoadingTo] => 
+            [ufCrm18CsDatePlanUnloadingTo] => 
+            [ufCrm18CsIdDoc] => 
+            [ufCrm18CsProviderType] => company
+            [ufCrm18CsProviderContact] => 500
+            [ufCrm18CsCardOwner] => 
+            [ufCrm18CsCardNumber] => 
+            [ufCrm18CsConditionsPay] => BEFORE_LOAD
+            [ufCrm18CsTemplateClient] => N
+            [ufCrm18CsTemplateInternational] => N
+            [ufCrm18CsActive] => N
+            [ufCrm18CsCopy] => 
+            [ufCrm18CsScanDoc] => Array
+                (
+                )
+
+            [assignedById] => 8
+            [lastActivityBy] => 1
+            [lastActivityTime] => 2024-04-07T16:52:48+03:00
+            [parentId2] => 530
+            [parentId146] => 482
+            [parentId155] => 
+            [parentId157] => 
+            [parentId162] => 
+            [parentId176] => 
+            [utmSource] => 
+            [utmMedium] => 
+            [utmCampaign] => 
+            [utmContent] => 
+            [utmTerm] => 
+            [observers] => Array
+                (
+                    [0] => 8
+                )
+
+            [contactIds] => Array
+                (
+                )
+
+            [entityTypeId] => 130
+        )
+
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712498101
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712498105
+)
+Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+48Генерация договораArray
+(
+    [Акт (Россия)] => 2
+    [Счет (Россия)] => 4
+    [Счет-фактура (Россия)] => 6
+    [Накладная (Россия)] => 8
+    [Доверенность (Россия)] => 10
+    [Коммерческое предложение (Россия)] => 12
+    [Универсальный передаточный документ (Россия)] => 20
+    [Реализация товаров (Россия)] => 30
+    [Соглашение ЭДО ФЛ (Россия)] => 34
+    [Соглашение ЭДО ЮЛ (Россия)] => 38
+    [Транспортная накладная(форма)] => 40
+    [Приложение к основному договору (заказчик)] => 42
+    [Договор с Заказчиком ооо-ооо] => 44
+    [Договор с перевозчиком ооо-ип] => 46
+    [CS Договор с перевозчиком] => 48
+    [Договор с перевозчиком ООО-ФЛ] => 50
+    [CS Договор-Заявка с Перевозчиком ООО-ООО/ИП] => 52
+    [Договор-Заявка с Перевозчиком ООО-ФЛ] => 56
+    [Коммерческое предложение (Перевозка)] => 58
+    [Договор-Заявка с Клиентом ООО-ООО] => 60
+    [CS Заявка с Перевозчиком] => 98
+    [CS IN Заявка с Перевозчиком (Международный)] => 100
+    [CS IN Договор-Заявка с Перевозчиком ООО-ООО_ИП (Международный)] => 102
+    [CS IN Договор с перевозчиком (Международный)] => 104
+)
+98632634Array
+(
+    [ufCrm18CsDateChange] => 1712499633
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712501323
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712501324
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712501325
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712501325
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712501517
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712502040
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712502288
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712502377
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712502613
+)
+Array
+(
+    [ufCrm18CsDateChange] => 1712502792
+)

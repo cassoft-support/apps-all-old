@@ -1,0 +1,9 @@
+{
+  "_hash": "_rtTMOVIU_R77GQWEJmTcOk4Nu_ORn85KaeapcYBPVk",
+  "project": {
+    "rootDir": "/var/www/www-root/data/www/app.cassoft.ru/cs-app/mcm"
+  },
+  "versions": {
+    "nuxt": "3.17.3"
+  }
+}

@@ -1,0 +1,80 @@
+---------------------17.01.2025MSK08:58:49
+Array
+(
+    [DOMAIN] => cbn.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => aada27d8d9cd784af4712972450982ec
+    [AUTH_ID] => a8ff896700543a28005d376e000001f4000007a280574c846240c664c9d1b86f4b870e
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 987eb16700543a28005d376e000001f4000007f8f770cf91c02b0100f98e2a312c6067
+    [member_id] => d17d1d15669be52925cf091ae22002d4
+    [status] => S
+    [PLACEMENT] => SETTING_CONNECTOR
+    [PLACEMENT_OPTIONS] => {&quot;CONNECTOR&quot;:&quot;cs_domclick_connector&quot;,&quot;LINE&quot;:&quot;26&quot;,&quot;STATUS&quot;:false,&quot;ACTIVE_STATUS&quot;:true,&quot;CONNECTION_STATUS&quot;:false,&quot;REGISTER_STATUS&quot;:false,&quot;ERROR_STATUS&quot;:false}
+    [app] => domclick_messager
+    [CACHE_TYPE] => A
+    [~DOMAIN] => cbn.bitrix24.ru
+    [~PROTOCOL] => 1
+    [~LANG] => ru
+    [~APP_SID] => aada27d8d9cd784af4712972450982ec
+    [~AUTH_ID] => a8ff896700543a28005d376e000001f4000007a280574c846240c664c9d1b86f4b870e
+    [~AUTH_EXPIRES] => 3600
+    [~REFRESH_ID] => 987eb16700543a28005d376e000001f4000007f8f770cf91c02b0100f98e2a312c6067
+    [~member_id] => d17d1d15669be52925cf091ae22002d4
+    [~status] => S
+    [~PLACEMENT] => SETTING_CONNECTOR
+    [~PLACEMENT_OPTIONS] => {"CONNECTOR":"cs_domclick_connector","LINE":"26","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+    [~app] => domclick_messager
+    [~CACHE_TYPE] => A
+)
+
+resSetup
+Array
+(
+    [ID] => 21488
+    [TIMESTAMP_X] => 2025-01-15T19:03:07+03:00
+    [MODIFIED_BY] => 500
+    [DATE_CREATE] => 2025-01-15T08:00:29+03:00
+    [CREATED_BY] => 500
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => setup
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => setup_messager
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [CS_COLOR] => 
+            [CS_BACKGROUND_COLOR] => 
+            [CS_BACKGROUND_IMG] => 
+            [CS_API_WHATSAPP] => 
+            [CS_LINE_WHATSAPP] => 
+            [CS_ADMIN] => 
+            [CHAT_APP_EMAIL] => 
+            [CHAT_APP_PASSWORD] => 
+            [CS_TELEGRAM_SHOP] => 
+            [CS_TELEGRAM_GROUP] => 
+            [CS_KEY_TELEGRAM] => 
+            [CS_BOT_TELEGRAM] => 
+            [CS_KEY_CIAN] => eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOjEwMTgsImNvbXBhbnlfaWQiOjM0ODIyNCwiaWF0IjoxNzMyNzgyNzUxfQ.fi8Y7hnKbllMNR-NCYsiy5a2ME_yvN2K2zUHauFi4mDCyQOS2AnEh8VYPJcH47CWexFCT_Wtdql0MZHt_8Jvu_lpYBFtVn7a-iqsXTyGMLsaXsU307KjXl-9xxU-c7mcyl-gEfGjpK6cQmcSZunjuROJ4fTYm3qczJvUxSZvca-sWOfH7PRz5pdGS13MFDi1oVZJ5sH1YBg4reivj-EphZ87UzMXKM9Ic6FV2AWWRaOIcBSDF1z8pgaMoHBwzj5r0CRMSLSg6iKZOONqjTgmsl6g2e7lJ3inIvmqRT0XPGdPP6niDXW4VX6OwlCC3mgwpRuifK3z3EJpu0DAr2OeSA
+            [CS_CIAN_CONNECT] => 
+            [CS_KEY_DC] => eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOjEwMTgsImNvbXBhbnlfaWQiOjM0ODIyNCwiaWF0IjoxNzMyNzgyNzUxfQ.fi8Y7hnKbllMNR-NCYsiy5a2ME_yvN2K2zUHauFi4mDCyQOS2AnEh8VYPJcH47CWexFCT_Wtdql0MZHt_8Jvu_lpYBFtVn7a-iqsXTyGMLsaXsU307KjXl-9xxU-c7mcyl-gEfGjpK6cQmcSZunjuROJ4fTYm3qczJvUxSZvca-sWOfH7PRz5pdGS13MFDi1oVZJ5sH1YBg4reivj-EphZ87UzMXKM9Ic6FV2AWWRaOIcBSDF1z8pgaMoHBwzj5r0CRMSLSg6iKZOONqjTgmsl6g2e7lJ3inIvmqRT0XPGdPP6niDXW4VX6OwlCC3mgwpRuifK3z3EJpu0DAr2OeSA
+            [CS_DC_CONNECT] => 1
+            [CS_KEY_AVITO] => 
+            [CS_AVITO_CONNECT] => 
+            [CS_TELEGRAM_CONNECT] => 
+            [CS_CIAN_LINE] => 
+            [CS_DC_LINE] => 10
+            [CS_TELEGRAM_LINE] => 
+            [CHAT_APP_ID] => 
+        )
+
+)
+

@@ -1,0 +1,24 @@
+.cargo-form .cargo-form__form select {
+  height: 39px;
+  box-sizing: border-box !important;
+}
+.cargo-form .cargo-form__form .input-calendar {
+  height: 39px;
+  box-sizing: border-box !important;
+}
+.cargo-form .cargo-form__form .cs-input-container {
+  width: fit-content;
+}
+.cargo-form .cargo-form__form .cs-input-label {
+  padding-top: 1px;
+}
+.fulladdress-input input {
+  height: 39px;
+  width: 500px;
+  box-sizing: border-box;
+  border: var(--el-br);
+  border-radius: var(--el-br-radius);
+  background-color: var(--el-bg-color);
+  color: var(--el-font-color);
+  font: var(--el-font);
+}

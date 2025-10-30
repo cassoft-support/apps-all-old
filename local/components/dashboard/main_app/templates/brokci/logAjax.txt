@@ -1,0 +1,68 @@
+28.11.2024 18:36Array
+(
+    [user_id] => 11
+    [type] => object
+    [app] => brokci
+    [memberId] => 5826a4a60d3df8953a94c29b77adc1bf
+    [adminId] => 
+    [auth] => Array
+        (
+            [access_token] => 7b9d486700591408006edb080000000b00000702c10ed2334883297fdd470868df5e1e
+            [refresh_token] => 6b1c706700591408006edb080000000b0000075c41efd8acd62a0f51ea84b3d0466c2b
+            [expires_in] => 1732812154518
+            [domain] => beregone.bitrix24.ru
+            [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+        )
+
+)
+Array
+(
+    [user_id] => 11
+    [type] => object
+    [app] => brokci
+    [memberId] => 5826a4a60d3df8953a94c29b77adc1bf
+    [adminId] => 
+    [auth] => Array
+        (
+            [access_token] => 7b9d486700591408006edb080000000b00000702c10ed2334883297fdd470868df5e1e
+            [refresh_token] => 6b1c706700591408006edb080000000b0000075c41efd8acd62a0f51ea84b3d0466c2b
+            [expires_in] => 1732812154518
+            [domain] => beregone.bitrix24.ru
+            [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+        )
+
+)
+Array
+(
+    [user_id] => 11
+    [type] => object
+    [app] => brokci
+    [memberId] => 5826a4a60d3df8953a94c29b77adc1bf
+    [adminId] => 
+    [auth] => Array
+        (
+            [access_token] => 7b9d486700591408006edb080000000b00000702c10ed2334883297fdd470868df5e1e
+            [refresh_token] => 6b1c706700591408006edb080000000b0000075c41efd8acd62a0f51ea84b3d0466c2b
+            [expires_in] => 1732812154518
+            [domain] => beregone.bitrix24.ru
+            [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+        )
+
+)
+Array
+(
+    [user_id] => 11
+    [type] => object
+    [app] => brokci
+    [memberId] => 5826a4a60d3df8953a94c29b77adc1bf
+    [adminId] => 
+    [auth] => Array
+        (
+            [access_token] => 7b9d486700591408006edb080000000b00000702c10ed2334883297fdd470868df5e1e
+            [refresh_token] => 6b1c706700591408006edb080000000b0000075c41efd8acd62a0f51ea84b3d0466c2b
+            [expires_in] => 1732812154518
+            [domain] => beregone.bitrix24.ru
+            [member_id] => 5826a4a60d3df8953a94c29b77adc1bf
+        )
+
+)

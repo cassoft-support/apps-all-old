@@ -1,0 +1,87 @@
+---------------------07.01.2025MSK16:33:22
+Array
+(
+    [webhookType] => offersMessages
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chatId] => 107695360
+                    [offerId] => 309156056
+                    [createdAt] => 2025-01-07T13:33:21.495650+00:00
+                    [updatedAt] => 2025-01-07T13:33:21.730133+00:00
+                    [messages] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [messageId] => 4407a8d9bd6cdcea147f130e5bc5748a6b2566090dceeba74c085229899d3c1f
+                                    [userId] => 13494687
+                                    [direction] => in
+                                    [content] => Array
+                                        (
+                                            [text] => тест
+                                            [offers] => Array
+                                                (
+                                                )
+
+                                        )
+
+                                    [createdAt] => 2025-01-07T13:33:21.730133+00:00
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [userId] => 13494687
+                    [name] => Единый центр недвижимости
+                    [avatar] => Array
+                        (
+                            [images] => Array
+                                (
+                                    [small] => https://www.cian.ru/avatar.axd?i=13494687&t=2&p=1
+                                    [big] => https://www.cian.ru/avatar.axd?i=13494687&t=2&p=2
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [offers] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 309156056
+                    [userId] => 119601034
+                    [url] => https://cian.ru/sale/flat/309156056/
+                    [title] => 2-комн. кв., 88 м², 8/9 этаж
+                    [address] => Сахалинская область, Южно-Сахалинск, проспект Мира, 306к1
+                    [publishedUserId] => 119601034
+                    [mainPhoto] => Array
+                        (
+                            [miniUrl] => https://images.cdn-cian.ru/images/2308427573-3.jpg
+                            [url] => https://images.cdn-cian.ru/images/2308427573-1.jpg
+                        )
+
+                    [price] => 21 000 000 ₽
+                    [externalId] => 1142
+                )
+
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 1
+)
+

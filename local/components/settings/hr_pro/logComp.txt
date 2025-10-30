@@ -1,0 +1,84 @@
+---------------------30.05.2025MSK17:16:34
+Array
+(
+    [auth] => Array
+        (
+            [access_token] => b6cb3968005567d6002bb690000000c80000072210351f029a3cdfc1bf63509270c2cc
+            [refresh_token] => a64a6168005567d6002bb690000000c80000076ff6c8ef39f994f510b9058a19068f34
+            [expires_in] => 1748618167840
+            [domain] => ecoferma56.bitrix24.ru
+            [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+        )
+
+    [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [app] => hr_pro
+    [type] => loadingHH
+    [user_id] => 200
+    [CACHE_TYPE] => A
+    [~auth] => Array
+        (
+            [access_token] => b6cb3968005567d6002bb690000000c80000072210351f029a3cdfc1bf63509270c2cc
+            [refresh_token] => a64a6168005567d6002bb690000000c80000076ff6c8ef39f994f510b9058a19068f34
+            [expires_in] => 1748618167840
+            [domain] => ecoferma56.bitrix24.ru
+            [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+        )
+
+    [~member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [~app] => hr_pro
+    [~type] => loadingHH
+    [~user_id] => 200
+    [~CACHE_TYPE] => A
+)
+
+resSetup
+Array
+(
+    [ID] => 4
+    [TIMESTAMP_X] => 2025-03-25T09:14:43+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-01-28T15:33:36+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => setupOne
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => setup
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [CS_ADMIN] => ["136"]
+            [CS_TOKEN_DADATA] => 
+            [CS_KEY_DADATA] => 
+            [CS_API_WHATSAPP] => 
+            [CS_LINE_WHATSAPP] => 
+            [CS_COLOR] => 
+            [CS_BACKGROUND_COLOR] => 
+            [CS_BACKGROUND_IMG] => 
+            [CS_TELEGRAM_SHOP] => 
+            [CS_TELEGRAM_GROUP] => 
+            [CS_KEY_TELEGRAM] => 
+            [CS_BOT_TELEGRAM] => 
+            [CS_HH_KEY] => 
+            [CS_HH_ID] => 
+            [CS_RR_KEY] => 
+            [CS_KEY_CDEK] => 
+            [CS_ACCOUNT_CDEK] => 
+            [CS_VK_ACCESS_TOKEN] => 
+            [CS_VK_GROUP_ID] => 
+            [CS_ACTIVE_VK] => 
+            [CS_RECRUITER] => null
+            [CS_KEY_SMSRU] => 
+            [CS_CHAT_BUY] => 
+            [CS_CHAT_SUPPORT] => 
+            [CS_API_WAZZUP] => 
+        )
+
+)
+

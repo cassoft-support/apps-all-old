@@ -1,0 +1,195 @@
+---------------------30.10.2025MSK10:53:20
+Array
+(
+    [message] => Array
+        (
+            [messages] => Array
+                (
+                    [id] => 105809
+                    [profile_id] => ecd7b405-e7d4
+                    [wh_type] => delivery_status
+                    [timestamp] => 2025-10-30T10:53:19.917626449+03:00
+                    [time] => 1761810799
+                    [from] => 8115745502
+                    [to] => 6413782079
+                    [chat_id] => 6413782079
+                    [status] => delivered
+                    [platform] => telegram
+                )
+
+        )
+
+    [tempList] => sendIn
+    [app] => mcm
+    [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+    [profile_id] => DVApro
+    [CACHE_TYPE] => A
+    [~message] => Array
+        (
+            [messages] => Array
+                (
+                    [id] => 105809
+                    [profile_id] => ecd7b405-e7d4
+                    [wh_type] => delivery_status
+                    [timestamp] => 2025-10-30T10:53:19.917626449+03:00
+                    [time] => 1761810799
+                    [from] => 8115745502
+                    [to] => 6413782079
+                    [chat_id] => 6413782079
+                    [status] => delivered
+                    [platform] => telegram
+                )
+
+        )
+
+    [~tempList] => sendIn
+    [~app] => mcm
+    [~member_id] => b176cc28ddd836fa2c7d93e81fff15df
+    [~profile_id] => DVApro
+    [~CACHE_TYPE] => A
+)
+
+arMessageSend
+Array
+(
+    [SUCCESS] => 1
+    [DATA] => Array
+        (
+            [RESULT] => Array
+                (
+                    [0] => Array
+                        (
+                            [message] => Array
+                                (
+                                    [id] => 105809
+                                    [date] => Array
+                                        (
+                                        )
+
+                                    [disable_crm] => N
+                                    [files] => Array
+                                        (
+                                            [0] => 109645
+                                        )
+
+                                    [text] => 
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 6413782079
+                                    [name] => Александр от Максима МОПа
+                                )
+
+                            [user] => 4435
+                            [SUCCESS] => 1
+                            [session] => Array
+                                (
+                                    [ID] => 4867
+                                    [CHAT_ID] => 6435
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+arMessageSend
+Array
+(
+    [SUCCESS] => 1
+    [DATA] => Array
+        (
+            [RESULT] => Array
+                (
+                    [0] => Array
+                        (
+                            [message] => Array
+                                (
+                                    [id] => 105808
+                                    [date] => Array
+                                        (
+                                        )
+
+                                    [disable_crm] => N
+                                    [files] => Array
+                                        (
+                                            [0] => 109647
+                                        )
+
+                                    [text] => 
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 6413782079
+                                    [name] => Александр от Максима МОПа
+                                )
+
+                            [user] => 4435
+                            [SUCCESS] => 1
+                            [session] => Array
+                                (
+                                    [ID] => 4867
+                                    [CHAT_ID] => 6435
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+arMessageSend
+Array
+(
+    [SUCCESS] => 1
+    [DATA] => Array
+        (
+            [RESULT] => Array
+                (
+                    [0] => Array
+                        (
+                            [message] => Array
+                                (
+                                    [id] => 105810
+                                    [date] => Array
+                                        (
+                                        )
+
+                                    [disable_crm] => N
+                                    [files] => Array
+                                        (
+                                            [0] => 109649
+                                        )
+
+                                    [text] => 
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 6413782079
+                                    [name] => Александр от Максима МОПа
+                                )
+
+                            [user] => 4435
+                            [SUCCESS] => 1
+                            [session] => Array
+                                (
+                                    [ID] => 4867
+                                    [CHAT_ID] => 6435
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+

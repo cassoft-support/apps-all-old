@@ -1,0 +1,11 @@
+---------------------30.10.2025MSK07:53:19
+Array
+(
+    [ID] => 5
+    [app] => cian_messager
+    [options] => {"CONNECTOR":"cs_cian_connector","LINE":"1","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+    [CS_KEY_CIAN] => 
+    [CS_CIAN_CONNECT] => 
+    [CS_CIAN_LINE] => 1
+)
+

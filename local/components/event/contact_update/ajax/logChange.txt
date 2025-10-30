@@ -1,0 +1,33 @@
+---------------------04.02.2025MSK16:34:10
+Array
+(
+    [event] => ONCRMLEADUPDATE
+    [event_handler_id] => 506
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 36
+                )
+
+        )
+
+    [ts] => 1738676049
+    [auth] => Array
+        (
+            [access_token] => 6125a267005d64e6005a33fe00000008000006aa7ea2fc707e0ef28ba2dcf80d64eefd
+            [expires] => 1738679649
+            [expires_in] => 3600
+            [scope] => user_brief,crm
+            [domain] => brokci.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => S
+            [client_endpoint] => https://brokci.bitrix24.ru/rest/
+            [member_id] => 350f96d46411bd6439bd5372cd90fec3
+            [user_id] => 8
+            [application_token] => cd769a73b0dc06f4dab76d2d82b7cedf
+        )
+
+    [app] => gas_mix
+)
+

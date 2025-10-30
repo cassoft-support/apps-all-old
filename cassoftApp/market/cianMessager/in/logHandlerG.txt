@@ -1,0 +1,48 @@
+---------------------31.08.2025MSK16:04:41
+Array
+(
+    [webhookType] => chatsReadability
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chatId] => 165746093
+                    [agentUserId] => 116055777
+                    [userId] => 133790994
+                    [readAt] => 2025-08-31T13:04:41.257301+00:00
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [userId] => 133790994
+                    [name] => Анатолий Гучинов
+                    [firstName] => Анатолий
+                    [lastName] => Гучинов
+                    [avatar] => Array
+                        (
+                            [images] => Array
+                                (
+                                    [small] => https://www.cian.ru/avatar.axd?i=133790994&t=2&p=1
+                                    [big] => https://www.cian.ru/avatar.axd?i=133790994&t=2&p=2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+memberId
+d5cfa344ae089523ba82e1a5518357ea
+rest
+Array
+(
+    [ID] => 63
+)
+

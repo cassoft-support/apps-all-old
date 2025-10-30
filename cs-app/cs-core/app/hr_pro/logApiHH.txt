@@ -1,0 +1,25 @@
+---------------------19.06.2025MSK16:28:57
+{"fn":"hhKey","app":"hr_pro"}
+data
+Array
+(
+    [fn] => hhKey
+    [app] => hr_pro
+)
+
+fn
+hhKey
+data
+Array
+(
+    [fn] => hhKey
+    [app] => hr_pro
+)
+
+res
+Array
+(
+    [ID] => G0CFT2QTMUDTRFKBL72N13SBFRTN1Q3GI916F91SDV5VMM503Q5PDNQ6QCLV54NU
+    [KEY] => NT1F53CKIKN0J9FVS5GL89NFL5DGQQDIU0IUBG5U8FEMPFD9FT9HU9M3E4MGQGJN
+)
+

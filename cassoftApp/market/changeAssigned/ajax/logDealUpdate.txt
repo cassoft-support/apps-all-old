@@ -1,0 +1,38 @@
+---------------------30.10.2025MSK10:53:40
+Array
+(
+    [event] => ONCRMDEALUPDATE
+    [event_handler_id] => 2659
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 68871
+                )
+
+        )
+
+    [ts] => 1761810801
+    [auth] => Array
+        (
+            [access_token] => 93270369005d64e60064ee240000004f0000078a24cc2050253094ea9521bb091b6c0d
+            [expires] => 1761814419
+            [expires_in] => 3600
+            [scope] => user_brief,crm,entity
+            [domain] => tk-titan.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://tk-titan.bitrix24.ru/rest/
+            [member_id] => 0e1cdf0d009498c49246ed98fc5f3710
+            [user_id] => 79
+            [application_token] => ff6220a21083c5d6b8d1c0831d77d38d
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 115
+)
+

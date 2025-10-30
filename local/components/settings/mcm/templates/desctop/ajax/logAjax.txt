@@ -1,0 +1,52 @@
+---------------------24.04.2025MSK11:16:16
+Array
+(
+    [app] => mcm
+    [profile_name] => cs 613
+    [typeLine] => whatsapp
+    [auth] => Array
+        (
+            [access_token] => 31000a6800579b0e0036d584000000010000076829e51e91405095d6a516bc4667f2e9
+            [refresh_token] => 217f316800579b0e0036d58400000001000007ce60e4c4c303f7242f0e044a01b8e38e
+            [expires_in] => 1745485876821
+            [domain] => cassoft.bitrix24.ru
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+        )
+
+)
+
+add
+Файл /cassoftApp/market/mcm/in/7c91d0bf5fb9f2b084ae3a6cb334e14d_cs_613.php успешно создан и в него записана информация
+profileAddWappi
+Array
+(
+    [profile_id] => c40b7054-9f50
+    [status] => done
+    [time] => 2025-04-24T11:15:52+03:00
+    [timestamp] => 1745482552
+)
+
+profileWebHukWappi
+Array
+(
+    [status] => error
+)
+
+params
+Array
+(
+    [UF_DATE_CREATE] => 1745482640
+    [UF_DATE_CLOSE] => 1748074640
+    [UF_CS_CODE] => nivWEGkdo82edNF8
+    [UF_PROFILE_NAME] => cs_613
+    [UF_PROFILE_ID] => c40b7054-9f50
+    [UF_MEMBER_ID] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [UF_DOMAIN] => cassoft.bitrix24.ru
+    [UF_ACTIVE] => Y
+    [UF_RESOURCE] => wappi
+    [UF_TYPE] => whatsapp
+    [UF_NAME] => cs 613
+)
+
+profileAdd
+10

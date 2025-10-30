@@ -1,0 +1,19 @@
+---------------------22.02.2025MSK19:19:45
+Array
+(
+    [type] => vacancy
+    [app] => hr_pro
+    [id] => 5783
+    [user_id] => 1
+    [options] => 
+    [auth] => Array
+        (
+            [access_token] => fffeb967005567d60036d58400000001000007039e53172fa50dee5e9519ebbbe8b7ff
+            [refresh_token] => ef7de167005567d60036d584000000010000074f889dfc931505cc533de1388dbbf54f
+            [expires_in] => 1740243809072
+            [domain] => cassoft.bitrix24.ru
+            [member_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+        )
+
+)
+

@@ -1,0 +1,57 @@
+---------------------30.10.2025MSK08:03:53
+Array
+(
+    [key] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ3MzM4NTN9.RwUMExFYa7a6LxAHAdVnTjciV5kgLxPT-WkY4AIEkE8
+    [app] => cian_messager
+    [id] => 5
+    [options] => {"CONNECTOR":"cs_cian_connector","LINE":"1","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+    [line] => 1
+    [auth] => Array
+        (
+            [access_token] => 49fd026900580e62007d6e700000000b40380769b76e40762bd4a74b6e59f22b7f815d
+            [refresh_token] => 397c2a6900580e62007d6e700000000b40380708b9e5ac542ccc73b284ca34e12807b5
+            [expires_in] => 1761803600587
+            [domain] => b24-zna5xh.bitrix24.ru
+            [member_id] => 31b0811c635106a3c586a82be5b718a4
+        )
+
+)
+
+res
+Файл /cassoftApp/market/cianMessager/in/31b0811c635106a3c586a82be5b718a4_1.php существует
+keyCian
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ3MzM4NTN9.RwUMExFYa7a6LxAHAdVnTjciV5kgLxPT-WkY4AIEkE8
+data
+Array
+(
+    [url] => https://app.cassoft.ru/cassoftApp/market/cianMessager/in/31b0811c635106a3c586a82be5b718a4_1.php
+    [webhookTypes] => Array
+        (
+            [0] => offersMessagesIncoming
+            [1] => chatsReadability
+        )
+
+)
+
+resAddWebhook
+Array
+(
+    [operationId] => D48A7F04-B54D-11F0-BA73-E24DA4D8109E
+    [result] => Array
+        (
+            [message] => Метод доступен только для мастер-аккаунтов (главных аккаунтов агентства).
+            [errors] => Array
+                (
+                    [0] => Array
+                        (
+                            [key] => userId
+                            [code] => invalidUserId
+                            [message] => Метод доступен только для мастер-аккаунтов (главных аккаунтов агентства).
+                        )
+
+                )
+
+        )
+
+)
+

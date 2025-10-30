@@ -1,0 +1,38 @@
+---------------------30.10.2025MSK10:53:40
+Array
+(
+    [event] => ONCRMCONTACTUPDATE
+    [event_handler_id] => 224
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 22644
+                )
+
+        )
+
+    [ts] => 1761810820
+    [auth] => Array
+        (
+            [access_token] => 94270369005d64e60051ae92000025de000006b52c3328c20e58ad194a856cd979ae5c
+            [expires] => 1761814420
+            [expires_in] => 3600
+            [scope] => user_brief,crm,entity
+            [domain] => batareyka25.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://batareyka25.bitrix24.ru/rest/
+            [member_id] => eb94e122b1846c4dbe062bc3393475d8
+            [user_id] => 9694
+            [application_token] => 31d74fe10c6d39d2cfce57bfe99bb63e
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 111
+)
+

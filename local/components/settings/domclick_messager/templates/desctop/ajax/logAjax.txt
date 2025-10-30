@@ -1,0 +1,50 @@
+---------------------16.10.2025MSK16:27:31
+Array
+(
+    [key] => 140e1c16-013f-4407-b629-48399c6fc01a
+    [options] => {"CONNECTOR":"cs_domclick_connector","LINE":"1","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+    [app] => domclick_messager
+    [id] => 85
+    [auth] => Array
+        (
+            [access_token] => af00f16800543a280078c51c00000009000007fcc78e24b29fb71fc7d92878e647074d
+            [refresh_token] => 9f7f186900543a280078c51c00000009000007a5712436fa1a6782792e5ef0baa7e5a2
+            [expires_in] => 1760624816369
+            [domain] => annovmir.bitrix24.ru
+            [member_id] => 301eaa162aab4155c2564f1ed05eb765
+        )
+
+)
+
+res
+Файл /cassoftApp/market/domclickMessager/in/301eaa162aab4155c2564f1ed05eb765.php существует
+keyAuth
+Authorization: Bearer 140e1c16-013f-4407-b629-48399c6fc01a
+data
+Array
+(
+    [url] => https://app.cassoft.ru/cassoftApp/market/domclickMessager/in/301eaa162aab4155c2564f1ed05eb765.php
+    [types] => Array
+        (
+            [0] => new_messages
+        )
+
+    [description] => CS domclick
+)
+
+resAddWebhook
+Array
+(
+    [success] => 
+    [result] => 
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [message] => Unauthorized
+                )
+
+        )
+
+)
+

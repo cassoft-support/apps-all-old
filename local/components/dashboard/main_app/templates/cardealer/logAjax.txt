@@ -1,0 +1,14 @@
+Array
+(
+    [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+    [app] => cardealer
+    [type] => chartsMob
+    [user_id] => 147
+)
+Array
+(
+    [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+    [app] => cardealer
+    [type] => chartsMob
+    [user_id] => 147
+)

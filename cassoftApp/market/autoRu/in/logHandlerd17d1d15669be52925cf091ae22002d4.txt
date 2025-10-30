@@ -1,0 +1,84 @@
+---------------------30.05.2025MSK08:23:23
+Array
+(
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chat_id] => 6815c8198632d800017bf321
+                    [agent_id] => 3886668
+                    [offer_id] => 2064951371
+                )
+
+        )
+
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 683940cb1dd5ca0001a9071e
+                    [message] => У вас ипотека или наличные планируется?
+                    [time] => 1748582603237
+                    [user_id] => 3886668
+                    [chat_id] => 6815c8198632d800017bf321
+                    [message_type] => message
+                    [system_message_action] => 
+                    [read_by] => 
+                    [source] => ui
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 3886668
+                    [display_name] => Анна Михайловская
+                    [roles] => Array
+                        (
+                            [0] => SELLER
+                        )
+
+                    [role_description] => Продавец
+                )
+
+            [1] => Array
+                (
+                    [user_id] => 28541476
+                    [display_name] => Бен
+                    [roles] => Array
+                        (
+                            [0] => BUYER
+                        )
+
+                    [role_description] => Покупатель
+                )
+
+        )
+
+    [offers] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2064951371
+                    [external_id] => 2228
+                    [title] => Дом, 142.9 м², 11.69 сот.
+                    [address] => Россия, Южно-Сахалинск, улица Институтская 1-я, 12
+                    [url] => https://domclick.ru/card/sale__house__2064951371
+                    [img_url] => https://img.dmclk.ru/c100x100/vitrina/eb/ac/ebac003d8ec8440a671370e80ca607edc5244753.jpg
+                    [price] => 8800000
+                )
+
+        )
+
+)
+
+memberId
+d17d1d15669be52925cf091ae22002d4
+rest
+Array
+(
+    [ID] => 33
+)
+

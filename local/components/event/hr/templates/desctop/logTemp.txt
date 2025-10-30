@@ -1,0 +1,1390 @@
+---------------------15.09.2025MSK14:16:42
+Array
+(
+    [app] => hr_pro
+    [result] => Array
+        (
+            [id] => notification278667topic47413340234760718993
+            [payload] => Array
+                (
+                    [topic_id] => 4741334023
+                    [resume_id] => c2f8fe71000b6f1b98001f4d2c775877787937
+                    [vacancy_id] => 125096204
+                    [employer_id] => 2051372
+                    [negotiation_date] => 2025-09-10T04:50:31+0300
+                    [chat_id] => 4760718993
+                )
+
+            [subscription_id] => 278667
+            [action_type] => NEW_NEGOTIATION_VACANCY
+            [user_id] => 156209206
+        )
+
+    [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [userId] => 200
+    [CACHE_TYPE] => A
+    [~app] => hr_pro
+    [~result] => Array
+        (
+            [id] => notification278667topic47413340234760718993
+            [payload] => Array
+                (
+                    [topic_id] => 4741334023
+                    [resume_id] => c2f8fe71000b6f1b98001f4d2c775877787937
+                    [vacancy_id] => 125096204
+                    [employer_id] => 2051372
+                    [negotiation_date] => 2025-09-10T04:50:31+0300
+                    [chat_id] => 4760718993
+                )
+
+            [subscription_id] => 278667
+            [action_type] => NEW_NEGOTIATION_VACANCY
+            [user_id] => 156209206
+        )
+
+    [~member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [~userId] => 200
+    [~CACHE_TYPE] => A
+)
+
+searchCandidate
+Array
+(
+    [ID] => 128
+    [TIMESTAMP_X] => 2025-06-21T12:19:41+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-21T12:19:41+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => candidates
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [contact_id] => 
+            [password] => 
+            [code_auth] => 
+            [phone] => 
+            [email] => 
+            [phone_check] => 
+            [email_check] => 
+            [code_email_auth] => 
+            [date_auth] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [inn] => 
+            [resume] => 
+            [cover_letter] => 
+            [assigned_by_id] => 
+            [stage] => 
+            [smart_id] => 
+            [lead_id] => 
+            [vacancy] => 
+            [deal_id] => 
+            [company_id] => 
+            [user_id] => 
+            [responses] => 
+        )
+
+)
+
+hhResume
+Array
+(
+    [description] => Unrecognized authorization (Authorization header value should start with "Bearer ")
+    [oauth_error] => bad-auth-type
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [value] => bad_authorization
+                    [type] => oauth
+                )
+
+        )
+
+    [request_id] => 1757935002762f33543576f604689033
+)
+
+hhResume
+Array
+(
+    [description] => Unrecognized authorization (Authorization header value should start with "Bearer ")
+    [oauth_error] => bad-auth-type
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [value] => bad_authorization
+                    [type] => oauth
+                )
+
+        )
+
+    [request_id] => 1757935003089105412e4fe80cffb027
+)
+
+hhResume
+Array
+(
+    [description] => Unrecognized authorization (Authorization header value should start with "Bearer ")
+    [oauth_error] => bad-auth-type
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [value] => bad_authorization
+                    [type] => oauth
+                )
+
+        )
+
+    [request_id] => 1757935003154950efc156bfe9fe9033
+)
+
+hhResume
+Array
+(
+    [description] => Unrecognized authorization (Authorization header value should start with "Bearer ")
+    [oauth_error] => bad-auth-type
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [value] => bad_authorization
+                    [type] => oauth
+                )
+
+        )
+
+    [request_id] => 1757935003157fa18241ed08ea735027
+)
+
+searchReport
+
+hhResume
+Array
+(
+    [description] => Unrecognized authorization (Authorization header value should start with "Bearer ")
+    [oauth_error] => bad-auth-type
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [value] => bad_authorization
+                    [type] => oauth
+                )
+
+        )
+
+    [request_id] => 1757935003182c0dd8b2d15f693dd028
+)
+
+hhResume
+Array
+(
+    [description] => Unrecognized authorization (Authorization header value should start with "Bearer ")
+    [oauth_error] => bad-auth-type
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [value] => bad_authorization
+                    [type] => oauth
+                )
+
+        )
+
+    [request_id] => 1757935003237147e8d940cfc69ef027
+)
+
+hhResume
+Array
+(
+    [description] => Unrecognized authorization (Authorization header value should start with "Bearer ")
+    [oauth_error] => bad-auth-type
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [value] => bad_authorization
+                    [type] => oauth
+                )
+
+        )
+
+    [request_id] => 175793500333675d14deaf7795063028
+)
+
+searchCandidate
+Array
+(
+    [ID] => 128
+    [TIMESTAMP_X] => 2025-06-21T12:19:41+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-21T12:19:41+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => candidates
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [contact_id] => 
+            [password] => 
+            [code_auth] => 
+            [phone] => 
+            [email] => 
+            [phone_check] => 
+            [email_check] => 
+            [code_email_auth] => 
+            [date_auth] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [inn] => 
+            [resume] => 
+            [cover_letter] => 
+            [assigned_by_id] => 
+            [stage] => 
+            [smart_id] => 
+            [lead_id] => 
+            [vacancy] => 
+            [deal_id] => 
+            [company_id] => 
+            [user_id] => 
+            [responses] => 
+        )
+
+)
+
+hhResume
+Array
+(
+    [description] => Unrecognized authorization (Authorization header value should start with "Bearer ")
+    [oauth_error] => bad-auth-type
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [value] => bad_authorization
+                    [type] => oauth
+                )
+
+        )
+
+    [request_id] => 1757935003376cf59a8c83b331a51030
+)
+
+searchCandidate
+Array
+(
+    [ID] => 128
+    [TIMESTAMP_X] => 2025-06-21T12:19:41+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-21T12:19:41+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => candidates
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [contact_id] => 
+            [password] => 
+            [code_auth] => 
+            [phone] => 
+            [email] => 
+            [phone_check] => 
+            [email_check] => 
+            [code_email_auth] => 
+            [date_auth] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [inn] => 
+            [resume] => 
+            [cover_letter] => 
+            [assigned_by_id] => 
+            [stage] => 
+            [smart_id] => 
+            [lead_id] => 
+            [vacancy] => 
+            [deal_id] => 
+            [company_id] => 
+            [user_id] => 
+            [responses] => 
+        )
+
+)
+
+searchCandidate
+Array
+(
+    [ID] => 128
+    [TIMESTAMP_X] => 2025-06-21T12:19:41+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-21T12:19:41+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => candidates
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [contact_id] => 
+            [password] => 
+            [code_auth] => 
+            [phone] => 
+            [email] => 
+            [phone_check] => 
+            [email_check] => 
+            [code_email_auth] => 
+            [date_auth] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [inn] => 
+            [resume] => 
+            [cover_letter] => 
+            [assigned_by_id] => 
+            [stage] => 
+            [smart_id] => 
+            [lead_id] => 
+            [vacancy] => 
+            [deal_id] => 
+            [company_id] => 
+            [user_id] => 
+            [responses] => 
+        )
+
+)
+
+searchCandidate
+Array
+(
+    [ID] => 128
+    [TIMESTAMP_X] => 2025-06-21T12:19:41+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-21T12:19:41+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => candidates
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [contact_id] => 
+            [password] => 
+            [code_auth] => 
+            [phone] => 
+            [email] => 
+            [phone_check] => 
+            [email_check] => 
+            [code_email_auth] => 
+            [date_auth] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [inn] => 
+            [resume] => 
+            [cover_letter] => 
+            [assigned_by_id] => 
+            [stage] => 
+            [smart_id] => 
+            [lead_id] => 
+            [vacancy] => 
+            [deal_id] => 
+            [company_id] => 
+            [user_id] => 
+            [responses] => 
+        )
+
+)
+
+searchCandidate
+Array
+(
+    [ID] => 128
+    [TIMESTAMP_X] => 2025-06-21T12:19:41+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-21T12:19:41+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => candidates
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [contact_id] => 
+            [password] => 
+            [code_auth] => 
+            [phone] => 
+            [email] => 
+            [phone_check] => 
+            [email_check] => 
+            [code_email_auth] => 
+            [date_auth] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [inn] => 
+            [resume] => 
+            [cover_letter] => 
+            [assigned_by_id] => 
+            [stage] => 
+            [smart_id] => 
+            [lead_id] => 
+            [vacancy] => 
+            [deal_id] => 
+            [company_id] => 
+            [user_id] => 
+            [responses] => 
+        )
+
+)
+
+searchCandidate
+Array
+(
+    [ID] => 128
+    [TIMESTAMP_X] => 2025-06-21T12:19:41+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-21T12:19:41+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => candidates
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [contact_id] => 
+            [password] => 
+            [code_auth] => 
+            [phone] => 
+            [email] => 
+            [phone_check] => 
+            [email_check] => 
+            [code_email_auth] => 
+            [date_auth] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [inn] => 
+            [resume] => 
+            [cover_letter] => 
+            [assigned_by_id] => 
+            [stage] => 
+            [smart_id] => 
+            [lead_id] => 
+            [vacancy] => 
+            [deal_id] => 
+            [company_id] => 
+            [user_id] => 
+            [responses] => 
+        )
+
+)
+
+searchControl
+Array
+(
+    [ID] => 40
+    [TIMESTAMP_X] => 2025-06-20T18:36:44+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-20T18:36:44+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер-энергетик
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => ads_control
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [hh_control] => 1
+            [hh_date_open] => 2025-06-20T12:25:17+0300
+            [hh_date_close] => 2025-07-20T12:25:17+0300
+            [rabota_control] => 
+            [rabota_date_open] => 
+            [rabota_date_close] => 
+            [superjob_control] => 
+            [superjob_date_open] => 
+            [superjob_date_close] => 
+            [trudvsem_control] => 
+            [trudvsem_date_open] => 
+            [trudvsem_date_close] => 
+            [avito_control] => 
+            [avito_date_open] => 
+            [avito_date_close] => 
+            [zarplata_control] => 
+            [zarplata_date_open] => 
+            [zarplata_date_close] => 
+            [gorodrabot_control] => 
+            [gorodrabot_date_open] => 
+            [gorodrabot_date_close] => 
+            [manager_id] => 160
+            [vacancy_id] => 38
+            [element_id] => 
+            [company_id] => 
+            [user_id] => 
+        )
+
+)
+
+params
+Array
+(
+    [ENTITY] => candidates
+    [DATA_CREATE] => 2025-09-08T05:50:18+0300
+    [NAME] =>    
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [phone] => 
+            [email] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [resume] => {"description":"Unrecognized authorization (Authorization header value should start with \"Bearer \")","oauth_error":"bad-auth-type","errors":[{"value":"bad_authorization","type":"oauth"}],"request_id":"175793500202428a53d4636810da5032"}
+            [cover_letter] => 
+            [assigned_by_id] => 160
+            [vacancy] => 
+            [deal_id] => 
+            [responses] => {"hh":{"notification278667topic47355670754754820868":{"id":"notification278667topic47355670754754820868","payload":{"topic_id":"4735567075","resume_id":"dd619e5c00016657a9001f4d2c557774337937","vacancy_id":"124551479","employer_id":"2051372","negotiation_date":"2025-09-08T05:50:18+0300","chat_id":"4754820868"},"subscription_id":"278667","action_type":"NEW_NEGOTIATION_VACANCY","user_id":"156209206"}}}
+        )
+
+)
+
+searchCandidate
+Array
+(
+    [ID] => 128
+    [TIMESTAMP_X] => 2025-06-21T12:19:41+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-21T12:19:41+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => candidates
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [contact_id] => 
+            [password] => 
+            [code_auth] => 
+            [phone] => 
+            [email] => 
+            [phone_check] => 
+            [email_check] => 
+            [code_email_auth] => 
+            [date_auth] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [inn] => 
+            [resume] => 
+            [cover_letter] => 
+            [assigned_by_id] => 
+            [stage] => 
+            [smart_id] => 
+            [lead_id] => 
+            [vacancy] => 
+            [deal_id] => 
+            [company_id] => 
+            [user_id] => 
+            [responses] => 
+        )
+
+)
+
+searchReport
+
+searchCandidate
+Array
+(
+    [ID] => 128
+    [TIMESTAMP_X] => 2025-06-21T12:19:41+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-21T12:19:41+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => candidates
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [contact_id] => 
+            [password] => 
+            [code_auth] => 
+            [phone] => 
+            [email] => 
+            [phone_check] => 
+            [email_check] => 
+            [code_email_auth] => 
+            [date_auth] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [inn] => 
+            [resume] => 
+            [cover_letter] => 
+            [assigned_by_id] => 
+            [stage] => 
+            [smart_id] => 
+            [lead_id] => 
+            [vacancy] => 
+            [deal_id] => 
+            [company_id] => 
+            [user_id] => 
+            [responses] => 
+        )
+
+)
+
+searchReport
+
+searchReport
+
+searchReport
+
+searchReport
+
+searchReport
+
+searchReport
+
+searchReport
+
+searchControl
+Array
+(
+    [ID] => 40
+    [TIMESTAMP_X] => 2025-06-20T18:36:44+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-20T18:36:44+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер-энергетик
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => ads_control
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [hh_control] => 1
+            [hh_date_open] => 2025-06-20T12:25:17+0300
+            [hh_date_close] => 2025-07-20T12:25:17+0300
+            [rabota_control] => 
+            [rabota_date_open] => 
+            [rabota_date_close] => 
+            [superjob_control] => 
+            [superjob_date_open] => 
+            [superjob_date_close] => 
+            [trudvsem_control] => 
+            [trudvsem_date_open] => 
+            [trudvsem_date_close] => 
+            [avito_control] => 
+            [avito_date_open] => 
+            [avito_date_close] => 
+            [zarplata_control] => 
+            [zarplata_date_open] => 
+            [zarplata_date_close] => 
+            [gorodrabot_control] => 
+            [gorodrabot_date_open] => 
+            [gorodrabot_date_close] => 
+            [manager_id] => 160
+            [vacancy_id] => 38
+            [element_id] => 
+            [company_id] => 
+            [user_id] => 
+        )
+
+)
+
+params
+Array
+(
+    [ENTITY] => candidates
+    [DATA_CREATE] => 2025-09-10T17:27:40+0300
+    [NAME] =>    
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [phone] => 
+            [email] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [resume] => {"description":"Unrecognized authorization (Authorization header value should start with \"Bearer \")","oauth_error":"bad-auth-type","errors":[{"value":"bad_authorization","type":"oauth"}],"request_id":"1757935002762f33543576f604689033"}
+            [cover_letter] => 
+            [assigned_by_id] => 160
+            [vacancy] => 
+            [deal_id] => 
+            [responses] => {"hh":{"notification278667topic47432728464762720095":{"id":"notification278667topic47432728464762720095","payload":{"topic_id":"4743272846","resume_id":"7e87df5c0008d94fcd001f4d2c6e7779793039","vacancy_id":"125096204","employer_id":"2051372","negotiation_date":"2025-09-10T17:27:40+0300","chat_id":"4762720095"},"subscription_id":"278667","action_type":"NEW_NEGOTIATION_VACANCY","user_id":"156209206"}}}
+        )
+
+)
+
+searchControl
+Array
+(
+    [ID] => 40
+    [TIMESTAMP_X] => 2025-06-20T18:36:44+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-20T18:36:44+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер-энергетик
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => ads_control
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [hh_control] => 1
+            [hh_date_open] => 2025-06-20T12:25:17+0300
+            [hh_date_close] => 2025-07-20T12:25:17+0300
+            [rabota_control] => 
+            [rabota_date_open] => 
+            [rabota_date_close] => 
+            [superjob_control] => 
+            [superjob_date_open] => 
+            [superjob_date_close] => 
+            [trudvsem_control] => 
+            [trudvsem_date_open] => 
+            [trudvsem_date_close] => 
+            [avito_control] => 
+            [avito_date_open] => 
+            [avito_date_close] => 
+            [zarplata_control] => 
+            [zarplata_date_open] => 
+            [zarplata_date_close] => 
+            [gorodrabot_control] => 
+            [gorodrabot_date_open] => 
+            [gorodrabot_date_close] => 
+            [manager_id] => 160
+            [vacancy_id] => 38
+            [element_id] => 
+            [company_id] => 
+            [user_id] => 
+        )
+
+)
+
+params
+Array
+(
+    [ENTITY] => candidates
+    [DATA_CREATE] => 
+    [NAME] =>    
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [phone] => 
+            [email] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [resume] => {"description":"Unrecognized authorization (Authorization header value should start with \"Bearer \")","oauth_error":"bad-auth-type","errors":[{"value":"bad_authorization","type":"oauth"}],"request_id":"1757935003182c0dd8b2d15f693dd028"}
+            [cover_letter] => 
+            [assigned_by_id] => 160
+            [vacancy] => 
+            [deal_id] => 
+            [responses] => {"hh":{"notification278667topic4739725309":{"id":"notification278667topic4739725309","payload":{"topic_id":"4739725309","resume_id":"54683b860006443a9a001f4d2c563836464354","vacancy_id":"125096204","employer_id":"2051372","response_date":"2025-09-09T13:34:49+0300","chat_id":"4759090647"},"subscription_id":"278667","action_type":"NEW_RESPONSE_OR_INVITATION_VACANCY","user_id":"156209206"}}}
+        )
+
+)
+
+searchControl
+Array
+(
+    [ID] => 40
+    [TIMESTAMP_X] => 2025-06-20T18:36:44+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-20T18:36:44+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер-энергетик
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => ads_control
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [hh_control] => 1
+            [hh_date_open] => 2025-06-20T12:25:17+0300
+            [hh_date_close] => 2025-07-20T12:25:17+0300
+            [rabota_control] => 
+            [rabota_date_open] => 
+            [rabota_date_close] => 
+            [superjob_control] => 
+            [superjob_date_open] => 
+            [superjob_date_close] => 
+            [trudvsem_control] => 
+            [trudvsem_date_open] => 
+            [trudvsem_date_close] => 
+            [avito_control] => 
+            [avito_date_open] => 
+            [avito_date_close] => 
+            [zarplata_control] => 
+            [zarplata_date_open] => 
+            [zarplata_date_close] => 
+            [gorodrabot_control] => 
+            [gorodrabot_date_open] => 
+            [gorodrabot_date_close] => 
+            [manager_id] => 160
+            [vacancy_id] => 38
+            [element_id] => 
+            [company_id] => 
+            [user_id] => 
+        )
+
+)
+
+params
+Array
+(
+    [ENTITY] => candidates
+    [DATA_CREATE] => 
+    [NAME] =>    
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [phone] => 
+            [email] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [resume] => {"description":"Unrecognized authorization (Authorization header value should start with \"Bearer \")","oauth_error":"bad-auth-type","errors":[{"value":"bad_authorization","type":"oauth"}],"request_id":"1757935003157fa18241ed08ea735027"}
+            [cover_letter] => 
+            [assigned_by_id] => 160
+            [vacancy] => 
+            [deal_id] => 
+            [responses] => {"hh":{"notification278667topic4741334023":{"id":"notification278667topic4741334023","payload":{"topic_id":"4741334023","resume_id":"c2f8fe71000b6f1b98001f4d2c775877787937","vacancy_id":"125096204","employer_id":"2051372","response_date":"2025-09-10T04:50:31+0300","chat_id":"4760718993"},"subscription_id":"278667","action_type":"NEW_RESPONSE_OR_INVITATION_VACANCY","user_id":"156209206"}}}
+        )
+
+)
+
+searchControl
+Array
+(
+    [ID] => 40
+    [TIMESTAMP_X] => 2025-06-20T18:36:44+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-20T18:36:44+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер-энергетик
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => ads_control
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [hh_control] => 1
+            [hh_date_open] => 2025-06-20T12:25:17+0300
+            [hh_date_close] => 2025-07-20T12:25:17+0300
+            [rabota_control] => 
+            [rabota_date_open] => 
+            [rabota_date_close] => 
+            [superjob_control] => 
+            [superjob_date_open] => 
+            [superjob_date_close] => 
+            [trudvsem_control] => 
+            [trudvsem_date_open] => 
+            [trudvsem_date_close] => 
+            [avito_control] => 
+            [avito_date_open] => 
+            [avito_date_close] => 
+            [zarplata_control] => 
+            [zarplata_date_open] => 
+            [zarplata_date_close] => 
+            [gorodrabot_control] => 
+            [gorodrabot_date_open] => 
+            [gorodrabot_date_close] => 
+            [manager_id] => 160
+            [vacancy_id] => 38
+            [element_id] => 
+            [company_id] => 
+            [user_id] => 
+        )
+
+)
+
+params
+Array
+(
+    [ENTITY] => candidates
+    [DATA_CREATE] => 
+    [NAME] =>    
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [phone] => 
+            [email] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [resume] => {"description":"Unrecognized authorization (Authorization header value should start with \"Bearer \")","oauth_error":"bad-auth-type","errors":[{"value":"bad_authorization","type":"oauth"}],"request_id":"1757935003237147e8d940cfc69ef027"}
+            [cover_letter] => 
+            [assigned_by_id] => 160
+            [vacancy] => 
+            [deal_id] => 
+            [responses] => {"hh":{"notification278667topic4745294923":{"id":"notification278667topic4745294923","payload":{"topic_id":"4745294923","resume_id":"1559b90f0009897000001f4d2c6366344b5179","vacancy_id":"124552188","employer_id":"2051372","response_date":"2025-09-11T13:56:24+0300","chat_id":"4764799227"},"subscription_id":"278667","action_type":"NEW_RESPONSE_OR_INVITATION_VACANCY","user_id":"156209206"}}}
+        )
+
+)
+
+searchControl
+Array
+(
+    [ID] => 40
+    [TIMESTAMP_X] => 2025-06-20T18:36:44+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-20T18:36:44+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер-энергетик
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => ads_control
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [hh_control] => 1
+            [hh_date_open] => 2025-06-20T12:25:17+0300
+            [hh_date_close] => 2025-07-20T12:25:17+0300
+            [rabota_control] => 
+            [rabota_date_open] => 
+            [rabota_date_close] => 
+            [superjob_control] => 
+            [superjob_date_open] => 
+            [superjob_date_close] => 
+            [trudvsem_control] => 
+            [trudvsem_date_open] => 
+            [trudvsem_date_close] => 
+            [avito_control] => 
+            [avito_date_open] => 
+            [avito_date_close] => 
+            [zarplata_control] => 
+            [zarplata_date_open] => 
+            [zarplata_date_close] => 
+            [gorodrabot_control] => 
+            [gorodrabot_date_open] => 
+            [gorodrabot_date_close] => 
+            [manager_id] => 160
+            [vacancy_id] => 38
+            [element_id] => 
+            [company_id] => 
+            [user_id] => 
+        )
+
+)
+
+params
+Array
+(
+    [ENTITY] => candidates
+    [DATA_CREATE] => 2025-09-10T07:19:03+0300
+    [NAME] =>    
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [phone] => 
+            [email] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [resume] => {"description":"Unrecognized authorization (Authorization header value should start with \"Bearer \")","oauth_error":"bad-auth-type","errors":[{"value":"bad_authorization","type":"oauth"}],"request_id":"1757935003154950efc156bfe9fe9033"}
+            [cover_letter] => 
+            [assigned_by_id] => 160
+            [vacancy] => 
+            [deal_id] => 
+            [responses] => {"hh":{"notification278667topic47414331694760820231":{"id":"notification278667topic47414331694760820231","payload":{"topic_id":"4741433169","resume_id":"01b9f55f0009baeae1001f4d2c33395947464d","vacancy_id":"125096204","employer_id":"2051372","negotiation_date":"2025-09-10T07:19:03+0300","chat_id":"4760820231"},"subscription_id":"278667","action_type":"NEW_NEGOTIATION_VACANCY","user_id":"156209206"}}}
+        )
+
+)
+
+searchControl
+Array
+(
+    [ID] => 40
+    [TIMESTAMP_X] => 2025-06-20T18:36:44+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-20T18:36:44+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер-энергетик
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => ads_control
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [hh_control] => 1
+            [hh_date_open] => 2025-06-20T12:25:17+0300
+            [hh_date_close] => 2025-07-20T12:25:17+0300
+            [rabota_control] => 
+            [rabota_date_open] => 
+            [rabota_date_close] => 
+            [superjob_control] => 
+            [superjob_date_open] => 
+            [superjob_date_close] => 
+            [trudvsem_control] => 
+            [trudvsem_date_open] => 
+            [trudvsem_date_close] => 
+            [avito_control] => 
+            [avito_date_open] => 
+            [avito_date_close] => 
+            [zarplata_control] => 
+            [zarplata_date_open] => 
+            [zarplata_date_close] => 
+            [gorodrabot_control] => 
+            [gorodrabot_date_open] => 
+            [gorodrabot_date_close] => 
+            [manager_id] => 160
+            [vacancy_id] => 38
+            [element_id] => 
+            [company_id] => 
+            [user_id] => 
+        )
+
+)
+
+params
+Array
+(
+    [ENTITY] => candidates
+    [DATA_CREATE] => 
+    [NAME] =>    
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [phone] => 
+            [email] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [resume] => {"description":"Unrecognized authorization (Authorization header value should start with \"Bearer \")","oauth_error":"bad-auth-type","errors":[{"value":"bad_authorization","type":"oauth"}],"request_id":"1757935003089105412e4fe80cffb027"}
+            [cover_letter] => 
+            [assigned_by_id] => 160
+            [vacancy] => 
+            [deal_id] => 
+            [responses] => {"hh":{"notification278667topic4740740609":{"id":"notification278667topic4740740609","payload":{"topic_id":"4740740609","resume_id":"a25e6d970003a4c2d4001f4d2c7a50307a5853","vacancy_id":"125096204","employer_id":"2051372","response_date":"2025-09-09T19:12:59+0300","chat_id":"4760120795"},"subscription_id":"278667","action_type":"NEW_RESPONSE_OR_INVITATION_VACANCY","user_id":"156209206"}}}
+        )
+
+)
+
+searchControl
+Array
+(
+    [ID] => 40
+    [TIMESTAMP_X] => 2025-06-20T18:36:44+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-20T18:36:44+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер-энергетик
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => ads_control
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [hh_control] => 1
+            [hh_date_open] => 2025-06-20T12:25:17+0300
+            [hh_date_close] => 2025-07-20T12:25:17+0300
+            [rabota_control] => 
+            [rabota_date_open] => 
+            [rabota_date_close] => 
+            [superjob_control] => 
+            [superjob_date_open] => 
+            [superjob_date_close] => 
+            [trudvsem_control] => 
+            [trudvsem_date_open] => 
+            [trudvsem_date_close] => 
+            [avito_control] => 
+            [avito_date_open] => 
+            [avito_date_close] => 
+            [zarplata_control] => 
+            [zarplata_date_open] => 
+            [zarplata_date_close] => 
+            [gorodrabot_control] => 
+            [gorodrabot_date_open] => 
+            [gorodrabot_date_close] => 
+            [manager_id] => 160
+            [vacancy_id] => 38
+            [element_id] => 
+            [company_id] => 
+            [user_id] => 
+        )
+
+)
+
+params
+Array
+(
+    [ENTITY] => candidates
+    [DATA_CREATE] => 2025-09-10T04:50:31+0300
+    [NAME] =>    
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [phone] => 
+            [email] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [resume] => {"description":"Unrecognized authorization (Authorization header value should start with \"Bearer \")","oauth_error":"bad-auth-type","errors":[{"value":"bad_authorization","type":"oauth"}],"request_id":"175793500333675d14deaf7795063028"}
+            [cover_letter] => 
+            [assigned_by_id] => 160
+            [vacancy] => 
+            [deal_id] => 
+            [responses] => {"hh":{"notification278667topic47413340234760718993":{"id":"notification278667topic47413340234760718993","payload":{"topic_id":"4741334023","resume_id":"c2f8fe71000b6f1b98001f4d2c775877787937","vacancy_id":"125096204","employer_id":"2051372","negotiation_date":"2025-09-10T04:50:31+0300","chat_id":"4760718993"},"subscription_id":"278667","action_type":"NEW_NEGOTIATION_VACANCY","user_id":"156209206"}}}
+        )
+
+)
+
+searchControl
+Array
+(
+    [ID] => 40
+    [TIMESTAMP_X] => 2025-06-20T18:36:44+03:00
+    [MODIFIED_BY] => 200
+    [DATE_CREATE] => 2025-06-20T18:36:44+03:00
+    [CREATED_BY] => 200
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => Инженер-энергетик
+    [PREVIEW_PICTURE] => 
+    [PREVIEW_TEXT] => 
+    [DETAIL_PICTURE] => 
+    [DETAIL_TEXT] => 
+    [CODE] => 
+    [ENTITY] => ads_control
+    [SECTION] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [hh_control] => 1
+            [hh_date_open] => 2025-06-20T12:25:17+0300
+            [hh_date_close] => 2025-07-20T12:25:17+0300
+            [rabota_control] => 
+            [rabota_date_open] => 
+            [rabota_date_close] => 
+            [superjob_control] => 
+            [superjob_date_open] => 
+            [superjob_date_close] => 
+            [trudvsem_control] => 
+            [trudvsem_date_open] => 
+            [trudvsem_date_close] => 
+            [avito_control] => 
+            [avito_date_open] => 
+            [avito_date_close] => 
+            [zarplata_control] => 
+            [zarplata_date_open] => 
+            [zarplata_date_close] => 
+            [gorodrabot_control] => 
+            [gorodrabot_date_open] => 
+            [gorodrabot_date_close] => 
+            [manager_id] => 160
+            [vacancy_id] => 38
+            [element_id] => 
+            [company_id] => 
+            [user_id] => 
+        )
+
+)
+
+params
+Array
+(
+    [ENTITY] => candidates
+    [DATA_CREATE] => 
+    [NAME] =>    
+    [PROPERTY_VALUES] => Array
+        (
+            [name] => 
+            [last_name] => 
+            [second_name] => 
+            [phone] => 
+            [email] => 
+            [birthdate] => 
+            [photo] => 
+            [personal_check] => 
+            [resume] => {"description":"Unrecognized authorization (Authorization header value should start with \"Bearer \")","oauth_error":"bad-auth-type","errors":[{"value":"bad_authorization","type":"oauth"}],"request_id":"1757935003376cf59a8c83b331a51030"}
+            [cover_letter] => 
+            [assigned_by_id] => 160
+            [vacancy] => 
+            [deal_id] => 
+            [responses] => {"hh":{"notification278667topic4731770124":{"id":"notification278667topic4731770124","payload":{"topic_id":"4731770124","resume_id":"258a8038000f525823001f4d2c6b626e6a5658","vacancy_id":"124772453","employer_id":"2051372","response_date":"2025-09-05T13:07:09+0300","chat_id":"4750940706"},"subscription_id":"278667","action_type":"NEW_RESPONSE_OR_INVITATION_VACANCY","user_id":"156209206"}}}
+        )
+
+)
+

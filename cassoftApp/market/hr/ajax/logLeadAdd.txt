@@ -1,0 +1,34 @@
+---------------------30.10.2025MSK10:32:38
+start
+REQUEST
+Array
+(
+    [event] => ONCRMLEADADD
+    [event_handler_id] => 268
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 23984
+                )
+
+        )
+
+    [ts] => 1761809558
+    [auth] => Array
+        (
+            [access_token] => a6220369005567d6002bb690000000c80000062eb32b3dd4aac27ba0c498d52112743f
+            [expires] => 1761813158
+            [expires_in] => 3600
+            [scope] => crm,entity,user_brief,user.userfield,placement,userfieldconfig,im,disk,ai_admin
+            [domain] => ecoferma56.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://ecoferma56.bitrix24.ru/rest/
+            [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+            [user_id] => 200
+            [application_token] => 60ee9a3d4b46dfa7fffc22c311a46c11
+        )
+
+)
+

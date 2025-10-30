@@ -1,0 +1,16 @@
+---------------------07.01.2025MSK07:08:08
+Array
+(
+    [DOMAIN] => app-cassoft.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => bba152fd75252c93cf0c27f3ed4529d2
+    [AUTH_ID] => b8b67c6700580e620074c1240000000100000735f61ef3bfb02e85363ea8856a9f0a13
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => a835a46700580e620074c1240000000100000798b33640b8a6b170458f433c0386b39c
+    [member_id] => b52a9e034640cdbe192eb721d7288263
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"2\/"}
+)
+

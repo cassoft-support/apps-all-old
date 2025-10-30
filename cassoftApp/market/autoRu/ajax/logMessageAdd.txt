@@ -1,0 +1,61 @@
+---------------------13.08.2025MSK17:29:57
+Array
+(
+    [event] => ONIMCONNECTORMESSAGEADD
+    [event_handler_id] => 527
+    [data] => Array
+        (
+            [CONNECTOR] => cs_auto_ru
+            [LINE] => 15
+            [MESSAGES] => Array
+                (
+                    [0] => Array
+                        (
+                            [im] => Array
+                                (
+                                    [chat_id] => 4869
+                                    [message_id] => 186407
+                                )
+
+                            [message] => Array
+                                (
+                                    [user_id] => 2355
+                                    [text] => Добрый день, меня зовут Владислав, к сожалению данный авто уже выкупили, но мы можем найти что-то подобное)
+в целом, рынок VW Passat примерно 2.3-2.5 млн, напишите, пожалуйста, ваш номер телефона, чтобы я мог связаться с вами и найти авто по вашему запросу
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => c2d49583d5a0a35326ed6c64e226083e
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [ts] => 1755095397
+    [auth] => Array
+        (
+            [access_token] => 75af9c6800579b100073d9ee0000093300000798c463e61c40b05f6a602e8b6b7d061c
+            [expires] => 1755098997
+            [expires_in] => 3600
+            [scope] => crm,im,department,imopenlines,entity,user_brief,user,imbot,placement
+            [domain] => alexstar.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix24.tech/rest/
+            [status] => S
+            [client_endpoint] => https://alexstar.bitrix24.ru/rest/
+            [member_id] => b176cc28ddd836fa2c7d93e81fff15df
+            [user_id] => 2355
+            [application_token] => 294032ec2f42dd81bcb2fdef5b7c2854
+        )
+
+)
+
+rest
+Array
+(
+    [ID] => 10
+)
+

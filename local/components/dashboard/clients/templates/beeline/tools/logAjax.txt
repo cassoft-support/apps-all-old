@@ -1,0 +1,42 @@
+Array
+(
+    [authParams] => Array
+        (
+            [DOMAIN] => specteh.bitrix24.ru
+            [PROTOCOL] => 1
+            [LANG] => ru
+            [APP_SID] => 96d2a84d8d1326276baa5c524f885317
+            [AUTH_ID] => f66ce4650056d3c60058450000000001000007d57b18c6abd999a8e33c795446b1887c
+            [AUTH_EXPIRES] => 3600
+            [REFRESH_ID] => e6eb0b660056d3c6005845000000000100000779d4f4f15d33896f088480a027f4a976
+            [member_id] => 3c39fcf9d9b9fbc9372afb3acdf9b3b3
+            [status] => F
+            [PLACEMENT] => DEFAULT
+            [PLACEMENT_OPTIONS] => {"any":"21\/"}
+        )
+
+    [type] => authSettings
+    [member_id] => 3c39fcf9d9b9fbc9372afb3acdf9b3b3
+    [app] => beeline
+)
+Array
+(
+    [authParams] => Array
+        (
+            [DOMAIN] => specteh.bitrix24.ru
+            [PROTOCOL] => 1
+            [LANG] => ru
+            [APP_SID] => 96d2a84d8d1326276baa5c524f885317
+            [AUTH_ID] => f66ce4650056d3c60058450000000001000007d57b18c6abd999a8e33c795446b1887c
+            [AUTH_EXPIRES] => 3600
+            [REFRESH_ID] => e6eb0b660056d3c6005845000000000100000779d4f4f15d33896f088480a027f4a976
+            [member_id] => 3c39fcf9d9b9fbc9372afb3acdf9b3b3
+            [status] => F
+            [PLACEMENT] => DEFAULT
+            [PLACEMENT_OPTIONS] => {"any":"21\/"}
+        )
+
+    [type] => authSettings
+    [member_id] => 3c39fcf9d9b9fbc9372afb3acdf9b3b3
+    [app] => beeline
+)

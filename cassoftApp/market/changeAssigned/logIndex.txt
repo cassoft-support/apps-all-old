@@ -1,0 +1,16 @@
+---------------------05.02.2025MSK08:30:25
+Array
+(
+    [DOMAIN] => brokci.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => eeb85b944f53d6a7549a29cba07db45b
+    [AUTH_ID] => 8105a367005d64e6005a33fe00000008000007fb4c9c8ff7642bbb0c5e659f82ee5e04
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 7184ca67005d64e6005a33fe000000080000072bca53e125f95772d944b19a6275901c
+    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+    [status] => S
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"26\/"}
+)
+

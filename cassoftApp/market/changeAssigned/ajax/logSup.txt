@@ -1,0 +1,153 @@
+id
+1
+domain
+app-cassoft.bitrix24.ru
+active
+1
+id
+2
+domain
+brokci.bitrix24.ru
+active
+1
+id
+3
+domain
+alexstar.bitrix24.ru
+active
+1
+id
+4
+domain
+migron-kz.bitrix24.ru
+active
+1
+id
+5
+domain
+import24pro.bitrix24.ru
+active
+1
+id
+6
+domain
+inplain.bitrix24.ru
+active
+1
+id
+7
+domain
+atm36.bitrix24.ru
+active
+1
+id
+8
+domain
+prosto-red.bitrix24.ru
+active
+1
+id
+9
+domain
+voessen.bitrix24.ru
+active
+1
+info
+Array
+(
+    [ID] => 333
+    [CODE] => cassoft.change_assigned
+    [VERSION] => 1
+    [STATUS] => S
+    [INSTALLED] => 1
+    [PAYMENT_EXPIRED] => N
+    [DAYS] => 299
+    [LANGUAGE_ID] => ru
+    [LICENSE] => ru_pro100
+    [LICENSE_TYPE] => pro100
+    [LICENSE_FAMILY] => pro
+)
+
+options
+Array
+(
+)
+
+id
+10
+domain
+groupprice.bitrix24.ru
+active
+1
+id
+11
+domain
+kaspplus.bitrix24.ru
+active
+1
+id
+12
+domain
+medalkin.bitrix24.ru
+active
+1
+id
+13
+domain
+hachari.bitrix24.ru
+active
+1
+id
+14
+domain
+intermediarf.bitrix24.ru
+active
+1
+id
+15
+domain
+black-finish.bitrix24.ru
+active
+1
+info
+Array
+(
+    [ID] => 333
+    [CODE] => cassoft.change_assigned
+    [VERSION] => 1
+    [STATUS] => S
+    [INSTALLED] => 1
+    [PAYMENT_EXPIRED] => N
+    [DAYS] => 294
+    [LANGUAGE_ID] => ru
+    [LICENSE] => ru_pro100
+    [LICENSE_TYPE] => pro100
+    [LICENSE_FAMILY] => pro
+)
+
+options
+Array
+(
+)
+
+info
+Array
+(
+    [ID] => 333
+    [CODE] => cassoft.change_assigned
+    [VERSION] => 1
+    [STATUS] => S
+    [INSTALLED] => 1
+    [PAYMENT_EXPIRED] => N
+    [DAYS] => 294
+    [LANGUAGE_ID] => ru
+    [LICENSE] => ru_pro100
+    [LICENSE_TYPE] => pro100
+    [LICENSE_FAMILY] => pro
+)
+
+options
+Array
+(
+)
+

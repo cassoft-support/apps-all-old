@@ -1,0 +1,30 @@
+---------------------30.10.2025MSK10:52:50
+lead
+filter
+Array
+(
+    [companyId] => 1210
+    [stageId] => Array
+        (
+            [0] => NEW
+            [1] => IN_PROCESS
+            [2] => PROCESSED
+        )
+
+)
+
+typeId
+1
+name
+[B]компании[/B] ID1210: [URL=/crm/company/details/1210/]ЭКОДОРСЕРВИС ООО[/URL] пользователем Денис Попов
+commentAdd
+
+resElement
+Array
+(
+    [items] => Array
+        (
+        )
+
+)
+

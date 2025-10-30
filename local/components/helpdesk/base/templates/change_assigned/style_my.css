@@ -1,0 +1,129 @@
+.cassoft-field-input {
+    width: 350px !important;
+    height: 39px !important;
+    padding: 0px 9px!important;
+}
+
+.item {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.social_button_copy {
+    background: url(/pub/images/svg/copy.svg) no-repeat;
+    background-size: cover;
+}
+
+.social_button {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+}
+
+.item-label {
+    height: 50px;
+}
+
+.item-input {
+    height: 50px;
+}
+
+.open-slider {
+    border: 2px solid #29c3f7 !important;
+    border-radius: 15px;
+}
+
+.subtitle-block1 {
+    position: relative;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    width: 100%;
+}
+
+.subtitle-block1::after {
+    border: none;
+    background-color: #29c3f7;
+    color: #29c3f7;
+    height: 2px;
+    width: 95px;
+}
+
+div {
+    display: block;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    width: 100%;
+    max-width: 100%;
+}
+
+.cassoft-select {
+    width: 350px;
+}
+
+.image_link_block {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 350px;
+    padding-right: 5px;
+}
+
+.image_link {
+    /*display: inline-block !important;*/
+    font-size: 13px;
+}
+
+.delete-input {
+    /*margin-left: 5px;*/
+    cursor: pointer;
+    color: #ef0404;
+    text-align: right;
+    text-decoration: underline;
+    font-size: 13px;
+}
+
+.cassoft-label {
+    width: 350px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.item-settings {
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+.row-settigns {
+    align-items: normal;
+    justify-content: start;
+}
+
+.cassoft-fieldset {
+    height: 100%;
+    /*display: flex;*/
+    /*position: absolute;*/
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-container {
+    margin-top: 20px;
+}
+
+.acor-container {
+    padding-right: 30px;
+}
+
+.acor-container-label {
+    padding-right: 40px;
+}

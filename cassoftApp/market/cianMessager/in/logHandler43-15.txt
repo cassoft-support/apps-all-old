@@ -1,0 +1,46 @@
+---------------------20.10.2025MSK10:30:39
+Array
+(
+    [webhookType] => chatsReadability
+    [chats] => Array
+        (
+            [0] => Array
+                (
+                    [chatId] => 54351718
+                    [agentUserId] => 103700213
+                    [userId] => 75711811
+                    [readAt] => 2025-10-20T07:30:36.071940+00:00
+                )
+
+        )
+
+    [users] => Array
+        (
+            [0] => Array
+                (
+                    [userId] => 75711811
+                    [name] => 75711811
+                    [avatar] => Array
+                        (
+                            [images] => Array
+                                (
+                                    [small] => https://www.cian.ru/avatar.axd?i=75711811&t=2&p=1
+                                    [big] => https://www.cian.ru/avatar.axd?i=75711811&t=2&p=2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+memberId
+43f7c5be8cd66aa16eb77d9f4b23464e
+rest
+Array
+(
+    [ID] => 62
+)
+

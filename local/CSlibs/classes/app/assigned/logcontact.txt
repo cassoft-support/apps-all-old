@@ -1,0 +1,14 @@
+---------------------30.10.2025MSK10:53:40
+contact
+filter
+Array
+(
+    [id] => 56015
+)
+
+typeId
+3
+name
+[B]сделки[/B] ID: [URL=/crm/deal/details/73175/]автоматизация магазина[/URL], пользователем Елена Грибанова
+commentAdd
+false

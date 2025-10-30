@@ -1,0 +1,49 @@
+---------------------08.01.2025MSK18:58:15
+Array
+(
+    [HTTPS] => on
+    [REMOTE_USER] => 
+    [HTTP_HOST] => app.cassoft.ru
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_CONNECTION] => close
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_SEC_CH_UA] => "Chromium";v="130", "YaBrowser";v="24", "Not?A_Brand";v="99"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.725 YaBrowser/24.12.3.725 (beta) Yowser/2.5 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => ru,en;q=0.9,bs;q=0.8
+    [HTTP_COOKIE] => _ym_uid=1728108386130073289; _ym_d=1728108386; _ga=GA1.1.2081960412.1728108386; _ga_7HVFF1BLM7=GS1.1.1733899500.9.1.1733899500.0.0.0; BITRIX_CONVERSION_CONTEXT_s1=%7B%22ID%22%3A1%2C%22EXPIRE%22%3A1736369940%2C%22UNIQUE%22%3A%5B%22conversion_visit_day%22%5D%7D; BITRIX_SM_SOUND_LOGIN_PLAYED=Y; PHPSESSID=qSZx5AFRZ8RlQegnOAbMygUn3kv1PJMa
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.62 (Debian) Server at app.cassoft.ru Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.62 (Debian)
+    [SERVER_NAME] => app.cassoft.ru
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 188.32.248.156
+    [DOCUMENT_ROOT] => /var/www/www-root/data/www/app.cassoft.ru
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/www-root/data/www/app.cassoft.ru
+    [SERVER_ADMIN] => webmaster@app.cassoft.ru
+    [SCRIPT_FILENAME] => /var/www/www-root/data/www/app.cassoft.ru/test.php
+    [REMOTE_PORT] => 56930
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.0
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /test.php
+    [SCRIPT_NAME] => /test.php
+    [PHP_SELF] => /test.php
+    [REQUEST_TIME_FLOAT] => 1736351895.1918
+    [REQUEST_TIME] => 1736351895
+)
+

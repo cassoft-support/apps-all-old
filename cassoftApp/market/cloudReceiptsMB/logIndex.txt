@@ -1,0 +1,16 @@
+index4
+
+Array
+(
+    [DOMAIN] => brokci.bitrix24.ru
+    [PROTOCOL] => 1
+    [LANG] => ru
+    [APP_SID] => d557c95de778cce8eba641103e2d5ec7
+    [AUTH_ID] => 2fc1ed640043eea6005a33fe000000080000078b12ddf8848eb7b0bad6a8ff072b38e7
+    [AUTH_EXPIRES] => 3600
+    [REFRESH_ID] => 1f4015650043eea6005a33fe000000080000079170665f87abac4b6115d3fae6408deb
+    [member_id] => 350f96d46411bd6439bd5372cd90fec3
+    [status] => P
+    [PLACEMENT] => DEFAULT
+    [PLACEMENT_OPTIONS] => {"any":"38\/"}
+)

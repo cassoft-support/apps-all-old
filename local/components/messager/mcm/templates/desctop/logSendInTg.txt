@@ -1,0 +1,577 @@
+---------------------30.10.2025MSK10:53:19
+user
+ecd7b405-e7d4
+user
+resSetupGet
+Array
+(
+    [CS_COLOR] => 
+    [CS_BACKGROUND_COLOR] => 
+    [CS_BACKGROUND_IMG] => 
+    [CS_API_WHATSAPP] => 
+    [CS_LINE_WHATSAPP] => 
+    [CS_ADMIN] => ["15","1695"]
+    [CHAT_APP_EMAIL] => 
+    [CHAT_APP_PASSWORD] => 
+    [CS_TELEGRAM_SHOP] => 
+    [CS_TELEGRAM_GROUP] => 
+    [CS_KEY_TELEGRAM] => 
+    [CS_BOT_TELEGRAM] => 
+    [CS_KEY_CIAN] => 
+    [CS_CIAN_CONNECT] => 
+    [CS_KEY_DC] => 
+    [CS_DC_CONNECT] => 
+    [CS_KEY_AVITO] => 
+    [CS_AVITO_CONNECT] => 
+    [CS_TELEGRAM_CONNECT] => 
+    [CS_CIAN_LINE] => 
+    [CS_DC_LINE] => 
+    [CS_TELEGRAM_LINE] => 
+    [CHAT_APP_ID] => 
+    [CS_MCM_CONNECT] => 
+    [CS_CONNECTOR] => cs_mcm_telegram
+    [CS_LINE] => 7
+    [CS_STATUS] => 1
+    [CS_PROFILE_ID] => ecd7b405-e7d4
+    [CS_PROFILE_NAME] => DVApro
+    [CS_CODE] => zIjt8pLeljgHLz2t
+    [CS_DATE_CREATE] => 1749978039
+    [CS_DATE_CLOSE] => 1762992000
+    [CS_DATE_CLOSE_FACT] => 
+    [CS_RESOURCE] => wappi
+    [CS_TYPE] => Telegram
+    [CS_USERS] => ["585","2355","2811"]
+    [CS_PHONE] => 
+    [CS_KEY_AUTO] => 
+    [CS_KEY_USERS] => 
+    [CS_BLOCK_USERS] => []
+    [CS_BLOCK_GROUPS] => 
+    [CS_BLOCK_BOTS] => 
+    [CS_BLOCK_GROUPS_ALL] => 
+)
+
+paramsIm
+Array
+(
+    [CONNECTOR] => cs_mcm_telegram
+    [LINE] => 7
+    [MESSAGES] => Array
+        (
+            [0] => Array
+                (
+                    [message] => Array
+                        (
+                            [id] => 105809
+                            [date] => 1761810799
+                            [disable_crm] => N
+                            [files] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [url] => https://wapi-uploads7d.storage.yandexcloud.net/ecd7b405-e7d4/2c307f6a-bbd8-42dc-940c-c24c65ad0031.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=YCAJEx61R4C7kz0v5oC6y60Gx%2F20251030%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20251030T075317Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=e0be0b94193bef973eada85183097e70dd1ab322d8403e9b82ecf3b9542fd02e
+                                            [name] => 
+                                        )
+
+                                )
+
+                            [text] => 
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 6413782079
+                            [name] => Александр от Максима МОПа
+                        )
+
+                    [user] => Array
+                        (
+                            [id] => 6413782079
+                            [name] => Александр от Максима МОПа
+                            [phone] => 79851299353
+                            [skip_phone_validate] => N
+                        )
+
+                )
+
+        )
+
+)
+
+resSetupGet
+Array
+(
+    [CS_COLOR] => 
+    [CS_BACKGROUND_COLOR] => 
+    [CS_BACKGROUND_IMG] => 
+    [CS_API_WHATSAPP] => 
+    [CS_LINE_WHATSAPP] => 
+    [CS_ADMIN] => ["15","1695"]
+    [CHAT_APP_EMAIL] => 
+    [CHAT_APP_PASSWORD] => 
+    [CS_TELEGRAM_SHOP] => 
+    [CS_TELEGRAM_GROUP] => 
+    [CS_KEY_TELEGRAM] => 
+    [CS_BOT_TELEGRAM] => 
+    [CS_KEY_CIAN] => 
+    [CS_CIAN_CONNECT] => 
+    [CS_KEY_DC] => 
+    [CS_DC_CONNECT] => 
+    [CS_KEY_AVITO] => 
+    [CS_AVITO_CONNECT] => 
+    [CS_TELEGRAM_CONNECT] => 
+    [CS_CIAN_LINE] => 
+    [CS_DC_LINE] => 
+    [CS_TELEGRAM_LINE] => 
+    [CHAT_APP_ID] => 
+    [CS_MCM_CONNECT] => 
+    [CS_CONNECTOR] => cs_mcm_telegram
+    [CS_LINE] => 7
+    [CS_STATUS] => 1
+    [CS_PROFILE_ID] => ecd7b405-e7d4
+    [CS_PROFILE_NAME] => DVApro
+    [CS_CODE] => zIjt8pLeljgHLz2t
+    [CS_DATE_CREATE] => 1749978039
+    [CS_DATE_CLOSE] => 1762992000
+    [CS_DATE_CLOSE_FACT] => 
+    [CS_RESOURCE] => wappi
+    [CS_TYPE] => Telegram
+    [CS_USERS] => ["585","2355","2811"]
+    [CS_PHONE] => 
+    [CS_KEY_AUTO] => 
+    [CS_KEY_USERS] => 
+    [CS_BLOCK_USERS] => []
+    [CS_BLOCK_GROUPS] => 
+    [CS_BLOCK_BOTS] => 
+    [CS_BLOCK_GROUPS_ALL] => 
+)
+
+paramsIm
+Array
+(
+    [CONNECTOR] => cs_mcm_telegram
+    [LINE] => 7
+    [MESSAGES] => Array
+        (
+            [0] => Array
+                (
+                    [message] => Array
+                        (
+                            [id] => 105808
+                            [date] => 1761810799
+                            [disable_crm] => N
+                            [files] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [url] => https://wapi-uploads7d.storage.yandexcloud.net/ecd7b405-e7d4/2af62f8f-d8e7-4a5e-87b1-8d4fb8048918.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=YCAJEx61R4C7kz0v5oC6y60Gx%2F20251030%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20251030T075317Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=6bf988cbf6235e68f4c54aa0e030bb3703d996cb3159d9ea43031afc5e70de92
+                                            [name] => 
+                                        )
+
+                                )
+
+                            [text] => 
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 6413782079
+                            [name] => Александр от Максима МОПа
+                        )
+
+                    [user] => Array
+                        (
+                            [id] => 6413782079
+                            [name] => Александр от Максима МОПа
+                            [phone] => 79851299353
+                            [skip_phone_validate] => N
+                        )
+
+                )
+
+        )
+
+)
+
+arMessageSend
+Array
+(
+    [SUCCESS] => 1
+    [DATA] => Array
+        (
+            [RESULT] => Array
+                (
+                    [0] => Array
+                        (
+                            [message] => Array
+                                (
+                                    [id] => 105806
+                                    [date] => Array
+                                        (
+                                        )
+
+                                    [disable_crm] => N
+                                    [files] => Array
+                                        (
+                                            [0] => 109641
+                                        )
+
+                                    [text] => 
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 6413782079
+                                    [name] => Александр от Максима МОПа
+                                )
+
+                            [user] => 4435
+                            [SUCCESS] => 1
+                            [session] => Array
+                                (
+                                    [ID] => 4867
+                                    [CHAT_ID] => 6435
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+resSetupGet
+Array
+(
+    [CS_COLOR] => 
+    [CS_BACKGROUND_COLOR] => 
+    [CS_BACKGROUND_IMG] => 
+    [CS_API_WHATSAPP] => 
+    [CS_LINE_WHATSAPP] => 
+    [CS_ADMIN] => ["15","1695"]
+    [CHAT_APP_EMAIL] => 
+    [CHAT_APP_PASSWORD] => 
+    [CS_TELEGRAM_SHOP] => 
+    [CS_TELEGRAM_GROUP] => 
+    [CS_KEY_TELEGRAM] => 
+    [CS_BOT_TELEGRAM] => 
+    [CS_KEY_CIAN] => 
+    [CS_CIAN_CONNECT] => 
+    [CS_KEY_DC] => 
+    [CS_DC_CONNECT] => 
+    [CS_KEY_AVITO] => 
+    [CS_AVITO_CONNECT] => 
+    [CS_TELEGRAM_CONNECT] => 
+    [CS_CIAN_LINE] => 
+    [CS_DC_LINE] => 
+    [CS_TELEGRAM_LINE] => 
+    [CHAT_APP_ID] => 
+    [CS_MCM_CONNECT] => 
+    [CS_CONNECTOR] => cs_mcm_telegram
+    [CS_LINE] => 7
+    [CS_STATUS] => 1
+    [CS_PROFILE_ID] => ecd7b405-e7d4
+    [CS_PROFILE_NAME] => DVApro
+    [CS_CODE] => zIjt8pLeljgHLz2t
+    [CS_DATE_CREATE] => 1749978039
+    [CS_DATE_CLOSE] => 1762992000
+    [CS_DATE_CLOSE_FACT] => 
+    [CS_RESOURCE] => wappi
+    [CS_TYPE] => Telegram
+    [CS_USERS] => ["585","2355","2811"]
+    [CS_PHONE] => 
+    [CS_KEY_AUTO] => 
+    [CS_KEY_USERS] => 
+    [CS_BLOCK_USERS] => []
+    [CS_BLOCK_GROUPS] => 
+    [CS_BLOCK_BOTS] => 
+    [CS_BLOCK_GROUPS_ALL] => 
+)
+
+paramsIm
+Array
+(
+    [CONNECTOR] => cs_mcm_telegram
+    [LINE] => 7
+    [MESSAGES] => Array
+        (
+            [0] => Array
+                (
+                    [message] => Array
+                        (
+                            [id] => 105810
+                            [date] => 1761810799
+                            [disable_crm] => N
+                            [files] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [url] => https://wapi-uploads7d.storage.yandexcloud.net/ecd7b405-e7d4/bd2760f6-8efe-4ba8-a0ca-bdd87dbe2a72.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=YCAJEx61R4C7kz0v5oC6y60Gx%2F20251030%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20251030T075317Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=0ea8d139b25ed883d5761ece6eaf3efa6fc5d4fe1c332e0146509c098610d45d
+                                            [name] => 
+                                        )
+
+                                )
+
+                            [text] => 
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 6413782079
+                            [name] => Александр от Максима МОПа
+                        )
+
+                    [user] => Array
+                        (
+                            [id] => 6413782079
+                            [name] => Александр от Максима МОПа
+                            [phone] => 79851299353
+                            [skip_phone_validate] => N
+                        )
+
+                )
+
+        )
+
+)
+
+arMessageSend
+Array
+(
+    [SUCCESS] => 1
+    [DATA] => Array
+        (
+            [RESULT] => Array
+                (
+                    [0] => Array
+                        (
+                            [message] => Array
+                                (
+                                    [id] => 105807
+                                    [date] => Array
+                                        (
+                                        )
+
+                                    [disable_crm] => N
+                                    [files] => Array
+                                        (
+                                            [0] => 109643
+                                        )
+
+                                    [text] => 
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 6413782079
+                                    [name] => Александр от Максима МОПа
+                                )
+
+                            [user] => 4435
+                            [SUCCESS] => 1
+                            [session] => Array
+                                (
+                                    [ID] => 4867
+                                    [CHAT_ID] => 6435
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+arMessageSend
+Array
+(
+    [SUCCESS] => 1
+    [DATA] => Array
+        (
+            [RESULT] => Array
+                (
+                    [0] => Array
+                        (
+                            [message] => Array
+                                (
+                                    [id] => 105803
+                                    [date] => Array
+                                        (
+                                        )
+
+                                    [disable_crm] => N
+                                    [files] => Array
+                                        (
+                                            [0] => 109639
+                                        )
+
+                                    [text] => 
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 6413782079
+                                    [name] => Александр от Максима МОПа
+                                )
+
+                            [user] => 4435
+                            [SUCCESS] => 1
+                            [session] => Array
+                                (
+                                    [ID] => 4867
+                                    [CHAT_ID] => 6435
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+arMessageSend
+Array
+(
+    [SUCCESS] => 1
+    [DATA] => Array
+        (
+            [RESULT] => Array
+                (
+                    [0] => Array
+                        (
+                            [message] => Array
+                                (
+                                    [id] => 105809
+                                    [date] => Array
+                                        (
+                                        )
+
+                                    [disable_crm] => N
+                                    [files] => Array
+                                        (
+                                            [0] => 109645
+                                        )
+
+                                    [text] => 
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 6413782079
+                                    [name] => Александр от Максима МОПа
+                                )
+
+                            [user] => 4435
+                            [SUCCESS] => 1
+                            [session] => Array
+                                (
+                                    [ID] => 4867
+                                    [CHAT_ID] => 6435
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+arMessageSend
+Array
+(
+    [SUCCESS] => 1
+    [DATA] => Array
+        (
+            [RESULT] => Array
+                (
+                    [0] => Array
+                        (
+                            [message] => Array
+                                (
+                                    [id] => 105808
+                                    [date] => Array
+                                        (
+                                        )
+
+                                    [disable_crm] => N
+                                    [files] => Array
+                                        (
+                                            [0] => 109647
+                                        )
+
+                                    [text] => 
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 6413782079
+                                    [name] => Александр от Максима МОПа
+                                )
+
+                            [user] => 4435
+                            [SUCCESS] => 1
+                            [session] => Array
+                                (
+                                    [ID] => 4867
+                                    [CHAT_ID] => 6435
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+arMessageSend
+Array
+(
+    [SUCCESS] => 1
+    [DATA] => Array
+        (
+            [RESULT] => Array
+                (
+                    [0] => Array
+                        (
+                            [message] => Array
+                                (
+                                    [id] => 105810
+                                    [date] => Array
+                                        (
+                                        )
+
+                                    [disable_crm] => N
+                                    [files] => Array
+                                        (
+                                            [0] => 109649
+                                        )
+
+                                    [text] => 
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => 6413782079
+                                    [name] => Александр от Максима МОПа
+                                )
+
+                            [user] => 4435
+                            [SUCCESS] => 1
+                            [session] => Array
+                                (
+                                    [ID] => 4867
+                                    [CHAT_ID] => 6435
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+

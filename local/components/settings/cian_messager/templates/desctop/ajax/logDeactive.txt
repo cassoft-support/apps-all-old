@@ -1,0 +1,44 @@
+---------------------30.09.2025MSK09:36:39
+Array
+(
+    [key] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjc0MzMzMjkyfQ.WfGjRLkpWEybEPA1FgjSZ0SjBpGf2xtAYxjHmIepKbY
+    [app] => cian_messager
+    [id] => 102
+    [options] => {"CONNECTOR":"cs_cian_connector","LINE":"16","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+    [auth] => Array
+        (
+            [access_token] => 7688db6800580e620079ccde0000000a100e076e89003c9e96eef02e3bb3584a5446ef
+            [refresh_token] => 6607036900580e620079ccde0000000a100e07dc8ce4b3a3b62a66d84dffe706506acb
+            [expires_in] => 1759217785532
+            [domain] => gk-start.bitrix24.ru
+            [member_id] => d0c136c388506a7cd9ba295d54d795a5
+        )
+
+)
+
+ADDRESS_SITE_BROKCI
+https://brokci.cassoft.ru
+keyCian
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjc0MzMzMjkyfQ.WfGjRLkpWEybEPA1FgjSZ0SjBpGf2xtAYxjHmIepKbY
+res
+Array
+(
+    [operationId] => D229F8EA-9DC7-11F0-89B0-9AC3C57333C7
+    [result] => Array
+        (
+        )
+
+)
+
+activate
+Array
+(
+    [0] => 1
+)
+
+resSetupUp
+Array
+(
+    [0] => 1
+)
+

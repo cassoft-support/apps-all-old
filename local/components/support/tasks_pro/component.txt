@@ -1,0 +1,17 @@
+20.05.2025MSK20:39
+Array
+(
+    [auth] => Array
+        (
+            [access_token] => 62cc2c680052d240002bb69000000001201c07347a38f7ae4f1315d13accedc779222d
+            [refresh_token] => 524b54680052d240002bb69000000001201c074da8978edfcd21060157c312d6dfa5b2
+            [expires_in] => 1747766371604
+            [domain] => ecoferma56.bitrix24.ru
+            [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+        )
+
+    [member_id] => 177649d0d08d8bdd5106f15a0fb6ab8d
+    [app] => tasks_pro
+    [type] => support
+    [user_id] => 1
+)

@@ -1,0 +1,23 @@
+---------------------14.06.2025MSK09:08:19
+Array
+(
+    [transaction_id] => mWUn7uodepJx68sxJH6ibS
+    [amount] => 2500.00
+    [original_amount] => 2500.00
+    [order_id] => 14425846
+    [state] => COMPLETE
+    [testing] => 1
+    [pan_mask] => 513691******1434
+    [client_email] => cas@cassoft.ru
+    [client_phone] => +7 993 900-35-79
+    [client_id] => 7c91d0bf5fb9f2b084ae3a6cb334e14d
+    [payment_method] => card
+    [created_datetime] => 2025-06-14 06:08:13
+    [currency] => RUB
+    [payment_type] => single_payment
+    [merchant] => c7dd9e09-6676-4dcb-b187-fcc414e8b608
+    [salt] => AFE2D489292E98C4241A1AD741D3B678
+    [unix_timestamp] => 1749881299
+    [signature] => c1d7d5e209659bc1537c3d4244439e3991ea2d4e
+)
+

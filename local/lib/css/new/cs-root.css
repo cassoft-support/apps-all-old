@@ -1,0 +1,64 @@
+
+:root {
+    /* color */
+    --gray: 0deg;
+    --button:#3bc8f5;
+    --button-hover: #3eddff;
+    --button-active: #12b1e3;
+    --button-border-color: #3bc8f5;
+    --button-border-color-hover: #3eddff;
+    --button-border-color-active: #12b1e3;
+    --green:green;
+    --green-hover:green;
+
+    /* font */
+    --main-font-color: #333;
+    --main-font-family: "Roboto", Helvetica, Arial, sans-serif;
+    --main-text-transform: uppercase;
+
+    --slider-card-icon-svg-color: #007bff;
+    --slider-card-icon-svg-size: 20px;
+    --primary-gradient: linear-gradient(135deg, #007bff 69.91%, #0ac5dd);
+    --primary-gradient-webkit: -webkit-linear-gradient(135deg, #007bff 69.91%, #0ac5dd);
+
+    /* background: ;*/
+    --filter-conteiner-bg-img: linear-gradient(#158edf75, #44a6e7d6), url("https://city.brokci.ru/pub/images/block/city1.png");
+
+    --main-bg-color-blur: rgba(10, 218, 236, 0.25);
+    --main-bg-color-hover: #0468ff;
+    --main-bg-color: #007bff;
+    --main-bg-color-white: #fff;
+
+    /* border */
+    --main-br-blur: 1px solid rgba(10, 218, 236, 0.3);
+    --main-br-grey: 1px solid hsl(var(--gray) 0% 85.1%);
+
+    /* body */
+    --body-bg: hsl(200deg 21.43% 94.51%);
+    --bg-form: #f9fafb;
+    /* form element*/
+    --el-bg-color: #fff;
+    --el-br: 1px solid hsl(var(--gray) 0% 85.1%);
+    --el-br__focus: 2px solid #1B53C5;
+    --el-br-radius: 4px;
+    --el-font: 15px/17px "Roboto", Helvetica, Arial, sans-serif;
+    --el-font-color: #333;
+    --el-text-transform: none;
+    --el-height: 38px;
+    --el-max-width: 320px;
+    --el-min-width: 280px;
+    --el-bg-color__focus: rgb(249 250 251);
+
+    /* form label*/
+    --lb-font: 14px/16px "Roboto", Helvetica, Arial, sans-serif;
+    --lb-font-color: #898989;
+    --lb-font-color__focus: #2e2f31;
+    --lb-font-color__val: #575757;
+    --lb-text-transform: none;
+    --lb-font-weight: 400;
+    --lb-bg-color: #fff;
+    --main-font-color-label:#898989;
+    /* button */
+
+
+}

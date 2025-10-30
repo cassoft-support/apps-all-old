@@ -1,0 +1,54 @@
+---------------------16.01.2025MSK18:49:49
+Array
+(
+    [key] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjk0MzEyMTA1fQ.UV2wc6VYtj_p2cwVuw0ideULYY2Jutxrp5wBeZ40ge8
+    [app] => cian_messager
+    [id] => 21580
+    [options] => {"CONNECTOR":"cs_cian_connector","LINE":"24","STATUS":false,"ACTIVE_STATUS":true,"CONNECTION_STATUS":false,"REGISTER_STATUS":false,"ERROR_STATUS":false}
+    [auth] => Array
+        (
+            [access_token] => 8f38896700580e62005d376e000001f4000007b8e8854389c90386ead6a1b046a525fd
+            [refresh_token] => 7fb7b06700580e62005d376e000001f4000007b1689d7ed2e4f70700d752ab423f3676
+            [expires_in] => 1737046158830
+            [domain] => cbn.bitrix24.ru
+            [member_id] => d17d1d15669be52925cf091ae22002d4
+        )
+
+)
+
+res
+Файл /cassoftApp/market/cianMessager/in/d17d1d15669be52925cf091ae22002d4.php существует
+keyCian
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjk0MzEyMTA1fQ.UV2wc6VYtj_p2cwVuw0ideULYY2Jutxrp5wBeZ40ge8
+options
+Array
+(
+    [CONNECTOR] => cs_cian_connector
+    [LINE] => 24
+    [STATUS] => 
+    [ACTIVE_STATUS] => 1
+    [CONNECTION_STATUS] => 
+    [REGISTER_STATUS] => 
+    [ERROR_STATUS] => 
+)
+
+paramsConnector
+Array
+(
+    [CONNECTOR] => cs_cian_connector
+    [LINE] => 24
+    [ACTIVE] => 1
+)
+
+activate
+Array
+(
+    [0] => 1
+)
+
+resSetupUp
+Array
+(
+    [0] => 1
+)
+

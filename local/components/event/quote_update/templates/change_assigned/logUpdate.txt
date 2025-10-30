@@ -1,0 +1,18 @@
+---------------------30.10.2025MSK10:29:38
+Array
+(
+    [CS_DEAL] => d
+    [CS_LEAD] => l
+    [CS_CONTACT] => c
+    [CS_COMPANY] => c
+    [CS_QUOTE] => q
+    [CS_SMART] => s
+    [CS_INVOICE] => i
+)
+
+resCompanySetup
+
+name
+[URL=/crm/type/7/details//]Предложения ID2469, Предложение #2469[/URL], пользователем  
+contactEl
+0

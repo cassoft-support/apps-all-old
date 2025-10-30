@@ -1,0 +1,30 @@
+12.03.2024MSK10:02
+Array
+(
+    [authParams] => {"access_token":"110cf06500576b72006797b2000000160000079b6e00d974a949678d0a1313c8a72471","refresh_token":"018b176600576b72006797b200000016000007fbe4fe8a7d6984be9cd891827487c0db","expires_in":1710230546538,"domain":"logistics-pro.bitrix24.ru","member_id":"137f3595ca3a2c72c95bd79acb765bef"}
+    [app] => logistics_pro
+    [contact_id] => 12
+)
+Array
+(
+    [access_token] => 110cf06500576b72006797b2000000160000079b6e00d974a949678d0a1313c8a72471
+    [refresh_token] => 018b176600576b72006797b200000016000007fbe4fe8a7d6984be9cd891827487c0db
+    [expires_in] => 1710230546538
+    [domain] => logistics-pro.bitrix24.ru
+    [member_id] => 137f3595ca3a2c72c95bd79acb765bef
+)
+logistics_proArray
+(
+    [DOMAIN] => logistics-pro.bitrix24.ru
+    [member_id] => 137f3595ca3a2c72c95bd79acb765bef
+    [AUTH_ID] => 110cf06500576b72006797b2000000160000079b6e00d974a949678d0a1313c8a72471
+    [REFRESH_ID] => 018b176600576b72006797b200000016000007fbe4fe8a7d6984be9cd891827487c0db
+)
+Array
+(
+    [UF_CRM_CS_SCAN_DOC] => 
+)
+Array
+(
+    [0] => 1
+)
