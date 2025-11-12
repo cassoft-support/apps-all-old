@@ -1,0 +1,136 @@
+.table-actions {
+  display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+  }
+  .table-actions i{
+margin: 0 1px;
+font-size: 1.8rem;
+  }
+  .main-grid-table {
+    overflow: hidden;
+    min-width: 100%;
+    border: 0;
+    border-spacing: 0;
+    table-layout: fixed;
+    opacity: 1;
+    -webkit-transition: opacity 150ms linear;
+    -o-transition: opacity 150ms linear;
+    transition: opacity 150ms linear;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+}
+table {
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 1px;
+}
+.main-grid-row-head {
+border-bottom: 2px #eef2f4 solid;
+background-color: #fff;
+}
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+.table td {
+  font-size: 0.8rem;
+  text-align: center;
+  padding: 10px 5px;
+}
+.table th {
+  font-size: 0.9rem;
+  text-align: center;
+  padding: 5px;
+}
+
+/* table-deal-------- */
+.table-deal {
+  width: 100%;
+ border:none;
+ border-collapse: collapse;
+ margin-bottom: 30px;
+}
+.table-deal thead {
+  background: #fff;
+}
+.table-deal thead tr th:first-child {
+	border-radius: 10px 0 0 0;
+}
+.table-deal thead tr th:last-child {
+	border-radius: 0 10px 0 0;
+}
+.table-deal th {
+  font-size: 0.7rem;
+  text-align: center;
+  padding: 15px 5px;
+}
+.table-deal tbody {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 1px;
+    background: #fff;
+    color:#525c68;
+    
+}
+.table-deal tbody tr:last-child td:first-child {
+	border-radius: 0 0 0 10px;
+}
+.table-deal tbody tr:last-child td:last-child {
+	border-radius: 0 0 10px 0;
+}
+
+.table-deal tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+  white-space: nowrap;
+}
+.table-deal th:first-child, .table-deal td:first-child,
+.table-deal th:last-child, .table-deal td:last-child {
+  border-radius: 0;
+}
+.table-deal tbody td {
+  font-size: 0.7rem;
+  text-align: center;
+  text-align: -webkit-center;
+  padding: 10px 5px;
+  border-top: 1px solid #0b66c33b;
+}
+
+.table-deal td a{
+  padding: 5px 8px;
+    border-radius: 5px;
+    color: #525c68;
+    border: 1px solid #525c68;
+    text-decoration: none;
+    cursor: pointer;
+}
+.table-deal td a:hover{
+    background: var(--main-bg-color);
+    color: #fff;
+    border: 1px solid var(--main-bg-color);
+}
+.table-deal td a {
+  margin-right: 5px;
+}
+
+.fixed-table-container {
+  border:0;
+}
+
+.result-dell{
+  position: absolute;
+    background: #fff;
+    z-index: 10000;
+    padding: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+    left: 40%;
+}
+.marker-big{
+  width: 20px;
+  height: 20px;
+  border-radius:50%
+}

@@ -1,0 +1,1 @@
+import{d as a,b as s,c as t,o as r,K as o}from"./DD2F7SXh.js";const n={class:"relative"},b=a({__name:"clear",setup(d){return s({bodyAttrs:{class:"text-base-master dark:text-base-150 bg-base-50 dark:bg-base-dark font-b24-system antialiased"}}),(e,c)=>(r(),t("div",n,[o(e.$slots,"default")]))}});export{b as default};

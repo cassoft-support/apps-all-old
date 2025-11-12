@@ -1,0 +1,130 @@
+<?php
+
+    require_once($_SERVER["DOCUMENT_ROOT"] . "/bitrix/modules/main/include/prolog_before.php");
+
+    //d($_REQUEST);
+?>
+
+<head>
+    <link rel="stylesheet" href="/pub/cassoftApp/brokci/css/style.css"/>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link href="/local/lib/css/cassoft/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="/local/lib/css/cassoft/cassoft.css">
+    <link rel="stylesheet" href="/local/components/install/base/templates/logistics_pro/style.css">
+</head>
+<style>
+    .forma-install {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        background: #eef2f4;
+        text-align: center;
+    }
+
+    .btn_block {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+        margin: 20px;
+        align-items: center;
+    }
+
+    .link-button-blue {
+        padding: 10px;
+        background: #3bc8f5;
+        min-width: 70px;
+        text-decoration: none;
+        color: #fff;
+        font-size: 12px;
+        font-weight: 700;
+        /* height: 39px; */
+        border-radius: 20px;
+        text-transform: uppercase;
+        cursor: pointer;
+    }
+
+    .cassoft-install-header-logo {
+        background: #fff;
+        overflow: hidden;
+    }
+</style>
+
+<body>
+<div class="cassoft-install-header">
+    <input id="reg" value='<?= $_REQUEST['reg'] ?>' style="display:none;">
+    <input id="cassoftApp" value="brokciPro" style="display:none;">
+    <div class="cassoft-install-header-logo">
+        <img src="/pub/images/app/logistics-pro/logistics_logo.png" alt="">
+    </div>
+    <div>
+        <h4 id="title" class="cassoft-install-text">Установка приложения "Logistics-pro"</h4>
+    </div>
+</div>
+<div class="forma-install">
+    <div class="">
+        <h3>Процесс установки может занимает значительное время.
+    </div>
+    </h3>
+    <div class="">Дождитесь окончания процесса.</h3>
+
+        <br>
+        <br>
+        <div class="btn_block">
+            <button class="form-small-button-blue" id="install">Установить</button>
+        </div>
+
+
+        <div class="progress" hidden>
+            <div class="circle done">
+                <span class="label">1</span>
+                <span class="title">События</span>
+            </div>
+            <span class="bar done"></span>
+            <div class="circle done">
+                <span class="label">2</span>
+                <span class="title">Пользовательские поля</span>
+            </div>
+            <span class="bar half"></span>
+            <div class="circle active">
+                <span class="label">3</span>
+                <span class="title">Хранилище</span>
+            </div>
+            <span class="bar half"></span>
+            <div class="circle active">
+                <span class="label">4</span>
+                <span class="title">Настройки</span>
+            </div>
+            <span class="bar half"></span>
+            <div class="circle active">
+                <span class="label">5</span>
+                <span class="title">Встройки</span>
+            </div>
+            <span class="bar half"></span>
+            <div class="circle active">
+                <span class="label">6</span>
+                <span class="title">Блоки для сайта</span>
+            </div>
+            <span class="bar half"></span>
+            <div class="circle active">
+                <span class="label">7</span>
+                <span class="title">Завершение</span>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="notification_block">
+        <div id="notification" class="finishInstallBlock" hidden></div>
+
+    </div>
+    <div class="result">
+        <div id="setupRes" class="" hidden style="text-align: left;"></div>
+
+    </div>
+</body>
+<script src="/local/lib/js/jquery-3.6.0.min.js"></script>
+<script src="/local/lib/js/jquery-ui.min.js"></script>
+<script src="//api.bitrix24.com/api/v1/"></script>
+<script src="/local/components/install/base/templates/logistics_pro/script.js"></script>
+
+
+</html>

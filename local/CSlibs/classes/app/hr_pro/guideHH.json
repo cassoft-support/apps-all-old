@@ -1,0 +1,439 @@
+{
+    "resume_access_type": {
+        "no_one": "Не видно никому",
+        "whitelist": "Видно выбранным работодателям",
+        "blacklist": "Скрыто от выбранных работодателей",
+        "clients": "Видно всем работодателям, зарегистрированным на hh.ru",
+        "everyone": "видно всему интернету",
+        "direct": "доступно только по прямой ссылке"
+    },
+    "vacancy_search_order": {
+        "publication_time": "по дате",
+        "salary_desc": "по убыванию дохода",
+        "salary_asc": "по возрастанию дохода",
+        "relevance": "по соответствию",
+        "distance": "по удалённости"
+    },
+    "vacancy_search_fields": {
+        "name": "в названии вакансии",
+        "company_name": "в названии компании",
+        "description": "в описании вакансии"
+    },
+    "gender": {
+        "male": "Мужской",
+        "female": "Женский"
+    },
+    "preferred_contact_type": {
+        "home": "Домашний телефон",
+        "work": "Рабочий телефон",
+        "cell": "Мобильный телефон",
+        "email": "Эл. почта"
+    },
+    "travel_time": {
+        "any": "Не имеет значения",
+        "less_than_hour": "Не более часа",
+        "from_hour_to_one_and_half": "Не более полутора часов"
+    },
+    "relocation_type": {
+        "no_relocation": "не могу переехать",
+        "relocation_possible": "могу переехать",
+        "relocation_desirable": "хочу переехать"
+    },
+    "business_trip_readiness": {
+        "ready": "готов к командировкам",
+        "sometimes": "готов к редким командировкам",
+        "never": "не готов к командировкам"
+    },
+    "resume_contacts_site_type": {
+        "personal": "Другой сайт",
+        "moi_krug": "Мой круг",
+        "livejournal": "LiveJournal",
+        "linkedin": "LinkedIn",
+        "freelance": "Free-lance",
+        "skype": "Skype"
+    },
+    "employer_type": {
+        "company": "Организация",
+        "agency": "Кадровое агентство",
+        "project_director": "Проект",
+        "private_recruiter": "Частный рекрутер",
+        "private_individual": "Частное лицо",
+        "self_employed": "Самозанятый"
+    },
+    "employer_relation": {
+        "blacklisted": "Скрыт из поиска вакансий"
+    },
+    "negotiations_state": {
+        "response": "Отклик",
+        "invitation": "Приглашение",
+        "discard": "Отказ",
+        "hidden": "Скрытый"
+    },
+    "applicant_negotiation_status": {
+        "all": "Все",
+        "active": "Активные",
+        "invitations": "Активные приглашения",
+        "response": "Активные отклики",
+        "discard": "Отказ",
+        "archived": "Архивированные",
+        "non_archived": "Все, кроме архивированных",
+        "deleted": "Скрытые"
+    },
+    "negotiations_participant_type": {
+        "applicant": "Соискатель",
+        "employer": "Работодатель"
+    },
+    "negotiations_order": {
+        "updated_at": "по дате обновления",
+        "created_at": "по дате добавления"
+    },
+    "resume_moderation_note": {
+        "bad": "Резюме составлено небрежно.",
+        "block_full_name": "В резюме отсутствует полное имя кандидата.",
+        "bad_description": "Укажите желаемую позицию, чтобы повысить свои шансы найти работу.",
+        "block_no_education_place_or_date": "Отсутствуют данные об учебном заведении и дате его окончания.",
+        "bad_education": "Плохо описано образование.",
+        "bad_education_student": "Укажите полное название учебного заведения, факультет и планируемый год окончания.",
+        "block_no_function": "Опишите подробнее свои обязанности и функции.",
+        "block_work_place": "Не указан опыт работы за последнее время",
+        "no_company_name": "Укажите названия мест работы.",
+        "no_company_description": "Укажите сферу деятельности компаний, в которых Вы работали.",
+        "no_position": "Плохо описаны занимаемые должности.",
+        "no_date": "Отсутствуют даты начала и окончания работы.",
+        "bad_function": "Плохо описаны функции и обязанности.",
+        "not_enough_information": "Укажите больше дополнительной информации: владение иностранными языками, знание компьютерных программ и др.",
+        "lot_information": "Слишком много дополнительной информации.",
+        "no_recommendation": "Вы не предоставили ни одну рекомендацию.",
+        "careless_additional_information": "Обратите внимание на раздел «Ключевые навыки». Укажите в нём сведения, которые выгодно отличат Вас в качестве претендента на желаемую позицию. Проверьте орфографию и опечатки.",
+        "careless_photo": "Рекомендуем Вам изменить фотографию для резюме. Лучше размещать фотографии, где Вы изображены в деловом или повседневном костюме.",
+        "careless_key_skill_information": "Отредактируйте раздел «Ключевые навыки» Вашего резюме, поскольку указанная информация не вполне соответствует формату и\/или содержит опечатки.",
+        "incorrect_phone_number": "В резюме указан несуществующий номер телефона. Если номер корректен, свяжитесь со службой поддержки",
+        "block_obscenity": "Мат в резюме",
+        "block_obscenity_name": "Мат в ФИО",
+        "block_obscenity_title": "Мат в названии должности",
+        "block_obscenity_experience": "Мат в разделе \"Опыт работы\"",
+        "block_obscenity_skills": "Мат в поле \"О себе\"",
+        "block_obscenity_key_skills": "Мат в ключевых навыках",
+        "block_obscenity_education": "Мат в разделе \"Образование\"",
+        "block_obscenity_recommendation": "Мат в разделе \"Рекомендации\"",
+        "block_experience_in_one_place": "Укажите опыт отдельно для каждой компании",
+        "experience_caps": "При описании опыта работы проследите, что ЗАГЛАВНЫЕ БУКВЫ использованы только в начале предложений или для имен собственных",
+        "experience_multilang": "Опыт работы должен быть описан на одном языке",
+        "experience_spelling": "Исправьте орфографические ошибки в описании опыта работы",
+        "block_experience_in_additional_information": "Опишите опыт работы в соответствующих полях",
+        "additional_information_caps": "При заполнении поля \"О себе\" проследите, что ЗАГЛАВНЫЕ БУКВЫ использованы только в начале предложений или для имен собственных",
+        "additional_information_multilang": "Поле \"О себе\" должно быть написано на одном языке",
+        "additional_information_spelling": "Исправьте орфографические ошибки в поле \"О себе\""
+    },
+    "vacancy_relation": {
+        "favorited": "В избранном",
+        "got_response": "Вы отправили резюме",
+        "got_invitation": "Вас пригласили",
+        "got_rejection": "Вам отказали",
+        "blacklisted": "Скрыта из поиска",
+        "got_question": "Вы задали вопрос по вакансии"
+    },
+    "resume_status": {
+        "not_published": "не опубликовано",
+        "published": "опубликовано",
+        "blocked": "заблокирован",
+        "on_moderation": "на модерации"
+    },
+    "resume_search_logic": {
+        "all": "Все слова встречаются",
+        "any": "Любое из слов встречается",
+        "phrase": "Точная фраза встречается",
+        "except": "Не встречаются"
+    },
+    "resume_search_fields": {
+        "everywhere": "везде",
+        "title": "в названии резюме",
+        "education": "в образовании",
+        "skills": "в ключевых навыках",
+        "experience": "в опыте работы",
+        "experience_company": "в компаниях и отраслях",
+        "experience_position": "в должностях",
+        "experience_description": "в обязанностях"
+    },
+    "messaging_status": {
+        "archived": "Вакансия отправлена в архив",
+        "ok": "Переписка доступна",
+        "disabled_by_employer": "Работодатель отключил переписку",
+        "in_a_row_limit": "Вы отправили 5 сообщений подряд. Дождитесь ответа, чтобы написать еще",
+        "overall_limit": "Превышено число сообщений в переписке",
+        "no_invitation": "Переписка доступна только после приглашения",
+        "resume_deleted": "Резюме удалено",
+        "prohibited": "Переписка недоступна"
+    },
+    "employer_active_vacancies_order": {
+        "name_asc": "по заголовку",
+        "name_desc": "по заголовку, в обратном порядке",
+        "expiration_date_asc": "по дате",
+        "expiration_date_desc": "по убыванию даты",
+        "unseen_responses_asc": "по возрастанию количества непросмотренных откликов",
+        "unseen_responses_desc": "по убыванию количества непросмотренных откликов"
+    },
+    "employer_archived_vacancies_order": {
+        "name_asc": "по заголовку",
+        "name_desc": "по заголовку, в обратном порядке",
+        "archive_time_asc": "по дате архивации",
+        "archive_time_desc": "по убыванию даты архивации"
+    },
+    "employer_hidden_vacancies_order": {
+        "name_asc": "по заголовку",
+        "name_desc": "по заголовку, в обратном порядке",
+        "archive_time_asc": "по дате архивации",
+        "archive_time_desc": "по убыванию даты архивации"
+    },
+    "applicant_comments_order": {
+        "creation_time_desc": "по убыванию даты публикации",
+        "creation_time_asc": "по дате публикации"
+    },
+    "vacancy_not_prolonged_reason": {
+        "vacancy_archived": "Нельзя поднять архивную или заблокированную вакансию",
+        "vacancy_not_premoderated": "Вакансия не прошла модерацию",
+        "standard_plus_cannot_be_closed": "Вакансия \"Стандарт Плюс\" не может быть закрытой.",
+        "standard_plus_publication_is_updated_automatically": "«Стандарт плюс» автоматически поднимается раз в 3 дня",
+        "pfp_publication_is_updated_automatically": "Вакансии с оплатой за контакты в откликах автоматически поднимаются раз в 3 дня",
+        "too_early_to_prolongate_free_publication": "С последнего поднятия бесплатной вакансии прошло меньше 1 минуты",
+        "too_early_to_prolongate_standard_publication": "С последнего поднятия прошло меньше 1 минуты",
+        "free_prolongation_not_available": "Не получится поднять бесплатную вакансию",
+        "not_enough_quotas": "Не хватает квот",
+        "not_enough_purchased_services": "Вакансия не может быть обновлена. Недостаточно купленных услуг.",
+        "not_enough_division_services": "Закончились услуги на отдел",
+        "vacancy_publication_disabled_in_area": "Для размещения вакансий в странах Прибалтики обратитесь к персональному менеджеру",
+        "unknown": "Не получится поднять вакансию"
+    },
+    "resume_hidden_fields": {
+        "names_and_photo": "ФИО и фотографию",
+        "phones": "Все указанные в резюме телефоны",
+        "email": "Электронную почту",
+        "other_contacts": "Прочие контакты (Skype, соцсети)",
+        "experience": "Все места работы"
+    },
+    "phone_call_status": {
+        "pick_successful": "Установка соединения",
+        "calling": "Звонок",
+        "did_not_connect": "Абонент временно недоступен",
+        "call_in_progress": "Телефонный разговор",
+        "call_error": "Техническая ошибка",
+        "call_ended": "Телефонный разговор завершен"
+    },
+    "vacancy_label": {
+        "with_address": "Только с адресом",
+        "accept_handicapped": "Только доступные для людей с инвалидностью",
+        "not_from_agency": "Без вакансий агентств",
+        "accept_kids": "Только доступные для соискателей от 14 лет",
+        "accredited_it": "Только аккредитованные ИТ-компании",
+        "low_performance": "Только вакансии, у которых меньше 10 откликов",
+        "internship": "Стажировка",
+        "night_shifts": "Вечерние или ночные смены"
+    },
+    "experience": {
+        "noExperience": "Нет опыта",
+        "between1And3": "От 1 года до 3 лет",
+        "between3And6": "От 3 до 6 лет",
+        "moreThan6": "Более 6 лет"
+    },
+    "employment": {
+        "full": "Полная занятость",
+        "part": "Частичная занятость",
+        "project": "Проектная работа",
+        "volunteer": "Волонтерство",
+        "probation": "Стажировка"
+    },
+    "schedule": {
+        "fullDay": "Полный день",
+        "shift": "Сменный график",
+        "flexible": "Гибкий график",
+        "remote": "Удаленная работа",
+        "flyInFlyOut": "Вахтовый метод"
+    },
+    "education_level": {
+        "secondary": "Среднее",
+        "special_secondary": "Среднее специальное",
+        "unfinished_higher": "Неоконченное высшее",
+        "higher": "Высшее",
+        "bachelor": "Бакалавр",
+        "master": "Магистр",
+        "candidate": "Кандидат наук",
+        "doctor": "Доктор наук"
+    },
+    "currency": {
+        "": "Узбекский сум"
+    },
+    "vacancy_billing_type": {
+        "free": "Бесплатная",
+        "standard": "Стандарт",
+        "standard_plus": "Стандарт плюс",
+        "premium": "Премиум"
+    },
+    "applicant_comment_access_type": {
+        "coworkers": "Виден мне и моим коллегам",
+        "owner": "Виден только мне"
+    },
+    "vacancy_cluster": {
+        "area": "Регион",
+        "metro": "Метро",
+        "salary": "Уровень дохода",
+        "industry": "Отрасль компании",
+        "sub_industry": "Сфера компании",
+        "experience": "Опыт работы",
+        "employment": "Тип занятости",
+        "schedule": "График работы",
+        "label": "Исключение",
+        "professional_role": "Профессиональная роль",
+        "district": "Район",
+        "education": "Образование",
+        "accept_temporary": "оформление по ГПХ или по совместительству",
+        "salary_frequency": "Частота выплат"
+    },
+    "driver_license_types": {
+        "A": null,
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "BE": null,
+        "CE": null,
+        "DE": null,
+        "TM": null,
+        "TB": null
+    },
+    "language_level": {
+        "a1": "A1 — Начальный",
+        "a2": "A2 — Элементарный",
+        "b1": "B1 — Средний",
+        "b2": "B2 — Средне-продвинутый",
+        "c1": "C1 — Продвинутый",
+        "c2": "C2 — В совершенстве",
+        "l1": "Родной"
+    },
+    "working_days": {
+        "only_saturday_and_sunday": "По субботам и воскресеньям"
+    },
+    "working_time_intervals": {
+        "from_four_to_six_hours_in_a_day": "Можно сменами по 4-6 часов в день"
+    },
+    "working_time_modes": {
+        "start_after_sixteen": "С началом дня после 16:00"
+    },
+    "vacancy_type": {
+        "direct": "Рекламная",
+        "anonymous": "Анонимная",
+        "closed": "Закрытая",
+        "open": "Открытая"
+    },
+    "job_search_statuses_applicant": {
+        "active_search": "Активно ищу работу",
+        "looking_for_offers": "Рассматриваю предложения",
+        "not_looking_for_job": "Не ищу работу",
+        "has_job_offer": "Предложили работу, пока думаю",
+        "accepted_job_offer": "Уже выхожу на новое место"
+    },
+    "job_search_statuses_employer": {
+        "active_search": "Активно ищет работу",
+        "looking_for_offers": "Рассматривает предложения",
+        "not_looking_for_job": "Не ищет работу",
+        "has_job_offer": "Предложили работу, решает",
+        "accepted_job_offer": "Вышел на новое место"
+    },
+    "employment_form": {
+        "FULL": "Полная",
+        "PART": "Частичная",
+        "PROJECT": "Проект или разовое задание",
+        "FLY_IN_FLY_OUT": "Вахта"
+    },
+    "work_format": {
+        "ON_SITE": "На месте работодателя",
+        "REMOTE": "Удалённо",
+        "HYBRID": "Гибрид",
+        "FIELD_WORK": "Разъездной"
+    },
+    "working_hours": {
+        "HOURS_2": "2 часа",
+        "HOURS_3": "3 часа",
+        "HOURS_4": "4 часа",
+        "HOURS_5": "5 часов",
+        "HOURS_6": "6 часов",
+        "HOURS_7": "7 часов",
+        "HOURS_8": "8 часов",
+        "HOURS_9": "9 часов",
+        "HOURS_10": "10 часов",
+        "HOURS_11": "11 часов",
+        "HOURS_12": "12 часов",
+        "HOURS_24": "24 часа",
+        "FLEXIBLE": "По договорённости",
+        "OTHER": "Другое"
+    },
+    "fly_in_fly_out_duration": {
+        "DAYS_15": "15",
+        "DAYS_20": "20",
+        "DAYS_30": "30",
+        "DAYS_40": "40",
+        "DAYS_45": "45",
+        "DAYS_60": "60",
+        "DAYS_90": "90",
+        "DAYS_120": "120",
+        "DAYS_180": "180",
+        "OTHER": "Другое"
+    },
+    "work_schedule_by_days": {
+        "SIX_ON_ONE_OFF": "6\/1",
+        "FIVE_ON_TWO_OFF": "5\/2",
+        "FOUR_ON_FOUR_OFF": "4\/4",
+        "FOUR_ON_THREE_OFF": "4\/3",
+        "FOUR_ON_TWO_OFF": "4\/2",
+        "THREE_ON_THREE_OFF": "3\/3",
+        "THREE_ON_TWO_OFF": "3\/2",
+        "TWO_ON_TWO_OFF": "2\/2",
+        "TWO_ON_ONE_OFF": "2\/1",
+        "ONE_ON_THREE_OFF": "1\/3",
+        "ONE_ON_TWO_OFF": "1\/2",
+        "WEEKEND": "По выходным",
+        "FLEXIBLE": "Свободный",
+        "OTHER": "Другое"
+    },
+    "salary_range_mode": {
+        "MONTH": "За месяц",
+        "SHIFT": "За смену",
+        "HOUR": "За час",
+        "FLY_IN_FLY_OUT": "За вахту",
+        "SERVICE": "За услугу"
+    },
+    "salary_range_frequency": {
+        "DAILY": "Ежедневно",
+        "WEEKLY": "Раз в неделю",
+        "TWICE_PER_MONTH": "Два раза в месяц",
+        "MONTHLY": "Раз в месяц",
+        "PER_PROJECT": "За проект"
+    },
+    "resume_search_label": {
+        "only_with_photo": "Только с фотографией",
+        "only_with_salary": "Не показывать резюме без зарплаты",
+        "only_with_age": "Не показывать резюме без указания возраста",
+        "only_with_gender": "Не показывать резюме без указания пола",
+        "only_with_vehicle": "Есть личный автомобиль",
+        "exclude_viewed_by_user_id": "Скрыть резюме, просмотренные мной",
+        "exclude_viewed_by_employer_id": "Скрыть резюме, просмотренные всей компанией",
+        "only_in_responses": "Показать только из откликов и приглашений"
+    },
+    "resume_search_relocation": {
+        "living_or_relocation": "Живут в указанном регионе или готовы переехать в него",
+        "living": "Живут в указанном регионе",
+        "living_but_relocation": "Живут в указанном регионе и готовы к переезду куда-либо",
+        "relocation": "Не живут в указанном регионе, но готовы переехать в него"
+    },
+    "resume_search_order": {
+        "publication_time": "по дате изменения",
+        "salary_desc": "по убыванию зарплат",
+        "salary_asc": "по возрастанию зарплаты",
+        "relevance": "по соответствию"
+    },
+    "resume_search_experience_period": {
+        "all_time": "За всё время работы",
+        "last_year": "За последний год",
+        "last_three_years": "За последние 3 года",
+        "last_six_years": "За последние 6 лет"
+    }
+}

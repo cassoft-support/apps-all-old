@@ -1,0 +1,36 @@
+.slider-card-icon-svg {
+    width: var(--slider-card-icon-svg-size);
+    height: var(--slider-card-icon-svg-size);
+    fill: var(--slider-card-icon-svg-color);
+}
+
+.slider-card-icon-svg-block, td svg {
+    margin-right: 5px;
+}
+.slider-card-icon-svg path, td svg path {
+  fill:var(--slider-card-icon-svg-color);
+}
+ .person-user-icon {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    border: 1px solid #cccccc;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.person-user-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+td .person-user-icon {
+    width: 35px;
+    height: 35px;
+    margin-bottom: 0;
+    margin-right: 10px;
+}

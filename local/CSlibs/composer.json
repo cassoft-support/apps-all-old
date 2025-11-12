@@ -1,0 +1,38 @@
+{
+    "authors": [
+        {
+            "name": "CAS-soft",
+            "email": "cas@cassoft.ru",
+            "homepage": "https://cassoft.ru"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.4",
+        "bitrix24/b24phpsdk": "1.2.*",
+        "google/apiclient": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CSlibs\\B24\\Auth\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/bitrix24rest/auth/",
+            "CSlibs\\B24\\Deal\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/bitrix24rest/deal/",
+            "CSlibs\\B24\\Entity\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/bitrix24rest/entity/",
+            "CSlibs\\B24\\Product\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/bitrix24rest/product/",
+            "CSlibs\\B24\\UserFields\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/bitrix24rest/userfields/",
+            "CSlibs\\B24\\HL\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/bitrix24rest/highload/",
+            "CSlibs\\B24\\Install\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/bitrix24rest/appInstall/",
+            "CSlibs\\B24\\Smarts\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/bitrix24rest/smarts/",
+            "CSlibs\\Api\\ChatApp\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/api/chatApp/",
+            "CSlibs\\B24\\Bots\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/bitrix24rest/bots/",
+            "CSlibs\\Api\\SmsRu\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/api/smsRu/",
+            "CSlibs\\Api\\MCM\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/api/mcm/",
+            "CSlibs\\PHP\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/php/",
+            "CSlibs\\App\\Assigned\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/app/assigned/",
+            "CSlibs\\App\\HR\\": "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/app/hr_pro/"
+        },
+
+        "files": [
+            "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/tools/gf.php",
+            "/var/www/www-root/data/www/app.cassoft.ru/local/CSlibs/classes/app/mcm/function.php"
+        ]
+    }
+}

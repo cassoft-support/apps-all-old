@@ -1,0 +1,51 @@
+#b7409 .landing-block-node-card-container .d-md-flex,
+#b8975 .landing-block-node-card-container .d-md-flex,
+#b8681 .landing-block-node-card-container .d-md-flex{
+    width: 10rem;
+    height: 10rem;
+    overflow: hidden;
+    border-radius: 15px;
+    color: #fff;
+}
+#b7409 .landing-block-node-card-container,
+#b8975 .landing-block-node-card-container,
+#b8681 .landing-block-node-card-container {
+  background: #ffffff4a!important;
+    backdrop-filter: blur(5px);
+    border-radius: 15px;
+}
+#b7409 .landing-block-node-card-container:hover,
+#b8975 .landing-block-node-card-container:hover,
+#b8681 .landing-block-node-card-container:hover
+{
+    -webkit-box-shadow: 11px 13px 23px 0px rgba(252, 254, 255, 0.2);
+    -moz-box-shadow: 11px 13px 23px 0px rgba(252, 254, 255, 0.2);
+    box-shadow: 11px 13px 23px 0px rgba(252, 254, 255, 0.2);
+}
+#b8681 .landing-block-node-card-title,
+#b8681 .landing-block-node-card-text{
+    color: #fff!important;
+}
+#b8679 .landing-block-node-card-photo{
+    border-radius: 10px;
+}
+#b8679 .u-heading-v5__title::before {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+.u-go-to-v1:before {
+    border: 2px solid #333;
+    border-right: none;
+    border-bottom: none;
+
+}
+#b8849 .landing-block-node-card:first-child .landing-block-node-text-7572{
+    background: #fff url(https://app.cassoft.ru/local/images/ico/po-rf.svg) no-repeat left center;
+    margin: auto;
+    border-radius: 15px;
+    padding: 10px;
+    padding-left: 45px;
+    width: fit-content;
+    margin-bottom: 10px;
+}

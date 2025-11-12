@@ -1,0 +1,63 @@
+p {
+	margin: 0;
+}
+.selectors {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+	margin-bottom: 10px;
+}
+.selectorAvito {
+	float: left; /*Задаем обтекание*/
+}
+
+.selectorYandex {
+	float: left; /*Задаем обтекание*/
+}
+.newsel {
+	margin: 30px 50px;
+}
+.result_id {
+	margin: 5px;
+}
+.selbody {
+	margin-bottom: 25px;
+	padding-bottom: 25px;
+	border-bottom: solid 2px #f2f2f2;
+}
+.labelsel {
+	font-weight: 700;
+	font-size: 22px;
+	color: #000;
+	padding-bottom: 5px;
+	border-bottom: 4px solid #000;
+}
+.sel {
+	display: flex;
+	margin-top: 25px;
+}
+.res__row p {
+	margin: 0 0 10px 10px;
+	padding-right: 10px;
+}
+.res__row p:last-child {
+	margin-bottom: 0;
+}
+.selectAvito {
+	margin-right: 25px;
+}
+.res {
+	font-weight: 700;
+	font-size: 16px;
+}
+.buttonSaveToBase button {
+	padding: 10px 20px;
+    border: none;
+    color: #fff;
+    background: #000;
+    border-radius: 5px;
+    transition: all 0.2s ease;
+}
+.buttonSaveToBase button:hover {
+	background: #3F3D56;
+}

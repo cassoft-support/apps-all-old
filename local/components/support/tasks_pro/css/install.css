@@ -1,0 +1,27 @@
+.forma-install {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  background: #eef2f4;
+  text-align: center;
+}
+.btn_block {
+display: flex;
+flex-flow: row nowrap;
+justify-content: center;
+margin: 20px;
+align-items: center;
+}
+.link-button-blue{
+padding: 10px;
+background: #3bc8f5;
+min-width: 70px;
+text-decoration: none;
+color: #fff;
+font-size: 12px;
+font-weight: 700;
+/* height: 39px; */
+border-radius: 20px;
+text-transform: uppercase;
+cursor: pointer;
+}

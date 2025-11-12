@@ -1,0 +1,68 @@
+# Bitrix core (not tracked)
+/bitrix/
+
+# Uploaded files (not tracked)
+/upload/
+
+# Database configuration (sensitive)
+/.settings.php
+/bitrix/.settings.php
+
+# Logs
+*.log
+/logs/
+/bitrix/modules/*/install/logs/
+
+# Cache
+/bitrix/cache/
+/bitrix/managed_cache/
+/bitrix/stack_cache/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDE settings
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node modules (if using npm)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Composer
+/vendor/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Build files
+/dist/
+/build/
+
+# Backup files
+*.backup
+*.old
+# Log files
+*.txt
+**/log*.txt
+**/auth.txt
+
+# Public feeds directory - ignore only specific folders
+/pub/feedsCloudNew/
+/pub/feedsCloudDev/
+
+# All log files with pattern log*.txt
+log*.txt

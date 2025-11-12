@@ -1,0 +1,1 @@
+import{d as s,b as a,c as t,o,K as r}from"./DkwmN_6J.js";const d={class:""},b=s({__name:"slider",setup(n){return a({bodyAttrs:{class:"text-base-master dark:text-base-150 bg-base-50 dark:bg-base-dark font-b24-system antialiased"}}),(e,c)=>(o(),t("div",d,[r(e.$slots,"default")]))}});export{b as default};
