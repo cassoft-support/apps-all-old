@@ -192,44 +192,45 @@ async function deleteProfile(profile: any): Promise<void> {
 
   const url = `${profileTypeUrl}/profile/delete?profile_id=${profile.profile}`
 
+  // Пытаемся удалить профиль из внешнего сервиса
+  // Если профиль уже удален или не найден - игнорируем ошибку
   try {
     const response = await wappPost(url, body)
-    console.log('Ответ от удаления:', response)
-
-    if (response.status === 'done') {
-      // Обновляем статус профиля в Битрикс24
-      await $b24.callMethod('entity.item.update', {
-        ENTITY: 'setup_messager',
-        ID: profile.id,
-        ACTIVE :'N',
-          PROPERTY_VALUES: {
-            CS_STATUS: false,
-            CS_DATE_CLOSE_FACT: new Date().toISOString()
-          }
-
-      })
-
-      // Обновляем список профилей
-      await refreshProfiles()
-
-      // Показываем уведомление
-      toast.add({
-        title: 'Успех',
-        message: `Профиль "${profile.name}" успешно деактивирован.`,
-        color: 'success'
-      })
-    } else {
-      toast.add({
-        title: 'Ошибка',
-        message: `Не удалось удалить профиль "${profile.name}".`,
-        color: 'danger'
-      })
+    console.log('Ответ от удаления профиля из сервиса:', response)
+    
+    if (response.status === 'error') {
+      console.warn('Профиль не найден в сервисе (возможно уже удален):', response.detail)
     }
   } catch (error) {
-    console.error('Ошибка при удалении профиля:', error)
+    console.warn('Ошибка при удалении профиля из сервиса (игнорируется):', error)
+  }
+
+  // Продолжаем удаление в любом случае - обновляем статус в Битрикс24
+  try {
+    await $b24.callMethod('entity.item.update', {
+      ENTITY: 'setup_messager',
+      ID: profile.id,
+      ACTIVE: 'N',
+      PROPERTY_VALUES: {
+        CS_STATUS: false,
+        CS_DATE_CLOSE_FACT: new Date().toISOString()
+      }
+    })
+
+    // Обновляем список профилей
+    await refreshProfiles()
+
+    // Показываем уведомление
+    toast.add({
+      title: 'Успех',
+      message: `Профиль "${profile.name}" успешно деактивирован.`,
+      color: 'success'
+    })
+  } catch (error) {
+    console.error('Ошибка при деактивации профиля в Битрикс24:', error)
     toast.add({
       title: 'Ошибка',
-      message: `Произошла ошибка при удалении профиля.`,
+      message: `Произошла ошибка при деактивации профиля в Битрикс24.`,
       color: 'danger'
     })
   }
