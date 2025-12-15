@@ -15,13 +15,20 @@ if($arParams['app'] && $arParams['member_id']) {
     $auth = new \CSlibs\B24\Auth\Auth($arParams['app'], [], $arParams['member_id']);
 
     $messages = $arParams['message']['messages'][0];
+    
+    // Игнорируем сообщения от определенных клиентов
+    $ignoredChatIds = [7527231534, 6730320285, 1453437859];
+    if (in_array($messages['chatId'], $ignoredChatIds)) {
+        return; // Прекращаем обработку для этих chatId
+    }
+    
     if($messages['profile_id'] === '92bfec8e-80b7'){
         p($arParams, date('c'), $log1);
     }
     if($messages['profile_id'] === '2d6b4542-9f18' || $messages['profile_id'] === 'ecd7b405-e7d4'){
         p($messages['chat_type'], 'start', $logT);
     }
-    if ($messages['chat_type'] !== "chat" || $messages['chatId'] == 4602731069) {
+    if ($messages['chat_type'] !== "chat" || $messages['chatId'] == 4602731069 ) {
         if($messages['profile_id'] === '2d6b4542-9f18' || $messages['profile_id'] === 'ecd7b405-e7d4'){
             p($messages['chat_type'], $messages['profile_id'], $logT);
         }
