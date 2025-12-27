@@ -19,7 +19,7 @@ $options = [
 $context = stream_context_create($options);
 $response = file_get_contents($webhookUrl, false, $context);
 
-// Логируем ответ от вебхука
+// Логируем ответ от вебхука вебхук копируем на тестовый портал для отработки
 p($response, "webhook_response", $logW);
 
 if(!empty($message)){

@@ -118,7 +118,10 @@ $arParams = [
 
 ### 2. Компонент настроек: `settings:base`
 
-**Шаблон:** `change_assigned`
+**Шаблон:** `change_assigned`  
+**Путь:** `/local/components/settings/base/templates/change_assigned/`
+
+**Назначение:** Интерфейс общих настроек приложения - выбор сущностей для автоматической смены ответственного
 
 **Вызов:**
 ```php
@@ -130,14 +133,109 @@ $APPLICATION->IncludeComponent(
 );
 ```
 
-**Назначение:**  
-Интерфейс общих настроек приложения (выбор сущностей для автоматической смены ответственного)
+**Шаблон (template.php) - Полная структура настроек:**
+
+**Подключаемые стили:**
+```html
+<link href="/local/lib/bootstrap/bootstrap.css" rel="stylesheet"/>
+<link rel="stylesheet" href="/local/lib/bootstrap/font/bootstrap-icons.css">
+<link rel="stylesheet" href="/local/lib/css/new/cs-root.css">
+<link rel="stylesheet" href="/local/lib/css/cassoft/checkbox.css">
+<link rel="stylesheet" href="/local/lib/css/new/flex.css">
+<link rel="stylesheet" href="/local/lib/css/new/forma-elastic.css">
+```
+
+**Структура настроек:**
+
+**1. Настройки для Лида (При смене ответственного в Лиде):**
+```php
+$lead = json_decode($arResult['PROP']['CS_LEAD'], true);
+```
+Чекбоксы:
+- ☑️ Контакт
+- ☑️ Компания
+- ☑️ Предложение
+
+**2. Настройки для Сделки (При смене ответственного в Сделке):**
+```php
+$deal = json_decode($arResult['PROP']['CS_DEAL'], true);
+```
+Чекбоксы:
+- ☑️ Контакт
+- ☑️ Компания
+- ☑️ Счет
+- ☑️ Предложение
+
+**3. Настройки для Контакта:**
+```php
+$contact = json_decode($arResult['PROP']['CS_CONTACT'], true);
+```
+Чекбоксы:
+- ☑️ Лид
+- ☑️ Сделка
+- ☑️ Компания
+- ☑️ Счет
+- ☑️ Предложение
+
+**4. Настройки для Компании:**
+```php
+$company = json_decode($arResult['PROP']['CS_COMPANY'], true);
+```
+Чекбоксы:
+- ☑️ Лид
+- ☑️ Сделка
+- ☑️ Контакт
+- ☑️ Счет
+- ☑️ Предложение
+
+**5. Настройки для Предложения:**
+```php
+$quote = json_decode($arResult['PROP']['CS_QUOTE'], true);
+```
+Чекбоксы:
+- ☑️ Лид
+- ☑️ Сделка
+- ☑️ Контакт
+- ☑️ Компания
+- ☑️ Счет
+
+**6. Публикация в Таймлайн:**
+```php
+$commentAdd = $arResult['PROP']['CS_COMMENT_ADD'];
+```
+Чекбокс:
+- ☑️ Публиковать комментарии об изменении в Таймлайн (по умолчанию выключено)
+
+**Пример чекбокса:**
+```html
+<input name="contact" type="checkbox" class="cs-switch deal" 
+    <?php echo ($deal['contact'] == 1) ? 'checked' : '';?> >
+<span for="contact" class="add-label-check">Контакт</span>
+```
+
+**Кнопка сохранения:**
+```html
+<button class="form-small-button form-small-button-blue" type="submit" 
+    onclick="entityUpdate(<?=$arResult['ID'] ?>);">Сохранить</button>
+```
+
+**JavaScript для сохранения:**
+- Файл: `/local/components/settings/base/templates/change_assigned/script.js`
+- Функция `entityUpdate()` отправляет AJAX запрос на сохранение настроек в Highload блок
+
+**Используемые файлы:**
+- `template.php` - HTML интерфейс настроек
+- `script.js` - сохранение настроек через AJAX
+- `style_my.css` - кастомные стили
 
 ---
 
 ### 3. Компонент справки: `helpdesk:base`
 
-**Шаблон:** `change_assigned`
+**Шаблон:** `change_assigned`  
+**Путь:** `/local/components/helpdesk/base/templates/change_assigned/`
+
+**Назначение:** Главная страница с инструкциями и справкой (iframe с документацией)
 
 **Вызов:**
 ```php
@@ -149,8 +247,31 @@ $APPLICATION->IncludeComponent(
 );
 ```
 
-**Назначение:**  
-Главная страница с инструкциями и справкой
+**Шаблон (template.php):**
+```html
+<style>
+    #content-frame {
+        width: 100%;
+        height: 80vh;
+        border: none;
+    }
+</style>
+
+<iframe id="content-frame" 
+    src="https://apps-doc.cassoft.ru/changeassigned/app_change_assigned/">
+</iframe>
+```
+
+**Особенности:**
+- Отображает внешнюю документацию в iframe
+- Ссылка на документацию: `https://apps-doc.cassoft.ru/changeassigned/app_change_assigned/`
+- Высота iframe: 80vh (80% высоты экрана)
+- Без рамки для бесшовной интеграции
+
+**Используемые файлы:**
+- `template.php` - HTML с iframe
+- `script.js` - JavaScript (если есть дополнительная логика)
+- `style_my.css` - кастомные стили
 
 ---
 
@@ -177,23 +298,168 @@ $APPLICATION->IncludeComponent(
 
 Обрабатывают изменения ответственного в различных сущностях:
 
-#### `event:lead_update` (шаблон: `change_assigned`)
-Обрабатывает обновление Лида
-
 #### `event:deal_update` (шаблон: `change_assigned`)
-Обрабатывает обновление Сделки
+
+**Путь компонента:** `/local/components/event/deal_update/`
+
+**Назначение:** Обработка обновления Сделки и смена ответственного в связанных элементах
+
+**Компонент (component.php):**
+```php
+// Логирование запроса
+$log = __DIR__ . "/component.txt";
+file_put_contents($log, print_r($_REQUEST, true), FILE_APPEND);
+
+// Передача данных в шаблон
+$arResult['req'] = json_encode($_REQUEST);
+$this->IncludeComponentTemplate();
+```
+
+**Шаблон (template.php) - ПОЛНАЯ БИЗНЕС-ЛОГИКА:**
+
+**1. Инициализация:**
+```php
+$id = $arParams['data']['FIELDS']['ID'];  // ID измененной сделки
+$auth = new \CSlibs\B24\Auth\Auth($arParams['app'], [], $arParams['auth']['member_id']);
+```
+
+**2. Получение настроек из Highload:**
+```php
+$resSetup = $auth->CScore->call('entity.item.get', ['ENTITY' => 'setup'])[0]['PROPERTY_VALUES'];
+$setup = json_decode($resSetup['CS_DEAL'], true);  // Настройки для сделки
+$commentAdd = $resSetup['CS_COMMENT_ADD'];          // Публиковать комментарии?
+```
+
+**3. Получение данных сделки:**
+```php
+$resElement = $auth->CScore->call('crm.item.get', [
+    'entityTypeId' => 2,  // Deal
+    'id' => $id
+])['item'];
+```
+
+**4. Защита от слишком быстрого выполнения (race condition):**
+```php
+$timeCreate = strtotime($resElement['updatedTime']);
+$date = strtotime(date('c'));
+$dateMin = $date - $timeCreate;
+
+if($dateMin < 10) {
+    sleep(2);  // Пауза 2 секунды если обновление было меньше 10 секунд назад
+}
+```
+
+**5. Получение данных пользователя:**
+```php
+$user = $auth->CScore->call('user.get', [
+    'filter' => ['ID' => $arParams['auth']['user_id']]
+])[0];
+
+$assigned = $resElement['assignedById'];  // Новый ответственный
+$changeAssigned = new \CSlibs\App\Assigned\changeAssigned($auth, $assigned);
+```
+
+**6. Формирование текста для комментария:**
+```php
+$name = "[B]сделки[/B] ID" . $resElement['ID'] . ": " .
+        "[URL=/crm/deal/details/" . $resElement['id'] . "/]" . 
+        $resElement['title'] . "[/URL], " .
+        "пользователем " . $user['NAME'] . " " . $user['LAST_NAME'];
+```
+
+**7. Обработка связанных элементов:**
+
+**Компания (если настройка включена и компания указана):**
+```php
+if (!empty($setup['company']) && !empty($resElement['companyId'])) {
+    $filterCompany["id"] = $resElement['companyId'];
+    $company = $changeAssigned->changeAssigned(
+        $filterCompany, 
+        'company',      // тип
+        4,              // entityTypeId
+        $user['ID'],    // автор комментария
+        $name,          // текст
+        $commentAdd     // публиковать ли
+    );
+}
+```
+
+**Контакт:**
+```php
+if (!empty($setup['contact']) && !empty($resElement['contactId'])) {
+    $filterContact["id"] = $resElement['contactId'];
+    $contact = $changeAssigned->changeAssigned($filterContact, 'contact', 3, $user['ID'], $name, $commentAdd);
+}
+```
+
+**Счет (Invoice) - только активные:**
+```php
+// Получение активных статусов счетов
+$statusInvoice = [];
+foreach ($auth->CScore->call('crm.status.list') as $status) {
+    if ($status['ENTITY_ID'] === 'SMART_INVOICE_STAGE_2' && 
+        $status['SEMANTICS'] !== 'F' &&  // Не Failed
+        $status['SEMANTICS'] !== 'S') {  // Не Success
+        $statusInvoice[] = $status['STATUS_ID'];
+    }
+}
+
+if (!empty($setup['invoice'])) {
+    $filterInvoice['parentId2'] = $id;               // Привязка к сделке
+    $filterInvoice["stageId"] = $statusInvoice;      // Только активные
+    $invoice = $changeAssigned->changeAssigned($filterInvoice, 'invoice', 31, $user['ID'], $name, $commentAdd);
+}
+```
+
+**Предложение (Quote) - только открытые:**
+```php
+if (!empty($setup['quote']) && !empty($resElement['quoteId'])) {
+    $filterQuote['id'] = $resElement['quoteId'];
+    $filterQuote["closed"] = 'N';  // Только открытые
+    $quote = $changeAssigned->changeAssigned($filterQuote, 'quote', 7, $user['ID'], $name, $commentAdd);
+}
+```
+
+**Используемые файлы компонента:**
+- `/local/components/event/deal_update/component.php` - логирование
+- `/local/components/event/deal_update/templates/change_assigned/template.php` - бизнес-логика
+- `/local/components/event/deal_update/templates/change_assigned/script.js` - установка (не используется в событии)
+- `/local/components/event/deal_update/templates/change_assigned/style.css` - стили (минимальные)
+
+**Логи:**
+- `/local/components/event/deal_update/component.txt` - лог входящих запросов
+- `/local/components/event/deal_update/templates/change_assigned/logUpdate.txt` - детальный лог обработки
+- `/local/components/event/deal_update/templates/change_assigned/logUpdateTime.txt` - лог тайминга (race condition)
 
 #### `event:contact_update` (шаблон: `change_assigned`)
-Обрабатывает обновление Контакта
+
+Аналогичная логика для Контакта:
+- entityTypeId: 3
+- Обрабатывает: Лиды, Сделки, Компании, Счета, Предложения
 
 #### `event:company_update` (шаблон: `change_assigned`)
-Обрабатывает обновление Компании
+
+Аналогичная логика для Компании:
+- entityTypeId: 4
+- Обрабатывает: Лиды, Сделки, Контакты, Счета, Предложения
+
+#### `event:lead_update` (шаблон: `change_assigned`)
+
+Аналогичная логика для Лида:
+- entityTypeId: 1
+- Обрабатывает: Контакты, Компании, Предложения
 
 #### `event:quote_update` (шаблон: `change_assigned`)
-Обрабатывает обновление Предложения
+
+Аналогичная логика для Предложения:
+- entityTypeId: 7
+- Обрабатывает: Лиды, Сделки, Контакты, Компании, Счета
 
 #### `event:invoice_update` (шаблон: `change_assigned`)
-Обрабатывает обновление Счета
+
+Аналогичная логика для Счета:
+- entityTypeId: 31
+- Обрабатывает связанные элементы
 
 ---
 
@@ -264,6 +530,35 @@ function switchTemplate(type) {
 
 ### CSS стили
 
+#### Подключаемые библиотеки CSS (из template.php):
+
+**Bootstrap и таблицы:**
+```html
+<link rel="stylesheet" href="/local/lib/bootstrap/bootstrap.css"/>
+<link rel="stylesheet" href="/local/lib/bootstrap/bootstrap-table/fresh-bootstrap-table.css"/>
+```
+
+**Иконки и шрифты:**
+```html
+<link rel="stylesheet" href="/local/lib/css/font-awesome-4.7.0/css/font-awesome.min.css"/>
+```
+
+**Cassoft библиотеки:**
+```html
+<link rel="stylesheet" href="/local/lib/css/cassoft/style.css"/>
+<link rel="stylesheet" href="/local/lib/css/cassoft/cassoft.css"/>
+<link rel="stylesheet" href="/local/lib/css/cassoft/cs-root-blue.css">
+<link rel="stylesheet" href="/local/lib/css/cassoft/panel.css"/>
+<link rel="stylesheet" href="/local/lib/css/cassoft/brokci-grid.css?020223"/>
+```
+
+**Селекторы и UI:**
+```html
+<link rel="stylesheet" href="/local/lib/chosen/chosen.min.css"/>
+<link rel="stylesheet" href="/local/lib/css/new/menuWhite.css"/>
+<link rel="stylesheet" href="/local/components/dashboard/main_app/templates/accountant/menuMob.css"/>
+```
+
 #### 1. `menuDark.css` - Темная тема меню
 Стили для темного интерфейса меню приложения
 
@@ -308,17 +603,55 @@ function switchTemplate(type) {
 }
 ```
 
-#### Подключаемые библиотеки CSS:
-- `/local/lib/bootstrap/bootstrap.css` - Bootstrap 
-- `/local/lib/bootstrap/bootstrap-table/fresh-bootstrap-table.css` - Таблицы
-- `/local/lib/css/font-awesome-4.7.0/css/font-awesome.min.css` - Иконки
-- `/local/lib/css/cassoft/style.css` - Стили Cassoft
-- `/local/lib/css/cassoft/cassoft.css` - Дополнительные стили
-- `/local/lib/chosen/chosen.min.css` - Chosen selector
-- `/local/lib/css/cassoft/cs-root-blue.css` - Цветовая схема
-- `/local/lib/css/new/menuWhite.css` - Белое меню
-- `/local/lib/css/cassoft/panel.css` - Панели
-- `/local/lib/css/cassoft/brokci-grid.css` - Сетка
+#### Подключаемые JavaScript библиотеки (из template.php):
+
+**jQuery и UI:**
+```html
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+```
+
+**Битрикс24 и утилиты:**
+```html
+<script defer src="//api.bitrix24.com/api/v1/"></script>
+<script defer src="/local/lib/js/jquery.maskedinput.js"></script>
+<script src="/local/lib/js/cleave.min.js"></script>
+<script src="/local/lib/js/moment.min.js"></script>
+```
+
+**Селекторы и UI:**
+```html
+<script src="/local/lib/chosen/chosen.jquery.js"></script>
+<script type="text/javascript" src="/local/lib/bootstrap/bootstrap.js"></script>
+```
+
+**Приложение:**
+```html
+<script defer src="/local/components/dashboard/main_app/templates/change_assigned/script.js"></script>
+```
+
+**Встроенный скрипт:**
+```javascript
+function resizeFrame() {
+    var currentSize = BX24.getScrollSize();
+    minHeight = currentSize.scrollHeight;
+    var FrameWidth = document.getElementById("workarea").offsetWidth;
+    
+    if (minHeight < 300) {
+        frameHeight = 300;
+    } else {
+        frameHeight = minHeight + 100;
+    }
+    
+    BX24.resizeWindow(FrameWidth, frameHeight);
+}
+
+$(document).ready(function () {
+    BX24.init(function(){
+        resizeFrame();
+    });
+});
+```
 
 ---
 
@@ -566,78 +899,174 @@ if ($memberId) {
 
 ### Используемые методы Битрикс24 REST API
 
-**⚠️ Примечание:** Точные методы REST API требуют анализа компонентов событий (`event:*_update`). Ниже приведены предполагаемые методы на основе логики приложения.
+#### Универсальные методы CRM (новый API):
 
-#### Методы для получения данных CRM:
+**Получение элемента:**
+```php
+$auth->CScore->call('crm.item.get', [
+    'entityTypeId' => 2,  // 1=Lead, 2=Deal, 3=Contact, 4=Company, 7=Quote, 31=Invoice
+    'id' => $id
+]);
+```
 
-**Лиды:**
-- `crm.lead.get` - получение данных Лида
-- `crm.lead.update` - обновление ответственного в Лиде
+**Список элементов:**
+```php
+$auth->CScore->call('crm.item.list', [
+    'entityTypeId' => $typeId,
+    'filter' => $filter
+]);
+```
 
-**Сделки:**
-- `crm.deal.get` - получение данных Сделки
-- `crm.deal.update` - обновление ответственного в Сделке
+**Обновление элемента:**
+```php
+$auth->CScore->call('crm.item.update', [
+    'entityTypeId' => $typeId,
+    'id' => $id,
+    'fields' => [
+        'assignedById' => $newUserId
+    ]
+]);
+```
 
-**Контакты:**
-- `crm.contact.get` - получение данных Контакта
-- `crm.contact.update` - обновление ответственного в Контакте
+#### Соответствие entityTypeId:
+- `1` = Лид (Lead) → тип `l`
+- `2` = Сделка (Deal) → тип `d`
+- `3` = Контакт (Contact) → тип `c`
+- `4` = Компания (Company) → тип `com`
+- `7` = Предложение (Quote) → тип `q`
+- `31` = Счет (Invoice) → тип `i`, entityType `dynamic_31`
 
-**Компании:**
-- `crm.company.get` - получение данных Компании
-- `crm.company.update` - обновление ответственного в Компании
+#### Настройки приложения:
 
-**Предложения:**
-- `crm.quote.get` - получение данных Предложения
-- `crm.quote.update` - обновление ответственного в Предложении
+**Получение настроек из Highload:**
+```php
+$resSetup = $auth->CScore->call('entity.item.get', [
+    'ENTITY' => 'setup'
+])[0]['PROPERTY_VALUES'];
 
-**Счета:**
-- `crm.invoice.get` - получение данных Счета
-- `crm.invoice.update` - обновление ответственного в Счете
+// Настройки для сделки (JSON)
+$setup = json_decode($resSetup['CS_DEAL'], true);
 
-#### Методы для связей:
+// Публиковать комментарии (bool)
+$commentAdd = $resSetup['CS_COMMENT_ADD'];
+```
 
-- `crm.deal.contact.items.get` - получение контактов сделки
-- `crm.deal.company.items.get` - получение компаний сделки
-- `crm.lead.contact.items.get` - получение контактов лида (если применимо)
+**Структура настроек (JSON):**
+```json
+{
+    "contact": true,     // Менять ответственного в контактах
+    "company": true,     // Менять ответственного в компаниях
+    "invoice": true,     // Менять ответственного в счетах
+    "quote": false       // Не менять в предложениях
+}
+```
 
-#### Методы для Timeline (комментарии):
+#### Статусы (для фильтрации):
 
-- `crm.timeline.comment.add` - добавление комментария в Таймлайн
+**Получение списка статусов:**
+```php
+$statuses = $auth->CScore->call('crm.status.list');
+
+// Фильтр активных статусов лидов
+foreach ($statuses as $status) {
+    if ($status['ENTITY_ID'] === 'STATUS' && 
+        $status['SEMANTICS'] !== 'F' &&  // Не проваленные
+        $status['SEMANTICS'] !== 'S') {  // Не успешные
+        $leadStatus[] = $status['STATUS_ID'];
+    }
+}
+
+// Фильтр активных статусов счетов
+foreach ($statuses as $status) {
+    if ($status['ENTITY_ID'] === 'SMART_INVOICE_STAGE_2' && 
+        $status['SEMANTICS'] !== 'F' && 
+        $status['SEMANTICS'] !== 'S') {
+        $statusInvoice[] = $status['STATUS_ID'];
+    }
+}
+```
+
+#### Timeline комментарии:
+
+**Добавление комментария:**
+```php
+$comments = "🟢 Ответственный изменен автоматически из " . $name . 
+            "[p](" . $typeGuide[$typeId] . "-" . $element['id'] . ")[/p]";
+
+$auth->CScore->call("crm.timeline.comment.add", [
+    'fields' => [
+        "ENTITY_ID" => $element['id'],
+        "ENTITY_TYPE" => $entityType,  // 'deal', 'contact', 'dynamic_31' и т.д.
+        "COMMENT" => $comments,
+        "AUTHOR_ID" => $user['ID']
+    ]
+]);
+```
 
 #### Пользователи:
 
-- `user.current` - получение текущего пользователя
-
-### Обертка для вызовов API
-
+**Получение пользователя:**
 ```php
-use CSlibs\B24\Auth\Auth;
-
-$auth = new Auth($app, [], $member_id);
-$result = $auth->CScore->call($method, $params);
+$user = $auth->CScore->call('user.get', [
+    'filter' => ['ID' => $userId]
+])[0];
 ```
 
-**Пример:**
+**Получение текущего пользователя:**
 ```php
-// Получить сделку
-$deal = $auth->CScore->call('crm.deal.get', ['ID' => $dealId]);
+$user = $auth->CScore->call('user.current');
+```
 
-// Обновить ответственного
-$result = $auth->CScore->call('crm.deal.update', [
-    'ID' => $dealId,
-    'fields' => [
-        'ASSIGNED_BY_ID' => $newUserId
-    ]
-]);
+### Класс changeAssigned
 
-// Добавить комментарий в Timeline
-$comment = $auth->CScore->call('crm.timeline.comment.add', [
-    'fields' => [
-        'ENTITY_ID' => $dealId,
-        'ENTITY_TYPE' => 'deal',
-        'COMMENT' => 'Ответственный изменен автоматически из Лида #123'
-    ]
-]);
+**Путь:** `/local/CSlibs/classes/app/assigned/changeAssigned.php`
+
+**Namespace:** `CSlibs\App\Assigned`
+
+**Конструктор:**
+```php
+public function __construct($auth, $assigned, $member='')
+{
+    $this->auth = $auth;           // Объект авторизации
+    $this->assigned = $assigned;   // ID нового ответственного
+    $this->member = $member;       // member_id (опционально)
+}
+```
+
+**Метод changeAssigned:**
+```php
+public function changeAssigned($filter, $type, $typeId, $user, $name='', $commentAdd='')
+{
+    // $filter - фильтр для поиска элементов
+    // $type - тип сущности ('deal', 'contact', 'company', и т.д.)
+    // $typeId - ID типа сущности (1-7, 31)
+    // $user - ID пользователя для комментария
+    // $name - текст для комментария (откуда изменение)
+    // $commentAdd - публиковать ли комментарий (0/1)
+}
+```
+
+**Логика метода:**
+1. Получить список элементов по фильтру: `crm.item.list`
+2. Для каждого элемента проверить `assignedById !== $this->assigned`
+3. Если отличается - обновить: `crm.item.update`
+4. Если `$commentAdd == 1` - добавить комментарий в Timeline
+5. Вернуть количество измененных элементов
+
+**Пример вызова:**
+```php
+$changeAssigned = new \CSlibs\App\Assigned\changeAssigned($auth, $assigned);
+
+// Изменить ответственного в контактах сделки
+$filterContact["id"] = $resElement['contactId'];
+$contact = $changeAssigned->changeAssigned(
+    $filterContact, 
+    'contact',      // тип
+    3,              // entityTypeId для контакта
+    $user['ID'],    // автор комментария
+    $name,          // текст комментария
+    $commentAdd     // публиковать ли
+);
 ```
 
 ---
@@ -729,39 +1158,213 @@ p($clientsApp, "rest", $log);
 ### Основной сценарий работы
 
 1. **Событие в CRM:**
-   - Пользователь меняет ответственного в Сделке/Лиде/Контакте/Компании
+   - Пользователь меняет ответственного в Сделке/Лиде/Контакте/Компании/Предложении
+   - Битрикс24 генерирует событие (webhook)
 
 2. **Webhook на endpoint:**
-   - Битрикс24 отправляет webhook на соответствующий `ajax/*.php` файл
+   - Битрикс24 отправляет POST запрос на соответствующий `ajax/*.php` файл
    - Например: `ajax/DealUpdate.php` для сделки
+   - Параметры: `auth[member_id]`, `data[FIELDS][ID]`
 
-3. **Проверка доступа:**
+3. **Проверка доступа (в ajax/*.php):**
    - Проверяется наличие записи в Highload блоке `app_change_assigned_access`
-   - Если доступа нет - процесс прерывается
+   - Код: `$HlClientApp->searchID($memberId)`
+   - Если `$clientsApp["ID"] <= 0` - процесс прерывается
 
-4. **Загрузка настроек:**
-   - Из Highload блока загружаются настройки:
-     - Какие сущности обрабатывать
-     - Нужно ли оставлять комментарии в Timeline
+4. **Вызов компонента события:**
+   - Подключается компонент `event:deal_update` (или другой)
+   - Передаются параметры: `app`, `auth`, `data`
 
-5. **Получение связанных сущностей:**
-   - Через REST API получаются все связанные элементы CRM
-   - Например, для сделки: контакты, компании, связанные сделки
+5. **Загрузка настроек (в template.php компонента):**
+   - Из Highload блока загружаются настройки через `entity.item.get`
+   - `CS_DEAL` - JSON с настройками для сделки (какие сущности обрабатывать)
+   - `CS_COMMENT_ADD` - публиковать ли комментарии в Timeline
 
-6. **Фильтрация активных сущностей:**
-   - Проверка статуса сущностей (активные/завершенные)
-   - Завершенные сделки исключаются из обработки
+6. **Получение данных элемента:**
+   - Вызов `crm.item.get` для получения полных данных измененного элемента
+   - Получение: `contactId`, `companyId`, `quoteId`, `assignedById`, и т.д.
 
-7. **Обновление ответственного:**
-   - Для каждой связанной сущности (если она в настройках):
-     - Вызов `crm.*.update` с новым `ASSIGNED_BY_ID`
+7. **Защита от race condition:**
+   - Проверка времени последнего обновления: `$dateMin = $date - $timeCreate`
+   - Если обновление было менее 10 секунд назад: `sleep(2)`
+   - Предотвращает конфликты при множественных быстрых изменениях
 
-8. **Добавление комментария (опционально):**
-   - Если включено в настройках:
-     - Добавление комментария в Timeline: "Ответственный изменен автоматически из Сделки #123"
+8. **Получение активных статусов (для фильтрации):**
+   - Вызов `crm.status.list`
+   - Фильтр: `SEMANTICS !== 'F'` (не проваленные) и `!== 'S'` (не успешные)
+   - Формирование массива `$leadStatus`, `$statusInvoice`
 
-9. **Логирование:**
-   - Запись результатов в соответствующий лог-файл
+9. **Инициализация класса changeAssigned:**
+   - `new \CSlibs\App\Assigned\changeAssigned($auth, $assigned)`
+   - `$assigned` - ID нового ответственного из измененного элемента
+
+10. **Обработка связанных элементов (по очереди):**
+
+**Для Сделки (DealUpdate):**
+
+**a) Компания (если настройка включена):**
+```php
+if (!empty($setup['company']) && !empty($resElement['companyId'])) {
+    $filterCompany["id"] = $resElement['companyId'];
+    $changeAssigned->changeAssigned($filterCompany, 'company', 4, $user['ID'], $name, $commentAdd);
+}
+```
+
+**b) Контакт:**
+```php
+if (!empty($setup['contact']) && !empty($resElement['contactId'])) {
+    $filterContact["id"] = $resElement['contactId'];
+    $changeAssigned->changeAssigned($filterContact, 'contact', 3, $user['ID'], $name, $commentAdd);
+}
+```
+
+**c) Счет (только активные):**
+```php
+if (!empty($setup['invoice'])) {
+    $filterInvoice['parentId2'] = $id;               // Связь с родительской сделкой
+    $filterInvoice["stageId"] = $statusInvoice;      // Только активные статусы
+    $changeAssigned->changeAssigned($filterInvoice, 'invoice', 31, $user['ID'], $name, $commentAdd);
+}
+```
+
+**d) Предложение (только открытые):**
+```php
+if (!empty($setup['quote']) && !empty($resElement['quoteId'])) {
+    $filterQuote['id'] = $resElement['quoteId'];
+    $filterQuote["closed"] = 'N';
+    $changeAssigned->changeAssigned($filterQuote, 'quote', 7, $user['ID'], $name, $commentAdd);
+}
+```
+
+11. **Логика метода changeAssigned (в классе):**
+
+**a) Получение списка элементов:**
+```php
+$resElement = $auth->CScore->call('crm.item.list', [
+    'entityTypeId' => $typeId,
+    'filter' => $filter
+]);
+```
+
+**b) Обход и обновление:**
+```php
+foreach ($resElement['items'] as $element) {
+    // Проверка: нужно ли менять ответственного
+    if ((int)$element['assignedById'] !== (int)$this->assigned) {
+        
+        // Обновление
+        $resUp = $auth->CScore->call("crm.item.update", [
+            "entityTypeId" => $typeId,
+            "id" => $element['id'],
+            'fields' => ['assignedById' => $this->assigned]
+        ]);
+        
+        // Добавление комментария (если включено)
+        if ($resUp['item']['id'] > 0 && $commentAdd == 1) {
+            $comments = "🟢 Ответственный изменен автоматически из " . $name . 
+                        "[p](" . $typeGuide[$typeId] . "-" . $element['id'] . ")[/p]";
+            
+            $auth->CScore->call("crm.timeline.comment.add", [
+                'fields' => [
+                    "ENTITY_ID" => $element['id'],
+                    "ENTITY_TYPE" => $entityType,
+                    "COMMENT" => $comments,
+                    "AUTHOR_ID" => $user
+                ]
+            ]);
+        }
+        $i++;  // Счетчик измененных элементов
+    }
+}
+```
+
+**c) Возврат результата:**
+```php
+return "Изменено " . $type . "-" . $i;
+```
+
+12. **Логирование всех операций:**
+   - `logUpdate.txt` - детальный лог всех операций
+   - `logUpdateTime.txt` - лог тайминга для race condition
+   - `logClass.txt` - лог класса changeAssigned
+   - `log{type}.txt` - логи для каждого типа сущности (logdeal.txt, logcontact.txt и т.д.)
+   - `log{type}Com{member}.txt` - комментарии для конкретной установки
+
+### Схема потока данных
+
+```
+Пользователь меняет ответственного в Сделке #123
+           ↓
+Битрикс24 webhook → /ajax/DealUpdate.php
+           ↓
+Проверка Highload: app_change_assigned_access
+           ↓
+Компонент: event:deal_update (template.php)
+           ↓
+┌──────────────────────────────────────────┐
+│ 1. Получить настройки (entity.item.get) │
+│ 2. Получить данные сделки (crm.item.get)│
+│ 3. Защита от race condition (sleep)     │
+│ 4. Получить активные статусы            │
+│ 5. Инициализация changeAssigned         │
+└──────────────────────────────────────────┘
+           ↓
+┌─────────────────────────────────────────┐
+│ Обработка связанных элементов:         │
+│                                         │
+│ IF настройка 'company' включена →      │
+│   changeAssigned->changeAssigned()     │
+│     → crm.item.list (компания)         │
+│     → crm.item.update (assignedById)   │
+│     → crm.timeline.comment.add         │
+│                                         │
+│ IF настройка 'contact' включена →      │
+│   changeAssigned->changeAssigned()     │
+│     → crm.item.list (контакт)          │
+│     → crm.item.update (assignedById)   │
+│     → crm.timeline.comment.add         │
+│                                         │
+│ IF настройка 'invoice' включена →      │
+│   changeAssigned->changeAssigned()     │
+│     → crm.item.list (активные счета)   │
+│     → crm.item.update (assignedById)   │
+│     → crm.timeline.comment.add         │
+│                                         │
+│ IF настройка 'quote' включена →        │
+│   changeAssigned->changeAssigned()     │
+│     → crm.item.list (открытые КП)      │
+│     → crm.item.update (assignedById)   │
+│     → crm.timeline.comment.add         │
+└─────────────────────────────────────────┘
+           ↓
+Логирование результатов в logUpdate.txt
+           ↓
+Завершение обработки
+```
+
+### Особенности реализации
+
+**1. Фильтрация активных элементов:**
+- Счета: только со статусами `SEMANTICS !== 'F'` и `!== 'S'`
+- Предложения: только с `closed = 'N'`
+- Сделки: (если бы обрабатывались) только `closed = 'N'`
+
+**2. Формирование комментария:**
+```
+🟢 Ответственный изменен автоматически из сделки ID123: [URL]Название сделки[/URL], пользователем Иван Иванов
+[p](d-456)[/p]
+```
+Где `(d-456)` - ссылка на элемент (d=deal, c=contact, com=company, q=quote, i=invoice, l=lead)
+
+**3. Защита от дублирования:**
+- Проверка времени обновления (race condition)
+- Проверка `assignedById !== $this->assigned` перед обновлением
+- Логирование для отладки конфликтов
+
+**4. Гибкость настроек:**
+- Каждая сущность имеет свой набор настроек (JSON)
+- Включение/выключение комментариев глобально
+- Настройки хранятся в Highload блоке для быстрого доступа
 
 ---
 
