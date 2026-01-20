@@ -13,7 +13,8 @@ if (!empty($arParams['member_id']) && !empty($arParams['app'])) {
 //pr($auth, '');
      $user = $auth->CScore->call("user.current");
     //    pr($user, '');
-        if ($user) {
+        if (!empty($user) && is_array($user)) {
+            
             $arResult['userFIO'] = $user['LAST_NAME'];
             $arResult['user_id'] = $user['ID'];
         }
