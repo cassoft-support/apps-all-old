@@ -10,7 +10,7 @@ p($_REQUEST, "REQUEST", $log);
 ////pr($arParams['app'], '');
 if (!empty($arParams['member_id']) && !empty($arParams['app'])) {
  $auth = new \CSlibs\B24\Auth\Auth($arParams['app'], [], $arParams['member_id']);
-//pr($auth, '');
+p($auth, "auth", $log);
      $user = $auth->CScore->call("user.current");
     //    pr($user, '');
     p($user, "user", $log);

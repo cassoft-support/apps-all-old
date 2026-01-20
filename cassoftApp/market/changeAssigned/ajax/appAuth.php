@@ -14,6 +14,7 @@ if ($arResult['app'] && $arResult['member_id']) {
     $clientsApp = $HlClientApp->searchID($arResult['member_id']);
     p($clientsApp, "clientsApp", $log);
     if (empty($clientsApp["ID"])) {
+        // Создание новой записи
         if(!empty($arResult['FOLDER'])){
             $folder = crypt($arResult['member_id'], 'CASsoft');
         }else{
@@ -33,6 +34,19 @@ if ($arResult['app'] && $arResult['member_id']) {
         p($params, "params", $log);
         $authAppAdd = $HlClientApp->hl::add($params);
         p($authAppAdd, "authAppAdd", $log);
+    } else {
+        // Обновление существующей записи
+        $params = [
+            'UF_CS_CLIENT_PORTAL_DOMEN' => $arResult['DOMAIN'],
+            'UF_CS_CLIENT_PORTAL_DOMAIN' => $arResult['DOMAIN'],
+            'UF_CS_CLIENT_PORTAL_ACCESS_TOKEN' => $arResult['AUTH_ID'],
+            'UF_CS_CLIENT_PORTAL_REFRESH_TOKEN' => $arResult['REFRESH_ID'],
+            'UF_DATE_UP' => date("d.m.YTH:i:s"),
+            'UF_ACTIVE' => 1
+        ];
+        p($params, "paramsUpdate", $log);
+        $authAppUpdate = $HlClientApp->hl::update($clientsApp["ID"], $params);
+        p($authAppUpdate, "authAppUpdate", $log);
     }
 
 }
