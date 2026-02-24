@@ -18,14 +18,26 @@ if($arParams['app'] && $arParams['member_id']) {
         p($arUser[$arParams['message']['messages'][0]['user_id']] , "arUser", $log);
         if ($arUser[$arParams['message']['messages'][0]['user_id']] === 'BUYER') {
             $mess = $arParams['message']['messages'][0]['message'];
+            
+            // Находим отправителя сообщения (BUYER) в массиве пользователей
+            $senderId = $arParams['message']['messages'][0]['user_id'];
+            $sender = null;
+            foreach ($arParams['message']['users'] as $user) {
+                if ($user['user_id'] == $senderId) {
+                    $sender = $user;
+                    break;
+                }
+            }
+            p($sender, "sender (BUYER)", $log);
+            
             $arMessage = [
 //Массив описания пользователя
                 'user' => array(
-                    'id' => $arParams['message']['users'][0]['user_id'],//ID пользователя во внешней системе *
-                    'last_name' => $arParams['message']['users'][0]['role_description'],//Фамилия
-                    'name' => $arParams['message']['users'][0]['display_name'],//Имя
+                    'id' => $sender['user_id'],//ID пользователя во внешней системе *
+                    'last_name' => $sender['role_description'],//Фамилия
+                    'name' => $sender['display_name'],//Имя
                     'picture' =>
-                        array(//      'url' => $arParams['message']['users'][0]['avatar']['images']['small'],//Ссылка на аватарку пользователя, доступную для портала
+                        array(//      'url' => $sender['avatar']['images']['small'],//Ссылка на аватарку пользователя, доступную для портала
                         ),
 //  'url'=> $arParams['message']['users'][0][''],//Ссылка на профиль пользователя
 //  'sex'=> $arParams['message']['users'][0][''],//Пол. Допустимо male и female
