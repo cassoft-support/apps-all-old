@@ -12,8 +12,78 @@ $resObject = $arParams['message']['offers'][0]['externalId'];
   //  explode('_', $resObject);
  //   im.chat.get` или `im.dialog.get`
 
-
     $mess = $arParams['message']['chats'][0]['messages'][0]['content']['text'];
+    
+    // Получаем ID отправителя сообщения
+    $senderUserId = $arParams['message']['chats'][0]['messages'][0]['userId'];
+    $chatId = $arParams['message']['chats'][0]['chatId'];
+    
+    // Проверяем, если сообщение от ЦИАН бота (рассылка)
+    if ($senderUserId == 68084393) {
+        p("Обнаружено сообщение от ЦИАН бота, запрашиваем данные чата", "cian_bot_detected", $log);
+        
+        // Получаем API ключ
+        $params = [
+            'ENTITY' => 'setup_messager',
+            'sort' => [],
+            'filter' => [],
+        ];
+        $resSetup = $auth->CScore->call('entity.item.get', $params)[0];
+        $apiKey = $resSetup['PROPERTY_VALUES']['CS_KEY_CIAN'];
+        
+        // Запрос к API ЦИАН для получения информации о чате
+        $url = "https://public-api.cian.ru/v1/get-chat?chatId={$chatId}";
+        $ch = curl_init($url);
+        curl_setopt($ch, CURLOPT_HTTPHEADER, ["Authorization: Bearer {$apiKey}"]);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($ch, CURLOPT_HEADER, false);
+        $response = curl_exec($ch);
+        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        curl_close($ch);
+        
+        p("API get-chat HTTP Code: {$httpCode}", "api_response", $log);
+        
+        if ($httpCode == 200) {
+            $chatData = json_decode($response, true);
+            p($chatData, "chatData", $log);
+            
+            // Ищем initiator (покупателя) в массиве users
+            $buyerUserId = null;
+            if (!empty($chatData['result']['chat']['users'])) {
+                foreach ($chatData['result']['chat']['users'] as $user) {
+                    if ($user['role'] === 'initiator') {
+                        $buyerUserId = $user['userId'];
+                        p("Найден покупатель (initiator): {$buyerUserId}", "buyer_found", $log);
+                        break;
+                    }
+                }
+            }
+            
+            // Если нашли покупателя, используем его ID
+            if ($buyerUserId) {
+                $senderUserId = $buyerUserId;
+                $senderName = "Покупатель {$buyerUserId} (создан по рассылке Циан)";
+            } else {
+                // Если не нашли, используем chatId как fallback
+                $senderUserId = $chatId;
+                $senderName = "Чат {$chatId} (создан по рассылке Циан)";
+            }
+        } else {
+            // Если API вернул ошибку, используем chatId
+            p("Ошибка API, используем chatId как ID", "api_error", $log);
+            $senderUserId = $chatId;
+            $senderName = "Чат {$chatId} (создан по рассылке Циан)";
+        }
+    } else {
+        // Обычное сообщение от пользователя
+        $senderName = $arParams['message']['users'][0]['name'];
+        
+        // Разделяем имя на имя и фамилию, если есть пробел
+        $nameParts = explode(' ', trim($senderName), 2);
+        $firstName = $nameParts[0];
+        $lastName = isset($nameParts[1]) ? $nameParts[1] : '';
+    }
 //    обращение по объекту
 //" . $arParams['message']['offers'][0]['title'] . ",
 //адрес " . $arParams['message']['offers'][0]['address'] . "
@@ -41,9 +111,9 @@ $resObject = $arParams['message']['offers'][0]['externalId'];
     $arMessage = [
 //Массив описания пользователя
         'user' => array(
-            'id' => $arParams['message']['users'][0]['userId'],//ID пользователя во внешней системе *
-// 'last_name'=> $arParams['message']['users'][0][''],//Фамилия
-            'name' => $arParams['message']['users'][0]['name'],//Имя
+            'id' => $senderUserId,//ID пользователя во внешней системе *
+            'last_name' => isset($lastName) ? $lastName : '',//Фамилия
+            'name' => isset($firstName) ? $firstName : $senderName,//Имя
 //            'picture' =>
 //                array(
 //                    'url' => $arParams['message']['users'][0]['avatar']['images']['small'],//Ссылка на аватарку пользователя, доступную для портала
