@@ -30,12 +30,17 @@ if($arParams['app'] && $arParams['member_id']) {
             }
             p($sender, "sender (BUYER)", $log);
             
+            // Разделяем display_name на имя и фамилию
+            $nameParts = explode(' ', trim($sender['display_name']), 2);
+            $firstName = $nameParts[0]; // Имя (первая часть)
+            $lastName = isset($nameParts[1]) ? $nameParts[1] : ''; // Фамилия (вторая часть)
+            
             $arMessage = [
 //Массив описания пользователя
                 'user' => array(
                     'id' => $sender['user_id'],//ID пользователя во внешней системе *
-                    'last_name' => $sender['role_description'],//Фамилия
-                    'name' => $sender['display_name'],//Имя
+                    'last_name' => $lastName,//Фамилия
+                    'name' => $firstName,//Имя
                     'picture' =>
                         array(//      'url' => $sender['avatar']['images']['small'],//Ссылка на аватарку пользователя, доступную для портала
                         ),
