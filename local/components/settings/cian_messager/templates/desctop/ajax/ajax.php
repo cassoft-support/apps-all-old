@@ -63,6 +63,7 @@ p($keyCian , "keyCian", $log);
             "url" => 'https://app.cassoft.ru'.$fileName,
             "webhookTypes" => [
                 "offersMessagesIncoming", //— все входящие сообщения по объявлениям;
+                "newbuildingMessagesIncoming", //— все входящие сообщения по новостройкам;
                 "chatsReadability" // вебхук о прочитанности чата;
             ]
         );
