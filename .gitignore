@@ -68,5 +68,5 @@ yarn-error.log
 log*.txt
 
 # CS-APP MCM (Nuxt applications - not tracked)
-/cs-app/mcm/
-/cs-app/mcm_p/
+cs-app/mcm/
+cs-app/mcm_p/
