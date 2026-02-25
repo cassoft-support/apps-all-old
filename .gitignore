@@ -66,3 +66,7 @@ yarn-error.log
 
 # All log files with pattern log*.txt
 log*.txt
+
+# CS-APP MCM (Nuxt applications - not tracked)
+/cs-app/mcm/
+/cs-app/mcm_p/
